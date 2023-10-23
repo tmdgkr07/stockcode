@@ -16,7 +16,7 @@ def get_overseas_master_dataframe(base_dir, val):
     overseas_zip = zipfile.ZipFile(f'{val}mst.cod.zip')
     overseas_zip.extractall()
     overseas_zip.close()
-
+    os.remove(f'{val}mst.cod.zip')
     file_name = base_dir + f"\\{val}mst.cod"
     columns = ['National code', 'Exchange id', 'Exchange code', 'Exchange name', 'Symbol', 'realtime symbol',
                'Korea name', 'English name', 'Security type(1:Index,2:Stock,3:ETP(ETF),4:Warrant)', 'currency',

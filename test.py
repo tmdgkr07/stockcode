@@ -22,7 +22,7 @@ def makejsonfile():
             table_json[tmp_array[4]] = tmp_array[6]
             table_data.append(tmp_array[4]+"\t"+tmp_array[6])
 
-        with open(f"./remote/INFO/{name[i]}.json", "w") as f:
+        with open(f"./{name[i]}.json", "w") as f:
             json.dump(table_json, f, ensure_ascii=False, indent=4)
         f.close()
         file.close()
