@@ -19,7 +19,7 @@ def makejsonfile():
 
             while tmp_array.count(""):
                 tmp_array.remove("")
-            table_json[tmp_array[0]] = tmp_array[2]
+            table_json[tmp_array[2]] = tmp_array[0]
             table_data.append(tmp_array[0]+"\t"+tmp_array[2])
 
         with open(f"./{name[i]}.json", "w") as f:
@@ -34,7 +34,7 @@ def makejsonfile():
     with open("./kosdaq.json") as kosdaq_json:
         data2 = json.load(kosdaq_json)
     data3 = data1|data2
-    with open("./remote/INFO/stock.json", "w") as new:
+    with open("../../remote/INFO/stock.json", "w") as new:
         json.dump(data3, new, ensure_ascii=False, indent=4)
     kospi_json.close()
     kosdaq_json.close()

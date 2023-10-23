@@ -10,7 +10,7 @@ base_dir = os.getcwd()
 def get_overseas_master_dataframe(base_dir, val):
     ssl._create_default_https_context = ssl._create_unverified_context
     urllib.request.urlretrieve(f"https://new.real.download.dws.co.kr/common/master/{val}mst.cod.zip",
-                               base_dir + f"\\{val}mst.cod.zip")
+                               base_dir + f"/{val}mst.cod.zip")
     os.chdir(base_dir)
 
     overseas_zip = zipfile.ZipFile(f'{val}mst.cod.zip')
@@ -28,7 +28,7 @@ def get_overseas_master_dataframe(base_dir, val):
 
     print(f"Downloading...{val}mst.cod")
 
-    df = pd.read_table(base_dir + f"\\{val}mst.cod", sep='\t', encoding='cp949')
+    df = pd.read_table(base_dir + f"/{val}MST.COD", sep='\t', encoding='cp949')
     df.columns = columns
     #df.to_excel(f'{val}_code.xlsx', index=False)  # 현재 위치에 엑셀파일로 저장
 
@@ -37,7 +37,7 @@ def get_overseas_master_dataframe(base_dir, val):
 
 def download_oversea():
     # 순서대로 나스닥, 뉴욕, 아멕스, 상해, 상해지수, 심천, 심천지수, 도쿄, 홍콩, 하노이, 호치민
-    lst = ['nas', 'nys', 'ams']
+    lst = ['NAS', 'NYS', 'AMS']
 
     DF = pd.DataFrame()
     for i in lst:

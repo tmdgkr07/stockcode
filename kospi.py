@@ -9,11 +9,12 @@ base_dir = os.getcwd()
 
 def kospi_master_download(base_dir, verbose=False):
     cwd = os.getcwd()
+
     if (verbose): print(f"current directory is {cwd}")
     ssl._create_default_https_context = ssl._create_unverified_context
 
     urllib.request.urlretrieve("https://new.real.download.dws.co.kr/common/master/kospi_code.mst.zip",
-                               base_dir + "\\kospi_code.zip")
+                               base_dir + "/kospi_code.zip")
 
     os.chdir(base_dir)
     if (verbose): print(f"change directory to {base_dir}")
@@ -27,9 +28,9 @@ def kospi_master_download(base_dir, verbose=False):
 
 
 def get_kospi_master_dataframe(base_dir):
-    file_name = base_dir + "\\kospi_code.mst"
-    tmp_fil1 = base_dir + "\\kospi_code_part1.tmp"
-    tmp_fil2 = base_dir + "\\kospi_code_part2.tmp"
+    file_name = base_dir + "/kospi_code.mst"
+    tmp_fil1 = base_dir + "/kospi_code_part1.tmp"
+    tmp_fil2 = base_dir + "/kospi_code_part2.tmp"
 
     wf1 = open(tmp_fil1, mode="w")
     wf2 = open(tmp_fil2, mode="w")
@@ -48,7 +49,7 @@ def get_kospi_master_dataframe(base_dir):
     wf2.close()
 
     part1_columns = ['단축코드', '표준코드', '한글명']
-    df1 = pd.read_csv(tmp_fil1, header=None, names=part1_columns, encoding='cp949')
+    df1 = pd.read_csv(tmp_fil1, header=None, names=part1_columns, encoding='utf-8')
 
     field_specs = [2, 1, 4, 4, 4,
                    1, 1, 1, 1, 1,
@@ -98,6 +99,7 @@ def get_kospi_master_dataframe(base_dir):
     return df
 
 def download_kospi():
+    print(base_dir)
     kospi_master_download(base_dir)
     df = get_kospi_master_dataframe(base_dir)
 
