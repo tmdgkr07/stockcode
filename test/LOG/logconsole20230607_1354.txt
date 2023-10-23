@@ -1,0 +1,213 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자 2
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 황설희: 담주?? 아 승학씨 예비군 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 황설희: !!
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+I'm sorry, I need more information to understand your request. Can you please provide more context or clarify your question?
+hello world
+[35m⚡LoggerPlugin [39m: ys: 잔업특근 필수래서
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: ys: 런치고싶음
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: ys: 하 내 저녁있는 삶
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 이ㅎ: 오늘은 5% 직어줬으니
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 이ㅎ: 봐주시져 ㅠ
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: hmj: 다행이넼ㅋㅋㅋ
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 이지영: 거기 술을 전투적으로 먹는다고 들어서 무서움
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 이지영: 심지어 원에서 한명가는거여서 가면 완전 왕따일꺼 아니에요 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 이주헌: 19층 터치는 할 기세이긴한데 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+[35m⚡LoggerPlugin [39m: 황설희: ㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: stock.find is not a function
+    at Server.<anonymous> (C:\remote-kakao\remote.js:406:29)
+    at Server.emit (C:\remote-kakao\node_modules\eventemitter3\index.js:202:33)
+    at Socket.<anonymous> (C:\remote-kakao\node_modules\@remote-kakao\core\dist\server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)

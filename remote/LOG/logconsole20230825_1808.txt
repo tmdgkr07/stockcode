@@ -1,0 +1,6 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 환율
+hello world
+미국 USD 환율: 1,325.00$
+일본 JPY 환율: 907.32￥
+중국 CNY 환율: 181.73￥

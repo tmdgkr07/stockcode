@@ -1,0 +1,33 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 1: 주가 조용한거보니 일단 지켜보는건가요 ㅎ
+[35m⚡LoggerPlugin [39m: 이승학: 엥,,?
+[35m⚡LoggerPlugin [39m: 이승학: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[35m⚡LoggerPlugin [39m: 박재건: 당장반응없어도이제부터가
+[35m⚡LoggerPlugin [39m: 박재건: 문제인거져
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 윤영환: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이주헌: 보통 장중 발표 안했던거 같은데
+error:123 Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}

@@ -1,0 +1,54 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:32937 (IPv4)
+Extension host agent listening on 32937
+
+[11:49:24] 
+
+
+
+
+[11:49:24] Extension host agent started.
+[11:49:24] [127.0.0.1][940d8440][ManagementConnection] New connection established.
+[11:49:24] [127.0.0.1][97f8e92d][ExtensionHostConnection] New connection established.
+[11:49:25] [127.0.0.1][97f8e92d][ExtensionHostConnection] <21308> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[11:54:24] New EH opened, aborting shutdown
+[18:36:25] [127.0.0.1][940d8440][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+[18:36:25] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+[18:36:25] [127.0.0.1][97f8e92d][ExtensionHostConnection] <21308> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[18:36:25] Last EH closed, waiting before shutting down
+Last EH closed, shutting down
+[18:41:25] Last EH closed, shutting down

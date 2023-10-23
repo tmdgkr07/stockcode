@@ -1,0 +1,43 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: gd
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: gd

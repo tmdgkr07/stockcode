@@ -1,0 +1,179 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: ㅎㅇ
+[35m⚡LoggerPlugin [39m: 이승학: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 61026, size: 9472 },
+  room: '이승학',
+  content: './goodmorning',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+아마 중복떄문에 ? 
+undefined
+코스피
+[ '코스피', '' ]
+index
+[ 'nD', 'x4', 'aE', 'T1' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Oi', 'XQ', '8E', 'Yw' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 하따 멸망
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 대성홀딩스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '대성홀딩스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '대성홀딩스' ]
+  }
+]
+[ '대성홀딩스' ]
+1
+[ '3K', 'uT', 'DH', 'Hj' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 삼천리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼천리',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼천리' ]
+  }
+]
+[ '삼천리' ]
+1
+[ 'YK', 've', '8F', 'Uc' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅎㅇ!
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 서울가스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '서울가스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '서울가스' ]
+  }
+]
+[ '서울가스' ]
+1
+[ 'Fb', 'km', 'nR', 'fc' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 선광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '선광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '선광' ]
+  }
+]
+[ '선광' ]
+1
+[ 'hr', 'fY', 'eS', 'F6' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 다죽어라
+[35m⚡LoggerPlugin [39m: 이승학: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 61026, size: 9472 },
+  room: '이승학',
+  content: './goodmorning',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+코스피
+[ '코스피', '' ]
+index
+[ '6W', 'k1', '2L', 'IB' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'or', 'WM', 'rH', 'c3' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Kl', 'ts', 'jT', 'tk' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'PH', 'WC', '87', '9k' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'aX', 'IT', 'hI', 'Dx' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '66', 'n9', 'ii', 'L1' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 미안 테스트좀했따
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 핫따핫따
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 멸망멸망
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 돈많으면
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 사업하고싶다
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 부럽노

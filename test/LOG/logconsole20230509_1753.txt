@@ -1,0 +1,141 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 아
+[35m⚡LoggerPlugin [39m: 이승학: 짜증난다
+[35m⚡LoggerPlugin [39m: 이승학: 퇴사할가
+[35m⚡LoggerPlugin [39m: 이승학: ㅜ
+[35m⚡LoggerPlugin [39m: 이승학: 애들아 나슬퍼
+[35m⚡LoggerPlugin [39m: 이승학: hmm td
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'hmm td',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM', 'TD' ]
+  }
+]
+[ 'HMM', 'TD' ]
+1
+[ '0G', '4S', 'j3', 'vO' ]
+[35m⚡LoggerPlugin [39m: 이승학: hmm ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'hmm ㅅㅇ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx
+[35m⚡LoggerPlugin [39m: 용성: 왜
+[35m⚡LoggerPlugin [39m: 문정은: 헉
+[35m⚡LoggerPlugin [39m: 문정은: 왜여??
+[35m⚡LoggerPlugin [39m: 흰티마: 저거 못 산다매
+[35m⚡LoggerPlugin [39m: 유지준: Hmm ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'Hmm ㅅㅇ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx
+[35m⚡LoggerPlugin [39m: 박재건: "공매도 '상환기한' 외국인도 개미와 동일하게"…野 법안 발의
+출처 : 뉴스1 | 네이버
+ - https://naver.me/FtldgSAX
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 제목이... 개인투자자 비하하는 기자가 쓴건가??
+개미가 공매도를 어떻게해.. 개인투자자라고 써야지
+[35m⚡LoggerPlugin [39m: 이애경: 아고 진즉좀 하지
+[35m⚡LoggerPlugin [39m: K: 이제 주가좀 오를려나 개미들 공매치면 올려놓으려고
+[35m⚡LoggerPlugin [39m: -규상-: 늦었지만 좋은뉴스네요
+[35m⚡LoggerPlugin [39m: 여환준: 추가로  
+1. 무차입공매도  
+2. 업틱룰 
+
+어길시 엄벌해야 합니다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 물량이 없대 사보고싶당
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 이승학: 이상한거 시켜 ㅜ
+[35m⚡LoggerPlugin [39m: 한남이: 질문있읍니다. 그 콤퓨타 케이스 유리? 아크릴 로 된거 속보이는거 그런거 쓰면 전자파 많이 나오지 않음?
+[35m⚡LoggerPlugin [39m: 익익: 그거보다
+[35m⚡LoggerPlugin [39m: 익익: 느그집 냉장고 티비가
+[35m⚡LoggerPlugin [39m: 익익: 더 많이 뿜어요
+[35m⚡LoggerPlugin [39m: 익익: 알았죠?
+[35m⚡LoggerPlugin [39m: 한남이: ㄹㅇ?
+[35m⚡LoggerPlugin [39m: 익익: 냉장고 티비 상시대기전련
+[35m⚡LoggerPlugin [39m: 익익: 쓰는ㅇ9들이
+[35m⚡LoggerPlugin [39m: 익익: ㅈ으로 보임?
+[35m⚡LoggerPlugin [39m: 한남이: 근데 냉장고랑 티비는 멀리두고 사용하잖슴
+[35m⚡LoggerPlugin [39m: 한남이: 콤퓨타는 머리랑 가까운디
+[35m⚡LoggerPlugin [39m: 케이미넴: 전국 어디서나 빵빵 터지는 LTE 5G신호가
+[35m⚡LoggerPlugin [39m: 케이미넴: 더 세다
+[35m⚡LoggerPlugin [39m: 케이미넴: 쓸데없는신경 끄셈
+[35m⚡LoggerPlugin [39m: 익익: 니펀에서
+[35m⚡LoggerPlugin [39m: 익익: 나오는게
+[35m⚡LoggerPlugin [39m: 한남이: ㄹㅇ?
+[35m⚡LoggerPlugin [39m: 익익: 니가ㅜ전화할때
+[35m⚡LoggerPlugin [39m: 익익: 더많이받아
+[35m⚡LoggerPlugin [39m: 한남이: 구라치지마셈
+[35m⚡LoggerPlugin [39m: 한남이: 님들 다 뇌피셜이져?
+[35m⚡LoggerPlugin [39m: 익익: 저
+[35m⚡LoggerPlugin [39m: 익익: 전기쟁인데요
+[35m⚡LoggerPlugin [39m: 한남이: 전기쟁이가 뭘알아! 전자쟁이 없읍니까?
+[35m⚡LoggerPlugin [39m: 익익: 전기전자
+[35m⚡LoggerPlugin [39m: 익익: 다한다...십련아...
+[35m⚡LoggerPlugin [39m: 한남이: 오
+[35m⚡LoggerPlugin [39m: 익익: 변전소에 쳐박혀서
+[35m⚡LoggerPlugin [39m: 한남이: 학부생이 뭘알아!
+[35m⚡LoggerPlugin [39m: 익익: 노예생활하는
+[35m⚡LoggerPlugin [39m: 익익: 현직이야
+[35m⚡LoggerPlugin [39m: 한남이: 대학원생 없읍니까
+[35m⚡LoggerPlugin [39m: 익익: 시바라
+[35m⚡LoggerPlugin [39m: 익익: 자격증 낭낭한
+[35m⚡LoggerPlugin [39m: 익익: 현직이다 시발려나
+[35m⚡LoggerPlugin [39m: 한남이: 학사가 멀알아! 대학원졸 없읍니가?
+[35m⚡LoggerPlugin [39m: 익익: 기사딸라고
+[35m⚡LoggerPlugin [39m: 익익: 기간채운다
+[35m⚡LoggerPlugin [39m: 익익: 시발
+[35m⚡LoggerPlugin [39m: 한남이: 기사따면 월급 얼마 오룸?
+[35m⚡LoggerPlugin [39m: 케이미넴: http://ypkatmall.com/shop/view.php?index_no=372
+[35m⚡LoggerPlugin [39m: 익익: 사장이
+[35m⚡LoggerPlugin [39m: 케이미넴: 내가 좋은거 추천해줄께
+[35m⚡LoggerPlugin [39m: 익익: 짠돌이라
+[35m⚡LoggerPlugin [39m: 익익: 존나조금올려줌
+[35m⚡LoggerPlugin [39m: 케이미넴: 공유기 안테나 전자파 졸라많이나옴
+[35m⚡LoggerPlugin [39m: 케이미넴: 이거나차단해라
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 한남이: 근데 기사 그 기간채우는거 해외에서 채워도 인정해줌?
+[35m⚡LoggerPlugin [39m: 한남이: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 한남이: 본채위치 국룰 책상위 책상 밑?
+[35m⚡LoggerPlugin [39m: 케이미넴: 너 급식이지
+[35m⚡LoggerPlugin [39m: 한남이: 틀인데요?
+[35m⚡LoggerPlugin [39m: 케이미넴: 틀은 틀이라고 얘기안한다 아가야
+[35m⚡LoggerPlugin [39m: 한남이: 엣헴
+[35m⚡LoggerPlugin [39m: 케이미넴: 자꾸 개소리하면 보낸다
+[35m⚡LoggerPlugin [39m: 한남이: ㅈㅅ
+[35m⚡LoggerPlugin [39m: 한남이: 진짜 몰라서 그럼
+[35m⚡LoggerPlugin [39m: 익익: 그냥
+[35m⚡LoggerPlugin [39m: 한남이: 근데 요새 암드는 글카 안맘드나여
+[35m⚡LoggerPlugin [39m: 익익: ㅁ말하는것좀 믿어
+[35m⚡LoggerPlugin [39m: 한남이: ㄷㄷ

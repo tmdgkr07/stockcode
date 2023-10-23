@@ -1,0 +1,780 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 아딱: 더러운거
+[35m⚡LoggerPlugin [39m: 아딱: 못참는데
+[35m⚡LoggerPlugin [39m: 아딱: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 어허
+[35m⚡LoggerPlugin [39m: 조.련.사: 내방도
+[35m⚡LoggerPlugin [39m: 아딱: 수련수련방 침대에서 자면 
+[35m⚡LoggerPlugin [39m: 아딱: 몸가려울듯
+[35m⚡LoggerPlugin [39m: 아딱: 시바꺼
+[35m⚡LoggerPlugin [39m: 조.련.사: 난 그정돈아닌데
+[35m⚡LoggerPlugin [39m: 조.련.사: 침대
+[35m⚡LoggerPlugin [39m: 흐엉: 애미뒤진
+[35m⚡LoggerPlugin [39m: 흐엉: 미국이
+[35m⚡LoggerPlugin [39m: 흐엉: nyse
+[35m⚡LoggerPlugin [39m: 흐엉: nasdaq
+[35m⚡LoggerPlugin [39m: 아딱: 아니 그 언제쳐먹은지 모르는 소스통은
+[35m⚡LoggerPlugin [39m: 흐엉: amex
+[35m⚡LoggerPlugin [39m: 조.련.사: 바닥이랑 이불
+[35m⚡LoggerPlugin [39m: 흐엉: 겹쳐있잖음
+[35m⚡LoggerPlugin [39m: 조.련.사: 2달에 1번 빰
+[35m⚡LoggerPlugin [39m: 아딱: 왜 배게뒤에
+[35m⚡LoggerPlugin [39m: 아딱: 있는거야
+[35m⚡LoggerPlugin [39m: 조.련.사: 여름엔 1달에 1번빰
+[35m⚡LoggerPlugin [39m: 아딱: 대답.
+[35m⚡LoggerPlugin [39m: 조.련.사: 침대에서 일단
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐 쳐먹는거부터
+[35m⚡LoggerPlugin [39m: LSH: ㅂ zim
+ZIM
+1,341.7
+[ '3Z', 'Gv', 'Vw', 'xa' ]
+nyse
+[35m⚡LoggerPlugin [39m: 조.련.사: 못배워쳐먹음
+[35m⚡LoggerPlugin [39m: 조.련.사: 가정교육
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅆㅎㅌㅊ
+[35m⚡LoggerPlugin [39m: LSH: q dac
+DAC
+1,341.7
+[ '8q', '0T', 'he', '1W' ]
+nyse
+[35m⚡LoggerPlugin [39m: 조.련.사: 킹쩔수없노
+[35m⚡LoggerPlugin [39m: 조.련.사: 얼마전
+[35m⚡LoggerPlugin [39m: 조.련.사: 오랜만에
+[35m⚡LoggerPlugin [39m: 조.련.사: 오동통면
+[35m⚡LoggerPlugin [39m: 조.련.사: 사다가
+[35m⚡LoggerPlugin [39m: 조.련.사: 싱글벙글
+[35m⚡LoggerPlugin [39m: 조.련.사: 끓여서
+[35m⚡LoggerPlugin [39m: 조.련.사: 먹는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 컴터가 침대옆에 있단말야
+[35m⚡LoggerPlugin [39m: 조.련.사: 침대에 수건으로 커버깜빡했다가
+[35m⚡LoggerPlugin [39m: 조.련.사: 면 미끌하면서 후다닥했는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 침대커버에 빨간 라면국물튐
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨이빨
+[35m⚡LoggerPlugin [39m: 박재건: 대한해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: '대한해운',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '대한해운' ]
+  }
+]
+[ '대한해운' ]
+1
+[ 'vv', 'i4', '5d', 'Pe' ]
+[35m⚡LoggerPlugin [39m: 이: 오후양전
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003790097?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: Photo
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 늙탱이밖에없노
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/031/0000775733
+[35m⚡LoggerPlugin [39m: 조.련.사: 어휴
+[35m⚡LoggerPlugin [39m: 조.련.사: 개똥만 안쌋어도
+[35m⚡LoggerPlugin [39m: 조.련.사: 개같은 문쉑 안되는건데
+[35m⚡LoggerPlugin [39m: 조.련.사: 인터뷰
+[35m⚡LoggerPlugin [39m: 조.련.사: 전문보니
+[35m⚡LoggerPlugin [39m: 조.련.사: 자기잔성도 하고
+[35m⚡LoggerPlugin [39m: 조.련.사: 문제되는것 제대로 인지하며
+[35m⚡LoggerPlugin [39m: 조.련.사: 살고있네
+[35m⚡LoggerPlugin [39m: 조.련.사: 저건 나름대로
+[35m⚡LoggerPlugin [39m: 조.련.사: 문새끼 
+[35m⚡LoggerPlugin [39m: 조.련.사: 비교하니
+[35m⚡LoggerPlugin [39m: 조.련.사: 선녀노
+[35m⚡LoggerPlugin [39m: LSH: 진짜 다시 2시 7분꺼 예매했엉
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: LSH: Video
+[35m⚡LoggerPlugin [39m: LSH: 매크로팝니다 
+[35m⚡LoggerPlugin [39m: LSH: ktx 매크로 팝니다
+[35m⚡LoggerPlugin [39m: LSH: Video
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: 이지영: 와 오빠 짱
+[35m⚡LoggerPlugin [39m: 본스: https://www.youtube.com/live/xCL0SdUiSzQ?si=WD7ps8J0ej1FJoh7
+[35m⚡LoggerPlugin [39m: 본스: 불법공매도 토론회가 열렸나봐요 시간되시는분들은 시청해보셔도 좋을듯해서 공유합니다
+[35m⚡LoggerPlugin [39m: 박남혁: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박남혁',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'JE', 'tj', '64', 'nw' ]
+[35m⚡LoggerPlugin [39m: 정주환: 오...
+[35m⚡LoggerPlugin [39m: 기석주: 저
+[35m⚡LoggerPlugin [39m: LSH: 몇일
+[35m⚡LoggerPlugin [39m: 박영호: 27일 8시 기차
+[35m⚡LoggerPlugin [39m: 박영호: 필요
+[35m⚡LoggerPlugin [39m: 박영호: 용산 광즈송정
+[35m⚡LoggerPlugin [39m: LSH: 오전?
+[35m⚡LoggerPlugin [39m: 박영호: ㅇㅎ후
+[35m⚡LoggerPlugin [39m: LSH: 그거 아까 취소햇는데 ㅅㅂ
+[35m⚡LoggerPlugin [39m: LSH: 아하
+[35m⚡LoggerPlugin [39m: 기석주: 사겠습니다
+[35m⚡LoggerPlugin [39m: 기석주: 판매가가 얼마죠?
+[35m⚡LoggerPlugin [39m: LSH: 하루에 만원이여
+[35m⚡LoggerPlugin [39m: 박영호: 해줘
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003790137?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: . 검찰이 재판부에 제출한 의견서는 1600여 쪽에 달하며, 프레젠테이션(PPT) 자료는 500쪽 분량
+[35m⚡LoggerPlugin [39m: 조.련.사: 와 씨
+[35m⚡LoggerPlugin [39m: 조.련.사: PPT만 페이지당 20초 쓰더라도
+[35m⚡LoggerPlugin [39m: 조.련.사: 2.8시간
+[35m⚡LoggerPlugin [39m: 조.련.사: 이 대표는 심사 과정에서 별다른 말 없이 검찰과 변호인단의 공방을 지켜봤다고 한다. 앞서 이 대표는 이날 오전 10시 3분쯤 서울중앙지법 서관에 도착해 지팡이를 짚으며 아무런 답변을 하지 않은 채로 법정에 들어섰다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 이새끼 아가리 꾸욱
+[35m⚡LoggerPlugin [39m: 조.련.사: 재판부는 낮 12시 40분쯤 점심 식사 등을 위해 오후 1시 10분까지 30분간 심사를 휴정했다. 단식 등으로 건강이 좋지 않은 이 대표는 법정에 마련된 피의자 대기실에서 미리 준비해 온 미음을 먹은 것으로 알려졌다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 미음 씨발 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 하긴 소금으로 밥쳐먹는다는 새끼인데
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 그것도 맛있겠지 ㅋ
+[35m⚡LoggerPlugin [39m: 현우: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '현우',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Ww', 'cC', '66', 'Z9' ]
+[35m⚡LoggerPlugin [39m: 흰티마: 나는 하루종일 굶었는데
+[35m⚡LoggerPlugin [39m: 흰티마: 저새끼는 미음씩이나 먹네
+[35m⚡LoggerPlugin [39m: 아딱: 헉!!!!
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+2
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 55197, size: 12809 },
+  room: '오픈채팅봇',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 조.련.사: 간헐적 단식하노
+[35m⚡LoggerPlugin [39m: 조.련.사: 찢도 간헐적 단식했는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 동기노
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄷㄷ;
+[35m⚡LoggerPlugin [39m: 조.련.사: 오늘자 만진당
+[35m⚡LoggerPlugin [39m: 조.련.사: 살려주세요 난 아니에요 호소문 작성
+[35m⚡LoggerPlugin [39m: 조.련.사: 3 photos
+[35m⚡LoggerPlugin [39m: 아딱: dear loadㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 눈물
+[35m⚡LoggerPlugin [39m: 아딱: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 조.련.사: 흩뿌린 수돗물
+[35m⚡LoggerPlugin [39m: 조.련.사: 그리고
+[35m⚡LoggerPlugin [39m: 조.련.사: Amem 했다가 Amen고친것도 킬링포인트
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발 나같으면 새로썻다
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: Photo
+[35m⚡LoggerPlugin [39m: 조.련.사: Photo
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 야
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: ㅎㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/020/0003522798?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 조.련.사: 속보
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  속보
+[35m⚡LoggerPlugin [39m: 흐엉: 애들아
+[35m⚡LoggerPlugin [39m: 흐엉: 그룸
+[35m⚡LoggerPlugin [39m: 흐엉: 잘살아,,
+[35m⚡LoggerPlugin [39m: 흐엉: 행복해야해
+[35m⚡LoggerPlugin [39m: 흐엉: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'yG', 'wi', 'cQ', '58' ]
+[35m⚡LoggerPlugin [39m: 흐엉: hmm 일봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'hmm 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM', '일봉' ]
+  }
+]
+[ 'HMM', '일봉' ]
+1
+[ 'zL', 'NC', '8G', 'Ts' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: Photo
+[35m⚡LoggerPlugin [39m: 조.련.사: 감옥가노
+[35m⚡LoggerPlugin [39m: 조.련.사: ① 국가의 존립ㆍ안전이나 자유민주적 기본질서를 위태롭게 한다는 정을 알면서 반국가단체나 그 구성원 또는 그 지령을 받은 자의 활동을 찬양ㆍ고무ㆍ선전 또는 이에 동조하거나 국가변란을 선전ㆍ선동한 자는 7년 이하의 징역에 처한다. 
+[35m⚡LoggerPlugin [39m: 조.련.사: 빨갱이 민주당
+[35m⚡LoggerPlugin [39m: 조.련.사: 전원
+[35m⚡LoggerPlugin [39m: 조.련.사: 교도소
+[35m⚡LoggerPlugin [39m: 조.련.사: 직행해라
+[35m⚡LoggerPlugin [39m: 조.련.사: 민노총
+[35m⚡LoggerPlugin [39m: 조.련.사: 북한 지령받는 새끼들도
+[35m⚡LoggerPlugin [39m: 조.련.사: 모조리 교도소 넣어라
+[35m⚡LoggerPlugin [39m: 유민: ㅎㅇ
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'jH', 'Bf', 'Ll', '0Y' ]
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: @케이미넴 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 작업중이심까?
+[35m⚡LoggerPlugin [39m: 케이미넴: 나도 확인했는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 일중이라 바로 조치가 안되네
+[35m⚡LoggerPlugin [39m: 케이미넴: 디도스들어오는듯
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 그럴수도있지
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 엥?
+[35m⚡LoggerPlugin [39m: 케이미넴: 어제 방화벽 꺼놨더니만;
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,353.5
+[ 'IT', 'Vc', 'kq', 'Lc' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: Photo
+[35m⚡LoggerPlugin [39m: 케이미넴: ?
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 미쳐날뛰고있네
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 저러면 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 어케되는거?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 근데 원래 서버터져도 나
+[35m⚡LoggerPlugin [39m: 케이미넴: 걍 인터럽트걸리는거지뭐
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: esxi.keiminem.com
+[35m⚡LoggerPlugin [39m: 케이미넴: 가서 재부팅해야하는데 가질못하네
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 은들어가졌는데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 지금은 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 안드가짐
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅇㅇ 한창 당하고 있어서그래
+[35m⚡LoggerPlugin [39m: 케이미넴: 내가 원격으로 재부팅은 시킬건데
+[35m⚡LoggerPlugin [39m: 케이미넴: 재부팅이 안될수도있다;
+[35m⚡LoggerPlugin [39m: LSH: 허허허
+[35m⚡LoggerPlugin [39m: LSH: 누군진 몰라도 디도스를 넣네 
+[35m⚡LoggerPlugin [39m: 김가비: 이 언,ㄹ
+[35m⚡LoggerPlugin [39m: 김가비: ㅈ;ㄴ찌
+[35m⚡LoggerPlugin [39m: LSH: 집가서 껏다켜야되는디,,,
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'JJ', 'GD', '8n', 'AX' ]
+[35m⚡LoggerPlugin [39m: LSH: 차트서버가 뒤져버림 ㅜ
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  또 뒷북치지말고
+[35m⚡LoggerPlugin [39m: 조영우: 헐~
+[35m⚡LoggerPlugin [39m: 조영우: 아니 어떤 할일없는 새키가
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/article/214/0001302337
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: 짱깨새끼들인가 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: MBC단독보도
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㅇㅎ
+[35m⚡LoggerPlugin [39m: 아딱: "이재명 측근 회유가있었다" 라는걸 반박하는 탄원서 제출하려다가
+[35m⚡LoggerPlugin [39m: 아딱: 저지 ㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 검 찰 독 재
+[35m⚡LoggerPlugin [39m: 아딱: 검 찰 정 권 O U T 
+[35m⚡LoggerPlugin [39m: 흐엉: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱 독재
+[35m⚡LoggerPlugin [39m: 아딱: 윤썪열 ㄸㄷㄷ
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱 정권 aut
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 몰라
+[35m⚡LoggerPlugin [39m: 흐엉: 윤썪열 이좆명
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 흐엉: 킹준표만이 
+[35m⚡LoggerPlugin [39m: 흐엉: 답이다
+[35m⚡LoggerPlugin [39m: 케이미넴: 실패하면 복구시간은 3시간뒤임
+[35m⚡LoggerPlugin [39m: 흐엉: 이탄희 아주맘에들어 아직 때가 안묻엇던데
+[35m⚡LoggerPlugin [39m: 흐엉: 조만간 얘도 더러워지겟지 ㅜ
+[35m⚡LoggerPlugin [39m: 조.련.사: 김 변호사는 "어제 오후 접견에서 이 전 부지사로부터 '그동안 옥중에서 쓴 자필 서신 등은 모두 자유롭게 쓴 것이지, 누구의 강요나 압박이 있었던 것은 아니라는 내용의 탄원서를 서울중앙지법에 전달하고 싶다'는 의사를 확인했다"며, "이 전 부지사가 이 내용을 담은 탄원서 한 장을 법정에 가져왔다"고 전했습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㄱㅊㄱㅊ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 어차피 형은 차트서버라서
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 아마 꺼도 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,353.0
+error: Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 꺼졋네
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 주가는 정상동작함
+[35m⚡LoggerPlugin [39m: 조.련.사: 그 
+[35m⚡LoggerPlugin [39m: 조.련.사: 녹취본
+[35m⚡LoggerPlugin [39m: 조.련.사: 튼다며
+[35m⚡LoggerPlugin [39m: 조.련.사: 이화영 회유한거
+[35m⚡LoggerPlugin [39m: 조.련.사: 변호사랑 마누라가
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 그거 틀면
+[35m⚡LoggerPlugin [39m: 조.련.사: 저게 되냐?
+[35m⚡LoggerPlugin [39m: 조.련.사: "밖에 드럼통 하나 준비되어있다. 누구껀지 알지? 처신 잘하라고"
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 이화영 무슨 심적변화가
+[35m⚡LoggerPlugin [39m: 아딱: 생겼는지
+[35m⚡LoggerPlugin [39m: 아딱: 왜 탄원서쓰려고한거지?
+[35m⚡LoggerPlugin [39m: 아딱: 응!?
+[35m⚡LoggerPlugin [39m: 아딱: 으이?!
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐긴
+[35m⚡LoggerPlugin [39m: 조.련.사: 짜샤
+[35m⚡LoggerPlugin [39m: 조.련.사: 목숨이
+[35m⚡LoggerPlugin [39m: 조.련.사: 아까우니까
+[35m⚡LoggerPlugin [39m: 아딱: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 아딱: 자기목숨살려면
+[35m⚡LoggerPlugin [39m: 조.련.사: 번복하면서
+[35m⚡LoggerPlugin [39m: 조.련.사: 탄원서까지 쓰려는거지
+[35m⚡LoggerPlugin [39m: 아딱: 이재명 물고늘져야되는데
+[35m⚡LoggerPlugin [39m: 아딱: 저거는 반대인데?
+[35m⚡LoggerPlugin [39m: 조.련.사: ???????????
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니지 바보야
+[35m⚡LoggerPlugin [39m: 아딱: 어휴
+[35m⚡LoggerPlugin [39m: 아딱: 1만 알고
+[35m⚡LoggerPlugin [39m: 아딱: 2는
+[35m⚡LoggerPlugin [39m: 조.련.사: 이재명이 들어가도
+[35m⚡LoggerPlugin [39m: 아딱: 모르네
+[35m⚡LoggerPlugin [39m: 조.련.사: 밖에
+[35m⚡LoggerPlugin [39m: 조.련.사: 남은애들이
+[35m⚡LoggerPlugin [39m: 조.련.사: 복수안하겠어?
+[35m⚡LoggerPlugin [39m: 조.련.사: 멍청아?
+[35m⚡LoggerPlugin [39m: 흰티마: 시가행진 하는 낭인데
+[35m⚡LoggerPlugin [39m: 흰티마: 날인데
+[35m⚡LoggerPlugin [39m: 흰티마: 하필 비가 오냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 찢 밑에 조폭이
+[35m⚡LoggerPlugin [39m: 아딱: 니가행진ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 조.련.사: 몇놈들인데
+[35m⚡LoggerPlugin [39m: 흰티마: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 국군의날
+[35m⚡LoggerPlugin [39m: 조.련.사: 행진말하는거임?
+[35m⚡LoggerPlugin [39m: 흐엉: 애들아
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'dw', 'FE', 'CE', 'Ew' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 찌라시떳다 
+[35m⚡LoggerPlugin [39m: 조.련.사: 무슨
+[35m⚡LoggerPlugin [39m: 조.련.사: 찌라시
+[35m⚡LoggerPlugin [39m: 흐엉: 1.7만원간다는 찌라시
+[35m⚡LoggerPlugin [39m: 흐엉: ㅅㅅㅅㅅㅅㅅ
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발아
+[35m⚡LoggerPlugin [39m: 조.련.사: 리얼임?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 팔아야하나
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 근데
+[35m⚡LoggerPlugin [39m: 조.련.사: 팔아?
+[35m⚡LoggerPlugin [39m: 흐엉: 아직도안팜
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 저새낀 진짜 병신이다
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 흐엉: 넌 주식접어라
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐 씨발련아
+[35m⚡LoggerPlugin [39m: 흐엉: 구러게 나 튈깨
+[35m⚡LoggerPlugin [39m: 흐엉: 같이 튀자니까
+[35m⚡LoggerPlugin [39m: 흐엉: 에휴
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발아
+[35m⚡LoggerPlugin [39m: 조.련.사: 일하느라
+[35m⚡LoggerPlugin [39m: 조.련.사: 못봤느네
+[35m⚡LoggerPlugin [39m: 조.련.사: 보니까
+[35m⚡LoggerPlugin [39m: 조.련.사: 이미
+[35m⚡LoggerPlugin [39m: 아딱: 추어튀김
+[35m⚡LoggerPlugin [39m: 조.련.사: 21000인데
+[35m⚡LoggerPlugin [39m: 아딱: 먹고싶다
+[35m⚡LoggerPlugin [39m: 조.련.사: 어테튀냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발아
+[35m⚡LoggerPlugin [39m: 아딱: 야물딱지게
+[35m⚡LoggerPlugin [39m: 아딱: 추어튀김
+[35m⚡LoggerPlugin [39m: 아딱: 야~~~무디게머거여뒤~!~!
+[35m⚡LoggerPlugin [39m: 아딱: 하고싶다
+[35m⚡LoggerPlugin [39m: 아딱: 추어튀김 막 
+[35m⚡LoggerPlugin [39m: 조.련.사: 시외판다
+[35m⚡LoggerPlugin [39m: 아딱: 시외판다 ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 푸바오 귀여엉
+[35m⚡LoggerPlugin [39m: 흐엉: 뭔개소리임
+[35m⚡LoggerPlugin [39m: 흐엉: 님 제가 말햇을때 2.4였음
+[35m⚡LoggerPlugin [39m: 흐엉: 아
+[35m⚡LoggerPlugin [39m: 흐엉: 너 아닌가
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱인가
+[35m⚡LoggerPlugin [39m: 흐엉: 너는 그이후에 산건가
+[35m⚡LoggerPlugin [39m: 흐엉: 2.1이면
+[35m⚡LoggerPlugin [39m: 아딱: 휴
+[35m⚡LoggerPlugin [39m: 아딱: 23000대에 판것도
+[35m⚡LoggerPlugin [39m: 아딱: 잘한거다
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 아딱: 젓같네근데
+[35m⚡LoggerPlugin [39m: 흐엉: 그때 
+[35m⚡LoggerPlugin [39m: 아딱: 내 200만원
+[35m⚡LoggerPlugin [39m: 아딱: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 흐엉: 차트 무너졋응때
+[35m⚡LoggerPlugin [39m: 흐엉: 바로
+[35m⚡LoggerPlugin [39m: 아딱: 아 + 90만원일떄
+[35m⚡LoggerPlugin [39m: 아딱: 팔았어야해쓴ㄴ데
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 아딱: 개병신아딱
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 조.련.사: 나 평단가 239000임
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?!?!
+[35m⚡LoggerPlugin [39m: 흐엉: 걍
+[35m⚡LoggerPlugin [39m: 흐엉: 조전조는
+[35m⚡LoggerPlugin [39m: 흐엉: 좆좆좆버하고
+[35m⚡LoggerPlugin [39m: 흐엉: 1.5오면 물타라
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니
+[35m⚡LoggerPlugin [39m: 흐엉: 수소테마
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발
+[35m⚡LoggerPlugin [39m: 조.련.사: 1.7
+[35m⚡LoggerPlugin [39m: 흐엉: 언제한번
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭔
+[35m⚡LoggerPlugin [39m: 아딱: 조련사 좀만참아 나 
+[35m⚡LoggerPlugin [39m: 흐엉: 뛰겟지
+[35m⚡LoggerPlugin [39m: 조.련.사: 이슈인데
+[35m⚡LoggerPlugin [39m: 아딱: 1.2에서 탈게
+[35m⚡LoggerPlugin [39m: 아딱: 다시
+[35m⚡LoggerPlugin [39m: 조.련.사: 나락간다고하는거임?
+[35m⚡LoggerPlugin [39m: 조.련.사: 진짜 팔아ㅓ?
+[35m⚡LoggerPlugin [39m: 흐엉: *전환사채*
+[35m⚡LoggerPlugin [39m: 아딱: cb있대
+[35m⚡LoggerPlugin [39m: 흐엉: 샵검색: #두산퓨얼셀 전환사채
+[35m⚡LoggerPlugin [39m: 아딱: 두퓨셀도
+[35m⚡LoggerPlugin [39m: 케이미넴: @말썽쟁이 네오  
+[35m⚡LoggerPlugin [39m: 케이미넴: ssh접속해서
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㅇㅇ??
+[35m⚡LoggerPlugin [39m: 케이미넴: shutdown now 해서 꺼봐
+[35m⚡LoggerPlugin [39m: 조.련.사: 일단
+[35m⚡LoggerPlugin [39m: 조.련.사: 2만원에
+[35m⚡LoggerPlugin [39m: 케이미넴: 내가끌까
+[35m⚡LoggerPlugin [39m: 조.련.사: 전부 매도꽂았따
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 뭘?
+[35m⚡LoggerPlugin [39m: 조.련.사: 아 씨발
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 이미 형이 껏던데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[35m⚡LoggerPlugin [39m: 케이미넴: 아냐 내가함
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 케이미넴: 지금 방금 다시켰거덩
+[35m⚡LoggerPlugin [39m: 조.련.사: -16%
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ같네
+[35m⚡LoggerPlugin [39m: 케이미넴: 다시껐음
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 케이미넴: 재부팅한번만 더하고
+[35m⚡LoggerPlugin [39m: 케이미넴: 다시 부팅시킴
+[35m⚡LoggerPlugin [39m: 아딱: 헉
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,351.5
+error: Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 아딱: 나얌아 고생이많다
+[35m⚡LoggerPlugin [39m: 아딱: 너가
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 코스피
+코스피
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 55197, size: 16248 },
+  room: '아딱',
+  content: '코스피',
+  sender: { name: '아딱', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+코스피
+[ '코스피' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 하;
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱이 친구
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 조.련.사: 툼스톤 파일드라이버
+[35m⚡LoggerPlugin [39m: 아딱: 내친구 
+[35m⚡LoggerPlugin [39m: 조.련.사: 마렵네
+[35m⚡LoggerPlugin [39m: 흐엉: 아
+[35m⚡LoggerPlugin [39m: 흐엉: 잠깐만
+[35m⚡LoggerPlugin [39m: 흐엉: 검샏하지말아봐
+[35m⚡LoggerPlugin [39m: 흐엉: 아 ㅈ됫다
+[35m⚡LoggerPlugin [39m: 흐엉: 디됴스 날라옴
+[35m⚡LoggerPlugin [39m: 아딱: 역대 - 임
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 흐엉: Photo
+[35m⚡LoggerPlugin [39m: 조.련.사: 저게뭐야
+[35m⚡LoggerPlugin [39m: 아딱: 해외 ip 차단해
+[35m⚡LoggerPlugin [39m: 흐엉: 차단햇음
+[35m⚡LoggerPlugin [39m: 아딱: 중국 , 인도 
+[35m⚡LoggerPlugin [39m: 아딱: 러시아
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱이가
+[35m⚡LoggerPlugin [39m: 조.련.사: 디도스중
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 3곳만 차단해도됨
+[35m⚡LoggerPlugin [39m: 아딱: 서버 운영할떄
+[35m⚡LoggerPlugin [39m: 흐엉: 다차단햇음
+[35m⚡LoggerPlugin [39m: 흐엉: 한국이외 
+[35m⚡LoggerPlugin [39m: 조.련.사: D-Dos
+[35m⚡LoggerPlugin [39m: 조.련.사: 딱-Dos
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 조.련.사: 시발딱이
+[35m⚡LoggerPlugin [39m: 조.련.사: 해커다
+[35m⚡LoggerPlugin [39m: 흐엉: 조전조 씨발련이
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈ같다고
+[35m⚡LoggerPlugin [39m: 흐엉: 디도스널네
+[35m⚡LoggerPlugin [39m: 조.련.사: 걸렸노
+[35m⚡LoggerPlugin [39m: 조.련.사: 흠 살려내던가
+[35m⚡LoggerPlugin [39m: 조.련.사: 두퓨살려내던가
+[35m⚡LoggerPlugin [39m: 조.련.사: 사실 근데
+[35m⚡LoggerPlugin [39m: 조.련.사: 두퓨
+[35m⚡LoggerPlugin [39m: 조.련.사: 많이는 안넣어서
+[35m⚡LoggerPlugin [39m: 조.련.사: 큰피해는 아님
+[35m⚡LoggerPlugin [39m: 조.련.사: 치킨 30마리 정도
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발
+error: Error: connect ETIMEDOUT 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -110,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+index
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 케이미넴: 끝
+[35m⚡LoggerPlugin [39m: 아딱: 조련사야 
+[35m⚡LoggerPlugin [39m: 아딱: 나는 200만원넘게
+[35m⚡LoggerPlugin [39m: 아딱: 손해봤어
+[35m⚡LoggerPlugin [39m: 케이미넴: 5분뒤부터 접속가능할듯
+[35m⚡LoggerPlugin [39m: 아딱: 까불지마
+[35m⚡LoggerPlugin [39m: 조.련.사: 이거의 15배가 넘어간다만? 씹련아

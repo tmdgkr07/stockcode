@@ -1,0 +1,567 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: ./goodmorning
+[35m⚡LoggerPlugin [39m: 황소원: ㅇㅋㅇㅋㅇㅋ헤헤헿ㅅ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: .....ㄷㄷ
+[35m⚡LoggerPlugin [39m: 이승학: 진지하게 개발자로 전향할까 
+[35m⚡LoggerPlugin [39m: 흐엉: !! how to install aawireless in rock pi s
+As an AI language model, I cannot perform physical tasks such as installing aawireless in Rock Pi S. However, I can provide you with some guidance on how to install aawireless on your Rock Pi S.
+
+AAWireless is a custom firmware that converts Android Auto to Wireless for compatible vehicles without requiring a cable. To install aawireless on Rock Pi S, you need to follow these steps:
+
+1. Download the latest AAWireless release from the project's GitHub page using the following command:
+
+```
+wget https://github.com/jackpal/AutoAirPlayWireless/releases/latest/download/aawireless_rockpi.tar.gz
+```
+
+2. Extract the downloaded archive using the following command:
+
+```
+tar xvfz aawireless_rockpi.tar.gz
+```
+
+3. Change to the extracted directory using the following command:
+
+```
+cd aawireless_rockpi
+```
+
+4. Install the required packages using the following command:
+
+```
+sudo apt-get install -y dnsmasq hostapd
+```
+
+5. Copy the configuration files using the following command:
+
+```
+sudo cp hostapd.conf /etc/hostapd/
+sudo cp dnsmasq.conf /etc/
+```
+
+6. Copy the aawireless service file using the following command:
+
+```
+sudo cp aawireless.service /etc/systemd/system/
+```
+
+7. Enable and start the aawireless service using the following commands:
+
+```
+sudo systemctl daemon-reload
+sudo systemctl enable aawireless.service
+sudo systemctl start aawireless.service
+```
+
+8. Connect your Android Auto device to the aawireless hotspot and enjoy the wireless Android Auto experience.
+
+Note: To verify that the aawireless service is working correctly, you can check the service status using the following command:
+
+```
+sudo systemctl status aawireless.service
+```
+
+If you encounter any problems during the installation process, you can refer to the project's documentation or seek assistance from their support channels.
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133856
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 제원: 나는 웹 백엔드 개발자여
+[35m⚡LoggerPlugin [39m: 제원: 안드로이드 이런거 해본적 없어
+[35m⚡LoggerPlugin [39m: 제원: 잘하더만 전향혀
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133893
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 언제결론나노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133895
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 의사니까
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 안불쌍해도 되는거지?
+[35m⚡LoggerPlugin [39m: 위컴알: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133903
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 박호두
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 뉴스타노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.blog.naver.com/joomincenter/223083860341
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 더불어 쑈진당새끼들 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 세월호 시즌3 각연다
+[35m⚡LoggerPlugin [39m: 엄텔: ㅋㅎㅋㅎ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 시즌2눈
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뭐였음?
+[35m⚡LoggerPlugin [39m: 이승학: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흰티마: 좆태원
+[35m⚡LoggerPlugin [39m: 흰티마: 쥐포새끼들
+[35m⚡LoggerPlugin [39m: 흰티마: 팔이
+[35m⚡LoggerPlugin [39m: 흰티마: 병신mz쓰레기쥐포새끼들팔이 낭낭했지
+[35m⚡LoggerPlugin [39m: 흰티마: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흰티마: 사람 뒤져서 씨피알 하는 옆에서 섹온비 부르던 새끼들인데 더 죽어야했음ㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 민성이가 준
+[35m⚡LoggerPlugin [39m: 기석주: 아이스크림 목오여징
+[35m⚡LoggerPlugin [39m: 이승학: 요아정먹구싶어
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 요야정이 뭐임
+[35m⚡LoggerPlugin [39m: 이승학: 요거으 아이스크림의 정석
+[35m⚡LoggerPlugin [39m: 용성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 역시 모텔 단골
+[35m⚡LoggerPlugin [39m: 이승학: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 기석주: @박민혁 방미뇩 뭐함
+[35m⚡LoggerPlugin [39m: 흐엉: !! 구글
+구글은 인터넷 검색 기업인 Google Inc.의 한국어 이름입니다. 구글은 1998년에 설립되어 인터넷 검색이나 클라우드, 지도 등을 제공하는 세계적으로 유명한 기업으로 자리 잡았습니다. 검색 엔진을 비롯해 Gmail, 드라이브, 유튜브, 크롬 등의 서비스를 제공하며, 인공지능, 빅데이터 등의 기술력을 바탕으로 지속적으로 서비스를 발전시키며 많은 이용자들의 사랑을 받고 있습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 왔냐?
+[35m⚡LoggerPlugin [39m: 유민: 응
+[35m⚡LoggerPlugin [39m: 흐엉: 챗지피티 쓰눈법
+[35m⚡LoggerPlugin [39m: 유민: 알랴준다고?
+[35m⚡LoggerPlugin [39m: 흐엉: !! 저출산문제의 근본적인 해결책 알려줘
+[35m⚡LoggerPlugin [39m: 흐엉: 또한 주식 주가 검색 가능하다
+저출산 문제의 근본적인 해결책은 여러 가지가 있지만, 다음은 그 중 일부입니다.
+
+1. 가족친화 정책 강화
+가족들이 충분한 복지와 지원을 받을 수 있도록 하는 정책을 시행하여 고용과 일자리, 학교와 유치원, 주거 환경, 양육 지원 등 여러 분야에서 지원을 제공합니다.
+
+2. 경제적인 지원 제공
+일반적으로 출산 초기에는 소득이 감소하는 경우가 많기 때문에, 출산 전후에 경제적인 지원을 제공함으로써 출산을 장려할 수 있습니다. 적극적인 육아휴직제도와 육아지원금, 아이돌봄시설 등을 운영하여 지원합니다.
+
+3. 사회적인 분위기 전환
+예쁜 결혼, 출산, 육아 등을 일본에서는 '화이트 데이터'로 정의하고 이를 축하하는 분위기와 달리, 우리나라는 아직까지 출산을 두려워하는 분위기가 많이 남아있습니다. 이러한 분위기를 바꾸어 일생일대의 순간으로 꼭 축하하는 문화를 만들어 주어야합니다.
+
+4. 난임 치료 및 병원 시설 강화
+많은 부부들이 아이를 갖기 위해 치료를 받는 경우도 있습니다. 따라서 이러한 부부들에게 더 많은 치료 및 지원을 제공하는 정책과 함께 병원 시설의 환경적인 요소도 개선하여 부부들의 기대를 충족시켜야합니다.
+
+5. 교육 체제 개선
+저출산문제에서 문제인 교육은 국민생산성의 토대입니다. 여성들의 진로 선택 문제를 해결하는 법과 교육 시스템을 개선하여 남녀 평등한 교육을 받을 수 있게 되어야합니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 어떻게? 
+[35m⚡LoggerPlugin [39m: 흐엉: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나는야퉁퉁이',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'gu', '57', 'oD', 'Om' ]
+[35m⚡LoggerPlugin [39m: 유민: 이게 무슨 
+[35m⚡LoggerPlugin [39m: 흐엉: 미국주식은?
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나는야퉁퉁이',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'vd', 'v3', 'uR', '7w' ]
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: 내가 언제 사줬노
+[35m⚡LoggerPlugin [39m: 유민: 너 뭐하는자식이야
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 이런거 만들기 쉬워 
+[35m⚡LoggerPlugin [39m: 유민: 나는 내가 퇴사를 할지 말지 고민인디 
+[35m⚡LoggerPlugin [39m: 유민: 그건 대답 안해준대?
+[35m⚡LoggerPlugin [39m: 흐엉: 지피티 말하길래 혹시 필요하면 쓰라고 갠톡으로 초대해주려고했어
+[35m⚡LoggerPlugin [39m: 흐엉: 느낌표 두개
+[35m⚡LoggerPlugin [39m: 흐엉: 하고 물어봐 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 주3일 근무 할껀디 
+[35m⚡LoggerPlugin [39m: 유민: !! 퇴사를 할까 말까? 
+이는 상황에 따라 다를 것입니다. 퇴사를 고려하는 이유와 그에 대한 해결책, 직장에서 받는 보상과 이에 대한 만족도, 개인적인 미래 계획 등을 고려하여 결정해야 합니다. 또한, 직장에서 해결할 수 없는 문제가 있다면, 면접 초반에 대해 질문해보는 것도 좋은 방법일 수 있습니다.
+[35m⚡LoggerPlugin [39m: 유민: 그렇대 
+[35m⚡LoggerPlugin [39m: 흐엉: 나는
+[35m⚡LoggerPlugin [39m: 흐엉: 사실 20대는 
+[35m⚡LoggerPlugin [39m: 유민: !! 왓슨과 크릭의 이중나선구조에 대해 알려줘 
+[35m⚡LoggerPlugin [39m: 흐엉: 아무거나 하고싶은거 다할수있는 
+[35m⚡LoggerPlugin [39m: 흐엉: 나이라고 생각해서 
+왓슨과 크릭의 이중나선구조는 DNA 분자의 구조로서, 두 개의 나선 모양 구조로 이루어져 있고, 서로 엉켜있는 형태입니다. 하나의 나선은 염기서열이 반드시 하나의 다른 나선에서 염기서열과 짝을 이루어 결합하여 DNA 분자를 구성합니다.
+
+또한 이중나선구조는 각 나선이 서로 엉겨있는데, 이것이 또 다른 중요한 성질인 DNA 분자의 복제와 유전 정보 전달에 중요한 역할을 합니다. 이중나선구조는 분자 내부의 정보를 보호하면서, 유전 정보를 전달하는 방법을 제공하여 생물체 내의 상속체계를 결정합니다. 이러한 이중나선구조는 생물체의 발달과 생존에 매우 중요한 역할을 합니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 퇴사추천
+[35m⚡LoggerPlugin [39m: 유민: 주3일 근무로 맞춰준다고 해도??
+[35m⚡LoggerPlugin [39m: 유민: 근무지 이동도 해줬구 
+[35m⚡LoggerPlugin [39m: 유민: 연차소진해서 주3일근무로 일단 하다가 
+[35m⚡LoggerPlugin [39m: 유민: 계약서 다시 쓰는 방향으로 해본다구 
+[35m⚡LoggerPlugin [39m: 유민: 하긴 했는디 
+[35m⚡LoggerPlugin [39m: 유민: 연차 다 쓰고 퇴사 할까? 
+[35m⚡LoggerPlugin [39m: 유민: 근데 차피 일을 아예 안할수는 없어서 
+[35m⚡LoggerPlugin [39m: 흐엉: 주3일이면
+[35m⚡LoggerPlugin [39m: 흐엉: 솔깃한데,
+[35m⚡LoggerPlugin [39m: 유민: 일 하는 만큼만 받겠지만… 
+[35m⚡LoggerPlugin [39m: 흐엉: 아 뭐야 그럼
+[35m⚡LoggerPlugin [39m: 흐엉: 그만둘래 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 연차라며 유급이어야지
+[35m⚡LoggerPlugin [39m: 유민: 아 지금은 그대로지ㅎ
+[35m⚡LoggerPlugin [39m: 유민: 계약서 다시 쓰면 
+[35m⚡LoggerPlugin [39m: 유민: 바뀌겠지 
+[35m⚡LoggerPlugin [39m: 흐엉:  일단
+[35m⚡LoggerPlugin [39m: 흐엉: 연차 쓰고
+[35m⚡LoggerPlugin [39m: 흐엉: 생각해 
+[35m⚡LoggerPlugin [39m: 유민: 담달부터 주3일인데 +1주일 휴가써서 
+[35m⚡LoggerPlugin [39m: 흐엉: 어차피 못쓰면
+[35m⚡LoggerPlugin [39m: 흐엉: 연가보상비 나오는것도아니고
+[35m⚡LoggerPlugin [39m: 유민: 9일 출근 하고 월급 그대로 받음 
+[35m⚡LoggerPlugin [39m: 흐엉: 일단 쓰고 꿀 빨면서
+[35m⚡LoggerPlugin [39m: 흐엉: 생각하자
+[35m⚡LoggerPlugin [39m: 유민: 잉 
+[35m⚡LoggerPlugin [39m: 유민: 3일 출근 해도 내일채움 되나?
+[35m⚡LoggerPlugin [39m: 흐엉: 계약서상은
+[35m⚡LoggerPlugin [39m: 흐엉: 그대로라 상관없음
+[35m⚡LoggerPlugin [39m: 흐엉: 내일채움은
+[35m⚡LoggerPlugin [39m: 흐엉: 주 42시간이상이면
+[35m⚡LoggerPlugin [39m: 흐엉: 상관없음
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 계약은 그렇게하고 실제 출근시간응 줄여도되는거라
+[35m⚡LoggerPlugin [39m: 유민: 웅 
+[35m⚡LoggerPlugin [39m: 흐엉: 화이팅
+[35m⚡LoggerPlugin [39m: 기석주: ㅁㄹ
+[35m⚡LoggerPlugin [39m: 유민: !! 보편적인 단체톡방의 분위기 어때?
+저는 인공지능 챗봇이며, 개인적인 경험을 바탕으로 답변드리겠습니다.
+
+보통 단체톡방은 그룹생성 목적이 있거나, 흥미나 관심사를 공유하는 사람들이 모인 경우가 많습니다. 따라서 분위기는 그룹의 목적과 구성원들의 관계에 따라 다양할 수 있습니다. 
+
+그러나 일반적으로는 상호간에 예의와 존중이 지켜지며, 불쾌한 말이나 행동, 비속어 혹은 성적인 은유 등을 자제하고 채팅에 참여하는 것이 일반적입니다. 또한 그룹의 목적과 상황에 따라 감정적인 논쟁이나 긴 토론이나 토의로 이어질 수도 있습니다.
+
+그러므로 보통 단체톡방의 분위기는 쾌적하고 친근한 분위기를 유지하며, 구성원들 간에 배려와 존중을 기본으로 하고 있습니다. 하지만 각 개인의 성격과 태도, 그리고 그룹의 목적이 다르기 때문에 모든 단체톡방이 이와 같은 분위기를 지니는 것은 아닙니다.
+[35m⚡LoggerPlugin [39m: 유민: !! 고마워 
+천만에요.
+[35m⚡LoggerPlugin [39m: 유민: 귀엽네
+[35m⚡LoggerPlugin [39m: 흐엉: !! 친구들이 싸우면 어떻게해?
+저는 인공지능 챗봇이므로 직접 대처할 수 없지만, 친구들이 싸우면 다음과 같은 방법을 시도해 볼 수 있습니다.
+
+1. 중재자로서 조정해 주기: 친구들의 이야기를 모아서 정리해 왜 싸우게 됐는지 이유를 파악하고 양측에서 서로 잘못된 부분을 이해시킨 후, 문제가 해결될 때까지 노력해 주는 것이 좋습니다.
+
+2. 갑자기 싸움을 말리기: 친구들이 갑자기 싸움을 시작할 때, 빠르고 간단한 해결책은 둘의 감정을 가라앉히는 것입니다. 그리고 이를 위해 즉각적으로 타협점을 찾아 에스컬레이션을 방지해야 합니다.
+
+3. 각자의 시간을 가지기: 심각한 상황이거나 논란이 심각하게 발전하면, 각각 친구에게 시간을 주는 것이 좋습니다. 이것은 친구들이 다시 회의할 기회를 가질 수 있습니다.
+
+이러한 해결책들은 상황에 따라 적용되는 것이 다를 수 있고, 도움되지 않을 수도 있습니다. 상황에 따라 가장 좋은 해결책을 선택하는 것이 중요합니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 나두 야식먹구싶은데
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐먹지
+[35m⚡LoggerPlugin [39m: 유민: !! 야식 추천해줘
+제가 추천하는 야식은 다음과 같습니다.
+
+1. 치킨 - 매콤하고 고소한 치킨은 늘 인기 있는 야식 중 하나입니다. 양념치킨, 간장치킨, 후라이드치킨 등 다양한 종류 중 원하는 맛을 골라 구매하면 됩니다.
+
+2. 김밥 - 간단하면서도 맛있는 김밥은 야식 중의 대표적인 메뉴입니다. 다양한 재료를 사용하여 자신만의 김밥을 만드는 것도 좋습니다.
+
+3. 순대 - 고소하고 매콤한 순대는 한국의 대표적인 야식 중 하나입니다. 마늘, 케첩, 핫소스 등 각자의 취향에 따라 각양각색의 소스를 더해 맛을 더할 수 있습니다.
+
+4. 떡볶이 - 매콤하면서도 부드러운 떡볶이는 국민 야식 중의 하나입니다. 어울리는 음식으로는 오뎅, 김말이, 치즈 등이 있습니다.
+
+5. 아이스크림 - 달콤하고 시원한 아이스크림은 무난한 야식 중 하나입니다. 요즘 들어 맛 독감에 걸린 분들은 폴인타 슈크림이 인기있는 추천메뉴입니다. 
+
+6. 비빔국수 - 열심히 공부하고 긴 날이 끝나면 간편하게 먹을 수 있는 비빔국수도 좋은 야식입니다. 초간장, 고추장, 참기름 등을 넣어 맛을 더욱 살릴 수 있습니다.
+
+저는 다양한 종류의 야식을 취향에 따라 선택하는 것을 추천드립니다!
+[35m⚡LoggerPlugin [39m: 혦: !! 왓슨과 크릭에 대해 논문 형식으로 써줘
+제목: 왓슨과 크릭의 발견과 DNA의 이해
+
+개요:
+1953년 James Watson과 Francis Crick은 체계적 연구와 실험을 통해 DNA의 구조를 처음 발견하였다. 이들의 연구결과는 DNA의 이해에 큰 역할을 하였으며, 이후 바이오테크놀로지 분야의 큰 발전을 이끌어내었다. 이 논문에서는 왓슨과 크릭의 연구 과정과 그 결과, 그리고 그들의 발견이 의미하는 바에 대해 다루어 볼 것이다.
+
+본론:
+1950년대 초반, DNA 분자는 많은 연구자들에게 큰 관심을 받았다. 그 당시, DNA는 생물학의 중요한 재료로 보여졌고, 연구자들은 DNA의 구조가 어떻게 되는지에 대한 이해를 갖고자 했다. James Watson과 Francis Crick은 전기마찰법 등 실험을 통해 DNA 분자의 구조를 조금씩 밝혀내면서, 1953년에는 그들만의 독특한 모델을 발표했다.
+
+이들의 모델은 "더블 헬릭스 모델"로, DNA 분자가 두 개의 나선구조를 가지며, 나선은 서로 엮여있다는 것을 보여주었다. 이는 DNA가 뉴클레오타이드와 함께 이루는 염기쌍의 구조와 많은 연결고리를 통해 유래한 결과로, DNA 직경은 작으면서도 충분한 강도를 갖기 때문에 가능하게 된 것이었다.
+
+왓슨과 크릭의 발견은 이들이 뿌리 내리게 된 분자생물학이나 생화학, 유전학 분야의 발전을 이끌어냈다. 이후 생신학에서는 DNA를 목적으로 하는 도구 등이 개발되었으며, 생명공학, 유전자치료 등과 같은 발전을 이끌어내는 진화적인 대안을 창출하였다.
+
+결론:
+왓슨과 크릭의 DNA 분자 발견은 이들의 고집과 합동연구의 결과이다. 구조 발견은 DNA 연구가만의 중요성과 학문적 분야간의 융합을 이끌었으며, 생명공학이나 바이오테크놀로지 분야에서 엄청난 발전을 이끌어 냈다. 이러한 문화는 현대 과학과 기술분야를 이끄는 발전의 중요한 핵심 요소 중 하나이며, 바이오테크놀로지 분야에서 보편적 대안을 창출하는 원동력이 되고 있다.
+[35m⚡LoggerPlugin [39m: 유민: 난 삼김이나 핫바를 추천하겠아
+[35m⚡LoggerPlugin [39m: 흐엉: 이런거 좀 병신같음
+[35m⚡LoggerPlugin [39m: 흐엉: !! 서울 구로 맛집추천해줘
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+1. 미쁘 - 예쁜 분위기와 맛있는 음식으로 유명한 이탈리안 레스토랑입니다. 
+2. 닭하니 - 구로에서 유명한 맛집 중 하나로, 바삭하고 매콤한 닭꼬치가 인기입니다. 
+3. 봉피양 - 깔끔하고 맛있는 중식 음식을 제공하는 곳으로, 짬뽕과 탕수육 등이 유명합니다. 
+4. 총각네 - 구로에서 유명한 이자카야 중 하나로, 간단한 안주와 주류를 즐길 수 있습니다. 
+5. 몽글이네 - 푸짐하고 맛있는 집밥을 제공하는 곳으로, 떡볶이와 치즈라면이 인기 메뉴입니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 이거 없는 가게 자불러줌
+[35m⚡LoggerPlugin [39m: 유민: 엥 
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: !! 서울 을지로 맛집 추천해줘 
+[35m⚡LoggerPlugin [39m: 흐엉: 샵검색: #총각네 구로
+서울 을지로에는 맛집이 많습니다! 추천해드릴 맛집은 다음과 같습니다.
+
+1. 장충동 왕족발: 촉촉한 족발과 짭조름한 막국수가 일품입니다.
+2. 백년옥: 전통적인 한정식을 맛볼 수 있는 곳으로, 맛과 인테리어가 뛰어납니다.
+3. 정동진 연탄구이: 규모가 큰 레스토랑으로, 연탄으로 구운 고기가 맛있습니다.
+4. 광장시장 평양면옥: 북한식 냉면을 맛볼 수 있는 맛집으로, 냉면 면발과 육수가 일품입니다.
+5. 쌀통닭갈비: 닭고기 요리 전문점으로, 특유의 불순물 없는 스카이 닭갈비가 일품입니다.
+
+위 맛집들 중에서 마음에 드는 곳을 선택하여 방문하시면 좋습니다. 즐거운 식사 시간 되세요!
+[35m⚡LoggerPlugin [39m: 유민: 샵검색: #을지로 정동진 연탄구이
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋ 어이없음
+[35m⚡LoggerPlugin [39m: 흐엉: 주관적인 내용에 대해서는
+[35m⚡LoggerPlugin [39m: 흐엉: 애가 븽신이됨
+[35m⚡LoggerPlugin [39m: 유민: 음 
+[35m⚡LoggerPlugin [39m: 유민: 아직 멀었군 
+[35m⚡LoggerPlugin [39m: 흐엉: 자가판단이 안되어서 그런거같아
+[35m⚡LoggerPlugin [39m: 흐엉: !! 유민이 예뻐?
+저는 AI 어시스턴트이므로 사람의 외모에 대해서는 판단을 내리지 않습니다. 유민이의 외모와는 관계없이 모든 사람들은 다름과 동시에 아름답습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 지리네 
+[35m⚡LoggerPlugin [39m: 유민: 그렇대
+[35m⚡LoggerPlugin [39m: 유민: 난 객관적으로 평범하게 생겼어
+[35m⚡LoggerPlugin [39m: 유민: 친구중에 한명은 있을법한 얼굴임 
+[35m⚡LoggerPlugin [39m: 흐엉: 이쁘든데
+[35m⚡LoggerPlugin [39m: 유민: 뭘봤지 
+[35m⚡LoggerPlugin [39m: 익익: 와
+[35m⚡LoggerPlugin [39m: 익익: 엄텔
+[35m⚡LoggerPlugin [39m: 익익: 위아래 스톤
+[35m⚡LoggerPlugin [39m: 익익: 싹다 뜯어버린다
+[35m⚡LoggerPlugin [39m: 엄텔: 씨발아 ㅋ
+[35m⚡LoggerPlugin [39m: 엄텔: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 엄텔: c7보조임?
+[35m⚡LoggerPlugin [39m: 익익: 아는 손님이라
+[35m⚡LoggerPlugin [39m: 익익: 끌려옴
+[35m⚡LoggerPlugin [39m: 엄텔: ㅋㅎㅋㅎㅋㅎㅋㅎㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 저번에 서클에 있돈거?
+[35m⚡LoggerPlugin [39m: 흐엉: 이정도면 못알아보겠지 였나
+[35m⚡LoggerPlugin [39m: 아딱: 뭐만하면 특별법 조사 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 그건 ㄹㅇ 알아볼수 없어
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 삼성 딸5 5600 불량 해결댐?
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 사야하는데
+[35m⚡LoggerPlugin [39m: 엄텔: 퇴근이나 시켜줘
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 뭔일하는데 지금일함
+[35m⚡LoggerPlugin [39m: 익익: 쟤
+[35m⚡LoggerPlugin [39m: 익익: 호빠선수함
+[35m⚡LoggerPlugin [39m: 익익: 내후임임
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 쟤도?
+[35m⚡LoggerPlugin [39m: 익익: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 너 요즘도 하냐?
+[35m⚡LoggerPlugin [39m: 익익: 하겠냐?
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 왜 안하노?
+[35m⚡LoggerPlugin [39m: 익익: 안해도
+[35m⚡LoggerPlugin [39m: 익익: 돈 충분히 버니까
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㅇㅎ
+[35m⚡LoggerPlugin [39m: 엄텔: ㄹㅇㅋㅋ
+[35m⚡LoggerPlugin [39m: 엄텔: 루다
+[35m⚡LoggerPlugin [39m: 엄텔: 퇴근하고 국밥먹자
+[35m⚡LoggerPlugin [39m: 익익: ㅗ
+[35m⚡LoggerPlugin [39m: 익익: 여친이
+[35m⚡LoggerPlugin [39m: 익익: 낙지김치죽
+[35m⚡LoggerPlugin [39m: 익익: 사오래
+[35m⚡LoggerPlugin [39m: 엄텔: 티피에이나 봐
+[35m⚡LoggerPlugin [39m: 익익: ㄹㅇㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 엄텔: 보조하느라 뒤도 못보는중 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: 안봐도댐
+[35m⚡LoggerPlugin [39m: 익익: 시발 내가
+[35m⚡LoggerPlugin [39m: 익익: 트파를
+[35m⚡LoggerPlugin [39m: 익익: 몇번을 봤는데
+[35m⚡LoggerPlugin [39m: 엄텔: 난 이엏게
+[35m⚡LoggerPlugin [39m: 엄텔: 가까이사
+[35m⚡LoggerPlugin [39m: 엄텔: 처음봄
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '컴갤러 격리소',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ '7n', 'Ff', '3T', 'e0' ]
+[35m⚡LoggerPlugin [39m: 제원: 오잉 ㅎ?
+[35m⚡LoggerPlugin [39m: 박민혁: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 하아
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 이승학: 하아
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 이승학: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 이승학: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: @박민혁 김지희 인증가능?
+[35m⚡LoggerPlugin [39m: 이승학: 실화냐
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 박민혁: 지희 잘있지
+[35m⚡LoggerPlugin [39m: 이승학: 부럽다 부러워
+[35m⚡LoggerPlugin [39m: 이승학: 민성아
+[35m⚡LoggerPlugin [39m: 이승학: 넌 뭐해?
+[35m⚡LoggerPlugin [39m: 이승학: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: ㄷㅊ
+[35m⚡LoggerPlugin [39m: 이승학: 기석주 아직자나???
+[35m⚡LoggerPlugin [39m: 흐엉:  그냥 본걸로할래
+[35m⚡LoggerPlugin [39m: 흐엉: 아 맞다 다섯시에
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 깨워줄라햇는데
+[35m⚡LoggerPlugin [39m: 흐엉: 깜빡햇네
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 뒤짐?
+[35m⚡LoggerPlugin [39m: 김민성: 주금?
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 유민: 머야 
+[35m⚡LoggerPlugin [39m: 유민: 그래두 잘 일어나서 출근 햤다,,,
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 유민: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 오 이쁘다
+[35m⚡LoggerPlugin [39m: 흐엉: 너가 만들엇어?
+[35m⚡LoggerPlugin [39m: 유민: 만들었다기 보다는
+[35m⚡LoggerPlugin [39m: 유민: … 대충 
+[35m⚡LoggerPlugin [39m: 유민: 몇개 챙걌어
+[35m⚡LoggerPlugin [39m: 흐엉: 잘했어
+[35m⚡LoggerPlugin [39m: 이승학: 읽씹함
+[35m⚡LoggerPlugin [39m: 흐엉:  잘놀앗니
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 52624, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 흐엉: 오늘도 출근했어??
+[35m⚡LoggerPlugin [39m: 유민: 월화 원래 쉬는날이야
+[35m⚡LoggerPlugin [39m: 흐엉: 젛아
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼 오늘 뭐하늬
+[35m⚡LoggerPlugin [39m: 유민: 밀린 집안일과 
+[35m⚡LoggerPlugin [39m: 유민: 논문발표자료 
+[35m⚡LoggerPlugin [39m: 흐엉: 멋있어
+[35m⚡LoggerPlugin [39m: 유민: 사진 4장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 어제 창경궁 갔다왔는디 
+[35m⚡LoggerPlugin [39m: 유민: 비가왔어
+[35m⚡LoggerPlugin [39m: 흐엉: 비어ㅏ거 
+[35m⚡LoggerPlugin [39m: 흐엉: 비와서 오히려 더 운치있어
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 너는 어딨어???
+[35m⚡LoggerPlugin [39m: 유민: 사진 3장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 여기
+[35m⚡LoggerPlugin [39m: 흐엉: szzzzz
+[35m⚡LoggerPlugin [39m: 흐엉: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 옷되게이뿌대
+[35m⚡LoggerPlugin [39m: 유민: 구랭?
+[35m⚡LoggerPlugin [39m: 유민: 고마엉
+[35m⚡LoggerPlugin [39m: 흐엉: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 삼겹살
+[35m⚡LoggerPlugin [39m: 흐엉: 꿉는주
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 유민: 어제 대단한 삼겹살을 먹었오
+[35m⚡LoggerPlugin [39m: 흐엉: 나빼고,,,
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'q6', 'qO', 'ji', 'ua' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 53355, size: 21933 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '흐엉', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 이승학: 버그다
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 버그ㅏ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 삼성sdi
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼성sdi',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성SDI' ]
+  }
+]
+[ '삼성SDI' ]
+1
+[ 'XD', 'cw', 'sh', 'ne' ]
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 케이미넴: 크.
+[35m⚡LoggerPlugin [39m: 케이미넴: 금수저들은 역시 다름
+[35m⚡LoggerPlugin [39m: 케이미넴: 27살 먹은 아들 게임해야한다고 부모가 4090을 사주네
+[35m⚡LoggerPlugin [39m: 엄텔: 부모차이 ㅈㅈ
+[35m⚡LoggerPlugin [39m: 로버: wtf
+[35m⚡LoggerPlugin [39m: 케이미넴: 거래처 대표아들래미인데
+[35m⚡LoggerPlugin [39m: 케이미넴: 현재 백수임
+[35m⚡LoggerPlugin [39m: 케이미넴: 크 부모차이가 나면
+[35m⚡LoggerPlugin [39m: 케이미넴: 서른이 다되가도록 일안해도 먹고사는구나 싶음

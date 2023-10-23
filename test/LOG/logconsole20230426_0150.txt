@@ -1,0 +1,107 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 흐엉: 니들이 뷩신같은잿거리해서
+test123
+[ '니들이', '뷩신같은잿거리해서' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 이방은 차단해놨다니까
+[ '이방은', '차단해놨다니까' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 말귀를 못알아처먹노
+[ '말귀를', '못알아처먹노' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 미안 나
+[ '미안', '나' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 추방당해서
+[ '추방당해서' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 못봤어
+[ '못봤어' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 넌나가라
+[ '걍', '넌나가라' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 오지마
+[ '오지마' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 안대!
+[ '안대!' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 위내용보니까 애미뒤진 베충이네
+[ '위내용보니까', '애미뒤진', '베충이네' ]
+[35m⚡LoggerPlugin [39m: 방장봇: ㅎㅇ
+질문할거면 빠르게 증상 설명하셈
+[ 'ㅎㅇ\n질문할거면', '빠르게', '증상', '설명하셈' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㄱㅅㄱㅅ
+[ 'ㄱㅅㄱㅅ' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 베충이들 그냥 칼 강퇴함 마지막경고다
+[ '베충이들', '그냥', '칼', '강퇴함', '마지막경고다' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㅇㅋ
+[ 'ㅇㅋ' ]
+[35m⚡LoggerPlugin [39m: ys: 이모티콘을 보냈습니다.
+[ '이모티콘을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이지영: !! 오늘 서울 날씨
+[ '!!', '오늘', '서울', '날씨' ]
+죄송합니다, 저는 AI 어시스턴트이기 때문에 실시간으로 날씨 정보를 제공할 수 없습니다. 현재 날씨 정보를 얻기 위해서는 인터넷 검색이나 기상청 공식 홈페이지 등을 참고하셔야 합니다.
+[35m⚡LoggerPlugin [39m: 정주환: 시리야
+[ '시리야' ]
+[35m⚡LoggerPlugin [39m: 정주환: 날씨 알려줘
+[ '날씨', '알려줘' ]
+[35m⚡LoggerPlugin [39m: 이지영: ㅇㅋ 똑똑한 놈
+[ 'ㅇㅋ', '똑똑한', '놈' ]
+[35m⚡LoggerPlugin [39m: 기요미: 어우
+[ '어우' ]
+[35m⚡LoggerPlugin [39m: 기요미: 진짜 언제까지 추위에떨어야해
+[ '진짜', '언제까지', '추위에떨어야해' ]
+[35m⚡LoggerPlugin [39m: 조정원: 요즘 일교차 지림
+[ '요즘', '일교차', '지림' ]
+[35m⚡LoggerPlugin [39m: 조정원: 근데 오늘은 걍 기온이 낮네
+[ '근데', '오늘은', '걍', '기온이', '낮네' ]
+[35m⚡LoggerPlugin [39m: 엄텔: 일베들 멈춰
+[ '일베들', '멈춰' ]
+[35m⚡LoggerPlugin [39m: 엄텔: 디씨가서 하라고 ㅋㅋ
+[ '디씨가서', '하라고', 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[ '지옥의', '시간이다', '그지', '깽깽이들아' ]
+[35m⚡LoggerPlugin [39m: 아딱: 먼 그지꺵깽이야
+[ '먼', '그지꺵깽이야' ]
+[35m⚡LoggerPlugin [39m: 아딱: 방장봇 바보야
+[ '방장봇', '바보야' ]
+node-cron test
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 56355, size: 21959 },
+  room: '컴갤러 격리소',
+  content: '니들이 뷩신같은잿거리해서',
+  sender: { name: '흐엉', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'Fw', 'Jq', 'ch', 'yg' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'uP', 'jJ', 'SC', 'zN' ]
+코스피
+[ '코스피', '' ]
+index
+[ '0U', 'li', '8X', '4I' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'lc', '61', 'YB', 'gw' ]

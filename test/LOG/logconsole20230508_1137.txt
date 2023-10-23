@@ -1,0 +1,1697 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: q meta
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'q meta',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'META' ]
+  }
+]
+META
+nasdaq
+[ 'Ge', 'RC', 'e6', 'w7' ]
+[35m⚡LoggerPlugin [39m: 이승학: q meta ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'q meta ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'META', 'ㅇㅂ' ]
+  }
+]
+META
+nasdaq
+[ 'xs', 'wo', '1V', '6j' ]
+[35m⚡LoggerPlugin [39m: 이승학: q aapl ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: 'q aapl ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'AAPL', 'ㅇㅂ' ]
+  }
+]
+AAPL
+nasdaq
+[ 'gf', 'aJ', 'BR', 'vS' ]
+[35m⚡LoggerPlugin [39m: 이승학: 애플은 역시 전설이야
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이쯤되면 얘도 한번 낙하 해주는게
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 지지층에겐 도움될듯
+[35m⚡LoggerPlugin [39m: 이지영: 퇴근하고 전화드려야겠다
+[35m⚡LoggerPlugin [39m: hmj: 그랭~
+[35m⚡LoggerPlugin [39m: 용성: 카카오페이
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '카카오페이',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오페이' ]
+  }
+]
+[ '카카오페이' ]
+1
+[ 'kO', 'rs', 'Mr', 'R6' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/135916
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아딱을위해
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 쫌 긴글이네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 안올라가냐
+[35m⚡LoggerPlugin [39m: 케이미넴: Pc톡 맛탱이갔네
+[35m⚡LoggerPlugin [39m: 엄텔: 안보내짐
+[35m⚡LoggerPlugin [39m: 엄텔: ㅅㅂ ㅋ
+[35m⚡LoggerPlugin [39m: 꽥꽥이: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 꽥꽥이: 모바일도 죽음
+[35m⚡LoggerPlugin [39m: 기요미: 의ㅣㅇ
+[35m⚡LoggerPlugin [39m: 기요미: 잘되던디
+[35m⚡LoggerPlugin [39m: 케이미넴: 오 돌아왔다
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭐지 서버 껐다켰나
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 그래서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 안올라간거였나
+[35m⚡LoggerPlugin [39m: 용성: ㅏ
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅇㅇ?
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 섹스섹스
+[35m⚡LoggerPlugin [39m: 꽥꽥이: 사진도 안불러와지는데
+[35m⚡LoggerPlugin [39m: 아딱: 아무야ㅐ
+[35m⚡LoggerPlugin [39m: 아딱: 되네 ㅡㅡ
+[35m⚡LoggerPlugin [39m: 아딱: 안되는줄알고 보냈는데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 구라치네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 섹스마스터 아딱
+[35m⚡LoggerPlugin [39m: 아딱: 헉
+[35m⚡LoggerPlugin [39m: 기요미: 의ㅣ
+[35m⚡LoggerPlugin [39m: 기요미: 엥
+[35m⚡LoggerPlugin [39m: 기요미: 사진안보이네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 원숭이 후계자노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅅㅅ를 알려주겠다
+[35m⚡LoggerPlugin [39m: 기요미: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기요미: 보임?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아이브 신곡
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 좋더라
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 노래는 자주들었는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 지금 종내 느리게 올라옴
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 춤 약간 느낌있어서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 무대영상 어제 하루종일봤네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 놀토였나 거기서 춤 영상보고 꽂혀서 무대영상 찾아보고 행사간거 찾아보고
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 퀵앤 슬로
+[35m⚡LoggerPlugin [39m: 아딱: 조련사바보ㅠ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 그는 무료로 그의집을 관리해주던 조련사의 가족
+[35m⚡LoggerPlugin [39m: 아딱: 헉
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 조련사는 아딱에게 양도계약서를 내밀며 손가락을 찍도록 하였다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 양도계약서를 체결하였지만 아딱을 불쌍히 여긴 조련사
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 집 한구석에 보금자리를 마련해주었다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아름다운 결말~
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사:  ^^
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 석세스
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 짜샤
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅈ같은 루피
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 쓰끼로했다
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+1
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 53135, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'H1', 'kg', '5k', '6H' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '30', 'm1', '25', 'ru' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Ak', 'G3', 'R5', 'Lq' ]
+undefined
+아마 중복떄문에 ? 
+undefined
+코스닥
+[ '코스닥', '' ]
+index
+[ 'eE', '9E', 'gF', '0d' ]
+[35m⚡LoggerPlugin [39m: 아딱: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'CM', 'Kl', '2F', 'WK' ]
+[35m⚡LoggerPlugin [39m: 아딱: dh
+[35m⚡LoggerPlugin [39m: 아딱: 오
+[35m⚡LoggerPlugin [39m: 아딱: 철옹성같은 20000
+[35m⚡LoggerPlugin [39m: 아딱: 삼천리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼천리',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼천리' ]
+  }
+]
+[ '삼천리' ]
+1
+[ '7d', 'gz', 'zz', 'I8' ]
+[35m⚡LoggerPlugin [39m: 아딱: 서울가스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '서울가스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '서울가스' ]
+  }
+]
+[ '서울가스' ]
+1
+[ 'kd', 'u6', 'K9', '5B' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 세광
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 선광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '선광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '선광' ]
+  }
+]
+[ '선광' ]
+1
+[ 'FW', 'sq', 'WA', 'gY' ]
+[35m⚡LoggerPlugin [39m: 용성: 카카오페이
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '카카오페이',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오페이' ]
+  }
+]
+[ '카카오페이' ]
+1
+[ 'cA', '2w', 'Qb', 'gs' ]
+[35m⚡LoggerPlugin [39m: 유민: 웅 
+[35m⚡LoggerPlugin [39m: 이승학: 효녀 소원아
+[35m⚡LoggerPlugin [39m: 이승학: 어버이날인데 뭐 해드렸어?
+[35m⚡LoggerPlugin [39m: 이승학: 삼성sdi
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '삼성sdi',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성SDI' ]
+  }
+]
+[ '삼성SDI' ]
+1
+[ 'Dy', 'wN', 'HF', 'ZF' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'hr', 'XY', '0i', '7e' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: hmmㅇㅂ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: hmm ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', 'ㅇㅂ' ]
+  }
+]
+[ 'HMM', 'ㅇㅂ' ]
+1
+[ 'wc', 'Ao', 'Cd', 'Tu' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 흠씨발
+[35m⚡LoggerPlugin [39m: 아딱: 그래도
+[35m⚡LoggerPlugin [39m: 아딱: HMM은
+[35m⚡LoggerPlugin [39m: 아딱: 불사신같다
+[35m⚡LoggerPlugin [39m: 아딱: 2만에서 죽지않아
+[35m⚡LoggerPlugin [39m: 아딱: 내고추같음
+[35m⚡LoggerPlugin [39m: 아딱: 죽지않아!!!
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아딱 고추마냥
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 서질못하노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 아딱: 이노무 자식
+[35m⚡LoggerPlugin [39m: 아딱: 뭐라고라!?
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아딱이는 서지못한다고!
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: HMM처럼!
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 서질못해!
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅠ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아딱고추 확잘라
+[35m⚡LoggerPlugin [39m: 아딱: 헉
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 찢칠라 X 잔망루피
+[35m⚡LoggerPlugin [39m: 아딱: 컬라버
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: whejswhdi
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 조정조야
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저거
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 너가 구린거야?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 내가 써도됨?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나얌이 프사할래
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 더이쁘게 동그랗게 그려줘
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 저거 얼굴?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 엉
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나얌이 프사로쓰게
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 쓰셈
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 너프사처럼
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 동그라미에
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 일부러 ㅈ같이 그린건데 동그랗게 그리면 의미가없지
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 들어오ㅓ게
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그려줘
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 동그라미 안들어오노?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이게 ㅇㅇㅇ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저거 저대로하면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 눈이랑 입에안들어감
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 코만
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 보임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 좀더 모아줌 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㄱㄷ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 약간
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 너프사같은거
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 느낌있게해줘
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그냥
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 프사를줘라
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저거 ㅈㄴ맘에든다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 내꺼?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 요?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 엉\
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 쓰셈
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 원본임
+[35m⚡LoggerPlugin [39m: 흐엉: 나얌이
+[35m⚡LoggerPlugin [39m: 흐엉: 프사어떄?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'cv', 'PA', 'bM', 'cl' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅈㄴ맘에든다 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 애둘아ㅏ
+[35m⚡LoggerPlugin [39m: 이승학: 나얌이 프사 어때?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뭐야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사이즈 딱이네
+[35m⚡LoggerPlugin [39m: 이승학: hmm 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: 'hmm 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', '주봉' ]
+  }
+]
+[ 'HMM', '주봉' ]
+1
+[ '9O', 'hd', 'JV', '0I' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 엥?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 내폰이 이상한가
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 코만보이던데
+[35m⚡LoggerPlugin [39m: 아딱: 사이즈딱이네
+[35m⚡LoggerPlugin [39m: 용성: 귀여운게좋은디
+[35m⚡LoggerPlugin [39m: 이승학: 그럼
+[35m⚡LoggerPlugin [39m: 이승학: 이건?
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 귀얍네ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: dlrjtehdltDj
+[35m⚡LoggerPlugin [39m: 흐엉: 이것도잇어
+[35m⚡LoggerPlugin [39m: 흐엉: 둘중 뭐할까
+[35m⚡LoggerPlugin [39m: 유민: 상한가 찍는건 없오?
+[35m⚡LoggerPlugin [39m: 유민: 난 지금 상한가 찍어야 되는데
+[35m⚡LoggerPlugin [39m: 흐엉: 절망의 아이콘인데
+[35m⚡LoggerPlugin [39m: 유민: 안돼 
+[35m⚡LoggerPlugin [39m: 흐엉: 모두에게 희망을 보여주는건 재앙이아ㅑ
+[35m⚡LoggerPlugin [39m: 흐엉: 절망속에서 희망을 찾아야지
+[35m⚡LoggerPlugin [39m: 유민: 그래..? 
+[35m⚡LoggerPlugin [39m: 유민: 지금꺼가 더 조항 
+[35m⚡LoggerPlugin [39m: 흐엉: 그랭
+[35m⚡LoggerPlugin [39m: 유민: 웅 
+[35m⚡LoggerPlugin [39m: 흐엉: 근데있자나,,
+[35m⚡LoggerPlugin [39m: 흐엉: 나 너 봐버렸어
+[35m⚡LoggerPlugin [39m: 흐엉: 미안해
+[35m⚡LoggerPlugin [39m: 유민: 구랭
+[35m⚡LoggerPlugin [39m: 흐엉: 아니
+[35m⚡LoggerPlugin [39m: 흐엉: 저거 갠톡으로
+[35m⚡LoggerPlugin [39m: 흐엉: 보내면 어떡해
+[35m⚡LoggerPlugin [39m: 유민: 웅
+[35m⚡LoggerPlugin [39m: 흐엉: !!
+[35m⚡LoggerPlugin [39m: 유민: 머?
+I apologize, but I cannot respond without context or information on what you are referring to. Can you please provide more information or a question for me to answer?
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 내맘이지
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 내가
+[35m⚡LoggerPlugin [39m: 흐엉: 프사바꾸러가면서
+[35m⚡LoggerPlugin [39m: 유민: 웅 
+[35m⚡LoggerPlugin [39m: 흐엉: 누가봐도 너인사람을 봐버렷움
+[35m⚡LoggerPlugin [39m: 유민: 괜찬ㄹ다니까 
+[35m⚡LoggerPlugin [39m: 유민: 귀엽지 ?
+[35m⚡LoggerPlugin [39m: 흐엉: 그렇구만
+[35m⚡LoggerPlugin [39m: 흐엉: 응
+[35m⚡LoggerPlugin [39m: 유민: 어때 
+[35m⚡LoggerPlugin [39m: 유민: ㅋ ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 짱귀여움
+[35m⚡LoggerPlugin [39m: 유민: 알아 
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 생각햇던
+[35m⚡LoggerPlugin [39m: 흐엉: 그 인상그대로더라
+[35m⚡LoggerPlugin [39m: 유민: 아냐 사진보다 실물이 더 귀여워
+[35m⚡LoggerPlugin [39m: 흐엉: 헐
+[35m⚡LoggerPlugin [39m: 흐엉: 조만간 보러갈게
+[35m⚡LoggerPlugin [39m: 유민: 그레
+[35m⚡LoggerPlugin [39m: 흐엉: q meta ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '컴갤러 격리소',
+      content: 'q meta ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'META', 'ㅇㅂ' ]
+  }
+]
+META
+nasdaq
+[ 'ok', 'KA', 'R6', 'Ku' ]
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나는야퉁퉁이',
+      content: 'q aapl ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'AAPL', 'ㅇㅂ' ]
+  }
+]
+AAPL
+nasdaq
+[ 'mx', 'bR', 'Gl', 'HF' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 역시 애플은 전설이다
+[35m⚡LoggerPlugin [39m: 흐엉: q dac
+DAC
+nyse
+[ 'xR', '5H', 'tK', 'ST' ]
+[35m⚡LoggerPlugin [39m: 흐엉: q del
+[35m⚡LoggerPlugin [39m: 흐엉: q dal
+DAL
+nyse
+[ 'x0', 'uE', 'b8', 'tV' ]
+[35m⚡LoggerPlugin [39m: 이승학: q amd
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'q amd',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AMD' ]
+  }
+]
+AMD
+nasdaq
+[ 'na', 'Hn', '91', '0T' ]
+[35m⚡LoggerPlugin [39m: 이승학: q amd ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'q amd ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AMD', 'ㅇㅂ' ]
+  }
+]
+AMD
+nasdaq
+[ 'eN', 'oz', 'Nj', '8q' ]
+[35m⚡LoggerPlugin [39m: 한승연: 엄준식 닮음
+[35m⚡LoggerPlugin [39m: 황소원: 야 너는
+[35m⚡LoggerPlugin [39m: 황소원: 뭐해드렸냐
+[35m⚡LoggerPlugin [39m: 황소원: 나아직아무고토..
+[35m⚡LoggerPlugin [39m: 이승학: 나도 아직 아무고토,,,
+[35m⚡LoggerPlugin [39m: 이승학: 어린이날 선물 안받았으니까 퉁칠래
+[35m⚡LoggerPlugin [39m: 용성: 카카오페이
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '카카오페이',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오페이' ]
+  }
+]
+[ '카카오페이' ]
+1
+[ 'mC', 'l6', 'xf', 'S1' ]
+[35m⚡LoggerPlugin [39m: 한승연: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'Yl', 'Ul', 'Id', 'ow' ]
+[35m⚡LoggerPlugin [39m: 익익: @엄텔 
+[35m⚡LoggerPlugin [39m: 익익: 이새기 죽음?
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 엄
+[35m⚡LoggerPlugin [39m: 황소원: 넌 좀 심하다
+[35m⚡LoggerPlugin [39m: 이승학: 불호자라,,
+[35m⚡LoggerPlugin [39m: ys: 준
+[35m⚡LoggerPlugin [39m: 엄텔: 식
+[35m⚡LoggerPlugin [39m: 이승학: q meta ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: 'q meta ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'META', 'ㅇㅂ' ]
+  }
+]
+META
+nasdaq
+[ 'Tt', 'h7', 'i9', 'NP' ]
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '컴갤러 격리소',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+nasdaq
+[ 'aM', '92', 'on', 'WU' ]
+[35m⚡LoggerPlugin [39m: 흐엉: q dal ㅇㅂ
+DAL
+nyse
+[ 'ue', 'FQ', 'QT', 'gA' ]
+[35m⚡LoggerPlugin [39m: 로버: 예비군
+[35m⚡LoggerPlugin [39m: 로버: ㅈ같다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 흠
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'tV', 'i1', 'Vu', 'Fb' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 오늘은 올라가보자
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 52468, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'X2', 'Fy', '9W', 't9' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'xN', 'LX', '3r', 'Au' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'rX', 'qf', 'Fb', 'Ox' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'rD', 'M2', 'MG', '7i' ]
+코스피
+[ '코스피', '' ]
+index
+[ '4d', '4T', 'Gr', '8o' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Iz', 'Cz', 'Nl', 'OM' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'co', 'Bm', 'Ni', 'ak' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'vx', '5P', 'TN', '4w' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'EN', 'dI', 'Z7', '6s' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '64', 'sY', 'ZV', 'oY' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: https://n.news.naver.com/mnews/article/023/0003762477?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이거 결국 말하네 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 어제 8시뉴스 보니까 LG디플 팔아서 코인보유했다고했는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그러면 통장에 늘어난 예금은 뭔데 싶었는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 가상화폐에서 얻은 수익을 인출하여 예금한것으로 보인다고 말하노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 얜 말할수록
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 털리겠다
+[35m⚡LoggerPlugin [39m: 아딱: 매매내역 공개하면되는데
+[35m⚡LoggerPlugin [39m: 아딱: 공개한다더니
+[35m⚡LoggerPlugin [39m: 아딱: 입출금내역만 밝힘ㄱㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 공동발의는 했지만 본표결에서 전자화폐 세금유예법 반대했다고했는데 확인해보니 찬성 
+[35m⚡LoggerPlugin [39m: 아딱: 캬
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 고민정청래가 보수정권 위기빠질때마다 구원투수역할 해주노
+[35m⚡LoggerPlugin [39m: 엄텔: 고려대가 더 좋은거같은데...
+[35m⚡LoggerPlugin [39m: 엄텔: 민족의 아리아는 넘사인거같다
+[35m⚡LoggerPlugin [39m: 케이미넴: 그건 중요하지않음
+[35m⚡LoggerPlugin [39m: 케이미넴: 난 지금 주차기
+고장나서
+[35m⚡LoggerPlugin [39m: 엄텔: ?
+[35m⚡LoggerPlugin [39m: 케이미넴: 출근을 못하고있다
+[35m⚡LoggerPlugin [39m: 엄텔: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 엄텔: 그건 좀 히트네
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 꼬라지보니 상장시기랑 겹쳐봤을떄
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이새끼 위믹스한테 코인 받았음
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그런다음 상장하고 팔아치웠을꺼임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: LG디플은 계좌로 넣어서 수익이고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 가상화폐는 이새끼 대선자금으로 받았든 뇌물이든간에
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위믹한테 그냥 받은거로 생각됨 나는
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 데이터 쪼가리를 던져주면 돈을주는것이 있다?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 무한 김치 코인
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위믹스한테 탈탈 털린 민주당원 현재 스턴걸림
+[35m⚡LoggerPlugin [39m: 아딱: 자봐바
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 자봐 없어
+[35m⚡LoggerPlugin [39m: 아딱: 2020년 소득신고 : 예금 3억 주식 9억원  <합12억>
+2021년 소득신고 : 예금 13억 주식 0원  <합13억>
+2022년 소득신고 : 예금 3억억 부동산8억 후원금3억 주식0원  <합15억>
+
+[35m⚡LoggerPlugin [39m: 아딱: 소득신고보면은
+[35m⚡LoggerPlugin [39m: 아딱: 거의 합은 그대로 얘가 유지함
+[35m⚡LoggerPlugin [39m: 아딱: 2021년에 LG디스플레이 9억을 전량 매도했음 그돈으로 코인을 샀다고했고
+[35m⚡LoggerPlugin [39m: 아딱: 해명에는 코인을 투자가하다가
+[35m⚡LoggerPlugin [39m: 아딱: 원금 9억원은 다시 뻇다고했음
+[35m⚡LoggerPlugin [39m: 아딱: 근데 그러면은 원금을뺴고도 
+[35m⚡LoggerPlugin [39m: 아딱: 위믹스가 60억원어치나 있었다느게
+[35m⚡LoggerPlugin [39m: 아딱: 납득되냐?
+[35m⚡LoggerPlugin [39m: 아딱: 전자화폐 계좌에 69억잇었다는거임그러면
+[35m⚡LoggerPlugin [39m: 아딱: 9억으로 => 69억 => -9억 => 60억
+[35m⚡LoggerPlugin [39m: 아딱: 9억인출한 그돈으로 예금 13억 
+[35m⚡LoggerPlugin [39m: 아딱: 김남국이샛기 아주 지능적인새끼임
+[35m⚡LoggerPlugin [39m: 아딱: 소득신고 계속 12~13억에 강제로맞추고
+[35m⚡LoggerPlugin [39m: 아딱: 소득 안늘어난 '척'
+[35m⚡LoggerPlugin [39m: 아딱: 쇼했던거고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아니지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아아니지이
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이거로만돌리고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 가상화폐는 받은거고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 지갑에서는 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 다른코인 구매했다고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 하던데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그건 위믹스가 아니라고함
+[35m⚡LoggerPlugin [39m: 아딱: 위믹스코인 판돈 
+[35m⚡LoggerPlugin [39m: 아딱: 그대로 월렛에 있고
+[35m⚡LoggerPlugin [39m: 아딱: 다른코인샀다고
+[35m⚡LoggerPlugin [39m: 아딱: 해명함
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위믹스 상장전
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 받은거 아닐까
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 싶음
+[35m⚡LoggerPlugin [39m: 아딱: 그니깐 매매내역 공개하면은 
+[35m⚡LoggerPlugin [39m: 아딱: 9억 -> 69억
+[35m⚡LoggerPlugin [39m: 아딱: 불렸는지;
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 매매에
+[35m⚡LoggerPlugin [39m: 아딱: 아니면 9억 + 60억 (받은거)
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위믹스 매수내역이 없으니까
+[35m⚡LoggerPlugin [39m: 아딱: 이거인지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그런거겠지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 양도받았을테니까
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 아딱: 논란부인하면서 자기가 매매내역 공개하겠다 해놓고
+[35m⚡LoggerPlugin [39m: 아딱: 매매내역 공개안하고
+[35m⚡LoggerPlugin [39m: 아딱: 입출금내역만 공개
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 어제 뉴스 앵커도
+[35m⚡LoggerPlugin [39m: 아딱: 어이없다는듯이
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아니 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 근데 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 입금은함?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 9억?
+[35m⚡LoggerPlugin [39m: 아딱: 해명할수록 논란만 키우고있다고
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 그거는 확인됨
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그래? 그럼 일단
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 한번 넣다 뺏네
+[35m⚡LoggerPlugin [39m: 아딱: 9억넣고 9억뻇음
+[35m⚡LoggerPlugin [39m: 아딱: 그러고 김남국 자기본인도
+[35m⚡LoggerPlugin [39m: 아딱: 9억 시드머니로 투자해서
+[35m⚡LoggerPlugin [39m: 아딱: 이득보고
+[35m⚡LoggerPlugin [39m: 아딱: 9억시드머니를 뻇다
+[35m⚡LoggerPlugin [39m: 아딱: 라고했음
+[35m⚡LoggerPlugin [39m: 아딱: 그렇게해명함
+[35m⚡LoggerPlugin [39m: 아딱: 그러면 위믹스가 60억치나 있었다고하면
+[35m⚡LoggerPlugin [39m: 아딱: 내가말한
+[35m⚡LoggerPlugin [39m: 아딱: 9억- > 69억
+[35m⚡LoggerPlugin [39m: 아딱: 이거자나
+[35m⚡LoggerPlugin [39m: 아딱: 9억으로 69억벌은거
+[35m⚡LoggerPlugin [39m: 아딱: 그니깐 9억으로 69억벌은건지
+[35m⚡LoggerPlugin [39m: 아딱: 매매내역을까면
+[35m⚡LoggerPlugin [39m: 아딱: 지가 해명되는거자나
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 까면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅈ대니까
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 못까는거지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 아딱: 이게 사실이면
+[35m⚡LoggerPlugin [39m: 아딱: 자기는 
+[35m⚡LoggerPlugin [39m: 아딱: 투자천재
+[35m⚡LoggerPlugin [39m: 아딱: 영앤리치가되는거고
+[35m⚡LoggerPlugin [39m: 아딱: 의혹한방에 정리되는거고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 의혹은 정리되는데
+[35m⚡LoggerPlugin [39m: 아딱: 만약에 9억 + 60억(누구한테받은거)
+[35m⚡LoggerPlugin [39m: 아딱: 라고하면은
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 재산공개에서
+[35m⚡LoggerPlugin [39m: 이승학: 애들아
+[35m⚡LoggerPlugin [39m: 아딱: 뇌물이고 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 어짜피 가불기걸림
+[35m⚡LoggerPlugin [39m: 이승학: 어버이날 뭐해드렸어
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 그거부터가 이미
+[35m⚡LoggerPlugin [39m: 아딱: 정치생명 갔어
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 과연
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그럴까?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 전과4범도 대선후보하는판인데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그깟
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 정보공개 안했다고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 정치생명이 끝날까
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 : 저 정말 열심히 뛰고있습니다. 청년정치인으로써 많은 어려움이있지만
+저에게는 저를 지지하는 유권자가 있습니다. 후원해주시면 열심히 뛰겠습니다.
+
+정청래 : 뭔말이많아~ 그냥 한푼줍쇼해~
+
+김남국 : 한푼줍쇼!
+
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 헬 조센을
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 우숩게보노
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 시바꺼
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 김남국
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나도 대권후보하면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 돌려까는거 개많던데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 70억
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 받을수맀음?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 까르보나라
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 처음들어봤따
+[35m⚡LoggerPlugin [39m: 아딱: 까르보나라도
+[35m⚡LoggerPlugin [39m: 아딱: 그게뭐에요..?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 구멍뚫린 운동화
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 삼성sdi
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼성sdi',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성SDI' ]
+  }
+]
+[ '삼성SDI' ]
+1
+[ 'cR', 'nb', 'XG', 'lZ' ]
+[35m⚡LoggerPlugin [39m: 아딱: 이지랄ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 구멍뚫린 양말
+[35m⚡LoggerPlugin [39m: 아딱: 이미
+[35m⚡LoggerPlugin [39m: 아딱: 비명계 의원들은
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 차 개병신되어있는거 공개하고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 까기시작함
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 빈곤 포르노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그 뭐냐
+[35m⚡LoggerPlugin [39m: 아딱: 그 같은 청년 정치인누구지
+[35m⚡LoggerPlugin [39m: 아딱: 정 누구
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 윤 와이프
+[35m⚡LoggerPlugin [39m: 아딱: 정뭐씨
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 빈곤포르노니 뭐니
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 하더니 본인들이 더 전문가
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 그 빈곤포르노 말했떤얘도
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 박주빈인가
+[35m⚡LoggerPlugin [39m: 아딱: 장 모씨였는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그새끼가 레전드지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그지 국회의원
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이미지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 무한도전에서
+[35m⚡LoggerPlugin [39m: 아딱: 장경태
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 제대로 씌워서
+[35m⚡LoggerPlugin [39m: 아딱: 장경태 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 장경태도 존나웃긴게
+[35m⚡LoggerPlugin [39m: 아딱: 반지하에서 사는
+[35m⚡LoggerPlugin [39m: 아딱: 청년정치인이라고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그새낀뭐임
+[35m⚡LoggerPlugin [39m: 아딱: 온갖 빈곤포르노 찍더니
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 83년생이네
+[35m⚡LoggerPlugin [39m: 아딱: 돈봉투 사태터지니깐
+[35m⚡LoggerPlugin [39m: 아딱: 50만원은 밥값수준도안된다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 박주빈이 아니네?
+[35m⚡LoggerPlugin [39m: 아딱: 이지랄ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 실드친다고
+[35m⚡LoggerPlugin [39m: 아딱: 50만원은 밥값수준도 안되는돈인데 
+[35m⚡LoggerPlugin [39m: 아딱: 이지랄함
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 아주그냥
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 거지국회의원 검색하면 나온다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이 씨발새끼 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저사람
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 열심히
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 하는 사람아니였어?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뭘 열심히야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 거지타이틀
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 다달고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뒤로는
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: “거지코스프레”
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 개비싼 아파트
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 월세주고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 자기는 돈없단식으로
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이미지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 존나 방송에서 탓는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 무한도전에서 제대로 씌워줬음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그래서
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나도
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 국회의원
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 하는법좀
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 어떻게하면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 일단
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 개꿀평생직장
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 민주당가서
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 얻을수닜음?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 돈봉투좀 돌리고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뺏지좀 달고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 세월호 이태원
+[35m⚡LoggerPlugin [39m: 아딱: 지금
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 할떄 앞에서서 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 얼굴좀 까주고
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 사건이
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 하면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 됨
+[35m⚡LoggerPlugin [39m: 아딱: 돈봉투보다더
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 사실 구의원 시의원만되어도
+[35m⚡LoggerPlugin [39m: 아딱: 더심ㅅ각함ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄹㅇ 개꿀빠는거같던데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 근데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 마침 또
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 국힘 씨이이발련
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 똥볼차는새끼 두마리있더만
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그새끼들도 뇌물바은놈
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 태양호랑
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 금태남
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아닌데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아휴 씨발새끼들
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 금발 태닝양아 ㅣ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 금태양이구나
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 빨리빨리 쳐내지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 병신새끼들 제식구 감싸다 좋은기회 다놓치겠다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 민좆당 단체로 엮어 날릴참인데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 똥가루뿌리고있어
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 씨발롬들
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 바로바로 제명하고 개새끼들
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 국회의원 뺏지 놓고 사퇴하라고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 압박해줘야지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 국민들도 인정해주지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 병신 국힘 
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아가리에 숟가락 떠넣었는데 재채기질하면서 다뱉어내네
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그런의미로
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 나주 유지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 차후 전라도 국회의원
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 석커
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 치킨사줘
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: @돼지주먹감자  줘!
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 의혹이
+[35m⚡LoggerPlugin [39m: 아딱: 돈봉투보다더 더 심각함
+[35m⚡LoggerPlugin [39m: 아딱: 친명계 좌장이라고 불리는
+[35m⚡LoggerPlugin [39m: 아딱: 김남국자체가
+[35m⚡LoggerPlugin [39m: 용성: 존재 해드렷다
+[35m⚡LoggerPlugin [39m: 아딱: 오염이되버림
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그거도
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 같이 나오더만
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위믹스 내부정보
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 알고있었다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아니다
+[35m⚡LoggerPlugin [39m: 아딱: 그건아직도
+[35m⚡LoggerPlugin [39m: 아딱: 안나옴
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이거로
+[35m⚡LoggerPlugin [39m: 아딱: 그건 의혹이고
+[35m⚡LoggerPlugin [39m: 아딱: 수사중이고
+[35m⚡LoggerPlugin [39m: 아딱: 서울 남부지검 반부패수사팀에서
+[35m⚡LoggerPlugin [39m: 아딱: 맡아서 진행중임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 박뿜계가
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 또
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 알아봐줄예정
+[35m⚡LoggerPlugin [39m: 아딱: 서울 남부지검 반부패수사팀이
+[35m⚡LoggerPlugin [39m: 아딱: 삼성 조졌던팀이라는데
+[35m⚡LoggerPlugin [39m: 아딱: 삼성 초호화 변호인단도
+[35m⚡LoggerPlugin [39m: 아딱: 못방어한
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뭐
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 박근혜?
+[35m⚡LoggerPlugin [39m: 흰티마: 뒷쇼바랑 열선시트 싸악 교체받는다이니
+[35m⚡LoggerPlugin [39m: 흰티마: 기변만 하면 되겠노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 박근혜때 삼성
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그거말하는거임?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 무슨기변
+[35m⚡LoggerPlugin [39m: 아딱: 엘리트중 초엘리트래
+[35m⚡LoggerPlugin [39m: 아딱: 서울남부지검
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 서울중앙지검보다더
+[35m⚡LoggerPlugin [39m: 아딱: 반부패수사로는
+[35m⚡LoggerPlugin [39m: 흰티마: 도요다다이쥬 센세로 기변
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 돈 많노
+[35m⚡LoggerPlugin [39m: 아딱: 아반떼에서
+[35m⚡LoggerPlugin [39m: 아딱: 도요타로 업그레이드?
+[35m⚡LoggerPlugin [39m: 흰티마: 못 간다이기야
+[35m⚡LoggerPlugin [39m: 아딱: 이제 닉도
+[35m⚡LoggerPlugin [39m: 아딱: 도요타로
+[35m⚡LoggerPlugin [39m: 아딱: 바꾸자
+[35m⚡LoggerPlugin [39m: 흰티마: 아반떼 아닙니다
+[35m⚡LoggerPlugin [39m: 흰티마: “Altima”
+[35m⚡LoggerPlugin [39m: 아딱: 도요타 반일감정 최고조일떄
+[35m⚡LoggerPlugin [39m: 아딱: 주차장테러당했지않냐
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 닛산 알티마
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 준중형임?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 알티마=아반떼
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 같은포지션이노?
+[35m⚡LoggerPlugin [39m: 흰티마: 중형이다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 어허 반일은 무슨
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 요슴 일본제품 없어서 못삼
+[35m⚡LoggerPlugin [39m: 이승학: 귀여워
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 소나타 포지션이노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 요즘 일본 맥주
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 광고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 보니까
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 캔따는 방식으로
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 먹는거같던데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 맛있어보이더라
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 미국의 양카노
+[35m⚡LoggerPlugin [39m: 흰티마: 한국의 K5
+일본의 프리우스
+미국의 알티마
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: https://www.asiae.co.kr/article/2023050711364820530
+[35m⚡LoggerPlugin [39m: 아딱: K5 좋은차인데
+[35m⚡LoggerPlugin [39m: 아딱: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 내가 술 좋아하진않는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사먹어보고싶다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뚜따임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뚜따는
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 못참는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 구멍 ㅈ만해서 꼴꼴꼴 나오면서 거품
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 좀 그랬는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이건
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 좋을듯
+[35m⚡LoggerPlugin [39m: 아딱: 통조림같은
+[35m⚡LoggerPlugin [39m: 아딱: 오픈?
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 완전 개방
+[35m⚡LoggerPlugin [39m: 아딱: 와근데
+[35m⚡LoggerPlugin [39m: 아딱: 김남국 부럽다
+[35m⚡LoggerPlugin [39m: 아딱: 82년생이면
+[35m⚡LoggerPlugin [39m: 아딱: 나랑 10살차이인데
+[35m⚡LoggerPlugin [39m: 아딱: 벌써 80억이나있음ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 민형인
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 21살인대
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 40억잇자나
+[35m⚡LoggerPlugin [39m: 흰티마: ㄹㅇ?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 위컴알은 30살인데 100억잇고
+[35m⚡LoggerPlugin [39m: 아딱: 이더리움팔아서
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 코인이 문제다
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 씨발
+[35m⚡LoggerPlugin [39m: 아딱: 그정도벌었댔는데
+[35m⚡LoggerPlugin [39m: 아딱: 시발
+[35m⚡LoggerPlugin [39m: 아딱: 나는왜
+[35m⚡LoggerPlugin [39m: 아딱: 코인으로
+[35m⚡LoggerPlugin [39m: 아딱: 1500만원밖에
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 세상은 불공평해
+[35m⚡LoggerPlugin [39m: 아딱: 못벌었냐
+[35m⚡LoggerPlugin [39m: 아딱: 적같은거
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 지구 핵전쟁 기원
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나는코인으로
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 1500ㄹㅎ음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 잃음
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 너도
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 돈 많이 벌었잖아
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 석커
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 내가언제
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 유가로 돈 벌었잖아
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 십련아
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나너랑같은
+[35m⚡LoggerPlugin [39m: 아딱: 컴갤애들 영앤리치 코인부자 많은듯
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 천민이야
+[35m⚡LoggerPlugin [39m: 아딱: 부럽다
+[35m⚡LoggerPlugin [39m: 아딱: 민형이가 이더리움 얼마떄부터 샀댔지
+[35m⚡LoggerPlugin [39m: 아딱: 5만원인가
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 그때부터 샀다는데 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 채굴하면서 모으고
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 제발올라라
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 기도했데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 나도 매주
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 로또와 연금복권
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 구매하고있습니다
+[35m⚡LoggerPlugin [39m: 아딱: 로또 2번당첨되야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 터져주십시오
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 민형이
+[35m⚡LoggerPlugin [39m: 아딱: 1민형임
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 근황
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 포르쉐탐
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 알빠노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그러다 죽것지
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅜ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 또
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 울산대교
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 투신해서죽겟지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 돈은 있어서 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 애초에 그런애가
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 투신은 안할듯
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 군입대 7일
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 했엇다는게
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅈㄴ 이해안됨
+[35m⚡LoggerPlugin [39m: 아딱: 사석에서는
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 민형이 투신했엇어 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 또라이짓안하는거아님?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 수영했노
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 조만간 마약빨다가
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 맛탱이 갈듯
+[35m⚡LoggerPlugin [39m: 아딱: 마약빨다가 
+[35m⚡LoggerPlugin [39m: 아딱: 한동훈한테
+[35m⚡LoggerPlugin [39m: 아딱: 조선제일검한테 참수될예정
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 요즈마약
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 치킨값이라던데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 치킨값이든 뭐든간
+[35m⚡LoggerPlugin [39m: 아딱: 그런다더라
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 호르몬마냥
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 한번 쳐먹으면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 신경계 손상온다고하는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 용기 가상하면 쳐먹으라해
+[35m⚡LoggerPlugin [39m: 아딱: 미성년자한테 마약을 팔거나 마약을 투여하면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 최대사형이래
+[35m⚡LoggerPlugin [39m: 아딱: 이제
+[35m⚡LoggerPlugin [39m: 아딱: 아니 아직 법개정은안됨
+[35m⚡LoggerPlugin [39m: 아딱: 법개정 예정이라고했지.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 헉
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아딲이
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 미성년자 말고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 조심해야겠노
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그냥
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 사거나 팔면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 최대사형하먄되지
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 왜 굳이 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 미성년자를 붙혀
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 왜 인지 몰라?
+[35m⚡LoggerPlugin [39m: 아딱: 마약한다고 사형시키는나라는
+[35m⚡LoggerPlugin [39m: 아딱: 중국밖에없음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 마약사범은 죽어야
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 행복해짐
+[35m⚡LoggerPlugin [39m: 아딱: 마약사범
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 우리나라
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 작은중국이자나
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 윗대가리 새끼들도 지들도 빨고다니니까
+[35m⚡LoggerPlugin [39m: 아딱: 훠훠
+[35m⚡LoggerPlugin [39m: 아딱: 큰봉우리
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 법을 약화해놓는다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이거야
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아 ㄴㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 난 미성년자아니라
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄱㅊ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 근데 대만은
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 마약
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 합법되엇던데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 길거리에서 마약참
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 마약팜
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 나라꼬라지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그새끼들은
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 태국인가
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 짱깨 아니었음?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그건
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 태국 대마초겠지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 마약은 불법이야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 미친놈아 ㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 샵검색: #태국 마약 합법
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 대마초는 합법이지
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 대마초도
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 마약아님?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 필로폰이런건
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 불법이야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 대마는 뭐
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 요즘나오는거이하면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 애기지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 중독성도 약하고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 환각정도고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 남아공 1년 살다온놈 얘기들어보면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 대마 중독성도 없고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 펴볼만 하더라~ 라고함
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 환각성은 좀 있어서
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이상하게 보이고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 나중에 대파 키워보고싶다길래 미친놈이라 박아주긴함
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 삼성중공업 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼성중공업 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업', 'ㅇㅂ' ]
+  }
+]
+[ '삼성중공업', 'ㅇㅂ' ]
+1
+[ 'Di', 'eq', 'QY', 'co' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 안파냐?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아니
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 6000
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 안되냐
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 하 씨발
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 근데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 장대양봉
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 근데 또 6000찍으면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 개오랜만이긴하네
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 더올라가곘지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 싶어서
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'K6', '2h', '0q', 'SY' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 안팔듯
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 만원가면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 무조건
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 팔거지?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 100퍼지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그건씨발 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 1만 가기전 8000에 팔수도있음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 근데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 5만원가면?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그러면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이제
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 배아파 뒤질예정
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 5만이면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 시총 50조임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 50조면 6위다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅈ흠 36위네
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 얼른 5만찍고 30조가라
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅈ흠
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 영익은 2위햇는데 ㅜ
+[35m⚡LoggerPlugin [39m: 아딱: 어허
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Tl', 'gq', '2l', 'CH' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: https://m.dcinside.com/board/dcbest/136165
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그냥 믿어줘 입갤
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 근데사실
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 8억에서 75억은,,
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그럴만한거같긴해
+[35m⚡LoggerPlugin [39m: 아딱: 근데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 시발 우리주위 만봐도
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이민형
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 300 > 40억
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 위컴알
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 천만원 > 100억
+[35m⚡LoggerPlugin [39m: 아딱: 8억에서 75억 번거 떳떳하게 공개하면
+[35m⚡LoggerPlugin [39m: 아딱: 투자의신 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 코인으로 벌엇다는거아님?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 투자의 신인건 맞는데
+[35m⚡LoggerPlugin [39m: 아딱: 추앙받을텐데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뭔가 위컴알과 이민형이있으니까
+[35m⚡LoggerPlugin [39m: 아딱: 안그러자나ㅋㄱㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저게 개구라같지만
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 안믿기는건아님
+[35m⚡LoggerPlugin [39m: 아딱: 내생각은
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이민형 위컴알없엇으면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 믿엇다 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 안믿엇다
+[35m⚡LoggerPlugin [39m: 아딱: 지가 9억으로70억을번게 정당했으면
+자랑거리라고 매매내역공개했겠지
+만약 매매도안하고 70억으로 자산이 늘어져있었다? 면 공개할수가없는거고
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㄱ
+[35m⚡LoggerPlugin [39m: 아딱: 합리적인의심
+[35m⚡LoggerPlugin [39m: 아딱: 이미 9억이 70억이됐다라는건 밝혀진팩트인데
+[35m⚡LoggerPlugin [39m: 아딱: 과정설명을 안한다?
+[35m⚡LoggerPlugin [39m: 아딱: 매매를 안한거임
+[35m⚡LoggerPlugin [39m: 아딱: 이건
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그저 믿어줘
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: =
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 불 법
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: https://n.news.naver.com/mnews/article/023/0003762530?sid=100
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 결국 나오네 ㅋ
+[35m⚡LoggerPlugin [39m: 흰티마: 조센징들은 저런거 좋아함ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흰티마: 다 거지새끼들뿐이라 지랑 동류인줄 알고 좋아함ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 강탈 당한 가난
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기요미: 5600에 3060ti냐 13600k냐
+[35m⚡LoggerPlugin [39m: 기요미: 흠..
+[35m⚡LoggerPlugin [39m: 케이미넴: 고민할 거리가되나
+[35m⚡LoggerPlugin [39m: 케이미넴: 무조건 13세대지
+[35m⚡LoggerPlugin [39m: 케이미넴: 5600에 13600은
+[35m⚡LoggerPlugin [39m: 케이미넴: 씨퓨만 두개사겠다는건가
+[35m⚡LoggerPlugin [39m: 컴선생83: 13600k가 더 좋은데
+[35m⚡LoggerPlugin [39m: 익익: 136 ㄱㄱ
+[35m⚡LoggerPlugin [39m: 컴선생83: 5600에
+a320이몀 
+[35m⚡LoggerPlugin [39m: 컴선생83: 글카 체급도 올린 차액이다
+[35m⚡LoggerPlugin [39m: 컴선생83: 중고가 기준 3080도 가능할듯
+[35m⚡LoggerPlugin [39m: 로버: 야비군 점심
+[35m⚡LoggerPlugin [39m: 로버: 제육+돈가스2조각
+[35m⚡LoggerPlugin [39m: 로버: 합격
+[35m⚡LoggerPlugin [39m: 기요미: 근데 예산이 100안팎이라 136가고싶지만
+[35m⚡LoggerPlugin [39m: 기요미: 가면 글카를못살듯
+[35m⚡LoggerPlugin [39m: 기요미: 굳이 글카가 필요한가 싶기는한데
+[35m⚡LoggerPlugin [39m: 기요미: 어차피 겜 하는거라곤 문명 스타만해서
+[35m⚡LoggerPlugin [39m: 기요미: 나머진 통계프로그램이나돌리지
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼
+[35m⚡LoggerPlugin [39m: 흐엉: 싱글높은
+[35m⚡LoggerPlugin [39m: 흐엉: 136을사
+[35m⚡LoggerPlugin [39m: 흐엉: 거기에 1660 슈퍼
+[35m⚡LoggerPlugin [39m: 흐엉: 하나 달면되겠네
+[35m⚡LoggerPlugin [39m: 흐엉: 채굴에디션 싸지안음 ? 5~6할거같은데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 위메이드
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '위메이드',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '위메이드' ]
+  }
+]
+[ '위메이드' ]
+1
+[ '3u', 'Ae', 'BC', 'c1' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뭐야이거
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 코인게이트
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 터졌네
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 민주당 지지자들
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 위메이드 매수해주는 분위기노
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '위메이드 매수해주는 분위기노',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '위메이드', '매수해주는', '분위기노' ]
+  }
+]
+[ '위메이드', '매수해주는', '분위기노' ]
+1
+[ 'MH', 'us', 'Tw', 'Td' ]
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 석커 위메이드 대주주 될예정
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 삼성중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '삼성중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업' ]
+  }
+]
+[ '삼성중공업' ]
+1
+[ 'uc', '82', 'e8', '3r' ]
+[35m⚡LoggerPlugin [39m: 이승학: 드리고 살아날때까지 나얌이가 대체해줄거에요~ 혹시 살아나면 갠톡하나 남겨주세요 내보낼게요~
+[35m⚡LoggerPlugin [39m: 이승학: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'DZ', '5L', 'NX', '9b' ]
+[35m⚡LoggerPlugin [39m: 박용규: 프사봐ㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 자체제작에디션입니다
+[35m⚡LoggerPlugin [39m: 김혜진: 아 웃ㄱ셔
+[35m⚡LoggerPlugin [39m: 김혜진: 나얌이
+[35m⚡LoggerPlugin [39m: 황은지: 나얌ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김혜진: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: K: Hmm쭉간다 인가요
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: @조.련.사(조무사전문) 黒化 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 조전조야
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저거 루피
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 흠주주들한테
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뿌려도되지?
+[35m⚡LoggerPlugin [39m: 황은지: 귀엽네요 이름ㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: ㅈ같다입니다
+[35m⚡LoggerPlugin [39m: K: 넹
+[35m⚡LoggerPlugin [39m: K: 집같다
+[35m⚡LoggerPlugin [39m: 현우: 프사 귀엽따
+[35m⚡LoggerPlugin [39m: 이승학: 저같다 ㅎ
+[35m⚡LoggerPlugin [39m: 박용규: 광고쟁이 인줄
+[35m⚡LoggerPlugin [39m: 이승학: 흥
+[35m⚡LoggerPlugin [39m: K: Hmmㅅㅇ
+[35m⚡LoggerPlugin [39m: K: 나얌이 일안하네
+[35m⚡LoggerPlugin [39m: K: 현대차
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: '현대차',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '현대차' ]
+  }
+]
+[ '현대차' ]
+1
+[ '1X', 'gi', 'gm', 'VO' ]
+[35m⚡LoggerPlugin [39m: 황은지: Jyp
+[35m⚡LoggerPlugin [39m: K: Soxl
+[35m⚡LoggerPlugin [39m: 황은지: Jyp ent.
+[35m⚡LoggerPlugin [39m: 황은지: JYP Ent.
+[35m⚡LoggerPlugin [39m: 황은지: 이쯤되면 상폐인걸로
+[35m⚡LoggerPlugin [39m: 이승학: 아
+[35m⚡LoggerPlugin [39m: 이승학: 제가대충만든가라 띄어쓰기가있는 놈들은 
+[35m⚡LoggerPlugin [39m: 이승학: 생각모소햇네요
+[35m⚡LoggerPlugin [39m: 이승학: 생각못했네요
+[35m⚡LoggerPlugin [39m: 이승학: 035900
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: '035900',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '035900' ]
+  }
+]
+1
+[ 'ce', '9m', 'YL', 'Pw' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅂ Soxl
+[35m⚡LoggerPlugin [39m: 이승학: q soxl
+[35m⚡LoggerPlugin [39m: Joonsoo: 승학이는 못하는거 머야?
+[35m⚡LoggerPlugin [39m: 황은지: 연애
+[35m⚡LoggerPlugin [39m: Joonsoo: 아하!!!
+[35m⚡LoggerPlugin [39m: 황은지: 감삼다!
+[35m⚡LoggerPlugin [39m: 여환준: 은지는??
+[35m⚡LoggerPlugin [39m: 여환준: 못하는게 뭐야?
+[35m⚡LoggerPlugin [39m: Joonsoo: 은지도 연애
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 다들 같은 회사분인가보네요
+[35m⚡LoggerPlugin [39m: 여환준: 아뇨 얼굴도모르고 만난적도 없어요
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: ㅋㅋㅋㅋㅋㅋ 그렇군요..ㅎㅎ
+[35m⚡LoggerPlugin [39m: 이승학: 연애,,
+[35m⚡LoggerPlugin [39m: 여환준: 흠한테 물리면 가족이 됩니다
+[35m⚡LoggerPlugin [39m: 이승학: 아무래도,, 오랫동안있다보니 내적친밀감이,,
+[35m⚡LoggerPlugin [39m: 이승학: 벌써 3년된거같은데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 상관없을듯
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 다들 대단하시네요
+[35m⚡LoggerPlugin [39m: Joonsoo: 이 방에서 7년 더 있으면서 10년 채웁시다!
+[35m⚡LoggerPlugin [39m: 황은지: 윤애
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 나한테 저작권 있는것도 아니고 ㅋ
+[35m⚡LoggerPlugin [39m: K: 이제 2년 다되어가네..
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 나도 이거 따라그린거임 ㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 은지 딸래미 돌잔치 가야하는데
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 함께 오래 있어 보겠습니다.
+[35m⚡LoggerPlugin [39m: 황은지: 양심상 이젠 자식 낳을 생각 안해야 할때 같은데…
+[35m⚡LoggerPlugin [39m: 여환준: 이쁜 딸 낳고 싶다며
+[35m⚡LoggerPlugin [39m: 황은지: 부록이라..
+[35m⚡LoggerPlugin [39m: 여환준: 아하
+[35m⚡LoggerPlugin [39m: 황은지: 곧 부록..ㅋㅋ
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김혜진: 여기..
+[35m⚡LoggerPlugin [39m: 김혜진: 얼마나 됐지 나는...
+[35m⚡LoggerPlugin [39m: 김혜진: 함봐봐야제
+[35m⚡LoggerPlugin [39m: 여환준: 플라토닉도 나쁘지않아
+[35m⚡LoggerPlugin [39m: 김혜진: 작년 10월에 들어왔네요....
+[35m⚡LoggerPlugin [39m: 김혜진: 전 아직...신입입니다
+[35m⚡LoggerPlugin [39m: 여환준: 뉴비네요
+[35m⚡LoggerPlugin [39m: 황은지: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김혜진: 나도
+[35m⚡LoggerPlugin [39m: 김혜진: 저거 받음
+[35m⚡LoggerPlugin [39m: 김혜진: 여보세력 나야~
+[35m⚡LoggerPlugin [39m: 황은지: 미친ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 샵검색: #너두?
+[35m⚡LoggerPlugin [39m: 황은지: 하나 둘씩 작전을 실행해볼까~
+[35m⚡LoggerPlugin [39m: 여환준: 나두옴
+[35m⚡LoggerPlugin [39m: 황은지: 시대 반영을 잘하넼ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: q soxl
+[35m⚡LoggerPlugin [39m: 여환준: 내 머리숱도  시대반영좀 했으면…
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: dh
+[35m⚡LoggerPlugin [39m: 이승학: wjeh
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 둘리화도 가능
+[35m⚡LoggerPlugin [39m: 이승학: 오 저도 아까 저거왔는데
+[35m⚡LoggerPlugin [39m: 아딱: 조련사는근데
+[35m⚡LoggerPlugin [39m: 아딱: 손재주가좀
+[35m⚡LoggerPlugin [39m: 아딱: 있네
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄹㅇ 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 토목왜함?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아 토목에손재주가 피료앟구나
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 니들도 가능한데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 안하는것
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나는 ㄹㅇ 미적감각 1도없어
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 학창시절에도 다른건 싹다 우수인데
+[35m⚡LoggerPlugin [39m: 아딱: 난 적분감각 1도없음
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그냥 원본 반투명하게 해서 선따기하면 되는걸 ㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 미술만
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 우였음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그게
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 힘들다니까
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 일단 색깔도
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저렇게 깔끔하게 선택못함
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 당연한게 당연하지 않은 분야가 있더라
+[35m⚡LoggerPlugin [39m: 황은지: 그래서 없는거 아니야? 마이너스 시대
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 그와중에 부장개그 씹노잼 ㄷㄷ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나나 아딱이한테 if문은 왜저렇게 써요? 라고 물어보면 저게 당연하니까~
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 라고할텐데
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 너는 이해못할거야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: if문정도는
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 알어
+[35m⚡LoggerPlugin [39m: 이승학: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 개너무해
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: for문
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이런거까진 아는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이제 심화가면
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 모르지
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: -ㅅ-ㅋ
+[35m⚡LoggerPlugin [39m: 아딱: for 호드 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 사실
+[35m⚡LoggerPlugin [39m: 아딱: for 얼라리언스
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아딱아
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이프만만잇으면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 다할수잇다 ㅇㅈ/
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: /삼성전자 ?
+[35m⚡LoggerPlugin [39m: 방장봇: 거품반도체
+[35m⚡LoggerPlugin [39m: 아딱: 만능 if ㄷㄷ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: if 로 불가능한건업삳

@@ -1,0 +1,22 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: q aapl ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: 'q aapl ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'qT', 'Aw', 'mk', '9i' ]
+[35m⚡LoggerPlugin [39m: 용성: 와
+[35m⚡LoggerPlugin [39m: 용성: 애플 ㅈㄴ올랐네
+[35m⚡LoggerPlugin [39m: 용성: 120일떄봤는데

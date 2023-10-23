@@ -1,0 +1,8 @@
+{
+    "remote.SSH.remotePlatform": {
+        "locotestlsh.keiminem.kr": "linux",
+        "lsh.keiminem.kr": "linux",
+        "223.171.51.44": "linux",
+        "152.67.216.254": "linux"
+    }
+}

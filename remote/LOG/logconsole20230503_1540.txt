@@ -1,0 +1,1180 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 이제 곧 4시
+[35m⚡LoggerPlugin [39m: 이승학: 되게심심하ㅏ다
+[35m⚡LoggerPlugin [39m: 문정은: 2시간
+[35m⚡LoggerPlugin [39m: 문정은: 버텨야해요
+[35m⚡LoggerPlugin [39m: 이승학: 시간이
+[35m⚡LoggerPlugin [39m: 이승학: 안가
+[35m⚡LoggerPlugin [39m: 이승학: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 이승학: 시간아 아주 조금만
+[35m⚡LoggerPlugin [39m: 이승학: 빨리가줄래~
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 모레는 천천히~
+[35m⚡LoggerPlugin [39m: 문정은: 앜ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 맞져맞져
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/023/0003761493?sid=102
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 호우호우호우
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 집에 쳐박혀있어라
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://news.kmib.co.kr/article/view.asp?arcid=0018223934&code=61111111&sid1=pol&cp=nv2
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 4070 FE: 아무리봐도
+[35m⚡LoggerPlugin [39m: 4070 FE: RTX4070은
+[35m⚡LoggerPlugin [39m: 4070 FE: 가격빼곤
+[35m⚡LoggerPlugin [39m: 4070 FE: 잘나온글카가맞긴하다
+[35m⚡LoggerPlugin [39m: 4070 FE: ITX 원팬짜리
+[35m⚡LoggerPlugin [39m: 4070 FE: 나올만한데
+[35m⚡LoggerPlugin [39m: 4070 FE: 제조사에서 홀대하는느낌이야
+[35m⚡LoggerPlugin [39m: 흐엉: 4070ti 가
+[35m⚡LoggerPlugin [39m: 흐엉: 개잘나왔지
+[35m⚡LoggerPlugin [39m: 흐엉: 4070은 잘나온
+[35m⚡LoggerPlugin [39m: 흐엉: 글카아님,,
+[35m⚡LoggerPlugin [39m: 흐엉: 메모리 비트만 봐도,,
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 4070 FE: ITX변태한테
+[35m⚡LoggerPlugin [39m: 4070 FE: 는
+[35m⚡LoggerPlugin [39m: 4070 FE: 이만한거없음
+[35m⚡LoggerPlugin [39m: 흐엉: 4070도
+[35m⚡LoggerPlugin [39m: 4070 FE: 조용하고
+[35m⚡LoggerPlugin [39m: 흐엉: 4070ti 도
+[35m⚡LoggerPlugin [39m: 흐엉: 곧
+[35m⚡LoggerPlugin [39m: 4070 FE: 전기덜처먹고
+[35m⚡LoggerPlugin [39m: 흐엉: 쨰깐한거
+[35m⚡LoggerPlugin [39m: 흐엉: 더나옴
+[35m⚡LoggerPlugin [39m: 흐엉: 전성비는
+[35m⚡LoggerPlugin [39m: 흐엉: ti가 
+[35m⚡LoggerPlugin [39m: 흐엉: 더좋아
+[35m⚡LoggerPlugin [39m: 흐엉: 온도도착하고
+[35m⚡LoggerPlugin [39m: 4070 FE: 모니터
+[35m⚡LoggerPlugin [39m: 4070 FE: 특가뜨면
+[35m⚡LoggerPlugin [39m: 4070 FE: 살까말까고민중
+[35m⚡LoggerPlugin [39m: 케이미넴: 192비트 컷칩에서
+[35m⚡LoggerPlugin [39m: 케이미넴: 이미 글러먹은 글카
+[35m⚡LoggerPlugin [39m: 4070 FE: 32인치 4k 사고싶은데
+[35m⚡LoggerPlugin [39m: 4070 FE: 삼성꺼
+[35m⚡LoggerPlugin [39m: 4070 FE: 존버하는즁
+[35m⚡LoggerPlugin [39m: 흐엉: 삼성
+[35m⚡LoggerPlugin [39m: 흐엉: 4k 
+[35m⚡LoggerPlugin [39m: 흐엉: 지싱크
+[35m⚡LoggerPlugin [39m: 흐엉: 이슈잇음
+[35m⚡LoggerPlugin [39m: 흐엉: 5만원더주고 
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지사셈
+[35m⚡LoggerPlugin [39m: 4070 FE: 엘지꺼는
+[35m⚡LoggerPlugin [39m: 4070 FE: 그게안댐
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐?
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지꺼 좋은이유.
+[35m⚡LoggerPlugin [39m: 흐엉: 1. 좆브드가아님
+[35m⚡LoggerPlugin [39m: 흐엉: 2. 직배송
+[35m⚡LoggerPlugin [39m: 4070 FE: 나
+[35m⚡LoggerPlugin [39m: 4070 FE: 엘지꺼안사는이유있오
+[35m⚡LoggerPlugin [39m: 흐엉: @케이미넴  
+[35m⚡LoggerPlugin [39m: 흐엉: 화풀렸냐 ?
+[35m⚡LoggerPlugin [39m: 케이미넴: 화를 뭐하러냄
+[35m⚡LoggerPlugin [39m: 흐엉: 형이
+[35m⚡LoggerPlugin [39m: 4070 FE: 1. 나 엘지 자회사 1달전에다녔었음. 엘지에대한 감정적인게 남아있음.
+[35m⚡LoggerPlugin [39m: 4070 FE: 2. 초도불량 AS가 개씹임.  
+[35m⚡LoggerPlugin [39m: 흐엉: 뜨면
+[35m⚡LoggerPlugin [39m: 흐엉: 뜰때마다
+[35m⚡LoggerPlugin [39m: 흐엉: 갠톡으로
+[35m⚡LoggerPlugin [39m: 흐엉: 보내줄게~
+[35m⚡LoggerPlugin [39m: 케이미넴: 계속해봐야 의미없을거같으니 그냥 무시하는거지 
+[35m⚡LoggerPlugin [39m: 흐엉: 나얌이한테
+[35m⚡LoggerPlugin [39m: 흐엉: 알앤디 공고 
+[35m⚡LoggerPlugin [39m: 흐엉: 새글 알림
+[35m⚡LoggerPlugin [39m: 흐엉: 기능도있거든
+[35m⚡LoggerPlugin [39m: 4070 FE: 3. 그런전화나 상담 받을때마다 내가얼마나 마음갈리고 고객의 입장서 생각했을때 불편한지 잘알아서 엘지꺼는 가불기제품 아니면 안사기로함
+[35m⚡LoggerPlugin [39m: 흐엉: 2 번
+[35m⚡LoggerPlugin [39m: 흐엉: 나는 초도불량 난저없어서
+[35m⚡LoggerPlugin [39m: 흐엉: 모랏다
+[35m⚡LoggerPlugin [39m: 흐엉: 원래 그냥 신품교환아닌가
+[35m⚡LoggerPlugin [39m: 4070 FE: 2번 ㄹㅇ
+[35m⚡LoggerPlugin [39m: 4070 FE: 어
+[35m⚡LoggerPlugin [39m: 4070 FE: 맞는데
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 난 무조건 
+[35m⚡LoggerPlugin [39m: 4070 FE: 신품으로안해주려해
+[35m⚡LoggerPlugin [39m: 흐엉: 직배송만사는데
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지는
+[35m⚡LoggerPlugin [39m: 4070 FE: LG특이야
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지는 직배송사면 
+[35m⚡LoggerPlugin [39m: 4070 FE: 직배사도그래
+[35m⚡LoggerPlugin [39m: 흐엉: 처음 초도 불량
+[35m⚡LoggerPlugin [39m: 흐엉: 뜨면
+[35m⚡LoggerPlugin [39m: 흐엉: 아저씨가 바로
+[35m⚡LoggerPlugin [39m: 흐엉: 다음날 ㅅ ㅐ걸로
+[35m⚡LoggerPlugin [39m: 흐엉: 갓다주던데
+[35m⚡LoggerPlugin [39m: 케이미넴: 샵검색: #38gl950g
+[35m⚡LoggerPlugin [39m: 케이미넴: 나 이거 신품샀었는데
+[35m⚡LoggerPlugin [39m: 케이미넴: As 잘해주던데
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지직원이었어서
+[35m⚡LoggerPlugin [39m: 4070 FE: 내가말하는 AS는 설치이후얘기하는거임
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지하테 
+[35m⚡LoggerPlugin [39m: 4070 FE: 설치할때발견되면
+[35m⚡LoggerPlugin [39m: 4070 FE: 신품교체해줘
+[35m⚡LoggerPlugin [39m: 흐엉: 감정남아있떼
+[35m⚡LoggerPlugin [39m: 4070 FE: 그이후가
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 설치하고나서
+[35m⚡LoggerPlugin [39m: 케이미넴: 설치이후에도 잘해주는데 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 4070 FE: ㅈ같음
+[35m⚡LoggerPlugin [39m: 흐엉: 불량테스트
+[35m⚡LoggerPlugin [39m: 흐엉: 다해주는데
+[35m⚡LoggerPlugin [39m: 흐엉: 거기서 불량이안나오면 
+[35m⚡LoggerPlugin [39m: 흐엉: 초기불량이아니지 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 4070 FE: 왜 고객은 나한테 클레임오냐
+[35m⚡LoggerPlugin [39m: 흐엉: 심지어 
+[35m⚡LoggerPlugin [39m: 4070 FE: 싯팔
+[35m⚡LoggerPlugin [39m: 흐엉: 딱다구리도
+[35m⚡LoggerPlugin [39m: 흐엉: 1회한해서
+[35m⚡LoggerPlugin [39m: 케이미넴: 이건
+[35m⚡LoggerPlugin [39m: 흐엉: 무상 교체해주는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 원래 그런건데
+[35m⚡LoggerPlugin [39m: 흐엉: 그건 그 고객이
+[35m⚡LoggerPlugin [39m: 케이미넴: 이걸로 스트레스받으면 안되지
+[35m⚡LoggerPlugin [39m: 흐엉: 병신인거임
+[35m⚡LoggerPlugin [39m: 흐엉: 당장 배민켜보고
+[35m⚡LoggerPlugin [39m: 4070 FE: 나 스타일러랑
+[35m⚡LoggerPlugin [39m: 흐엉: 리뷰보셈 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 4070 FE: 등등 팔았는디 공식인증으로
+[35m⚡LoggerPlugin [39m: 4070 FE: 스타일러불량나면
+[35m⚡LoggerPlugin [39m: 4070 FE: 한달넘게 그고객이랑씨름함
+[35m⚡LoggerPlugin [39m: 흐엉: 그건 
+[35m⚡LoggerPlugin [39m: 흐엉: 당연히 너가
+[35m⚡LoggerPlugin [39m: 4070 FE: 가전은아무튼그래
+[35m⚡LoggerPlugin [39m: 흐엉: 환불을
+[35m⚡LoggerPlugin [39m: 흐엉: 해줘야하는거야
+[35m⚡LoggerPlugin [39m: 흐엉: 너가 공식인증으로 팔았으니까
+[35m⚡LoggerPlugin [39m: 4070 FE: 못해줌 규정상
+[35m⚡LoggerPlugin [39m: 흐엉: 그리고
+[35m⚡LoggerPlugin [39m: 흐엉: 초기불량
+[35m⚡LoggerPlugin [39m: 4070 FE: 설치이후는 무조건
+[35m⚡LoggerPlugin [39m: 흐엉: 센터에서
+[35m⚡LoggerPlugin [39m: 흐엉: 교품증
+[35m⚡LoggerPlugin [39m: 4070 FE: LG전자센터에서
+[35m⚡LoggerPlugin [39m: 흐엉: 받아오라해야지
+[35m⚡LoggerPlugin [39m: 4070 FE: 해줘야됨
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 4070 FE: 이게
+[35m⚡LoggerPlugin [39m: 흐엉: 교품증 받아오면
+[35m⚡LoggerPlugin [39m: 4070 FE: 그니까 아마
+[35m⚡LoggerPlugin [39m: 흐엉: 너가해주는게맞지
+[35m⚡LoggerPlugin [39m: 4070 FE: 일반 PC랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 대형가전이랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 차이가있나보네 ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 대형가전 삼성이나 엘지
+[35m⚡LoggerPlugin [39m: 흐엉: 둘다 마찬가진데
+[35m⚡LoggerPlugin [39m: 흐엉: 너가 공식센터가 아닌
+[35m⚡LoggerPlugin [39m: 흐엉: 공식 인증 으로 ㅗ판거면
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 초기불량일시
+[35m⚡LoggerPlugin [39m: 4070 FE: 난 
+[35m⚡LoggerPlugin [39m: 4070 FE: 아까도얘기했듯이
+[35m⚡LoggerPlugin [39m: 흐엉: 센터에서 교품증 받아온걸
+[35m⚡LoggerPlugin [39m: 4070 FE: 규정대로만 하고 ,
+
+다니던회사가
+[35m⚡LoggerPlugin [39m: 흐엉: 토대로 환불해줘야함..
+[35m⚡LoggerPlugin [39m: 4070 FE: 워낙빡빡하게군거면
+[35m⚡LoggerPlugin [39m: 4070 FE: 할말없고
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 님회사가 ㅇ ㅣ상한거임
+[35m⚡LoggerPlugin [39m: 흐엉: 요즘 공식인증업체중에 병신같은 업체 너무많아
+[35m⚡LoggerPlugin [39m: 4070 FE: 근데 대형가전은 기본적으로 LG전자서비스센터 불량확인시
+[35m⚡LoggerPlugin [39m: 4070 FE: LG전자판토스에서
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 그건 수리 아님?
+[35m⚡LoggerPlugin [39m: 4070 FE: 직접 직배송해서 1대1교품하는게
+[35m⚡LoggerPlugin [39m: 4070 FE: 규정임
+[35m⚡LoggerPlugin [39m: 흐엉: 그건
+[35m⚡LoggerPlugin [39m: 익익: 준석이는 빠져
+[35m⚡LoggerPlugin [39m: 흐엉: 교환일떄고
+[35m⚡LoggerPlugin [39m: 흐엉: 환불일땐
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 불량확인서떼오면
+[35m⚡LoggerPlugin [39m: 익익: 구경이나하자
+[35m⚡LoggerPlugin [39m: 익익: 준석아
+[35m⚡LoggerPlugin [39m: 흐엉: 너희쪽이 
+[35m⚡LoggerPlugin [39m: 4070 FE: 환불도마찬가지임
+[35m⚡LoggerPlugin [39m: 흐엉: 환불을 해주는게 맞다니까
+[35m⚡LoggerPlugin [39m: 4070 FE: 우리가 계약된곳이라
+[35m⚡LoggerPlugin [39m: 흐엉: 그건 너희가 떼쓰는거임
+[35m⚡LoggerPlugin [39m: 4070 FE: LG전자섭센에서
+[35m⚡LoggerPlugin [39m: 4070 FE: 물어쥼
+[35m⚡LoggerPlugin [39m: 흐엉: 너희가 계약된곳인데 
+[35m⚡LoggerPlugin [39m: 흐엉: 소비자는
+[35m⚡LoggerPlugin [39m: 4070 FE: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 너랑 계약한거라니까..
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼 섭센에서 불량판정을받앗으면ㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 너희는 환불을해주고
+[35m⚡LoggerPlugin [39m: 흐엉: 그 불량판정받은걸
+[35m⚡LoggerPlugin [39m: 4070 FE: 그건모르겠고 규정상그랬음.
+
+돈문제라 난 권한없었어
+[35m⚡LoggerPlugin [39m: 흐엉: 다시 너히쪽에서 
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지쪽에
+[35m⚡LoggerPlugin [39m: 4070 FE: 섭센에서물어줬었음
+[35m⚡LoggerPlugin [39m: 흐엉: 새제품으로 보내달라고
+[35m⚡LoggerPlugin [39m: 흐엉: 하던가 차액보상받아야지
+[35m⚡LoggerPlugin [39m: 흐엉: 소비자한테  
+[35m⚡LoggerPlugin [39m: 4070 FE: 다녀본사람은 
+[35m⚡LoggerPlugin [39m: 4070 FE: 알거임
+[35m⚡LoggerPlugin [39m: 흐엉: 서비스센터에서
+[35m⚡LoggerPlugin [39m: 4070 FE: 중간에낑겨서
+[35m⚡LoggerPlugin [39m: 흐엉: 환불받으세요
+[35m⚡LoggerPlugin [39m: 흐엉: 하면
+[35m⚡LoggerPlugin [39m: 4070 FE: 이도저도못하는거
+[35m⚡LoggerPlugin [39m: 흐엉: 소비자는 개빡치지
+[35m⚡LoggerPlugin [39m: 4070 FE: ㅇ 알아
+[35m⚡LoggerPlugin [39m: 4070 FE: 나도 ㅈ같은데
+[35m⚡LoggerPlugin [39m: 4070 FE: 규정이그럼
+[35m⚡LoggerPlugin [39m: 흐엉: 그게  규정이그런게아니라
+[35m⚡LoggerPlugin [39m: 흐엉: 너희 회사가
+[35m⚡LoggerPlugin [39m: 흐엉: 이상했던ㄷ거임..
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 희안하노
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄴㄴ 진짜임
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 너희회사가 이상했던거임
+[35m⚡LoggerPlugin [39m: 4070 FE: 정확히말해쥼
+[35m⚡LoggerPlugin [39m: 흐엉: 한번도 그런 공식인증판매점 본적도 들은적도없음,,
+[35m⚡LoggerPlugin [39m: 4070 FE: 초도불량이 기사눈으로확인한건 -  우리직환불가능
+[35m⚡LoggerPlugin [39m: 흐엉: 애초에 계약을 너희랑했는데 초도불량으로 환불건을 
+[35m⚡LoggerPlugin [39m: 4070 FE: 인수완료까지 고객이 싸인한 건 -  우리가불가능
+[35m⚡LoggerPlugin [39m: 4070 FE: 이었음
+[35m⚡LoggerPlugin [39m: 흐엉: 계약당사자가 환불을 안해준다?
+[35m⚡LoggerPlugin [39m: 4070 FE: 기사눈으로
+[35m⚡LoggerPlugin [39m: 흐엉: 말도안되는 거지
+[35m⚡LoggerPlugin [39m: 4070 FE: 확인한거는
+[35m⚡LoggerPlugin [39m: 4070 FE: 인수완료전이라
+[35m⚡LoggerPlugin [39m: 4070 FE: 직환불가능
+[35m⚡LoggerPlugin [39m: 흐엉: 섭센에서 불량판정받은것도
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 직환불 가능이라는 말인듯
+[35m⚡LoggerPlugin [39m: 4070 FE: 인수완료이후는 제품에 문제없다는 판단 하에 싸인한거라
+[35m⚡LoggerPlugin [39m: 흐엉: 너희가 환불해주는게 맞다니까..
+[35m⚡LoggerPlugin [39m: 4070 FE: 우리쪽에서불가능
+[35m⚡LoggerPlugin [39m: 흐엉: 그건 단순 환불이겠지,,
+[35m⚡LoggerPlugin [39m: 4070 FE: 아냐이건 대형가전에서는
+[35m⚡LoggerPlugin [39m: 4070 FE: 동일하게적용됨
+[35m⚡LoggerPlugin [39m: 4070 FE: 그니까아마
+[35m⚡LoggerPlugin [39m: 4070 FE: PC나
+[35m⚡LoggerPlugin [39m: 4070 FE: 소모품, 모니터
+[35m⚡LoggerPlugin [39m: 4070 FE: 이쪽이랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 대형가전이랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 규모나 접근성이 다르니
+[35m⚡LoggerPlugin [39m: 4070 FE: 대응메뉴얼이 다를 수 있음
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 하이마트라고 생각하면 댐?
+[35m⚡LoggerPlugin [39m: 4070 FE: 하이마트는
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 지금말하는건
+[35m⚡LoggerPlugin [39m: 흐엉: 피시소모품 모니터
+[35m⚡LoggerPlugin [39m: 4070 FE: 물건직접적으로때서하는거라
+[35m⚡LoggerPlugin [39m: 흐엉: 말하는게아니라
+[35m⚡LoggerPlugin [39m: 흐엉: 대형가전에
+[35m⚡LoggerPlugin [39m: 흐엉: 대한 규정을 말하는거임
+[35m⚡LoggerPlugin [39m: 4070 FE: 걔네 알아서 환불가능
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 다르구나
+[35m⚡LoggerPlugin [39m: 4070 FE: 흐엉아
+[35m⚡LoggerPlugin [39m: 흐엉: 1. 초기불량 당연히 너희가 환불
+[35m⚡LoggerPlugin [39m: 4070 FE: 직접 회사다닌애가
+[35m⚡LoggerPlugin [39m: 4070 FE: 얘기하는데
+[35m⚡LoggerPlugin [39m: 흐엉: 2. 설치후 
+[35m⚡LoggerPlugin [39m: 4070 FE: 우린 법적인부분에선 문제없이 처리함
+[35m⚡LoggerPlugin [39m: 4070 FE: 고객이좀 급하거나
+[35m⚡LoggerPlugin [39m: 4070 FE: 성질더러우면
+[35m⚡LoggerPlugin [39m: 흐엉: 2. 설치후 초기불량 섭센 불량판정 
+[35m⚡LoggerPlugin [39m: 4070 FE: 우리한테 스트레스푸는거지
+[35m⚡LoggerPlugin [39m: 흐엉: 당연히 너희가 환불
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 4070 FE: 그거 LG서
+[35m⚡LoggerPlugin [39m: 흐엉: 3. 설치후 단순변심 
+[35m⚡LoggerPlugin [39m: 흐엉: 이건 엘지통해서 환불  
+[35m⚡LoggerPlugin [39m: 흐엉: 이게맞음
+[35m⚡LoggerPlugin [39m: 4070 FE: 2번 LG서 직접환불함
+[35m⚡LoggerPlugin [39m: 흐엉: 너는 일개 직원이었겠지만 나는 직접 판매를 해본
+[35m⚡LoggerPlugin [39m: 4070 FE: 왜냐면
+[35m⚡LoggerPlugin [39m: 흐엉: 사람인데
+[35m⚡LoggerPlugin [39m: 4070 FE: 고객이 
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 너희가 
+[35m⚡LoggerPlugin [39m: 4070 FE: 할인을얼마받았는지
+[35m⚡LoggerPlugin [39m: 흐엉: 너희호사가 이상한거라니까 2번이,,,
+[35m⚡LoggerPlugin [39m: 4070 FE: 이런거추적이 힘들어 온라인인증점은
+[35m⚡LoggerPlugin [39m: 4070 FE: 온라인은 그래서 섭센에서 직접 
+[35m⚡LoggerPlugin [39m: 4070 FE: 영수증기반 할인해줌
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 더욱 너희가 환불을 해줘야한다고,,
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼 너희 탈세야?
+[35m⚡LoggerPlugin [39m: 흐엉: 엘지엔 정가 300에 팔앗다고 신고하고
+[35m⚡LoggerPlugin [39m: 흐엉: 환불은 판매가 만큼  해줫다고
+[35m⚡LoggerPlugin [39m: 흐엉: 하면 나머지 금액은
+[35m⚡LoggerPlugin [39m: 흐엉: 탈센데?
+[35m⚡LoggerPlugin [39m: 4070 FE: 흠 설명 다시해줌
+[35m⚡LoggerPlugin [39m: 4070 FE: 온라인인증점은
+[35m⚡LoggerPlugin [39m: 흐엉: 설명 할필요없이
+[35m⚡LoggerPlugin [39m: 흐엉: 너가 말하는건ㄴ
+[35m⚡LoggerPlugin [39m: 4070 FE: 초도불량은 인수완료전이라
+[35m⚡LoggerPlugin [39m: 흐엉: 초기불량이아닌
+[35m⚡LoggerPlugin [39m: 4070 FE: 확인되면 우리가가능해
+[35m⚡LoggerPlugin [39m: 흐엉: 보증기간내 성능이상 으로인한
+[35m⚡LoggerPlugin [39m: 흐엉: 환불이면
+[35m⚡LoggerPlugin [39m: 흐엉: 이해감
+[35m⚡LoggerPlugin [39m: 4070 FE: 근데 인수완료를 하면
+[35m⚡LoggerPlugin [39m: 4070 FE: 매출이 LG 베스트전산상 완료되서
+[35m⚡LoggerPlugin [39m: 4070 FE: 무를수가없어
+[35m⚡LoggerPlugin [39m: 흐엉: 인수완료후 초기불량 (섭센 불량판정 o) 
+[35m⚡LoggerPlugin [39m: 4070 FE: 근데 고객은  제품이 문제라고확인되면
+[35m⚡LoggerPlugin [39m: 4070 FE: 우리쪽에선 매출로잡히니
+[35m⚡LoggerPlugin [39m: 4070 FE: 수정권한이 LG마케터나 섭센쪽에있는거
+[35m⚡LoggerPlugin [39m: 4070 FE: 그래서 섭센에서 환불받아야됨
+[35m⚡LoggerPlugin [39m: 흐엉: 그니까 너희 회사가 이 상하다는거라니까..
+[35m⚡LoggerPlugin [39m: 4070 FE: 아까말했듯이 부가적으로
+[35m⚡LoggerPlugin [39m: 흐엉: 일반적으로 회사가
+[35m⚡LoggerPlugin [39m: 4070 FE: 고객은 할인이얼마받았고
+[35m⚡LoggerPlugin [39m: 흐엉: 소비자 - 너희회사
+[35m⚡LoggerPlugin [39m: 흐엉: lg - 너희회사
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '컴갤러 격리소',
+      content: 'lg - 너희회사',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'LG', '-', '너희회사' ]
+  }
+]
+[ 'LG', '-', '너희회사' ]
+1
+[ 'G9', 'sf', 'ef', 'qU' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 이렇게 2건이 나뉘어야하는데
+[35m⚡LoggerPlugin [39m: 4070 FE: 그럼 온라인공식인증점은 다 
+[35m⚡LoggerPlugin [39m: 4070 FE: 사기꾼인감..
+[35m⚡LoggerPlugin [39m: 4070 FE: 규정이 그런걸
+[35m⚡LoggerPlugin [39m: 흐엉: 너희는 매입매출을 한방에처리한다는거아님?
+[35m⚡LoggerPlugin [39m: 4070 FE: 나한테머라하지마셈
+[35m⚡LoggerPlugin [39m: 4070 FE: LG서 정한거고
+[35m⚡LoggerPlugin [39m: 4070 FE: 그거대로하는거뿐임
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 낼 아빠한테 물어보
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁ
+[35m⚡LoggerPlugin [39m: 4070 FE: 내가이런거 하나하나 고객한테
+[35m⚡LoggerPlugin [39m: 4070 FE: 처얘기해도
+[35m⚡LoggerPlugin [39m: 흐엉: 그렇게 하는데도 있냐고
+[35m⚡LoggerPlugin [39m: 4070 FE: 이해못하거나
+[35m⚡LoggerPlugin [39m: 4070 FE: 스트레스 조또받으니까
+[35m⚡LoggerPlugin [39m: 4070 FE: 3년넘게다니다가 퇴사핫거임
+[35m⚡LoggerPlugin [39m: 흐엉: 아무리봐도 초기불량이랑 보증기간내 불량이랑 
+[35m⚡LoggerPlugin [39m: 흐엉: 잘못이해하고있ㄴ느거같은디
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄴㄴ 그게아니라
+[35m⚡LoggerPlugin [39m: 4070 FE: 환불에대한귀책이
+[35m⚡LoggerPlugin [39m: 4070 FE: 인수완료이후는
+[35m⚡LoggerPlugin [39m: 4070 FE: 설치기사 및 서비스센터 
+[35m⚡LoggerPlugin [39m: 4070 FE: 로 이전된다고생각하면됨
+[35m⚡LoggerPlugin [39m: 4070 FE: 왜냐 
+[35m⚡LoggerPlugin [39m: 4070 FE: 기사가초도불량 발견못한거잖
+[35m⚡LoggerPlugin [39m: 4070 FE: 그걸 판매점이 귀책을잡느냐? 이런문제가 발생되는거지
+[35m⚡LoggerPlugin [39m: 흐엉: 설치 후 반품불가 (단, 초기불량 제외), 사다리차 비용 8~15만원 (현장상황에 따라 다름),
+[35m⚡LoggerPlugin [39m: 흐엉: 그니까
+[35m⚡LoggerPlugin [39m: 흐엉: 나도 무슨말인진
+[35m⚡LoggerPlugin [39m: 흐엉: 알겠는데
+[35m⚡LoggerPlugin [39m: 흐엉: 보통 이런식이라이거지
+[35m⚡LoggerPlugin [39m: 4070 FE: LG판토스기사는
+[35m⚡LoggerPlugin [39m: 4070 FE: 내부사정 모름
+[35m⚡LoggerPlugin [39m: 4070 FE: 거기다르고
+[35m⚡LoggerPlugin [39m: 4070 FE: 섭센다르고
+[35m⚡LoggerPlugin [39m: 4070 FE: 온라인인증점 말다륵ㆍ
+[35m⚡LoggerPlugin [39m: 4070 FE: 이거때매 
+[35m⚡LoggerPlugin [39m: 4070 FE: 2주에한번씩
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 
+[35m⚡LoggerPlugin [39m: 4070 FE: 고객접점 머시기 해가지고
+[35m⚡LoggerPlugin [39m: 4070 FE: 과장급이상 사람 둘이랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 판토스배송기사 상위한사람이랑
+[35m⚡LoggerPlugin [39m: 4070 FE: 엘지마케터
+[35m⚡LoggerPlugin [39m: 4070 FE: 해가지고만나서
+[35m⚡LoggerPlugin [39m: 흐엉: 그
+[35m⚡LoggerPlugin [39m: 흐엉: 온라인 인증점
+[35m⚡LoggerPlugin [39m: 4070 FE: 모임갖는거도있음
+[35m⚡LoggerPlugin [39m: 흐엉: 어디임?
+[35m⚡LoggerPlugin [39m: 흐엉: 지오비전임?
+[35m⚡LoggerPlugin [39m: 4070 FE: 스타일러
+[35m⚡LoggerPlugin [39m: 4070 FE: 만 쳐도나오니
+[35m⚡LoggerPlugin [39m: 4070 FE: 그이상
+[35m⚡LoggerPlugin [39m: 4070 FE: 얘기안하겠
+[35m⚡LoggerPlugin [39m: 4070 FE: 스타일러는 공식 한곳밖에없음
+[35m⚡LoggerPlugin [39m: 4070 FE: LG서
+[35m⚡LoggerPlugin [39m: 4070 FE: 내일배송갖고도
+[35m⚡LoggerPlugin [39m: 4070 FE: 개 ㅈㄹ한거
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㅈㅅ
+[35m⚡LoggerPlugin [39m: 4070 FE: 아직도기억난다
+[35m⚡LoggerPlugin [39m: 4070 FE: 기사들 힘들고
+[35m⚡LoggerPlugin [39m: 4070 FE: 인력난이니까
+[35m⚡LoggerPlugin [39m: 4070 FE: 배송무조건 주문넣을때
+[35m⚡LoggerPlugin [39m: 4070 FE: 4일뒤로넣으라해서
+[35m⚡LoggerPlugin [39m: 4070 FE: 고객 배송지연방어하고
+[35m⚡LoggerPlugin [39m: 4070 FE: 뭐하는건지모르겠음
+[35m⚡LoggerPlugin [39m: 4070 FE: 배고프당
+[35m⚡LoggerPlugin [39m: 정주환: 여행 대신 사우나 추천합니다
+[35m⚡LoggerPlugin [39m: 4070 FE: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 4070 FE: 드레싱칼로리
+[35m⚡LoggerPlugin [39m: 4070 FE: 실화냐
+[35m⚡LoggerPlugin [39m: 흐엉: 2개있네 
+[35m⚡LoggerPlugin [39m: 흐엉: 지오비전이랑
+[35m⚡LoggerPlugin [39m: 흐엉: 베스트지성
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 여기에
+[35m⚡LoggerPlugin [39m: 흐엉: 이렇게
+[35m⚡LoggerPlugin [39m: 흐엉: 환불거부사유 넣어놨는데
+[35m⚡LoggerPlugin [39m: 흐엉: 이거 때문에 안된다고 엘지섭센통해서 
+[35m⚡LoggerPlugin [39m: 흐엉: 환불넣으라 하는거같은데
+[35m⚡LoggerPlugin [39m: 흐엉: 이거 불공정계약으로 
+[35m⚡LoggerPlugin [39m: 흐엉: 계약취소가능할거같은데
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 저기 회사가 이상한거임 다른 세탁기 건조기 업체보면 저런문구 없음 
+[35m⚡LoggerPlugin [39m: 흐엉: 인수완료후 단순변심에의한 반품이 불가하다고만 적혀있지
+[35m⚡LoggerPlugin [39m: 4070 FE: 근데
+[35m⚡LoggerPlugin [39m: 4070 FE: 환불이 안되는건아니라서
+[35m⚡LoggerPlugin [39m: 4070 FE: 문제는없을걸
+[35m⚡LoggerPlugin [39m: 4070 FE: 환불주체가달라지는거잖
+[35m⚡LoggerPlugin [39m: 흐엉: 보통 구입후 10일이내 생긴 불량에 대해선 환불가능함 
+[35m⚡LoggerPlugin [39m: 4070 FE: 모르겠음 암튼
+[35m⚡LoggerPlugin [39m: 흐엉: 원래는 너희가 해줘야하는데
+[35m⚡LoggerPlugin [39m: 4070 FE: 떠난회사
+[35m⚡LoggerPlugin [39m: 흐엉: 너희사장이 ㅆㅂ럼이라
+[35m⚡LoggerPlugin [39m: 4070 FE: 그만얘기하셈
+[35m⚡LoggerPlugin [39m: 흐엉: 아 우린안해줘
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 엘지 센터에 다말하셈
+[35m⚡LoggerPlugin [39m: 흐엉: 이거임
+[35m⚡LoggerPlugin [39m: 흐엉: 아 
+[35m⚡LoggerPlugin [39m: 흐엉: 시간잘간다
+[35m⚡LoggerPlugin [39m: 흐엉: 1시간만 더가면되는데
+[35m⚡LoggerPlugin [39m: 흐엉: 다른떡밥없나
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 스타일러 설치후에 시운전해주나 
+[35m⚡LoggerPlugin [39m: 흐엉: 지금까지 가전사면서 
+[35m⚡LoggerPlugin [39m: 흐엉: 한번도 시운전까지하고 간 기사는 없었던거같은디 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: 흐엉아조씨
+[35m⚡LoggerPlugin [39m: 익익: 요즘 신형 그랜저
+[35m⚡LoggerPlugin [39m: 익익: 이슈많던데
+[35m⚡LoggerPlugin [39m: 흐엉: 헐
+[35m⚡LoggerPlugin [39m: 익익: 어케생각해여
+[35m⚡LoggerPlugin [39m: 흐엉: 이슈만음?
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐가많음
+[35m⚡LoggerPlugin [39m: 흐엉: 난 아무것도모르고
+[35m⚡LoggerPlugin [39m: 흐엉: 타고있는데
+[35m⚡LoggerPlugin [39m: 익익: 오르막길에서 기어 중립으로 
+[35m⚡LoggerPlugin [39m: 익익: 전환된사람
+[35m⚡LoggerPlugin [39m: 익익: 그랜저 카페에 글쓰던데
+[35m⚡LoggerPlugin [39m: 흐엉: 보고옴
+[35m⚡LoggerPlugin [39m: 익익: 지금 그사람 불량8회째래
+[35m⚡LoggerPlugin [39m: 흐엉: 씨발
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈ댓닫
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼 그사람차가 ㅂ ㅕㅇ신인거네
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 현대가 과연
+[35m⚡LoggerPlugin [39m: 흐엉: 환불을해줄까?
+[35m⚡LoggerPlugin [39m: 흐엉: 벤츠남처럼
+[35m⚡LoggerPlugin [39m: 익익: https://m.dcinside.com/board/car_new1/8020924
+[35m⚡LoggerPlugin [39m: 흐엉: 현대 본사앞에서 야구빠따로 뿌수면
+[35m⚡LoggerPlugin [39m: 흐엉: 기사화되어서
+[35m⚡LoggerPlugin [39m: 흐엉: 보상해줄수도 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 익익: 이것도 있던데
+[35m⚡LoggerPlugin [39m: 익익: 무상수리 받아서 업데이트 하니까
+[35m⚡LoggerPlugin [39m: 익익: 통풍시트가 오프된사람인데
+[35m⚡LoggerPlugin [39m: 익익: 통풍시트 수리받으니까 블루링크가 안된대
+[35m⚡LoggerPlugin [39m: 흐엉: 통풍시트도있네
+[35m⚡LoggerPlugin [39m: 흐엉: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 내차는
+[35m⚡LoggerPlugin [39m: 흐엉: 아직 괜찮던데,,
+[35m⚡LoggerPlugin [39m: 익익: 지금 저거 카페보니까
+[35m⚡LoggerPlugin [39m: 익익: 수리 들어갔다ㅜ나오면
+[35m⚡LoggerPlugin [39m: 익익: 다른게 사라진다라는 사람 유독많네
+[35m⚡LoggerPlugin [39m: 흐엉: 아하 수리들어갔다나오면 더병신되는거야?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: 이번 그랜저가 유독 많은듯
+[35m⚡LoggerPlugin [39m: 익익: 하나가 수리되면 
+[35m⚡LoggerPlugin [39m: 흐엉: 아무래도
+[35m⚡LoggerPlugin [39m: 흐엉: 출시떄부터
+[35m⚡LoggerPlugin [39m: 익익: 두개가 병신으로
+[35m⚡LoggerPlugin [39m: 흐엉: 욕 ㅈㄴ처먹던차라
+[35m⚡LoggerPlugin [39m: 익익: 나와서
+[35m⚡LoggerPlugin [39m: 익익: 다시 들어가야된대
+[35m⚡LoggerPlugin [39m: 흐엉: 소송하고
+[35m⚡LoggerPlugin [39m: 흐엉: 환불받자
+[35m⚡LoggerPlugin [39m: 흐엉: 나도 소송코인탄다
+[35m⚡LoggerPlugin [39m: 흐엉: 이번에  제네시스 개지리던데
+[35m⚡LoggerPlugin [39m: 흐엉: 그걸로가즈아
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐임?
+[35m⚡LoggerPlugin [39m: 흐엉: 나 받은 안내 하나도없는데
+[35m⚡LoggerPlugin [39m: 흐엉: 리콜 ㅈㄴ많았어네?
+[35m⚡LoggerPlugin [39m: 익익: 본인ㅇ이
+[35m⚡LoggerPlugin [39m: 익익: 말안하면 안해줌
+[35m⚡LoggerPlugin [39m: 익익: 그랜저는 ig가 명작인거같애
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 삼성전기
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나는야퉁퉁이',
+      content: '삼성전기',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성전기' ]
+  }
+]
+[ '삼성전기' ]
+1
+[ 'Ro', 'fl', 'uq', 'qO' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: ig 명작ㅇㅈ
+[35m⚡LoggerPlugin [39m: 흐엉: 우리집에도
+[35m⚡LoggerPlugin [39m: 흐엉: 날라왔엇네
+[35m⚡LoggerPlugin [39m: 흐엉: 전방뭐시기
+[35m⚡LoggerPlugin [39m: 흐엉: 업그레이드하러오라고
+[35m⚡LoggerPlugin [39m: 익익: 그거 전방추돌방지센서
+[35m⚡LoggerPlugin [39m: 익익: 오류 수정 소프트웨어
+[35m⚡LoggerPlugin [39m: 익익: 해주는건데 그거하면
+[35m⚡LoggerPlugin [39m: 읒증: 흐엉이 신형그랜져탐??
+[35m⚡LoggerPlugin [39m: 익익: 아조씨 통풍시트
+[35m⚡LoggerPlugin [39m: 익익: 사라짐
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 이거 맞냐...?
+[35m⚡LoggerPlugin [39m: 익익: 현대의 자랑
+[35m⚡LoggerPlugin [39m: 익익: 그랜저가
+[35m⚡LoggerPlugin [39m: 익익: 어쩌다...
+[35m⚡LoggerPlugin [39m: 흐엉: 오히려
+[35m⚡LoggerPlugin [39m: 흐엉: 아래트림들이
+[35m⚡LoggerPlugin [39m: 흐엉: 훨씬 좋아진듯 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 소나타 아반뗴
+[35m⚡LoggerPlugin [39m: 흐엉: 특히 아반뗴가
+[35m⚡LoggerPlugin [39m: 흐엉: 예전의 아반뗴가아님 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 글랜저는 다른의미로 예전의 그랜저가 아님
+[35m⚡LoggerPlugin [39m: 읒증: 그래도 부럽노..
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 근데 아무생각없이
+[35m⚡LoggerPlugin [39m: 흐엉: 타고있엇는데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 에코프로
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '에코프로',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '에코프로' ]
+  }
+]
+[ '에코프로' ]
+1
+[ '3G', 'Tk', '4v', 'O5' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 굳이 가야하나
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이걸 들어간놈이있네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 읒증: 이 글처럼 괜히갔다가 엄한거 건드릴수도
+[35m⚡LoggerPlugin [39m: 흐엉: 네기억엔
+[35m⚡LoggerPlugin [39m: 흐엉: @케이미넴  도
+[35m⚡LoggerPlugin [39m: 흐엉: 그랜전데
+[35m⚡LoggerPlugin [39m: 흐엉: 야 너 차 괜찮아?/
+[35m⚡LoggerPlugin [39m: 케이미넴: 내차 범블비인데
+[35m⚡LoggerPlugin [39m: 케이미넴: 아파
+[35m⚡LoggerPlugin [39m: 흐엉: 엥
+[35m⚡LoggerPlugin [39m: 흐엉: 블랙잉크
+[35m⚡LoggerPlugin [39m: 흐엉: 추천햇던사람
+[35m⚡LoggerPlugin [39m: 흐엉: 케임넴아닌가
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 뭔소리야
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 찐마지막
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 긱회다
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 100만원간다
+[35m⚡LoggerPlugin [39m: 이승학: 저게 ㅁ ㅝㄴ소리야
+[35m⚡LoggerPlugin [39m: 아딱: 헉
+[35m⚡LoggerPlugin [39m: 이승학: 와
+[35m⚡LoggerPlugin [39m: 이승학: 오랜만에
+[35m⚡LoggerPlugin [39m: 이승학: 일어낫더니
+[35m⚡LoggerPlugin [39m: 이승학: 허벅지 터질거같다
+[35m⚡LoggerPlugin [39m: 이지영: 배고프다,,,
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 다른 주식방에
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 저거 마이너스 7퍼 물린놈있네 ㅋ
+[35m⚡LoggerPlugin [39m: hmj: 나도..
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 강원에너지
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '강원에너지',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '강원에너지' ]
+  }
+]
+[ '강원에너지' ]
+1
+[ 'IB', 'zJ', 'si', 'q7' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이건 마이너스 40퍼 ㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 세광
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 남 웃을 처진 아닌데 
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아딱이 말은 안듣는다
+[35m⚡LoggerPlugin [39m: 아딱: 서울가스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '서울가스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '서울가스' ]
+  }
+]
+[ '서울가스' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이거야
+1
+[ 'Zb', 'aG', '7P', 'bC' ]
+[35m⚡LoggerPlugin [39m: 이지영: 오늘 야근 좀 해야하는데,,,
+[35m⚡LoggerPlugin [39m: 정주환: 사우나 끝내고 왔더니 남에 연래사럽 도와주러 오래요
+[35m⚡LoggerPlugin [39m: 이승학: 지영이
+[35m⚡LoggerPlugin [39m: 이승학: 오늘 한잔하실?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 세광
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 어?
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이지영: ? 서울도 아닌사람아닌가
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 세광없어짐?
+[35m⚡LoggerPlugin [39m: 문정은: 사람의 몸은 쉽게 터지지 않아요
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 새광
+[35m⚡LoggerPlugin [39m: 이승학: 집가고싷다
+[35m⚡LoggerPlugin [39m: 이승학: 집 가고 시이이잎다
+[35m⚡LoggerPlugin [39m: 문정은: 헉 저두여
+[35m⚡LoggerPlugin [39m: 문정은: 흑,,
+[35m⚡LoggerPlugin [39m: 아딱: 선광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: '선광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '선광' ]
+  }
+]
+[ '선광' ]
+1
+[ 'Vm', 'Rj', '1u', 'i2' ]
+[35m⚡LoggerPlugin [39m: 아딱: 뎃
+[35m⚡LoggerPlugin [39m: 이승학: 가자가자
+[35m⚡LoggerPlugin [39m: 이승학: 준비해
+[35m⚡LoggerPlugin [39m: 이승학: 맞아 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아 ㅅㅂ ㄴㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 낚엿노
+[35m⚡LoggerPlugin [39m: 이지영: ㅡㅡ
+[35m⚡LoggerPlugin [39m: 문정은: 쉿
+[35m⚡LoggerPlugin [39m: 문정은: 조용히 퇴근 준비해야해요
+[35m⚡LoggerPlugin [39m: 이승학: 온라인 술먹방
+[35m⚡LoggerPlugin [39m: 이승학: 허민진도 참여해라
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 신형 그랜저 탈만함?
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 아부지가 한대 산다고 하길래
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 오너말 들어보고싶노
+[35m⚡LoggerPlugin [39m: hmj: 피곤하님가
+[35m⚡LoggerPlugin [39m: hmj: 패스다
+[35m⚡LoggerPlugin [39m: 이승학: 넵
+[35m⚡LoggerPlugin [39m: 흐엉: 좋음
+[35m⚡LoggerPlugin [39m: 흐엉: 디자인도
+[35m⚡LoggerPlugin [39m: 흐엉: 실물이 훨씬이쁨
+[35m⚡LoggerPlugin [39m: 흐엉: 승차감도 좋음
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 저거보니까
+[35m⚡LoggerPlugin [39m: 흐엉: 난 뽑기운이 원래좋은편이긴하지만
+[35m⚡LoggerPlugin [39m: 흐엉: 이번에도 좀 많이 좋았던거같네
+[35m⚡LoggerPlugin [39m: 흐엉: 살거면 8월이후에나 사는게 낫지않을까
+[35m⚡LoggerPlugin [39m: 흐엉: 그래도 1년ㅊ차정도되면 웬만한 잡이슈는 다잡으니까
+[35m⚡LoggerPlugin [39m: 이승학: ㅌㅌㄱㅌㄱㅌㄱㅌ
+[35m⚡LoggerPlugin [39m: 익익: G80
+[35m⚡LoggerPlugin [39m: 익익: 사시라하자
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 디너뷔페 왜이리 맛없냐
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 나도
+[35m⚡LoggerPlugin [39m: 흐엉: 지팔공
+[35m⚡LoggerPlugin [39m: 흐엉: 개추
+[35m⚡LoggerPlugin [39m: 흐엉: 요즘 할인도 좀 들어가면
+[35m⚡LoggerPlugin [39m: 흐엉: 6~7000 
+[35m⚡LoggerPlugin [39m: 흐엉: 정도던데 
+[35m⚡LoggerPlugin [39m: 흐엉: 5~6000
+[35m⚡LoggerPlugin [39m: 흐엉: 그랜저랑 ㄹㅇ 한 500차이임
+[35m⚡LoggerPlugin [39m: 읒증: 지팔공 ㅈㄴ예쁜데
+[35m⚡LoggerPlugin [39m: 읒증: 연비가 사악하더라
+[35m⚡LoggerPlugin [39m: 흐엉: 그런저나 
+[35m⚡LoggerPlugin [39m: 흐엉: 지팔공이나
+[35m⚡LoggerPlugin [39m: 흐엉: 그랜저 하이브리드가 연비봏은거지
+[35m⚡LoggerPlugin [39m: 익익: 대형세단에서
+[35m⚡LoggerPlugin [39m: 익익: 연비를 바라지마라
+[35m⚡LoggerPlugin [39m: 익익: 하이브리드나 연비바라지
+[35m⚡LoggerPlugin [39m: 흐엉: 연비사악한건 지구공임
+[35m⚡LoggerPlugin [39m: 흐엉: 지팔공이나 그랜저나 연비차이는 거의안나
+[35m⚡LoggerPlugin [39m: 익익: 친구 카마로가
+[35m⚡LoggerPlugin [39m: 익익: 진짜 사악했는데
+[35m⚡LoggerPlugin [39m: 흐엉: 그랜저 하이브리드가 ㅈㄴ잘나와서 극찬받앗지만?
+[35m⚡LoggerPlugin [39m: 익익: 리터당 3.4
+[35m⚡LoggerPlugin [39m: 흐엉: 결함 천국
+[35m⚡LoggerPlugin [39m: 익익: 뜨던데
+[35m⚡LoggerPlugin [39m: 흐엉: 난 갠적으로
+[35m⚡LoggerPlugin [39m: 흐엉: 지브이 팔공도
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈㄴ이븡듯
+[35m⚡LoggerPlugin [39m: 흐엉: 이쁜듯
+[35m⚡LoggerPlugin [39m: 익익: 요즘따라
+[35m⚡LoggerPlugin [39m: 익익: ㅈ세라티가
+[35m⚡LoggerPlugin [39m: 익익: 너무 예뻐보여서
+[35m⚡LoggerPlugin [39m: 익익: 카푸어ㅠ하고싶어
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈ세라티는 좀,,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 그돈씨,,,
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 승펠레 ㅅㅅ
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'dN', 'xw', 'VZ', 'Eu' ]
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 58836, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'A9', 'TE', 'mg', 'al' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'B9', 'A3', 'QI', 'aP' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'gm', 'OE', 'zW', 'Jw' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Cw', 'fc', 'qk', '9C' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'b4', 'IW', 'Kz', 'C2' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'ol', 'SK', 'TR', 'BC' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'KK', 'mc', 'hN', 'Ks' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Ht', 'jC', 'ns', 'lk' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'vD', 'Va', 'sD', 'gf' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Z7', 'XT', '7w', 'vy' ]
+[35m⚡LoggerPlugin [39m: 용성: 코스피떨어져보자고
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이거 웃기노 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/023/0003761528?sid=100
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 드럼통 하나 추가발주 넣겠습니다
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '2O', '1Y', 'YB', 'H1' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 에센스
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 추천해바
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: @돼지주먹감자  
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: @흰티마  
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'uc', 'sk', 'bg', 'C3' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아니
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 에센스 추천해달라고
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 닥터자르트 바이탈 하이드라 솔루션 바이옴 트리트먼트 에센스
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이거 쓰고있었는데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 좀더 가성비없노
+[35m⚡LoggerPlugin [39m: 아딱: 에센스가머야
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 니얼굴에 바르는거
+[35m⚡LoggerPlugin [39m: 아딱: 나얼굴에
+[35m⚡LoggerPlugin [39m: 아딱: 아무것도안바르는데
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 상남자가
+[35m⚡LoggerPlugin [39m: 아딱: 그런거
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 좀 발러라
+[35m⚡LoggerPlugin [39m: 아딱: 취급안한다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 그러니까 아딱이가.
+[35m⚡LoggerPlugin [39m: 아딱: 개집애들이나
+[35m⚡LoggerPlugin [39m: 아딱: 바르는거지
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아딱이 집이나 사와
+[35m⚡LoggerPlugin [39m: 아딱: 조련사야
+[35m⚡LoggerPlugin [39m: 아딱: 빚내서 집사조
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 씨발련이?
+[35m⚡LoggerPlugin [39m: 아딱: 빚내서 집사조련사
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 빚내서 집사면
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 빚너가 갚아줌?
+[35m⚡LoggerPlugin [39m: 아딱: 그건 너의빚이지
+[35m⚡LoggerPlugin [39m: 아딱: 내빚이아니잖니
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 좆같은 임티
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 아
+[35m⚡LoggerPlugin [39m: 아딱: 연봉 5퍼센트밖에
+[35m⚡LoggerPlugin [39m: 아딱: 못올려서
+[35m⚡LoggerPlugin [39m: 아딱: 화난다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 화나니까
+[35m⚡LoggerPlugin [39m: 아딱: 20ㅔ퍼센트
+[35m⚡LoggerPlugin [39m: 아딱: 올려줘야지
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 치킨좀 사줘바
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?!?!?
+[35m⚡LoggerPlugin [39m: 아딱: 나는
+[35m⚡LoggerPlugin [39m: 아딱: 특별하니깐
+[35m⚡LoggerPlugin [39m: 아딱: 나는 주인공이니깐..!!!
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 특별
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅇㅈ하니까
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 치킨줘
+[35m⚡LoggerPlugin [39m: 아딱: 돈도많으믄서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 매달 이자가
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 얼만줄 알어?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 아딱: ?!?!
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 은행에서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 내통장
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 싹 훓어 간다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이말이야
+[35m⚡LoggerPlugin [39m: 아딱: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 그래서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아니
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 그래도
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아니지
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사기당한새끼들 보면서
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 심적위로 받으려했는데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 씨발새끼들 경매라도 해서 돈받을수 있는 새끼들이
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 죽겠다고 하는꼴이
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아구창 때리고싶음
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 새끼들
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 다 갭투자라
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사기적용이 안됨
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 기망행위
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 해당이 안되니
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사기가 안됨
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 민사들
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 쉑들
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 전세피해 지원센터가서 아무리 서류를 줘도 피해확인증 안준다고
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 빽빽거리던데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: "신탁부동산사기"
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 마법의 단어 한방에 피해확인증 주려고하던데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: -ㅅ-ㅋ 
+[35m⚡LoggerPlugin [39m: 이승학: ㅎㅇ!
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 케이미넴: 짠
+[35m⚡LoggerPlugin [39m: 흐엉: 근데
+[35m⚡LoggerPlugin [39m: 흐엉: 진짜미안한데
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 갤럭스 쓰잖아
+[35m⚡LoggerPlugin [39m: 흐엉: 저거 
+[35m⚡LoggerPlugin [39m: 흐엉: 고주파 뽑기운
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈ댐
+[35m⚡LoggerPlugin [39m: 흐엉: 2번뽑앗는데 그나마 나아서
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 참고쓰는데 
+[35m⚡LoggerPlugin [39m: 4070 FE: 갤럭시
+[35m⚡LoggerPlugin [39m: 4070 FE: 조텍
+[35m⚡LoggerPlugin [39m: 흐엉: 이번시리즈 갤라즈 고주파 쪼끔 별루임
+[35m⚡LoggerPlugin [39m: 4070 FE: 얘넨쓰는거아님
+[35m⚡LoggerPlugin [39m: 흐엉: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 차라리 조딱이
+[35m⚡LoggerPlugin [39m: 흐엉: 나음
+[35m⚡LoggerPlugin [39m: 흐엉: 조딱은 
+[35m⚡LoggerPlugin [39m: 4070 FE: 조텍은 좌텍이라
+[35m⚡LoggerPlugin [39m: 4070 FE: 시러해 내가
+[35m⚡LoggerPlugin [39m: 흐엉: 조딱은 고주파보다 베어링소리라
+[35m⚡LoggerPlugin [39m: 흐엉: 들을만한데(주관)
+[35m⚡LoggerPlugin [39m: 흐엉: 갤라즈는
+[35m⚡LoggerPlugin [39m: 흐엉: 즞으으이ㅡㅇ으으  이래서 듣기싫은ㄴ소리나더라
+[35m⚡LoggerPlugin [39m: 케이미넴: 조용함 ㅇㅇ
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 뽑기잘했네
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 너가 늙어서 가청주파수가 낮아서 안들릴수도있어
+[35m⚡LoggerPlugin [39m: 케이미넴: 님귀는 뭐 소머즈 귀때기입니까
+[35m⚡LoggerPlugin [39m: 흐엉: 사실 고주파는 개인 가청주파수영역이라
+[35m⚡LoggerPlugin [39m: 흐엉: 20대가들리는소리
+[35m⚡LoggerPlugin [39m: 흐엉: 40대는
+[35m⚡LoggerPlugin [39m: 케이미넴: 따누직원들도 안들린다함
+[35m⚡LoggerPlugin [39m: 흐엉: 충분히 안들릴수있는데,,
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 기분나빳어/
+[35m⚡LoggerPlugin [39m: 흐엉: ?
+[35m⚡LoggerPlugin [39m: 흐엉: 아무생각없이한말인데 쏘리,,
+[35m⚡LoggerPlugin [39m: 케이미넴: 새거뜯는데 
+[35m⚡LoggerPlugin [39m: 케이미넴: 고주파 ㅇㅇ 하면 좋진않지 
+[35m⚡LoggerPlugin [39m: 케이미넴: 근데 뭐 화내거나 할일은 아니지 ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 어차피 갤라즈
+[35m⚡LoggerPlugin [39m: 흐엉: 고추파 무료교체되서
+[35m⚡LoggerPlugin [39m: 흐엉: 환불도되고
+[35m⚡LoggerPlugin [39m: 익익: 파워 고주파가
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 ㅓ한말임 비추한다고
+[35m⚡LoggerPlugin [39m: 케이미넴: 거래처가
+[35m⚡LoggerPlugin [39m: 흐엉: 나도 2개 
+[35m⚡LoggerPlugin [39m: 익익: 제일 ㅈ같건데
+[35m⚡LoggerPlugin [39m: 흐엉: 뽑았는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 갤라즈 총판이야
+[35m⚡LoggerPlugin [39m: 흐엉: 실패해서
+[35m⚡LoggerPlugin [39m: 케이미넴: 불량이면 그냥 선출고해줌
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 익익: 브가는 아직 결린적없어서
+[35m⚡LoggerPlugin [39m: 익익: 그른가
+[35m⚡LoggerPlugin [39m: 익익: 파워 고주파는 5번걸림
+[35m⚡LoggerPlugin [39m: 케이미넴: 우리거래처  좋음
+[35m⚡LoggerPlugin [39m: 흐엉: 40세대가
+[35m⚡LoggerPlugin [39m: 흐엉: 고주파가
+[35m⚡LoggerPlugin [39m: 흐엉: 좀있어
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 이게
+[35m⚡LoggerPlugin [39m: 케이미넴: 그냥 내가 불량이라하면 ㄹㅇ 불량이라고 인정함
+[35m⚡LoggerPlugin [39m: 흐엉: 사실 원래 고주파가
+[35m⚡LoggerPlugin [39m: 흐엉: 팬소리에
+[35m⚡LoggerPlugin [39m: 흐엉: 뭍힌거일수도있는데
+[35m⚡LoggerPlugin [39m: 흐엉: 이번시리즈 발열이 적어서
+[35m⚡LoggerPlugin [39m: 흐엉: 팬이 거의 제로팬이라
+[35m⚡LoggerPlugin [39m: 흐엉: 아 맞다 그래서
+[35m⚡LoggerPlugin [39m: 흐엉: 나는 저거
+[35m⚡LoggerPlugin [39m: 흐엉: 언더볼팅해서
+[35m⚡LoggerPlugin [39m: 흐엉: 고주파 잡앗음
+[35m⚡LoggerPlugin [39m: 흐엉: 언더볼팅 안하면 어쩔수없이 고주파 지리더라
+[35m⚡LoggerPlugin [39m: 이승학: 삼성sdi
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '삼성sdi',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성SDI' ]
+  }
+]
+[ '삼성SDI' ]
+1
+[ 'zh', 'Uc', 'Ja', '2u' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/023/0003761583?sid=102
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아딱이가 좋아하는 기사 가져아ㅗㅆ다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/023/0003761704?sid=100
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 얘는 그냥 이제 앞뒤로 욕받이되버렸노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조정원: 이게 혹시
+[35m⚡LoggerPlugin [39m: 조정원: 나 옛날에 초딩 때
+[35m⚡LoggerPlugin [39m: 조정원: 옛날 티비 켜면 삐이이이 소리같은거 귀에 들렦는데 엄마아빠 안들린다 해서 뭔가 싶었는데
+[35m⚡LoggerPlugin [39m: 조정원: 그거임?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 맞앙
+[35m⚡LoggerPlugin [39m: 흐엉: 나이대별로 가청주파수가달라서그래
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+4
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 64789, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'gc', 'qn', 'k4', 'H3' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'bE', 'yC', '3w', 'xc' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'iq', 'Lq', '7s', 'W3' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'YN', 'O5', 'fg', 'jC' ]
+코스피
+[ '코스피', '' ]
+index
+[ '5P', 'h0', 'st', 'wX' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'qB', 'Gc', 'mG', 'v9' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'lm', 'Hv', '09', 'ob' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'fC', 'BY', 'h4', 'r2' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'tm', 'Ju', 'Wr', 'XU' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'PC', 'Mu', 'RN', 'Oa' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 아 롤 MMR
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 이기면 21오르고 지면 26점 떨구네
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 헬게이트노
+[35m⚡LoggerPlugin [39m: 조정원: 신기하네
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 초딩이 살인명부를 만들어서 총기난사? ㄷ 
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 샵검색: #세르비아 총기난사
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 권총두자루
+[35m⚡LoggerPlugin [39m: 아딱: 왜그랬어
+[35m⚡LoggerPlugin [39m: 아딱: 조련사야
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 화염벙 4개
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 준비
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 애비꺼로
+[35m⚡LoggerPlugin [39m: 아딱:  조련사 무서워
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 동기는 아직 밝혀지지 않음
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 쟤들도
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 촉법있냐?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 촉법
+[35m⚡LoggerPlugin [39m: 아딱: 다있음
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 9명 달달하게 조지고
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 풀려나겠노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 괴롭힌 당하던 초딩이
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아빠랑 사격장 다니면서 익힌 사격술로
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 조준사격 아닐까?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 내가 심판을 내리겠다
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/135112
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 추하노
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/135157
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 위컴알
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 갓카 나오신다
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅊ저건
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 억까임
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 어제 재명이 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 계정 해킹당했엇자낭
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋㅋ 뭔짓을했길래 해킹을 당하너 ㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 해킹은무슨ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 문재인마냥
+[35m⚡LoggerPlugin [39m: 아딱: 지가 좋아요누르고
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 해킹해서 기껏한다는게 그계정으로 야동봄?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 형ㅅ ㅂㅈ 확찢 헉 ㄷ ㄷ 
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[35m⚡LoggerPlugin [39m: 제원: 용돈줘
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish

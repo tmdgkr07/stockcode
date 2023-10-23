@@ -1,0 +1,122 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 흐엉: 엇
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁ이ㅏㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 테스트 하다가
+[35m⚡LoggerPlugin [39m: 흐엉: 잛못보내버렷당
+[35m⚡LoggerPlugin [39m: 이승학: 근데나는
+[35m⚡LoggerPlugin [39m: 이승학: 저거
+[35m⚡LoggerPlugin [39m: 유민: 웅 괜찮아
+[35m⚡LoggerPlugin [39m: 이승학: 한 이삼주전에
+[35m⚡LoggerPlugin [39m: 이승학: 봤엇거든>?
+[35m⚡LoggerPlugin [39m: 이승학: 소원아
+[35m⚡LoggerPlugin [39m: 박재건: 망..
+[35m⚡LoggerPlugin [39m: 이승학: 박나래
+[35m⚡LoggerPlugin [39m: 최송아: 보ㅏ바여 나름 라임쩔었다구욬ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 성훈은
+[35m⚡LoggerPlugin [39m: 최송아: 와 
+[35m⚡LoggerPlugin [39m: 이승학: 진짜야?
+[35m⚡LoggerPlugin [39m: 황은지: 2만3천쯤에 털어야 하나 ㅠ
+[35m⚡LoggerPlugin [39m: 최송아: 내리꽅네
+[35m⚡LoggerPlugin [39m: 이승학: 아니면 루머야
+[35m⚡LoggerPlugin [39m: 이승학: 제제야
+[35m⚡LoggerPlugin [39m: 이승학: 해옵ㄱ해?
+[35m⚡LoggerPlugin [39m: 최송아: 꽂
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 최송아: 내일 안봐야겟다..
+[35m⚡LoggerPlugin [39m: 황은지: 생각이 많아지네요 진짜 CB해결되어도 매각이 되어도 가지 않을거 란 생각이 ㅠ
+[35m⚡LoggerPlugin [39m: 여환준: 흠이를 매수하는 주체가 오르지않을까요 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 네넹
+[35m⚡LoggerPlugin [39m: 문정은: 그냥 루머인가
+[35m⚡LoggerPlugin [39m: 문정은: !! 승학볶음 만드는 법
+[35m⚡LoggerPlugin [39m: 황은지: 저도 그생각
+[35m⚡LoggerPlugin [39m: 황은지: ㅠㅠㅋㅋ
+1. 먼저 양파, 당근, 대파 등을 적당한 크기로 잘라 준비한다.
+2. 팬에 식용유를 두르고 양파와 당근을 넣어 볶아준다.
+3. 고기(돼지고기, 소고기 등)를 넣고 함께 볶아준다.
+4. 대파와 고춧가루, 간장, 설탕 등 각종 조미료를 넣고 볶아준다.
+5. 참기름을 넣고 볶아주며, 마지막으로 김치를 넣어 함께 볶아준다.
+6. 볶음이 잘 익었다면, 쌀밥 위에 올려서 맛있게 즐긴다.
+[35m⚡LoggerPlugin [39m: 황은지: 진짜 이젠 3만도 감지덕지
+[35m⚡LoggerPlugin [39m: 문정은: !!승학찜 조리법
+[35m⚡LoggerPlugin [39m: 황은지: 꿈의 숫자가 되부렀네요 제 기준
+성분:
+- 생 닭 가슴살 200g
+- 조각 당근 1/4개
+- 조각 양파 1/4개
+- 조각 피망 1/4개
+- 청경채 약간
+- 승학찜 양념장 3큰술
+
+1. 닭가슴살은 한입 크기로 썰어서 끓는 물에 2~3분 정도 데친 후 찬물에 헹궈 물기를 제거한다.
+
+2. 당근, 양파, 피망은 모두 한입 크기로 썰어 냄비 바닥에 깔아준다. 
+
+3. 냄비에 닭가슴살을 쌓아주고, 청경채를 얹어준다.
+
+4. 승학찜 양념장을 냄비에 넣고, 물을 1/4컵 정도 추가해준다.
+
+5. 중불에서 10분 정도 끓인 후 불을 감아 10분 정도 더 적셔준다.
+
+6. 불을 끄고 승학찜을 그릇에 담아서 마지막으로 고춧가루를 뿌려주면 끝!
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: ?
+[35m⚡LoggerPlugin [39m: 이승학: 승학복음이라니 ㅜ
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 찜도 알려줌
+[35m⚡LoggerPlugin [39m: 여환준: 샵검색: #너두?
+[35m⚡LoggerPlugin [39m: 흐엉: 그러니까
+[35m⚡LoggerPlugin [39m: 흐엉: 왜 싼마이로 열어주냐고 ㅜㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 왜 맛탱이감?
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 석커죽었대
+[35m⚡LoggerPlugin [39m: 흐엉: 하지만 킹갓 흐엉서버는
+[35m⚡LoggerPlugin [39m: 흐엉: 동작한다
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '컴갤러 격리소',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+nasdaq
+[35m⚡LoggerPlugin [39m: 흐엉: 어 앋뇌네
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 이방에알려달래서
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}

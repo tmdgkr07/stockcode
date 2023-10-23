@@ -1,0 +1,29 @@
+2023-09-27 08:56:50.344 [info] 
+
+
+
+
+2023-09-27 08:56:50.369 [info] Extension host agent started.
+2023-09-27 08:56:50.447 [info] [127.0.0.1][d43424eb][ManagementConnection] New connection established.
+2023-09-27 08:56:50.459 [info] [127.0.0.1][e750ec5a][ExtensionHostConnection] New connection established.
+2023-09-27 08:56:50.599 [info] [127.0.0.1][e750ec5a][ExtensionHostConnection] <1682> Launched Extension Host Process.
+2023-09-27 08:57:03.479 [info] [127.0.0.1][d43424eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-09-27 08:57:03.480 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6445d93c81ebe42c4cbd7a60712e0b17d9463e97/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-09-27 08:57:03.496 [info] [127.0.0.1][e750ec5a][ExtensionHostConnection] <1682> Extension Host Process exited with code: 0, signal: null.
+2023-09-27 08:57:03.497 [info] Cancelling previous shutdown timeout
+2023-09-27 08:57:03.497 [info] Last EH closed, waiting before shutting down
+2023-09-27 08:57:04.558 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-09-27 08:57:04.559 [info] Cancelling previous shutdown timeout
+2023-09-27 08:57:04.648 [info] [127.0.0.1][e854055a][ManagementConnection] New connection established.
+2023-09-27 08:57:04.711 [info] [127.0.0.1][16dc7d15][ExtensionHostConnection] New connection established.
+2023-09-27 08:57:04.726 [info] [127.0.0.1][16dc7d15][ExtensionHostConnection] <1828> Launched Extension Host Process.
+2023-09-27 09:02:04.562 [info] New EH opened, aborting shutdown
+2023-09-27 22:09:50.703 [info] [127.0.0.1][16dc7d15][ExtensionHostConnection] <1828> Extension Host Process exited with code: 0, signal: null.
+2023-09-27 22:09:50.706 [info] Last EH closed, waiting before shutting down
+2023-09-27 22:14:50.708 [info] Last EH closed, shutting down

@@ -1,0 +1,212 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 호롤로
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '호롤로',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '호롤로' ]
+  }
+]
+[ '호롤로' ]
+1
+[ 'He', 'Lt', 'NM', 'IR' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 호롤로
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 동화약품
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품' ]
+  }
+]
+[ '동화약품' ]
+1
+[ 'l4', 'sP', 'Sc', 'aR' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 000020
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '000020',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '000020' ]
+  }
+]
+모지
+ReferenceError: stock_name23 is not defined
+    at stock_send (C:\remote-kakao\remote.js:930:11)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 동화약품 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', 'ㅇㅂ' ]
+  }
+]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 동화약품 일봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', 'ㅇㅂ' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', '일봉' ]
+  }
+]
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 오현이형?
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 앞에 가고잇네요
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 스엠이가 인수?
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 스엠은 안되요~ 대기업은 안되더라도.. 중견이라도..
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', 'ㅇㅂ' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', '일봉' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자 주봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자', '주봉' ]
+  }
+]
+[35m⚡LoggerPlugin [39m: 여환준: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', 'ㅇㅂ' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '동화약품 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '동화약품', '일봉' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자 주봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자', '주봉' ]
+  },
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A: 📈 【 HMM 】 주식 시세
+
+🔴 18,990원 (▲1,080원 +6.03%)
+시총/대금: 9.29조 / 648억
+
+#금강산 #대북
+
+dreago.kr/ts/Gk5CMx
+[35m⚡LoggerPlugin [39m: 여환준: 별일이네
+[35m⚡LoggerPlugin [39m: 여환준: 6% 는
+너무 간만이라
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 2만은 쉽게 갈것 같아욪ㅈ
+[35m⚡LoggerPlugin [39m: 박용준: 오르니까 기분이 잡잡하네요
+[35m⚡LoggerPlugin [39m: 박용준: 이게참.....3천원떨어지고 천원 오르니까
+[35m⚡LoggerPlugin [39m: 박용준: 좋아하기도....
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 밪아
+[35m⚡LoggerPlugin [39m: hmj: 혼자술먹는거
+[35m⚡LoggerPlugin [39m: hmj: 별로임

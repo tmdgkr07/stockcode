@@ -1,0 +1,20 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'zQ', 'zt', 'qz', 'rg' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping

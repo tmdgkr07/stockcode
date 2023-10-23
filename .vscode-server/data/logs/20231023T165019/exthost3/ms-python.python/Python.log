@@ -1,0 +1,42 @@
+2023-10-23 17:11:04.911 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-23 17:11:04.911 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-23 17:11:04.911 [info] Experiment 'pythonSurveyNotificationcf' is active
+2023-10-23 17:11:04.911 [info] Experiment 'pythonTestAdapter' is active
+2023-10-23 17:11:05.370 [info] Test server listening.
+2023-10-23 17:11:05.388 [info] > conda info --json
+2023-10-23 17:11:05.404 [error] Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat '/usr/bin/python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/bin/python2.7'
+}
+2023-10-23 17:11:05.407 [info] Found: /bin/python3 --> /bin/python3.10
+2023-10-23 17:11:05.407 [info] Found: /bin/python3.10 --> /bin/python3.10
+2023-10-23 17:11:05.421 [error] Failed to resolve symbolic link:  [Error: ENOENT: no such file or directory, lstat '/usr/bin/python2.7'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'lstat',
+  path: '/usr/bin/python2.7'
+}
+2023-10-23 17:11:05.422 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2023-10-23 17:11:05.422 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2023-10-23 17:11:05.481 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 17:11:05.503 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2023.18.0/pythonFiles/interpreterInfo.py
+2023-10-23 17:11:05.505 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.506 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 17:11:05.507 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 17:11:05.507 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 17:11:05.507 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 17:11:05.560 [info] Python interpreter path: /bin/python3
+2023-10-23 17:11:05.663 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.663 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.663 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:05.663 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 17:11:07.302 [info] Starting Pylance language server.
+2023-10-23 17:13:04.726 [info] Discover tests for workspace name: stockcode - uri: /home/ubuntu/stock_code/stockcode/koreaconvert.py
+2023-10-23 17:16:30.223 [info] Discover tests for workspace name: undefined - uri: c:/Users/kisum/AppData/Roaming/Code/User/settings.json

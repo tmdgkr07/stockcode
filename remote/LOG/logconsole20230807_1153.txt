@@ -1,0 +1,1529 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'Fu', 'Zg', 'UH', '50' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 카카오뱅크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '카카오뱅크',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오뱅크' ]
+  }
+]
+[ '카카오뱅크' ]
+1
+[ 'Q6', '6L', 'Es', 'RA' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 그래 삼만원만가자
+[35m⚡LoggerPlugin [39m: 흐엉: 더안바랄게
+[35m⚡LoggerPlugin [39m: 흐엉: 3.5 목표가였는데
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ 'q9', 'CS', 'Cj', 'uI' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 3800 ㄷㄱㄷㄱ
+[35m⚡LoggerPlugin [39m: 흐엉: 팜스토리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '팜스토리',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '팜스토리' ]
+  }
+]
+[ '팜스토리' ]
+1
+[ 'PZ', 'LH', 'xL', 'Nh' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 이
+[35m⚡LoggerPlugin [39m: 흐엉: 씨
+[35m⚡LoggerPlugin [39m: 흐엉: 발
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁㄴ임ㅇㄴㄹ
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁㅇㄶ
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁㅇㄶㅁㅇㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅁㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 1865에서 출발하는게 어딧어 이 씨발새끼야
+[35m⚡LoggerPlugin [39m: 흐엉: 진짜
+[35m⚡LoggerPlugin [39m: 흐엉: ㅓㅁㄴ으ㅏㅎ ㅣ모두하ㅣㅁ노잏ㅁㄴ어ㅗㅎㅁ
+[35m⚡LoggerPlugin [39m: 흐엉: 한일사료
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '한일사료',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '한일사료' ]
+  }
+]
+[ '한일사료' ]
+1
+[ '3j', '05', 'BV', 'tU' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 애미
+[35m⚡LoggerPlugin [39m: 흐엉: 진짜
+[35m⚡LoggerPlugin [39m: 흐엉: 좆같네
+[35m⚡LoggerPlugin [39m: 흐엉: ㅁㅇㄴㄹㅇㅁㄴ
+[35m⚡LoggerPlugin [39m: 최훈정/청남의료재단: 산술적으로만으로도 연간 영업이익이 8천억인데 참...웃기죠?
+[35m⚡LoggerPlugin [39m: 최훈정/청남의료재단: 코스피 기준 바이오 상장주 올해 1분기 영업이익 상위 10개 기업은 삼성바이오로직스(1917억원), 셀트리온(1824억원), 한미약품(599억원), 종근당(315억원), 대웅제약(245억원), 유한양행(226억원), JW중외제약(203억원), 제일약품(162억원), 보령(160억원), 광동제약(158억원)이다.
+
+영업이익률이 가장 높은 기업은 셀트리온(30.5%)이며 삼성바이오로직스(26.6%), 유나이티드(18.2%), JW생명과학(17.7%), 한미약품(16.6%), 환인제약(13.3%), 하나제약(12.9%), 동화약품(12.3%), JW중외제약(11.7%), 종근당(8.6%) 순이다.
+코스피
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 50236, size: 18929 },
+  room: '강성주주방',
+  content: '코스피 기준 바이오 상장주 올해 1분기 영업이익 상위 10개 기업은 삼성바이오로직스(1917억원), 셀트리온(1824억원), 한미약품(599억원), 종근당(315억원), 대웅제약(245억원), 유한양행(226억원), JW중외제약(203억원), 제일약품(162억원), 보령(160억원), 광동제약(158억원)이다.\n' +
+    '\n' +
+    '영업이익률이 가장 높은 기업은 셀트리온(30.5%)이며 삼성바이오로직스(26.6%), 유나이티드(18.2%), JW생명과학(17.7%), 한미약품(16.6%), 환인제약(13.3%), 하나제약(12.9%), 동화약품(12.3%), JW중외제약(11.7%), 종근당(8.6%) 순이다.',
+  sender: { name: '최훈정/청남의료재단', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[
+  '코스피',
+  '기준',
+  '바이오',
+  '상장주',
+  '올해',
+  '1분기',
+  '영업이익',
+  '상위',
+  '10개',
+  '기업은',
+  '삼성바이오로직스(1917억원),',
+  '셀트리온(1824억원),',
+  '한미약품(599억원),',
+  '종근당(315억원),',
+  '대웅제약(245억원),',
+  '유한양행(226억원),',
+  'JW중외제약(203억원),',
+  '제일약품(162억원),',
+  '보령(160억원),',
+  '광동제약(158억원)이다.\n\n영업이익률이',
+  '가장',
+  '높은',
+  '기업은',
+  '셀트리온(30.5%)이며',
+  '삼성바이오로직스(26.6%),',
+  '유나이티드(18.2%),',
+  'JW생명과학(17.7%),',
+  '한미약품(16.6%),',
+  '환인제약(13.3%),',
+  '하나제약(12.9%),',
+  '동화약품(12.3%),',
+  'JW중외제약(11.7%),',
+  '종근당(8.6%)',
+  '순이다.'
+]
+[ 'jF', 'KL', 'XF', '8J' ]
+index
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003780100?sid=100
+[35m⚡LoggerPlugin [39m: 조.련.사: 알차게 해드셨다
+[35m⚡LoggerPlugin [39m: 조.련.사: 까보?
+[35m⚡LoggerPlugin [39m: 조.련.사: 휴
+[35m⚡LoggerPlugin [39m: 조.련.사: 파워 탈출
+[35m⚡LoggerPlugin [39m: 조.련.사: 했습니다
+[35m⚡LoggerPlugin [39m: 조.련.사: 이제 서남만 남았다
+[35m⚡LoggerPlugin [39m: 흰티마: 초전도체 진짜인데
+[35m⚡LoggerPlugin [39m: 흰티마: 왜 탈출함
+[35m⚡LoggerPlugin [39m: 흰티마: 계속 붙잡고 있어야지
+[35m⚡LoggerPlugin [39m: 조.련.사: 진짜든 아니든 상관없음
+[35m⚡LoggerPlugin [39m: 조.련.사: 이미
+[35m⚡LoggerPlugin [39m: 조.련.사: 도박판임
+[35m⚡LoggerPlugin [39m: 조.련.사: RG
+[35m⚡LoggerPlugin [39m: 조.련.사: 시외 -10%
+[35m⚡LoggerPlugin [39m: 조.련.사: 그때 
+[35m⚡LoggerPlugin [39m: 조.련.사: 또사면되는부분임
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇㅅㅇ; ㅋ
+[35m⚡LoggerPlugin [39m: 박남혁: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'qj', '1l', 'Cz', 'v1' ]
+[35m⚡LoggerPlugin [39m: LSH: 근데
+[35m⚡LoggerPlugin [39m: LSH: 박사님은
+[35m⚡LoggerPlugin [39m: LSH: 왜 자꾸 저문을 열어둘가요 ?
+[35m⚡LoggerPlugin [39m: LSH: 여기가 덜시원한 이유 1번일거같은데 ㅎㅎ
+[35m⚡LoggerPlugin [39m: 승환: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 승환: 환기시키신다고...
+[35m⚡LoggerPlugin [39m: 승환: 내가 닫아두면 자꾸 열어두심..
+[35m⚡LoggerPlugin [39m: LSH: 환기를 하루종일,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 저거
+[35m⚡LoggerPlugin [39m: 흐엉: 잼버리
+[35m⚡LoggerPlugin [39m: 흐엉: 여가부가 다처먹은거임?
+[35m⚡LoggerPlugin [39m: 흐엉: 약간 
+[35m⚡LoggerPlugin [39m: 흐엉: 여가부자체가
+[35m⚡LoggerPlugin [39m: 흐엉: 각종국회의원들 
+[35m⚡LoggerPlugin [39m: 흐엉: 비자금 생성소라는 찌라시가있던데
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 못없앤다고 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 승환: ㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: !! 황설희씨는 무엇을 하고있을까 ?
+Error chatgpt api: Error: Request failed with status code 429
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 867
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 황설희씨는 무엇을 하고있을까 ?"}],"functions":[{"name":"get_current_weather","description":"Get the current weather in a given location","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"},"unit":{"type":"string","enum":["celsius","fahrenheit"]}},"required":["location"]}},{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}},{"name":"news","description":"뉴스를 검색합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 867,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 45747,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 867\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 429,
+      statusMessage: 'Too Many Requests',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 867,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 429,
+    statusText: 'Too Many Requests',
+    headers: {
+      date: 'Mon, 07 Aug 2023 03:56:33 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '222',
+      connection: 'close',
+      vary: 'Origin',
+      'x-request-id': 'a4c8a8cafb74041edaa7ae0145354d28',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7f2c9721fe2fc085-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 황설희씨는 무엇을 하고있을까 ?"}],"functions":[{"name":"get_current_weather","description":"Get the current weather in a given location","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"},"unit":{"type":"string","enum":["celsius","fahrenheit"]}},"required":["location"]}},{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}},{"name":"news","description":"뉴스를 검색합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 867,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 867\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world
+[35m⚡LoggerPlugin [39m: 황설희: 애니팡
+[35m⚡LoggerPlugin [39m: 조.련.사: 여가부 + 전라북도 지자체 + 전라도 국회의원
+[35m⚡LoggerPlugin [39m: 조.련.사: 스카우트 연맹도 같이 있던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데 일단 해외여행 존나 간건
+[35m⚡LoggerPlugin [39m: 조.련.사: 지자체랑
+[35m⚡LoggerPlugin [39m: 조.련.사: 국회의원들이었던거같음
+[35m⚡LoggerPlugin [39m: 흐엉: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 그소리가아님
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 여가부 자체가 비자금 생성소라고
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 못없앤다고 
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래서 민주당이 
+[35m⚡LoggerPlugin [39m: 조.련.사: 반대했다잖아
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 흐엉: 민주당뿐만아니라
+[35m⚡LoggerPlugin [39m: 흐엉: 좌든 우든
+[35m⚡LoggerPlugin [39m: 흐엉: 다,,
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱 왈
+[35m⚡LoggerPlugin [39m: 흐엉: 저새긴 진짜 이해력이,,
+[35m⚡LoggerPlugin [39m: 조.련.사: 윤이
+[35m⚡LoggerPlugin [39m: 흐엉: 왜저럴까,,
+[35m⚡LoggerPlugin [39m: 조.련.사: 없애려할때
+[35m⚡LoggerPlugin [39m: 조.련.사: 민주당이
+[35m⚡LoggerPlugin [39m: 조.련.사: 극렬하게 반대했다
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱이말함
+[35m⚡LoggerPlugin [39m: 흐엉: 그말을 하는게 아닌데,,
+[35m⚡LoggerPlugin [39m: 흐엉: 할많하않
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ 'cF', 'Kc', 'tB', '3v' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 서남
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '서남',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '서남' ]
+  }
+]
+[ '서남' ]
+1
+[ 'As', 'r0', 'lk', 'Uf' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 서양남 or 서윗한남
+[35m⚡LoggerPlugin [39m: 흐엉: 카카오뱅크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '카카오뱅크',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오뱅크' ]
+  }
+]
+[ '카카오뱅크' ]
+1
+[ '5J', 'qo', 'wm', 'SC' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 너의말은 여,야 할거없이 비상금 제조기란 말인데
+[35m⚡LoggerPlugin [39m: 조.련.사: 여가부가 친진보진영인데
+[35m⚡LoggerPlugin [39m: 조.련.사: 흐음
+[35m⚡LoggerPlugin [39m: 조.련.사: 이명박 박근혜때는 모르지
+[35m⚡LoggerPlugin [39m: 조.련.사: 그때는 친 보수였겠지
+[35m⚡LoggerPlugin [39m: 조.련.사: 누가있었는지 몰라도
+[35m⚡LoggerPlugin [39m: 흐엉: 우리나라엔
+[35m⚡LoggerPlugin [39m: 흐엉: 진보수는 없다
+[35m⚡LoggerPlugin [39m: 조.련.사: 친
+[35m⚡LoggerPlugin [39m: 흐엉: 진보 보수는 없다.
+[35m⚡LoggerPlugin [39m: 흐엉: 다들 뒷돈해먹으려는 도둑놈들 뿐
+[35m⚡LoggerPlugin [39m: 조.련.사: 내가 말했잖아
+[35m⚡LoggerPlugin [39m: 조.련.사: 국회의원들은
+[35m⚡LoggerPlugin [39m: 조.련.사: 다해먹는다고
+[35m⚡LoggerPlugin [39m: 흐엉: hmm만 보면 안보이나.
+[35m⚡LoggerPlugin [39m: 조.련.사: 누가 얼마나 덜해먹냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 얼마나 숨어서 쳐먹냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 말안해줬냐?
+[35m⚡LoggerPlugin [39m: 흐엉: x
+[35m⚡LoggerPlugin [39m: 흐엉: ㅐ
+[35m⚡LoggerPlugin [39m: 흐엉: o
+[35m⚡LoggerPlugin [39m: 유지준: 대기업 찌라시
+[35m⚡LoggerPlugin [39m: 조.련.사: 민좆당새끼들은 대놓고
+[35m⚡LoggerPlugin [39m: 유지준: 없나 진짜로
+[35m⚡LoggerPlugin [39m: 흐엉: 누구든 최대로 처먹음
+[35m⚡LoggerPlugin [39m: 조.련.사: 해처먹으니
+[35m⚡LoggerPlugin [39m: 흐엉: 민좆당이나 개누리당이나
+[35m⚡LoggerPlugin [39m: 흐엉: 둘다 대놓고 해처먹는데 뭔 
+[35m⚡LoggerPlugin [39m: 조.련.사: 민좆당처럼
+[35m⚡LoggerPlugin [39m: 조.련.사: 세금내놔라
+[35m⚡LoggerPlugin [39m: 조.련.사: 라고는 안함
+[35m⚡LoggerPlugin [39m: 조.련.사: 태양판
+[35m⚡LoggerPlugin [39m: 조.련.사: 깔때부터
+[35m⚡LoggerPlugin [39m: 조.련.사: 미친놈소리듣지만
+[35m⚡LoggerPlugin [39m: 조.련.사: 국힘쉑들도
+[35m⚡LoggerPlugin [39m: 조.련.사: 강하게못하죠~
+[35m⚡LoggerPlugin [39m: 조.련.사: 서로 해먹는거 알고있음
+[35m⚡LoggerPlugin [39m: 조.련.사: 니가까면
+[35m⚡LoggerPlugin [39m: 흐엉: 뭔소린진 모르겠음
+[35m⚡LoggerPlugin [39m: 조.련.사: 나도 깐다
+[35m⚡LoggerPlugin [39m: 조.련.사: 국회의원들끼리
+[35m⚡LoggerPlugin [39m: 조.련.사: 서로
+[35m⚡LoggerPlugin [39m: 조.련.사: 해먹는거 알고있다고
+[35m⚡LoggerPlugin [39m: 흐엉: 일단 하나는 알겠어
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데
+[35m⚡LoggerPlugin [39m: 조.련.사: 한쪽이 까면
+[35m⚡LoggerPlugin [39m: 흐엉: 너는 그냥 대가리가 꽉ㄱ막혀있음 
+[35m⚡LoggerPlugin [39m: 조.련.사: 반대쪽에서도 깐다는말임
+[35m⚡LoggerPlugin [39m: 조.련.사: 일단
+[35m⚡LoggerPlugin [39m: 조.련.사: 나는
+[35m⚡LoggerPlugin [39m: 조.련.사: 직접
+[35m⚡LoggerPlugin [39m: 조.련.사: 정계 인물에게
+[35m⚡LoggerPlugin [39m: 조.련.사: 들은것이고
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 다른이야기하자
+[35m⚡LoggerPlugin [39m: 조.련.사: 니는 들은게 없는것이고
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 나는 들은게없어서
+[35m⚡LoggerPlugin [39m: 흐엉: 그런가봐~
+[35m⚡LoggerPlugin [39m: 아딱: ㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 민좆당은 
+[35m⚡LoggerPlugin [39m: 흐엉: 현정부까고
+[35m⚡LoggerPlugin [39m: 흐엉: 개누리당은
+[35m⚡LoggerPlugin [39m: 흐엉: 전정부만
+[35m⚡LoggerPlugin [39m: 흐엉: ㅈㄴ까고잇다는데 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 행안부 : 경찰 ,소방인력 지원결정
+여가부 : 잼버리 예산 결정 집행
+지자체 : 시설 개설, 컨텐츠 프로그램 계획 운영 
+[35m⚡LoggerPlugin [39m: 아딱: 이거임
+[35m⚡LoggerPlugin [39m: 아딱: 여가부는 예산집행 해줬자나
+[35m⚡LoggerPlugin [39m: 아딱: 잼버리 할때는 그 전북에서 지방정부에서 단독으로 하는 어쩌구저쩌구 하면서
+[35m⚡LoggerPlugin [39m: 아딱: 광고도했드만
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 이제와서 윤정부탓?
+[35m⚡LoggerPlugin [39m: 조.련.사: 최초 지자체 단독
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데
+[35m⚡LoggerPlugin [39m: 아딱: 6년동안 3000억으로 
+[35m⚡LoggerPlugin [39m: 조.련.사: 그 뭐냐
+[35m⚡LoggerPlugin [39m: 아딱: 뭐한거?
+[35m⚡LoggerPlugin [39m: 흐엉: 행안부는 모르겠고
+[35m⚡LoggerPlugin [39m: 흐엉: 그럼 지자체랑 여가부 둘이서 해처먹었겠네
+[35m⚡LoggerPlugin [39m: 흐엉: 중간중간 
+[35m⚡LoggerPlugin [39m: 흐엉: 뇌물파티도하고
+[35m⚡LoggerPlugin [39m: 아딱: 문재인때부터
+[35m⚡LoggerPlugin [39m: 아딱: 싹다조사해야지
+[35m⚡LoggerPlugin [39m: 흐엉: 저기 높으신분들께 
+[35m⚡LoggerPlugin [39m: 흐엉: 저거 시작할때가
+[35m⚡LoggerPlugin [39m: 흐엉: 문재인때임?
+[35m⚡LoggerPlugin [39m: 아딱: 그 레이싱경주장부터해가지구 무주공항부터
+[35m⚡LoggerPlugin [39m: 아딱: 안해쳐먹은게
+[35m⚡LoggerPlugin [39m: 아딱: 없네
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 6년전부터
+[35m⚡LoggerPlugin [39m: 아딱: 준비한거임
+[35m⚡LoggerPlugin [39m: 흐엉: 6년전이면
+[35m⚡LoggerPlugin [39m: 흐엉: 박근혜아니노
+[35m⚡LoggerPlugin [39m: 아딱: 먼박근혜야
+[35m⚡LoggerPlugin [39m: 조.련.사: 박근혜때 유치한거 맞음
+[35m⚡LoggerPlugin [39m: 이: 하림이 제일 나아보입니다 계열사간 시너지도 크고
+[35m⚡LoggerPlugin [39m: 조.련.사: 그때 강원도, 전라도
+[35m⚡LoggerPlugin [39m: 조.련.사: 2안이었음
+[35m⚡LoggerPlugin [39m: 아딱: 전라도로 강행한게
+[35m⚡LoggerPlugin [39m: 아딱: 문재인인데
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데 강원도가 양보했고
+[35m⚡LoggerPlugin [39m: 조.련.사: 전라도 선택지 2곳이었늗네
+[35m⚡LoggerPlugin [39m: 조.련.사: 문이
+[35m⚡LoggerPlugin [39m: 흐엉: 하여간 간첩새끼
+[35m⚡LoggerPlugin [39m: 조.련.사: 새만금으로 적극 유치해주겠다
+[35m⚡LoggerPlugin [39m: 조.련.사: 해서
+[35m⚡LoggerPlugin [39m: 조.련.사: 문되면서
+[35m⚡LoggerPlugin [39m: 조.련.사: 새만금 됨
+[35m⚡LoggerPlugin [39m: 흐엉: 군대
+[35m⚡LoggerPlugin [39m: 흐엉: 근데
+[35m⚡LoggerPlugin [39m: 흐엉: 막말로
+[35m⚡LoggerPlugin [39m: 조.련.사: 그러면서 새만금 국제공항 겸사겸사 일본 마케팅해서
+[35m⚡LoggerPlugin [39m: 조.련.사: 하려했는데
+[35m⚡LoggerPlugin [39m: 흐엉: 3000억이면 
+[35m⚡LoggerPlugin [39m: 조.련.사: 용지변경도 ㅄ같이해서
+[35m⚡LoggerPlugin [39m: 조.련.사: 난리난거지
+[35m⚡LoggerPlugin [39m: 흐엉: 6개월이면 
+[35m⚡LoggerPlugin [39m: 흐엉: 뚞딱 
+[35m⚡LoggerPlugin [39m: 흐엉: 할수있지않냐?
+[35m⚡LoggerPlugin [39m: 아딱: 3000억이면은
+[35m⚡LoggerPlugin [39m: 조.련.사: 거기 땅관련된건
+[35m⚡LoggerPlugin [39m: 아딱: 캐리비안베이도
+[35m⚡LoggerPlugin [39m: 흐엉: 도대체 얼마나 해처먹엇길래
+[35m⚡LoggerPlugin [39m: 아딱: 짓겠다
+[35m⚡LoggerPlugin [39m: 조.련.사: 127억만
+[35m⚡LoggerPlugin [39m: 조.련.사: 쓰였다고
+[35m⚡LoggerPlugin [39m: 조.련.사: 함
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 나머지 해처먹음
+[35m⚡LoggerPlugin [39m: 흐엉: 캐리비안 베이가
+[35m⚡LoggerPlugin [39m: 흐엉: 1300억인가
+[35m⚡LoggerPlugin [39m: 흐엉: 로지엇을껄?
+[35m⚡LoggerPlugin [39m: 조.련.사: 127억중에
+[35m⚡LoggerPlugin [39m: 조.련.사: 아직도 건물 
+[35m⚡LoggerPlugin [39m: 조.련.사: 내년 완공인것도 있는거같더넫
+[35m⚡LoggerPlugin [39m: 조.련.사: 아직공사중임
+[35m⚡LoggerPlugin [39m: 조.련.사: 잼버리 사건 타임라인
+[35m⚡LoggerPlugin [39m: 아딱: 잼버리 참사라고 민주당이 왜 공격안하는줄앎?
+[35m⚡LoggerPlugin [39m: 조.련.사: 검색하면
+[35m⚡LoggerPlugin [39m: 아딱: 좆댈거알거든
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 역공쳐맞고
+[35m⚡LoggerPlugin [39m: 조.련.사: 그냥 ㅄ그자체임
+[35m⚡LoggerPlugin [39m: 흐엉: 맞네
+[35m⚡LoggerPlugin [39m: 흐엉: 캐리비안베이
+[35m⚡LoggerPlugin [39m: 흐엉: 1250억
+[35m⚡LoggerPlugin [39m: 흐엉: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 3000억 어디갓냐
+[35m⚡LoggerPlugin [39m: 아딱: 변기에
+[35m⚡LoggerPlugin [39m: 아딱: 똥 역류하고
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 아딱: 푸세식화장실
+[35m⚡LoggerPlugin [39m: 조.련.사: 현상황
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 가장
+[35m⚡LoggerPlugin [39m: 조.련.사: 수혜자
+[35m⚡LoggerPlugin [39m: 조.련.사: 누군지 암?
+[35m⚡LoggerPlugin [39m: 아딱: 누구긴 민주당이지
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 주호민임
+[35m⚡LoggerPlugin [39m: 흐엉: 근데
+[35m⚡LoggerPlugin [39m: 흐엉: 화장실
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 진자
+[35m⚡LoggerPlugin [39m: 흐엉: 개역하던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 칼부림+잼버리에
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 우리나라 
+[35m⚡LoggerPlugin [39m: 조.련.사: 주호민 싹 묻힘
+[35m⚡LoggerPlugin [39m: 흐엉: 주호민은 좀 묻혀야해
+[35m⚡LoggerPlugin [39m: 흐엉: 개얶ㄲ가라니ㅏ까/
+[35m⚡LoggerPlugin [39m: 흐엉: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 판결문 나오고 
+[35m⚡LoggerPlugin [39m: 조.련.사: 변호사
+[35m⚡LoggerPlugin [39m: 흐엉: 주호민이 병신이면
+[35m⚡LoggerPlugin [39m: 조.련.사: 다 나갔쬬
+[35m⚡LoggerPlugin [39m: 흐엉: 다시 제대로 까면되는데
+[35m⚡LoggerPlugin [39m: 흐엉: 변호사 다나간건 이슈가 되니까 
+[35m⚡LoggerPlugin [39m: 흐엉: 이기든 지든  
+[35m⚡LoggerPlugin [39m: 흐엉: 손해니까 나가는거고
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 이야기 하지말자,,
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ!!!!
+[35m⚡LoggerPlugin [39m: 흐엉: 아무리봐도 
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래
+[35m⚡LoggerPlugin [39m: 아딱: 빡빡이는
+[35m⚡LoggerPlugin [39m: 아딱: 이래서안대
+[35m⚡LoggerPlugin [39m: 조.련.사: 너는 판결문 나오면
+[35m⚡LoggerPlugin [39m: 아딱: 조용.
+[35m⚡LoggerPlugin [39m: 조.련.사: 판단하도록
+[35m⚡LoggerPlugin [39m: 조.련.사: 나는
+[35m⚡LoggerPlugin [39m: 흐엉: 주호민은 마녀사냥 + 냄비근성임 ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 일단 까면서 시작함
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 조선 종특임
+[35m⚡LoggerPlugin [39m: 아딱: 빡 빡 이 는 이 래 서 안 돼
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 너 그누구냐
+[35m⚡LoggerPlugin [39m: 아딱: 조용
+[35m⚡LoggerPlugin [39m: 흐엉: 출사찍고
+[35m⚡LoggerPlugin [39m: 흐엉: 성폭행당햇다고
+[35m⚡LoggerPlugin [39m: 흐엉: 구라친년
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 사진사 자살한사건
+[35m⚡LoggerPlugin [39m: 흐엉: 예원인가 
+[35m⚡LoggerPlugin [39m: 흐엉: 이름뭐엿더라
+[35m⚡LoggerPlugin [39m: 흐엉: 미투운동의 시초
+[35m⚡LoggerPlugin [39m: 흐엉: 다를게뭐냐 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 쿄미자나이
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ 페미식 논리임 까는게
+[35m⚡LoggerPlugin [39m: 흐엉: 니들이 그렇게 싫어하는 
+[35m⚡LoggerPlugin [39m: 흐엉: 페미랑 똑같은짓 하고있는데 그게 부끄럽지도않니,,
+[35m⚡LoggerPlugin [39m: 아딱: 아니? 이번건달라
+[35m⚡LoggerPlugin [39m: 조.련.사: 전혀
+[35m⚡LoggerPlugin [39m: 조.련.사: 다른데
+[35m⚡LoggerPlugin [39m: 흐엉: 왜 다른데?
+[35m⚡LoggerPlugin [39m: 아딱: 왜냐하면 내가 그렇다고 정했으니깐
+[35m⚡LoggerPlugin [39m: 아딱: 그런거야
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ 그게
+[35m⚡LoggerPlugin [39m: 흐엉: 페미식논리임
+[35m⚡LoggerPlugin [39m: 흐엉: 너가 다시한번 증명해줫네
+[35m⚡LoggerPlugin [39m: 흐엉: 아무튼
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ 캐리비안베이가
+[35m⚡LoggerPlugin [39m: 흐엉: 1200억인데
+[35m⚡LoggerPlugin [39m: 아딱: 웃긴게
+[35m⚡LoggerPlugin [39m: 흐엉: 3000억에 화장실 저따구인게
+[35m⚡LoggerPlugin [39m: 흐엉: 진짜 
+[35m⚡LoggerPlugin [39m: 흐엉: 말도안되네
+[35m⚡LoggerPlugin [39m: 아딱: 잼버리 나라 탐사해서 공부한다고
+[35m⚡LoggerPlugin [39m: 아딱: 크루즈여행에
+[35m⚡LoggerPlugin [39m: 아딱: 최고급호텔
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 아니
+[35m⚡LoggerPlugin [39m: 흐엉: 그럴수도있다고해
+[35m⚡LoggerPlugin [39m: 흐엉: 그냥 관광겸
+[35m⚡LoggerPlugin [39m: 아딱: 세금 듬뿍듬뿍
+[35m⚡LoggerPlugin [39m: 흐엉: 조사하러
+[35m⚡LoggerPlugin [39m: 흐엉: 갔다쳐
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐 그건 그럴수있어기껏ㅎ새봐야
+[35m⚡LoggerPlugin [39m: 흐엉: 몇천되겠냐
+[35m⚡LoggerPlugin [39m: 흐엉: 3000억 1퍼도안된다
+[35m⚡LoggerPlugin [39m: 아딱: 탐사로
+[35m⚡LoggerPlugin [39m: 아딱: 수십억임
+[35m⚡LoggerPlugin [39m: 흐엉: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 그건좀
+[35m⚡LoggerPlugin [39m: 흐엉: 논란이있겠는ㄷ?
+[35m⚡LoggerPlugin [39m: 흐엉: 거기에도
+[35m⚡LoggerPlugin [39m: 흐엉: 비자금
+[35m⚡LoggerPlugin [39m: 흐엉: 존나많이만들엇는데
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 지금 잼버리 끝나마자 전북 압색 예정임
+[35m⚡LoggerPlugin [39m: 흐엉: 1인당 해외 2달  풀코스로 짜도
+[35m⚡LoggerPlugin [39m: 흐엉: 2~3천박에안나오는데
+[35m⚡LoggerPlugin [39m: 흐엉: 수십억 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 출장일이
+[35m⚡LoggerPlugin [39m: 흐엉: 총몇일인데
+[35m⚡LoggerPlugin [39m: 흐엉: 수십억임/
+[35m⚡LoggerPlugin [39m: 조.련.사: 퍼스트 클래스로만 가도
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐 1000명씩갔데 ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 몇천나오지않냐?
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 안나옴
+[35m⚡LoggerPlugin [39m: 흰티마: 이거 언제 복구함
+[35m⚡LoggerPlugin [39m: 흰티마: 씨발련들아
+[35m⚡LoggerPlugin [39m: 조.련.사: 거의다왔네
+[35m⚡LoggerPlugin [39m: 조.련.사: 내일이면
+[35m⚡LoggerPlugin [39m: 조.련.사: 복구될듯
+[35m⚡LoggerPlugin [39m: 흰티마: 이번주까지 초전도체 확인 띄워라
+[35m⚡LoggerPlugin [39m: 흐엉: 퍼클
+[35m⚡LoggerPlugin [39m: 흰티마: 안 그러면 샘플 다 부셔버린다
+[35m⚡LoggerPlugin [39m: 흐엉: 비싼게 천만원임
+[35m⚡LoggerPlugin [39m: 흐엉: 보통 5~600할듯?
+[35m⚡LoggerPlugin [39m: 흐엉: (왕복)
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 전라도는
+[35m⚡LoggerPlugin [39m: 아딱: 답이없다
+[35m⚡LoggerPlugin [39m: 조.련.사: 그러면 니 미래도 부셔지는거아니노
+[35m⚡LoggerPlugin [39m: 아딱: 전남 F1 경기장ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 4000억
+[35m⚡LoggerPlugin [39m: 흐엉: 전라도는
+[35m⚡LoggerPlugin [39m: 흰티마: 꺄아아아아아아아아악
+[35m⚡LoggerPlugin [39m: 흐엉: 답이없다
+[35m⚡LoggerPlugin [39m: 아딱: 4000억으로 지어서 
+[35m⚡LoggerPlugin [39m: 흐엉: 그러니,,
+[35m⚡LoggerPlugin [39m: 흐엉: 전라도는 발전이없지
+[35m⚡LoggerPlugin [39m: 아딱: 잔디깔돈도없어서
+[35m⚡LoggerPlugin [39m: 흐엉: 하지만 ? 
+[35m⚡LoggerPlugin [39m: 아딱: 페인트로
+[35m⚡LoggerPlugin [39m: 아딱: 잔디인척ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 그러므로
+[35m⚡LoggerPlugin [39m: 흐엉: 돈을 많이벌수있다
+[35m⚡LoggerPlugin [39m: 흐엉: 꿈과 미래의 땅 
+[35m⚡LoggerPlugin [39m: 흐엉: 전라도로오세요
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐더라
+[35m⚡LoggerPlugin [39m: LSH: 밖은 지옥이다..
+[35m⚡LoggerPlugin [39m: LSH: 나가면,,,
+[35m⚡LoggerPlugin [39m: LSH: 죽는다..
+[35m⚡LoggerPlugin [39m: LSH: 차탔는데 외부 온도 ..
+[35m⚡LoggerPlugin [39m: LSH: 40도각찍힌다
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 그냥 집콕이젤좋아
+[35m⚡LoggerPlugin [39m: LSH: 파두
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '.',
+      content: '파두',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '파두' ]
+  }
+]
+[ '파두' ]
+1
+[ 'oG', 'wi', 'A0', 'Oe' ]
+[35m⚡LoggerPlugin [39m: LSH: 안하길 잘했당
+[35m⚡LoggerPlugin [39m: LSH: 역시 룰은 지켜야해요
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ그니깨 파두 오지게 떨어지네?
+[35m⚡LoggerPlugin [39m: 허지은: 승학이도 단타는 안하는거지?
+[35m⚡LoggerPlugin [39m: 허지은: 잘 쉬다온겨? 
+[35m⚡LoggerPlugin [39m: 허지은: 어우 바쁘다리
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'Ef', '28', 'St', 'Rx' ]
+[35m⚡LoggerPlugin [39m: LSH: 넹
+[35m⚡LoggerPlugin [39m: LSH: 아주아주 가끔 하긶난는데
+[35m⚡LoggerPlugin [39m: LSH: 잘안해요
+[35m⚡LoggerPlugin [39m: LSH: 2층
+[35m⚡LoggerPlugin [39m: LSH: 에어컨틀어도 덥다..
+[35m⚡LoggerPlugin [39m: 두&두: 로봇이랑  게임쪽만 약상승있고 대부분 장이 안좋군요
+[35m⚡LoggerPlugin [39m: 허지은: ㅠㅠㅠ 진짜?
+[35m⚡LoggerPlugin [39m: 허지은: 난 왜 덥지...누가 쭐여놨냐...ㅇㅔ어컨..
+[35m⚡LoggerPlugin [39m: LSH: 원래 2층이 좀 더워용
+[35m⚡LoggerPlugin [39m: 허지은: 정신이 하나도 없다 승학아
+[35m⚡LoggerPlugin [39m: 허지은: 연구소도 바쁘니,ㅇ......
+[35m⚡LoggerPlugin [39m: LSH:  저두요 더운데 이리저리
+[35m⚡LoggerPlugin [39m: LSH: 왔다갔따
+[35m⚡LoggerPlugin [39m: 허지은: 왔다갔다하지마
+[35m⚡LoggerPlugin [39m: 허지은: 그냥 전화로 해 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 허지은: 더운디 노노
+[35m⚡LoggerPlugin [39m: LSH: 그래야겠어요 ㅎㅎ
+[35m⚡LoggerPlugin [39m: 허지은: 어어 더워더워!
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'mt', 'K9', 'M3', '8g' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 아
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ 'M3', 'cM', '2J', 'mP' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 팜스토리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '팜스토리',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '팜스토리' ]
+  }
+]
+[ '팜스토리' ]
+1
+[ 'tS', '9O', 'rl', '88' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 아진자 1850안주냐...
+[35m⚡LoggerPlugin [39m: 흐엉: 3500은 갈거같은데ㅐ
+[35m⚡LoggerPlugin [39m: 조.련.사: 서남
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '서남',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '서남' ]
+  }
+]
+[ '서남' ]
+1
+[ 'SN', 'FP', '53', 'O5' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 아오 씨
+[35m⚡LoggerPlugin [39m: 조.련.사: 그냥팔까
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ같네
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'sF', 'AT', 'MO', 'rv' ]
+[35m⚡LoggerPlugin [39m: 아딱: 그냥
+[35m⚡LoggerPlugin [39m: 아딱: 서남팔아
+[35m⚡LoggerPlugin [39m: 조.련.사: 어허
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/015/0004876921?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: 빤스런
+[35m⚡LoggerPlugin [39m: 조.련.사: 좆망 
+[35m⚡LoggerPlugin [39m: 조.련.사:  "한국 정부는 조기에 현장을 떠나기로 결정한 대표단에 지원을 확대하고 참가자들이 한국 다른 지역에서 잼버리 경험을 이어갈 수 있도록 약속한 것을 확인했다"
+[35m⚡LoggerPlugin [39m: 조.련.사: 지자체 OUT
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/081/0003383059?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/005/0001629117?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: 서울로 철수
+[35m⚡LoggerPlugin [39m: 조.련.사: on
+[35m⚡LoggerPlugin [39m: 조.련.사: 이미 서울로 이동한 영국 잼민이들은
+[35m⚡LoggerPlugin [39m: 조.련.사: 만족중이란기사 본거같은데
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/001/0014115610?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: https://www.wikitree.co.kr/articles/876195
+[35m⚡LoggerPlugin [39m: 조.련.사: 서울뿐 아니라
+[35m⚡LoggerPlugin [39m: 조.련.사: 보령
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '보령',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '보령' ]
+  }
+]
+[ '보령' ]
+1
+[ 'Cj', 'lL', 'X3', 'vN' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 대전
+[35m⚡LoggerPlugin [39m: 조.련.사: 만족중인듯
+[35m⚡LoggerPlugin [39m: 조.련.사: 탈라도
+[35m⚡LoggerPlugin [39m: 흐엉: 부산은안가나
+[35m⚡LoggerPlugin [39m: 흐엉: 요즘  부사ㅏㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 부산 파도 개높아서
+[35m⚡LoggerPlugin [39m: 흐엉: 개재밋떤데
+[35m⚡LoggerPlugin [39m: 조.련.사: 부산갔음
+[35m⚡LoggerPlugin [39m: 흐엉: 저번주  해운대갔는데
+[35m⚡LoggerPlugin [39m: 흐엉: 지금 파도 거의 2~3미터거든?
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ 파도맞으면 와류로 트리플악셀
+[35m⚡LoggerPlugin [39m: 흐엉: 아! 
+[35m⚡LoggerPlugin [39m: 흐엉: 이러다가 죽는거구나 
+[35m⚡LoggerPlugin [39m: 흐엉: 느낄수있음
+[35m⚡LoggerPlugin [39m: 조.련.사: 지금
+[35m⚡LoggerPlugin [39m: 조.련.사: 탈라도하면서
+[35m⚡LoggerPlugin [39m: 조.련.사: 전국각지로 퍼졌음
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 ㄹㅇ 조금만 멀리 나가서 파도타면
+[35m⚡LoggerPlugin [39m: 기석주: 나중에 알려드림
+[35m⚡LoggerPlugin [39m: 흐엉: 진짜 죽을듯
+[35m⚡LoggerPlugin [39m: 조.련.사: 미국애들은
+[35m⚡LoggerPlugin [39m: 조.련.사: 미군기지갔다했으니
+[35m⚡LoggerPlugin [39m: 조.련.사: 평택인듯
+[35m⚡LoggerPlugin [39m: LSH: 너 쫌 쳐? 
+[35m⚡LoggerPlugin [39m: 흰티마: 보성파워텍
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '보성파워텍',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '보성파워텍' ]
+  }
+]
+[ '보성파워텍' ]
+1
+[ 'Gs', 'm1', 'HW', 'oq' ]
+[35m⚡LoggerPlugin [39m: 흰티마: 캬
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ '8k', 'i4', 'yK', 'kd' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ㄷㄱㄷㄱ
+[35m⚡LoggerPlugin [39m: 흐엉: 카카오뱅크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '카카오뱅크',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오뱅크' ]
+  }
+]
+[ '카카오뱅크' ]
+1
+[ 'tk', 'NR', 'V8', 'h4' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ㄷㄱㄷㄱ!@!@!@!
+[35m⚡LoggerPlugin [39m: 흐엉: q meta
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'q meta',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'META' ]
+  }
+]
+META
+[ 'qP', 'ex', 'xY', '8d' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ '9u', 'b5', 'K3', 'Iv' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀', 'ㅇㅂ' ]
+  }
+]
+[ '두산퓨얼셀', 'ㅇㅂ' ]
+1
+[ 'CF', 'vf', 'fY', 'nc' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 아
+[35m⚡LoggerPlugin [39m: 흐엉: 두퓨
+[35m⚡LoggerPlugin [39m: 흐엉: 사야되는데
+[35m⚡LoggerPlugin [39m: 흐엉: 각인데지금,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 카뱅 팔까? @아딱  
+[35m⚡LoggerPlugin [39m: 흐엉: 딱 쏠라고
+[35m⚡LoggerPlugin [39m: 흐엉: 장전한느낌ㅁ인데
+[35m⚡LoggerPlugin [39m: 아딱: 이기
+[35m⚡LoggerPlugin [39m: 흐엉: 내느낌은
+[35m⚡LoggerPlugin [39m: 아딱: 허락한다
+[35m⚡LoggerPlugin [39m: 흐엉: 틀린적이,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 없거든,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 있지,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 많지,,
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 이번엔 진짜다,,
+[35m⚡LoggerPlugin [39m: 흐엉: 카뱅이랑 느낌이 너무 비슷해
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 아딱: 기사님
+[35m⚡LoggerPlugin [39m: 아딱: 출발해주세요
+[35m⚡LoggerPlugin [39m: 아딱: 두퓨 출발요
+[35m⚡LoggerPlugin [39m: 흐엉: 기사님..
+[35m⚡LoggerPlugin [39m: 흐엉: 제가 돈이 좀 없어서그런데
+[35m⚡LoggerPlugin [39m: 흐엉: 이번주 목요일날
+[35m⚡LoggerPlugin [39m: 흐엉: 괜찮으실까요 ..?
+[35m⚡LoggerPlugin [39m: 아딱: 늦음
+[35m⚡LoggerPlugin [39m: 아딱: ㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 제발요 ㅜㅜ
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'uT', 'DA', 'Ch', '7Z' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 그떄 300정도 받을돈있단말이에ㅐ요 ㅜ
+[35m⚡LoggerPlugin [39m: 아딱: 25950에서 
+[35m⚡LoggerPlugin [39m: 흐엉: 목요일날 제가 
+[35m⚡LoggerPlugin [39m: 아딱: 26400까지
+[35m⚡LoggerPlugin [39m: 흐엉: 운전해드릴게요
+[35m⚡LoggerPlugin [39m: 아딱: 시장가로긁은
+[35m⚡LoggerPlugin [39m: 흐엉: 10억가지고 
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 운전해드림
+[35m⚡LoggerPlugin [39m: 흐엉: 거래량 추가할까? 
+[35m⚡LoggerPlugin [39m: 아딱: 기사님 출발해주세요
+[35m⚡LoggerPlugin [39m: 흐엉: 사실 차트쟁이들한텐 거래량
+[35m⚡LoggerPlugin [39m: 아딱: 다탔대요
+[35m⚡LoggerPlugin [39m: 흐엉: 중요한 지표거든
+[35m⚡LoggerPlugin [39m: 아딱: 오라오라이
+[35m⚡LoggerPlugin [39m: 흐엉: 나얌에
+[35m⚡LoggerPlugin [39m: 흐엉: 추가할까
+[35m⚡LoggerPlugin [39m: 흐엉: 물어보는거
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱아
+[35m⚡LoggerPlugin [39m: 흐엉: 글자 프리셋
+[35m⚡LoggerPlugin [39m: 흐엉: 짜줘
+[35m⚡LoggerPlugin [39m: 흐엉: 어떻게 써야
+[35m⚡LoggerPlugin [39m: 흐엉: 깔금해보일까 ?>?
+[35m⚡LoggerPlugin [39m: 흐엉: @아딱  
+[35m⚡LoggerPlugin [39m: 흐엉: @조.련.사  
+[35m⚡LoggerPlugin [39m: 흐엉: 글자 프리셋 추천좀
+[35m⚡LoggerPlugin [39m: 아딱: 어떤
+[35m⚡LoggerPlugin [39m: 아딱: 글자 프리셋
+[35m⚡LoggerPlugin [39m: 조.련.사: 돋움
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+1
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 51789, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'PL', 'n2', '9E', 'n8' ]
+index
+undefined
+아마 중복떄문에 ? 
+undefined
+코스닥
+[ '코스닥', '' ]
+[ 'fc', 'qN', 'bT', 'BR' ]
+index
+[35m⚡LoggerPlugin [39m: 흐엉: 구니까 
+[35m⚡LoggerPlugin [39m: 흐엉: 형식
+[35m⚡LoggerPlugin [39m: 흐엉: 저거
+[35m⚡LoggerPlugin [39m: 흐엉: 거래량 이랑 거래대금을
+[35m⚡LoggerPlugin [39m: 흐엉: 어디에 어떻게 표현할지
+[35m⚡LoggerPlugin [39m: 흐엉: 정해다랄는거
+[35m⚡LoggerPlugin [39m: 흐엉: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'm1', 'rg', '74', 'aH' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 쳤을때 나오는 글짜
+[35m⚡LoggerPlugin [39m: 흐엉: 어떻게만들까
+[35m⚡LoggerPlugin [39m: 흐엉: 예시좀
+[35m⚡LoggerPlugin [39m: 조.련.사: [⚔ HMM(011200) ⚔]
+⭐ 17410원 🔽530 ( -2.95%) ⭐
+거래량 = ㅁㅁㅁㅁㅁㅁ
+거래대금 = 999,999,999원 
+[35m⚡LoggerPlugin [39m: 조.련.사: 이런거?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 그걸좀
+[35m⚡LoggerPlugin [39m: 흐엉: 이쁘게
+[35m⚡LoggerPlugin [39m: 흐엉: 만들어달라고
+[35m⚡LoggerPlugin [39m: 흐엉: 존나 길면 거추장스럽잖아
+[35m⚡LoggerPlugin [39m: 아딱: 걸량 
+걸대금
+[35m⚡LoggerPlugin [39m: 우시: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Ln', 'KN', 'jZ', 'MF' ]
+[35m⚡LoggerPlugin [39m: 박남혁: hmm ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm ㅅㅇ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx
+[35m⚡LoggerPlugin [39m: 흰티마: 노무현
+[35m⚡LoggerPlugin [39m: K: Hmm ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm ㅅㅇ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx
+[35m⚡LoggerPlugin [39m: K: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'mQ', 'xS', '6j', 'EH' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 안할래
+[35m⚡LoggerPlugin [39m: 흐엉: ㅅㄱ
+[35m⚡LoggerPlugin [39m: 이ㅎ: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이ㅎ: 공매 같이쳐서 312,000원까지 내리자는건가여
+[35m⚡LoggerPlugin [39m: 이ㅎ: 이상한문자 다오네여
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흰티마: 내일 상 치고
+[35m⚡LoggerPlugin [39m: 흰티마: 원금복구 하자
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흰티마: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흰티마: 3분봉으로 봐야 꿀잼이노

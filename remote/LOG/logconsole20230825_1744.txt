@@ -1,0 +1,26 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: q appl
+[35m⚡LoggerPlugin [39m: LSH: d
+[35m⚡LoggerPlugin [39m: LSH: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+[ '9t', '7z', '2n', 'zh' ]
+nasdaq
+1,326.0
+[35m⚡LoggerPlugin [39m: LSH: 환율
+미국 USD 환율: 1,326.00$
+일본 JPY 환율: 907.78￥
+중국 CNY 환율: 181.84￥

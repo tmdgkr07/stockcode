@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@remote-kakao/core": "^1.0.7",
+    "@types/node": "^18.15.11",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node": "^20.5.0",
+    "node-cron": "^3.0.2",
+    "openai": "^3.3.0",
+    "package.json": "^2.0.1",
+    "remote-kakao": "^2.0.0-moved",
+    "request-promise-native": "^1.0.9",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1",
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node remote.js"
+  }
+}

@@ -1,0 +1,115 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: ㅎㅇ
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'y6', 'Kg', 'TR', 'rz' ]
+(node:45637) UnhandledPromiseRejectionWarning: TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Request._rp_callbackOrig (/root/remote/remote.js:1062:32)
+    at Request.plumbing.callback (/root/remote/node_modules/request-promise-core/lib/plumbing.js:76:39)
+    at Request.RP$callback [as _callback] (/root/remote/node_modules/request-promise-core/lib/plumbing.js:46:31)
+    at Request.self.callback (/root/remote/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:314:20)
+    at Request.<anonymous> (/root/remote/node_modules/request/request.js:1154:10)
+    at Request.emit (events.js:314:20)
+(node:45637) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 2)
+(node:45637) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: afdf
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: g
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !ping
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)
+아마 중복떄문에 ? 
+TypeError: (0 , crypto_1.randomUUID) is not a function
+    at /root/remote/node_modules/@remote-kakao/core/dist/message.js:26:53
+    at new Promise (<anonymous>)
+    at Message.reply (/root/remote/node_modules/@remote-kakao/core/dist/message.js:25:16)
+    at Server.<anonymous> (/root/remote/remote.js:384:15)
+    at Server.emit (/root/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/root/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (events.js:314:20)
+    at UDP.onMessage [as onmessage] (dgram.js:921:8)

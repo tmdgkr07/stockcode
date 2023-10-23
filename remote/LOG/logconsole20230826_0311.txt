@@ -1,0 +1,22 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 총운 19980730남
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730남
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Pf', '8h', 'vV', 'FH' ]
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730남

@@ -1,0 +1,41 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 011200
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '011200',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '011200' ]
+  }
+]
+1
+error:123 Error: socket hang up
+    at connResetException (node:internal/errors:717:14)
+    at Socket.socketOnEnd (node:_http_client:526:23)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'ECONNRESET'
+}
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]

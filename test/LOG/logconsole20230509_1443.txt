@@ -1,0 +1,1199 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: q soxl
+SOXL
+res : 409
+error2: 
+undefined
+SOXL
+amex.K
+[ 'v3', '1s', 'Zt', '3H' ]
+[35m⚡LoggerPlugin [39m: 아딱: if 도 if ~ else if 십수개 이상되면은
+[35m⚡LoggerPlugin [39m: 아딱: CASE 처리하는게
+[35m⚡LoggerPlugin [39m: 아딱: 속도면에서
+[35m⚡LoggerPlugin [39m: 아딱: 더빠름
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋ..
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 하지만
+[35m⚡LoggerPlugin [39m: 아딱: :)
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 황은지: 미녹시딜 발라..
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 처리했죠?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅaㅇ
+[35m⚡LoggerPlugin [39m: 여환준: 아
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: IF 아딱 = 과장 , 조련사에게 치킨
+[35m⚡LoggerPlugin [39m: 이승학: q soxl
+SOXL
+res : 409
+error2: 
+undefined
+SOXL
+amex.K
+[ 'fb', 'Lm', 'x5', 'HP' ]
+[35m⚡LoggerPlugin [39m: 여환준: 다른건 다괜찮았는데
+[35m⚡LoggerPlugin [39m: 여환준: 마이너스 뼈맞음
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 땡
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 틀렸음
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 사실 네이버 보면서 해야함
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 저렇게하면 과장이 아딱이 되어버림
+[35m⚡LoggerPlugin [39m: 여환준: 은지 오늘 좀 치네
+[35m⚡LoggerPlugin [39m: 여환준: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 아딱 == 과장
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 또는 아딱 === 과장
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 요즘은 GPT있으니 
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄹㅇ ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 쉬울거라구~
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 개쉬움
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: GPT 아딱련이 과장이면 조련사에게 치킨을 사줘야한다는 C++ 언어 만들어줘
+[35m⚡LoggerPlugin [39m: 이승학: 야 효녀
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 하면 바로 대답해줄듯
+[35m⚡LoggerPlugin [39m: 이승학: 그래서 넌 뭐해줫는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ! 야
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이거 없어졌나
+[35m⚡LoggerPlugin [39m: 이승학: ㅠ
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: !! 이거였나
+[35m⚡LoggerPlugin [39m: 여환준: q nnox
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'q nnox',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'NNOX' ]
+  }
+]
+NNOX
+nasdaq
+[ 'qu', 'ln', 'm2', 'Pt' ]
+다시 물어봐주시면 더 정확한 답변을 드릴 수 있을 것 같습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 안읽씹당햇다
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅇㅋ 
+[35m⚡LoggerPlugin [39m: 여환준: 사세요
+[35m⚡LoggerPlugin [39m: 이승학: 저번에 사라고해서 삿는데
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: !! 아딱이가 과장이면 조련사에게 치킨을 사주도록 C++언어로 짜줘
+#include <iostream>
+using namespace std;
+
+int main() {
+    string name;
+    cout << "당신의 직급은 무엇인가요?: ";
+    cin >> name;
+    
+    if(name == "과장") {
+        cout << "치킨을 사주세요!" << endl;
+    } else {
+        cout << "치킨을 사주실 필요는 없습니다." << endl;
+    }
+    return 0;
+}
+[35m⚡LoggerPlugin [39m: 이승학: q nnox ㅇㅂ
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'q nnox ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: [ 'Q', 'NNOX', 'ㅇㅂ' ]
+  }
+]
+NNOX
+nasdaq
+[ 'hN', 'Jv', 'MB', 'Jz' ]
+[35m⚡LoggerPlugin [39m: 아딱: zzzzzzzzzzzzzzzzz
+[35m⚡LoggerPlugin [39m: 아딱: 귀엽네
+[35m⚡LoggerPlugin [39m: 이승학: 개많이올랏네
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 치킨내놔
+[35m⚡LoggerPlugin [39m: 여환준: 흐흐흐
+[35m⚡LoggerPlugin [39m: 이승학: 이제팔께요
+[35m⚡LoggerPlugin [39m: K: https://youtu.be/jN_PMJXwsAc
+[35m⚡LoggerPlugin [39m: 이승학: 딱봐도 잡주네
+[35m⚡LoggerPlugin [39m: K: 은지언니
+[35m⚡LoggerPlugin [39m: 여환준: ㅡㅡ
+[35m⚡LoggerPlugin [39m: 아딱: 와
+[35m⚡LoggerPlugin [39m: 여환준: 잡주아님
+[35m⚡LoggerPlugin [39m: 아딱: 똑똑하다
+[35m⚡LoggerPlugin [39m: 여환준: 언니?
+[35m⚡LoggerPlugin [39m: 아딱: 스트림처리까지 해놔네
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 여환준: 여성분이셨구나…
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 조건만
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 제대로 주면
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 코딩해주
+[35m⚡LoggerPlugin [39m: 여환준: 왜몰랐지
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 이거보면서 하면됨
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 셀트리온
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: '셀트리온',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '셀트리온' ]
+  }
+]
+[ '셀트리온' ]
+1
+[ 'TO', 'P2', 'Ps', 'K4' ]
+[35m⚡LoggerPlugin [39m: K: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: !! * 기호로 가로 10칸 세로 20칸 마름모모양으로 찍을수있는 C++ 코드 짜줘 
+[35m⚡LoggerPlugin [39m: 황은지: 저도 남자분인줄ㅋㅋㅋ
+```
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int width = 10;
+    int height = 20;
+    int center = width / 2;
+    
+    for(int i = 0; i < height; i++) {
+        for(int j = 0; j < width; j++) {
+            if(abs(j - center) + abs(i - center) <= center) {
+                cout << "* ";
+            } else {
+                cout << "  ";
+            }
+        }
+        cout << endl;
+    }
+    
+    return 0;
+}
+```
+
+해당 코드는 가로 10칸, 세로 20칸의 마름모모양을 출력합니다. 중앙점을 구하여 반지름을 계산한 후, 해당 반지름 내의 좌표에 * 기호를 출력하는 방식으로 구현되어 있습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 이야
+[35m⚡LoggerPlugin [39m: 아딱: 씹
+[35m⚡LoggerPlugin [39m: 이승학: 남성분이십니다
+[35m⚡LoggerPlugin [39m: 아딱: 정확하네
+[35m⚡LoggerPlugin [39m: 아딱: 이거 내 대학교 1학년 문제였는데
+[35m⚡LoggerPlugin [39m: 여환준: 아 은지를 부른게 아니구너
+[35m⚡LoggerPlugin [39m: 이승학: 아 맞다 제 나얌이에는 chatgpt 가 내장되어있어요
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 대학교 리포트
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이제 못하는놈은
+[35m⚡LoggerPlugin [39m: 이승학: !! hmm 누가 인수할거같아?
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 대가리 찍어야함
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: ㅋㅋ
+저는 사람들이 어떤 것을 선택할지 예측할 수 없기 때문에 정확한 답을 제공 할 수 없습니다. 그러나 제품이나 서비스가 유용하고 많은 사람들이 필요로 하고 있다면 인수자가 나타날 수도 있습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 오
+[35m⚡LoggerPlugin [39m: 여환준: !! Nanox  잡주야?
+[35m⚡LoggerPlugin [39m: K: 인수자 너얌?
+[35m⚡LoggerPlugin [39m: 이승학: 남용은 하지마시고 재미로 사용해주세요~
+저는 인공지능 언어모델로써 국내 주식 시장에서 상장된 기업에 대한 정보를 담고 있으며, Nanox라는 기업은 이스라엘의 의료기기 제조업체입니다. 혁신적인 디지털 X-레이 솔루션을 개발하여 의료진과 환자들의 진료 경험을 개선하는 것이 목표라고 합니다. 최근에는 COVID-19 진단을 위한 디지털 X-레이 이미지 플랫폼을 출시하기도 했습니다. 주식시장에서의 Nanox의 성과나 전망에 대해서는 정확하게 답변드리기 어렵습니다.
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: !! stx 무슨일해?
+"stx"가 무슨 일을 하는지, 도저히 파악할 수 없습니다. "stx"가 무슨 의미를 가지는지, 추가적인 정보를 제공해주시면 더욱 자세한 도움을 드릴 수 있습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 음..  성능이…
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 일은 안하는구나..
+[35m⚡LoggerPlugin [39m: K: 저기서 스펠링하나 바꾸면 대답 잘해줄거같은데
+[35m⚡LoggerPlugin [39m: 황은지: !! 환준이 머리 숱 언제 떡상해?
+해당 정보에 대한 답변을 제공할 수 없습니다.
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 아. 대문자로 해야해요?
+[35m⚡LoggerPlugin [39m: 아딱: !! 스타트링크에서 판매하는 어린이용 장난감 중에서 가장 인기가 많은 제품은 구슬 탈출이다. 구슬 탈출은 직사각형 보드에 빨간 구슬과 파란 구슬을 하나씩 넣은 다음, 빨간 구슬을 구멍을 통해 빼내는 게임이다.
+
+보드의 세로 크기는 N, 가로 크기는 M이고, 편의상 1×1크기의 칸으로 나누어져 있다. 가장 바깥 행과 열은 모두 막혀져 있고, 보드에는 구멍이 하나 있다. 빨간 구슬과 파란 구슬의 크기는 보드에서 1×1크기의 칸을 가득 채우는 사이즈이고, 각각 하나씩 들어가 있다. 게임의 목표는 빨간 구슬을 구멍을 통해서 빼내는 것이다. 이때, 파란 구슬이 구멍에 들어가면 안 된다.
+
+이때, 구슬을 손으로 건드릴 수는 없고, 중력을 이용해서 이리 저리 굴려야 한다. 왼쪽으로 기울이기, 오른쪽으로 기울이기, 위쪽으로 기울이기, 아래쪽으로 기울이기와 같은 네 가지 동작이 가능하다.
+
+각각의 동작에서 공은 동시에 움직인다. 빨간 구슬이 구멍에 빠지면 성공이지만, 파란 구슬이 구멍에 빠지면 실패
+[35m⚡LoggerPlugin [39m: 여환준: !! 황은지 이뻐?
+[35m⚡LoggerPlugin [39m: 황은지: 웅!
+이다. 빨간 구슬과 파란 구슬이 동시에 구멍에 빠져도 실패이다.
+
+이때, 빨간 구슬을 구멍을 통해 빼내기 위해 최소 몇 번 움직여야 하는지 구하는 프로그램을 작성하시오.
+
+입력
+첫 번째 줄에 보드의 세로 크기 N과 가로 크기 M이 주어진다. (3 ≤ N, M ≤ 10)
+
+다음 N개 줄에는 보드의 모양을 나타내는 길이 M의 문자열이 주어진다. 이때 '.'는 빈 칸, '#'는 공이 이동할 수 없는 장애물, 'O'는 구멍을 나타낸다. 'R'은 빨간 구슬의 위치, 'B'는 파란 구슬의 위치이다. 입력되는 모든 보드의 가장자리와 구멍은 모두 막혀있다.
+
+빨간 구슬과 파란 구슬은 항상 1개씩 있다.
+
+출력
+빨간 구슬을 구멍을 통해 빼낼 수 있는 최소 움직임 횟수를 출력한다. 만약, 빨간 구슬을 구멍을 통해 빼낼 수 없으면 -1을 출력한다.
+
+[35m⚡LoggerPlugin [39m: K: ktx
+저는 AI이기 때문에 황은지의 외모에 대한 평가를 하지 않습니다. 그러나 모든 사람은 독특하고 아름다움을 가지고 있습니다.
+[35m⚡LoggerPlugin [39m: 현우: !! 배고파
+Error chatgpt api: Error: Request failed with status code 429
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 77
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 배고파"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 77,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 5758,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 77\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 429,
+      statusMessage: 'Too Many Requests',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 28,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 77,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 429,
+    statusText: 'Too Many Requests',
+    headers: {
+      date: 'Tue, 09 May 2023 05:50:30 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '505',
+      connection: 'close',
+      vary: 'Origin',
+      'x-ratelimit-limit-requests': '3',
+      'x-ratelimit-remaining-requests': '0',
+      'x-ratelimit-reset-requests': '42.353s',
+      'x-request-id': 'da7838d79265ad01ba0f8ed8c2e1663d',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7c47aa503d92c16c-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 배고파"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 77,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 77\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[35m⚡LoggerPlugin [39m: 현우: 독특하데요
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 뭐야
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋ씨 짜증
+[35m⚡LoggerPlugin [39m: 여환준: 아잌씨ㅔ
+[35m⚡LoggerPlugin [39m: 이승학: !! 대한민국 기업 stx는 주로 어떤일을 하는 회사인지 설명해줘
+[35m⚡LoggerPlugin [39m: 이승학: 이런식으로 질문해야 조금더 정확한답을,,
+STX는 해운 및 조선산업 분야에서 다양한 사업을 전개하는 대한민국의 기업입니다. 주력 사업으로는 조선, 해양시스템, 해운, 건설, 자산관리, 부동산 등이 있습니다. 대표적인 제품으로는 다양한 유형의 선박(화물선, 여객선, 탱커 등)과 해양자원개발 시설, 선박설비 등을 생산합니다. STX는 국제적으로도 활동하며, 미국, 일본, 유럽 등 전 세계적인 시장에서 사업을 전개하고 있습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 이건
+[35m⚡LoggerPlugin [39m: 아딱: 학습안되있네
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 우와!!
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 3버전이니까
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 4버전은
+[35m⚡LoggerPlugin [39m: 아딱: 삼성 코딩테스트 문제임
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 될지도
+[35m⚡LoggerPlugin [39m: -규상-: 나얌 ㅋㅋㅋ 신박하네
+[35m⚡LoggerPlugin [39m: 아딱: 지금 문제를 그대로 붙였는데
+[35m⚡LoggerPlugin [39m: 황은지: 드리고보다 좋네요 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: https://www.greataiprompts.com/chat-gpt/best-chat-gpt-prompts/#Chat_GPT_Prompts_For_Coders_Or_Programmers
+[35m⚡LoggerPlugin [39m: K: !! ktx알아?
+[35m⚡LoggerPlugin [39m: 아딱: 삼성 코딩문제의 입력 출력부분 문장이
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: !! 신풍제약 3상성공할까?
+[35m⚡LoggerPlugin [39m: 아딱: 대답으로나옴
+네, 저는 KTX를 알고 있습니다. KTX는 한국의 고속철도 기차로, 한국철도공사에서 운영하고 있습니다. KTX는 최고 속도가 305km/h로, 서울과 부산을 비롯한 전국의 주요 도시를 연결하고 있습니다. 내부 시설도 깔끔하고 편리하며, 많은 사람들이 여행이나 출장 등에 이용합니다.
+[35m⚡LoggerPlugin [39m: 여환준: 풍신
+[35m⚡LoggerPlugin [39m: 이승학: 풍신하니까
+저는 인공지능 언어모델이며, 이 질문에 대한 확실한 대답을 제공할 수 없습니다. 그러나, 제가 알 수 있는 것은 신풍제약의 현재 상황과 회사의 미래 전망입니다.
+
+신풍제약은 국내 및 해외 시장에서 일부 약제 영업을 수행하고 있으며, 지속적인 연구개발과 시장변화에 대한 대응으로 인한 노력으로 자금, 인프라 및 인적자원을 투자하고 있습니다.  2021년 9월 기준으로, 회사의 시가총액은 3조5,614억원입니다.
+
+많은 약제 기업과 마찬가지로, 신풍제약도 경쟁적 시장에서 존재하고 있습니다. 그러나, 높은 기술력과 경쟁우위를 유지하기 위해 지속적으로 노력하고 있습니다. 예를 들어, 2021년 8월 신풍제약은 신규 항암제 후보물질로서 항암 효능이 뛰어난 성분을 선보였으며, 이는 국내 시장에서 유일한 항암제임을 주장하고 있습니다.
+
+따라서, 신풍제약이 성공할 것인지 여부는 시장과 경쟁 상황에 크게 영향을 받으므로, 조기에 확정할 수 없습니다. 그러나, 회사가 지속적인 연구개발과 시장변화에 대한 대응으로 인한 노력을 기울이고 있다는 것은 분명하니, 이번에도 성공할 가능성이 있다고 생각됩니다.
+[35m⚡LoggerPlugin [39m: 아딱: 그냥 GPT도 구글링 긁어다가 붙인거네
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 가능성이 있다고하네..
+[35m⚡LoggerPlugin [39m: -규상-: 나얌 프사 장난 없네
+[35m⚡LoggerPlugin [39m: 이승학: 하지만 저 친구는 21년 9월 데이터 기반으로 답변하기에
+[35m⚡LoggerPlugin [39m: 이승학: 최신정보는 모릅니다
+[35m⚡LoggerPlugin [39m: 이승학: 예르르들어
+[35m⚡LoggerPlugin [39m: 이승학: !! 대한민국 현재 대통령은 누구야?
+저는 대한민국 인공지능 보조 프로그램이므로 현재 대통령 정보를 학습하지는 않았습니다. 하지만 현재 (2021년 8월 기준) 대한민국 대통령은 문재인 대통령입니다.
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 헐...
+[35m⚡LoggerPlugin [39m: 황은지: 헐ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: -규상-: 바보네~
+[35m⚡LoggerPlugin [39m: 황은지: 근데 참 승학님 재주 좋네요!! 멋있어요
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: prompt 가 너무길어서
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 제대로전달안되는거ㅣㅇㅁ
+[35m⚡LoggerPlugin [39m: 여환준: 업댓이
+안됐구나
+[35m⚡LoggerPlugin [39m: KBJ: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'E8', 'w7', 'Bg', 'oF' ]
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 10000주 모아보고 싶네요
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: api로 호출되는 최대비트가
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 256이엇나
+[35m⚡LoggerPlugin [39m: 여환준: 얘요?
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: https://chat.openai.com/
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 여기로 질문하면
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 네..
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 제대로 답변해줄거임
+[35m⚡LoggerPlugin [39m: 여환준: 좋은거 많은데 하필
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 배 좋아해요
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 여환준: 그럼 팬돌이ㅜ사세요
+[35m⚡LoggerPlugin [39m: -규상-: 배는 나주배
+[35m⚡LoggerPlugin [39m: 아딱: 와
+[35m⚡LoggerPlugin [39m: 여환준: 해운대장인데
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 팬오션도 있는데... 물려있어요 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 아..
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 대한해운도...
+[35m⚡LoggerPlugin [39m: 여환준: 아…
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋㅋ 배  안좋아하셔얄듯
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 흥아해운은 그나마..
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'rL', 'N7', 'dG', 'aM' ]
+[35m⚡LoggerPlugin [39m: 박재건: 와 이개잡주진짜
+[35m⚡LoggerPlugin [39m: 박재건: ..
+[35m⚡LoggerPlugin [39m: 이승학: 2만원 뚫렸네
+[35m⚡LoggerPlugin [39m: 여환준: 은지님
+[35m⚡LoggerPlugin [39m: 여환준: 저두 오마카세 먹구싶어요
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 야 무슨
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 텍스트만 오지게 쓰는중
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 스타트링크에서 판매하는 어린이용 장난감 중에서 가장 인기가 많은 제품은 구슬 탈출이다. 구슬 탈출은 직사각형 보드에 빨간 구슬과 파란 구슬을 하나씩 넣은 다음, 빨간 구슬을 구멍을 통해 빼내는 게임이다.
+
+보드의 세로 크기는 N, 가로 크기는 M이고, 편의상 1×1크기의 칸으로 나누어져 있다. 가장 바깥 행과 열은 모두 막혀져 있고, 보드에는 구멍이 하나 있다. 빨간 구슬과 파란 구슬의 크기는 보드에서 1×1크기의 칸을 가득 채우는 사이즈이고, 각각 하나씩 들어가 있다. 게임의 목표는 빨간 구슬을 구멍을 통해서 빼내는 것이다. 이때, 파란 구슬이 구멍에 들어가면 안 된다.
+
+이때, 구슬을 손으로 건드릴 수는 없고, 중력을 이용해서 이리 저리 굴려야 한다. 왼쪽으로 기울이기, 오른쪽으로 기울이기, 위쪽으로 기울이기, 아래쪽으로 기울이기와 같은 네 가지 동작이 가능하다.
+
+각각의 동작에서 공은 동시에 움직인다. 빨간 구슬이 구멍에 빠지면 성공이지만, 파란 구슬이 구멍에 빠지면 실패이다.
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 넣었을때
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이 문제는 너비 우선 탐색(BFS)을 이용하여 해결할 수 있다. 각각의 보드의 상태는 빨간 구슬과 파란 구슬의 위치를 나타내므로, (빨간 구슬의 세로 위치, 빨간 구슬의 가로 위치, 파란 구슬의 세로 위치, 파란 구슬의 가로 위치)와 같은 형태로 저장할 수 있다. BFS를 이용하여 각 상태에서 가능한 모든 방향으로 구슬을 기울여 새로운 상태를 생성하면서, 빨간 구슬이 구멍을 통해 빠져나오는데 필요한 최소 이동 횟수를 계산하면 된다.
+
+하지만 이 문제는 구슬을 움직일 때, 빨간 구슬과 파란 구슬의 상대적 위치가 중요하다는 점에서 어려움이 있다. 예를 들어, 빨간 구슬이 파란 구슬의 오른쪽에 있을 때, 오른쪽으로 기울인다면 빨간 구슬은 오른쪽으로 이동하고 파란 구슬은 왼쪽으로 이동하게 된다. 그러나 반대로, 파란 구슬이 빨간 구슬의 오른쪽에 있을 때, 오른쪽으로 기울인다면 빨간 구슬은 왼쪽으로 이동하게 되고 파란 구슬은 오른쪽으로 이동하게 된다.
+
+이러한 경우를 고려하여 BFS를 구현해
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: #include <iostream>
+#include <queue>
+#include <cstring>
+using namespace std;
+
+const int MAX = 10;
+
+int N, M;
+char board[MAX][MAX];
+bool visited[MAX][MAX][MAX][MAX];
+
+struct ball {
+    int ry, rx, by, bx, cnt;
+};
+
+int bfs(int ry, int rx, int by, int bx) {
+    queue<ball> q;
+    q.push({ry, rx, by, bx, 0});
+    visited[ry][rx][by][bx] = true;
+
+    int dy[4] = {-1, 0,
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이렇게 답변나옴
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋㅋ그럼 내 아빠 하던가…
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 이젠 나도 전문 프로그래머~
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 아딱련
+[35m⚡LoggerPlugin [39m: 황은지: 공석인데..
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 개같이 OUT
+[35m⚡LoggerPlugin [39m: 황은지: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 딸이랑 동갑일순 없지
+[35m⚡LoggerPlugin [39m: 이승학: 우와
+[35m⚡LoggerPlugin [39m: 이승학: 둘이
+[35m⚡LoggerPlugin [39m: 이승학: 동갑이에요?
+[35m⚡LoggerPlugin [39m: 황은지: 아니요??
+[35m⚡LoggerPlugin [39m: 이승학: 은지누나 되게 동안이시다
+[35m⚡LoggerPlugin [39m: 이승학: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황은지: 저분은 84이고 저는 94인데요?
+[35m⚡LoggerPlugin [39m: 여환준: ?본적도 없으면서
+[35m⚡LoggerPlugin [39m: 김혜진: 와 신기해
+[35m⚡LoggerPlugin [39m: 김혜진: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황은지: ??
+[35m⚡LoggerPlugin [39m: 이승학: ㅎㅎ
+[35m⚡LoggerPlugin [39m: 아딱: 응열심히해
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 안해
+[35m⚡LoggerPlugin [39m: 여환준: 아 
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 은지님 저 빠른85 입니다 누나
+[35m⚡LoggerPlugin [39m: 이승학: 환준이 누나 94아니셨나
+[35m⚡LoggerPlugin [39m: 김혜진: 헐
+[35m⚡LoggerPlugin [39m: 김혜진: 환준님
+[35m⚡LoggerPlugin [39m: 김혜진: 85에요?
+[35m⚡LoggerPlugin [39m: 김혜진: 75년생이신줄 알았는데
+[35m⚡LoggerPlugin [39m: 황은지: 아 빠른 85ㅋ
+[35m⚡LoggerPlugin [39m: 여환준: ㅡㅡ
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[35m⚡LoggerPlugin [39m: 이승학: 이건 고소가능
+[35m⚡LoggerPlugin [39m: 김혜진: 나이가 좀 있으신 분인줄..
+[35m⚡LoggerPlugin [39m: 황은지: ㅋㅋㅋ야잌ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 지호: 황은지님은 전에 썸타던 여자분이랑 이름이 똑같네요~
+[35m⚡LoggerPlugin [39m: 여환준: 머리없다고 놀리시나
+[35m⚡LoggerPlugin [39m: 황은지: 미치겠닼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 지호: 벌써 10년된듯~
+[35m⚡LoggerPlugin [39m: JSY: ㄴㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 형수님 아세요?
+[35m⚡LoggerPlugin [39m: 황은지: 저랑 옛날에 썸탄거 아니예요?
+[35m⚡LoggerPlugin [39m: 지호: 형수님은 모르죠~
+[35m⚡LoggerPlugin [39m: 지호: 아닌즛
+[35m⚡LoggerPlugin [39m: 지호: 서울사는 여자였음
+[35m⚡LoggerPlugin [39m: 김혜진: 저거
+[35m⚡LoggerPlugin [39m: 김혜진: 어케써여? 인공지늠?
+[35m⚡LoggerPlugin [39m: 여환준: !! 혜정아 사랑해
+저는 인공지능으로 프로그래밍되어 있어서 사람을 사랑하거나 애정을 표현하기는 어렵습니다. 하지만 혜정아님께서 저를 이용해 문제가 해결된다면 저 또한 혜정아님을 도우는 것에 최선을 다하겠습니다. 감사합니다.
+[35m⚡LoggerPlugin [39m: 김혜진: !! 나 이직할까?
+전문적인 조언을 드리긴 어렵지만, 이직을 고민하시는 이유나 목표, 현재의 상황 등을 고려하시고 신중한 판단을 하시는 것이 좋습니다. 취업 시장이나 해당 분야의 동향 등을 충분히 조사하고, 자신이 얻고자 하는 것과 이직을 통해 어떤 것을 얻을 수 있는지 고민해보시는 것도 좋습니다. 또한 기존 업무에서 불만이 있는 부분이나 개선이 필요한 부분을 찾아내고, 현재 직장과 상의해보는 것도 선택의 유혹을 이길 수 있는 방법 중 하나입니다.
+[35m⚡LoggerPlugin [39m: 황은지: 오늘 환준이 뼈뿌사지넼ㅋㅋ
+[35m⚡LoggerPlugin [39m: 황은지: 75ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 내가 그리ㅜ늙었나
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'c2', 'OI', 'wz', 'zN' ]
+[35m⚡LoggerPlugin [39m: 박재건: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김혜진: !! 여환준 나이
+저는 이용자의 개인정보를 알 수 없습니다. 따라서 여환준님의 나이를 알 수 없습니다. 이용자의 개인정보는 보호되어야 하며, 해당 정보를 수집하거나 사용하는 것은 법적인 문제가 될 수 있습니다.
+[35m⚡LoggerPlugin [39m: 김혜진: !! 남자친구 사귀는법
+[35m⚡LoggerPlugin [39m: 조정원: 1660은
+[35m⚡LoggerPlugin [39m: 조정원: 언제쯤 그만팔릴까
+저는 AI 어시스턴트로써 이에 대한 대답을 제공할 수 있습니다.
+
+1. 관심사와 취향이 비슷한 곳에서 만나기
+남자친구를 사귀는 첫 단계는 서로 잘 맞는 관심사와 취향을 가진 곳에서 마주하고 알아가는 것입니다. 이는 공통의 취미나 관심사를 가진 동호회나 모임에서 이루어질 수 있습니다.
+
+2. 자신의 감정과 관심을 드러내기
+남자친구를 사귀려면 자신의 감정과 관심을 솔직하게 드러내는 것이 중요합니다. 대화나 만남에서 자신에 대한 비전, 가치관 등을 표현해보세요.
+
+3. 적극적으로 다가가기
+남자친구를 사귀기 위해서는 적극적으로 다가가야 합니다. 두려움이나 조심스러움은 좋지 않습니다. 대화하고 만나는 시간을 늘리며 흥미롭게 유도해보세요.
+
+4. 상대방의 의견 대화에서 중요하게 생각하기
+대화에서는 상대방의 의견을 중요하게 생각해야 합니다. 올바른 대화 방식을 적용하면 마음 속에 여유와 평화가 생길 수 있습니다.
+
+5. 긍정적인 태도 유지하기
+긍정적인 태도로 대해주는 것은 모든 상황에서 좋은 결과를 가져옵니다. 매일 다른 사람들과 호감을 얻으며 소소한 호감표시를 해보세요.
+
+6. 자신을 유지하기
+매너와 예의를 지키는 것은 자신을 유지하는 일이며 능력을 강조합니다. 상대방의 배려와 같은 것을 돌려주기도 하지만 가장 자신감 있게 보이게 하는 것입니다.
+
+7. 모델링 상담받기
+만약사귈 남자친구라는 계획이 있다면, 모델링상담을 통해 좀 더목표 지향적인 방향으로 가면 좋습니다. 상담에 의해서 개발되는 체계적인 계획을 갖게되면 좋은 결과를 가져올수 있습니다.
+[35m⚡LoggerPlugin [39m: 현우: ㅋㅋㅋㅋ 개웃기네
+[35m⚡LoggerPlugin [39m: 김혜진: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 3060이
+[35m⚡LoggerPlugin [39m: 흐엉: 10만원대로
+[35m⚡LoggerPlugin [39m: 흐엉: 내려오면 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 40만원이 말이냨ㅋ
+[35m⚡LoggerPlugin [39m: 조정원: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 지호: !!공매도 이기는 법
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 우와~~
+[35m⚡LoggerPlugin [39m: 지호: 이렇게 쓰면 되나?
+저는 AI 어시스턴트이므로, 법적인 조언을 제공할 수 없습니다. 하지만, 자산 관리에 대한 일반적인 원칙으로, 공매도에서 이기는 가장 좋은 방법은 다음과 같습니다.
+
+1. 불확실한 시장에서는 진입 시기와 추적 손절 기준을 세우세요.
+2. 폭락장에서는 매입 금액과 중기-장기적인 투자 전략이 필요합니다. 
+3. 천차만별인 주식 정보만 확인하지 마시고, 해당 주식의 최신 뉴스와 실적도 반드시 살펴보세요.
+4. 공매도 유예 기간을 이용해 다가올 파동을 정확히 분석한 후, 전략적인 매입 및 매도 실험을 진행하세요. 
+
+마지막으로, 공매도는 투자자의 돈을 잃을 수 있는 위험이 큰 투자 방법입니다. 완벽한 계획을 마련해도 혹시 발생하는 예기치 않은 상황에 대비할 수 있는 투자 계획을 만들어 보시길 권합니다.
+[35m⚡LoggerPlugin [39m: 문정은: 헉
+[35m⚡LoggerPlugin [39m: 문정은: 죄송해요
+[35m⚡LoggerPlugin [39m: 문정은: 아침에 운전하느라ㅠ
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[35m⚡LoggerPlugin [39m: 이승학: 개멋잇어
+[35m⚡LoggerPlugin [39m: 여환준: !! 황은지 시집보내는 방법
+1. 황은지와 함께 대화를 나눠 결혼을 논의한다.
+2. 예식장, 웨딩드레스, 슈트 등 결혼식을 준비할 것을 상의한다.
+3. 결혼식 초대장을 작성하여 손님들에게 전달한다.
+4. 식사 메뉴를 선택하고 예산을 계획한다.
+5. 혼수생활을 위한 아파트나 주택을 선정하고 계약을 체결한다.
+6. 새로운 가정에서 필요한 가구와 가전 제품을 구입한다.
+7. 신혼여행 계획을 세우고 예약한다.
+8. 결혼식을 성공적으로 마무리하고 신혼생활을 시작한다.
+[35m⚡LoggerPlugin [39m: 상순: 선물
+[35m⚡LoggerPlugin [39m: 황은지: 고오맙다 돈써야 결혼한단 거네
+[35m⚡LoggerPlugin [39m: 문정은: 운전4시간
+[35m⚡LoggerPlugin [39m: 문정은: 정도하니까
+[35m⚡LoggerPlugin [39m: 문정은: 일을 못하겟어요,,
+[35m⚡LoggerPlugin [39m: 컴선생83: 1660s 10-12만원 as남은 기준
+[35m⚡LoggerPlugin [39m: 컴선생83: 그냥 100이면
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[35m⚡LoggerPlugin [39m: 케이미넴: 글카는 냅두고 씨퓨에만 집중하는걸 추천한다
+[35m⚡LoggerPlugin [39m: 이승학: 고생했어
+[35m⚡LoggerPlugin [39m: 컴선생83: 5600에 a320박고 ssd 3.0 2테라 박고
+[35m⚡LoggerPlugin [39m: 이승학: 근데 갑자기 웬 4시간 운전?
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'A2', 'Fq', '1c', 'qx' ]
+[35m⚡LoggerPlugin [39m: 컴선생83: 케이스 파워 램까지 50 맞추고
+[35m⚡LoggerPlugin [39m: 컴선생83: 50으로 채굴 3080을 사 ㅡ 넣어
+[35m⚡LoggerPlugin [39m: 컴선생83: 이게 지금 쌉가능인데
+[35m⚡LoggerPlugin [39m: 컴선생83: 5600에 a320 20만 2tb nvme 14만
+[35m⚡LoggerPlugin [39m: 컴선생83: 램 4만 케이스 5만 파워 7만
+[35m⚡LoggerPlugin [39m: 컴선생83: 여기에 3080딱
+[35m⚡LoggerPlugin [39m: 컴선생83: 100이면 떡을치네
+[35m⚡LoggerPlugin [39m: 문정은: 아
+[35m⚡LoggerPlugin [39m: 문정은: 과장님
+[35m⚡LoggerPlugin [39m: 문정은: 휴가갔다가
+[35m⚡LoggerPlugin [39m: 컴선생83: 3060ti 대비 1.5배는 좋겄다
+[35m⚡LoggerPlugin [39m: 문정은: 기차로 오셔서
+[35m⚡LoggerPlugin [39m: 문정은: 모시러 다녀아ㅗㅆ어여
+[35m⚡LoggerPlugin [39m: 케이미넴: 예산이 애매하거나 모자랄땐
+[35m⚡LoggerPlugin [39m: 케이미넴: 차라리 과감히 출혈을 보는게 정신건강에 이롭다
+[35m⚡LoggerPlugin [39m: 컴선생83: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 컴선생83: 1.4배는
+차이난다 
+[35m⚡LoggerPlugin [39m: 컴선생83: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 컴선생83: 1.4에서 1.5배  차이남 글카만
+[35m⚡LoggerPlugin [39m: 케이미넴: 아재
+[35m⚡LoggerPlugin [39m: 케이미넴: 츄멘 좋아하는구나
+[35m⚡LoggerPlugin [39m: 컴선생83: 저가 왜뜨냐 잘 안보는데ㅔ
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[35m⚡LoggerPlugin [39m: 이승학: 왕복 4시간
+[35m⚡LoggerPlugin [39m: 이승학: 개빡세겠다
+[35m⚡LoggerPlugin [39m: 이승학: 근데 너 ㅈㄴ 멋잇따 
+[35m⚡LoggerPlugin [39m: 이승학: 운전도 ㅎ ㅐ,,?
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+2
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 63327, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'gk', '70', 'Ur', 'LK' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'fM', 'jh', '6E', '38' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Lx', '9W', 'vK', 'RG' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'LT', 'PW', 'e5', 'N3' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'aO', '13', 'aR', 'cf' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'GV', 'lN', '5A', '1X' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Nt', 'tH', 't6', 'FV' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Q7', '7s', '2e', 'gS' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'of', 'J6', 'q8', 'l5' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'jN', 'kQ', 'Ua', 'Eg' ]
+[35m⚡LoggerPlugin [39m: 기요미: 모니터가 fhd임...
+[35m⚡LoggerPlugin [39m: 이동환: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'KP', 'gP', '8x', '5c' ]
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'rc', 'ZU', 'PY', 'ZK' ]
+[35m⚡LoggerPlugin [39m: 컴선생83: 모니터부터 바꿤마
+[35m⚡LoggerPlugin [39m: 컴선생83: qhd165 정돈 굴려야지
+[35m⚡LoggerPlugin [39m: 문정은: 편도 2시간
+[35m⚡LoggerPlugin [39m: 문정은: 두번한거에요!
+[35m⚡LoggerPlugin [39m: 문정은: 저 운전 조금 하져!
+[35m⚡LoggerPlugin [39m: 이승학: 멋있어,,
+[35m⚡LoggerPlugin [39m: 이승학: 차있어?
+[35m⚡LoggerPlugin [39m: 문정은: 회사차!
+[35m⚡LoggerPlugin [39m: 박용규: 헐~~ '나얌'이를 승학님이 직접 만든거임???
+[35m⚡LoggerPlugin [39m: 기요미: 그건뭐 여유좀더생기면
+[35m⚡LoggerPlugin [39m: 기요미: 24gn600으로도
+[35m⚡LoggerPlugin [39m: 기요미: 충분히만족중이야
+[35m⚡LoggerPlugin [39m: 익익: 어차피 
+[35m⚡LoggerPlugin [39m: 익익: 처음에 싼거써도 결국 비싼거
+[35m⚡LoggerPlugin [39m: 익익: 사게된다
+[35m⚡LoggerPlugin [39m: 익익: 처음부터 질러라
+[35m⚡LoggerPlugin [39m: 흐엉: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 특히 모니터 
+[35m⚡LoggerPlugin [39m: 흐엉: 주변기기
+[35m⚡LoggerPlugin [39m: 익익: 결국 욕심나서
+[35m⚡LoggerPlugin [39m: 익익: 비싼거 사고원래꺼
+[35m⚡LoggerPlugin [39m: 익익: 팔면
+[35m⚡LoggerPlugin [39m: 익익: 그게 손해지
+[35m⚡LoggerPlugin [39m: 익익: 질러서 일상생활 안되는거
+[35m⚡LoggerPlugin [39m: 익익: 아닌이상
+[35m⚡LoggerPlugin [39m: 컴선생83: 난 그냥 7800x3d에 4090으로
+[35m⚡LoggerPlugin [39m: 익익: 그냥 더 좋은거 처음부터 사
+[35m⚡LoggerPlugin [39m: 컴선생83: 종결함
+[35m⚡LoggerPlugin [39m: 컴선생83: 더 쓰는건 손해인듯
+[35m⚡LoggerPlugin [39m: 익익: 아저씨는
+[35m⚡LoggerPlugin [39m: 익익: 그만사
+[35m⚡LoggerPlugin [39m: 기요미: 로또당첨되면
+[35m⚡LoggerPlugin [39m: 기요미: 시도해봄
+[35m⚡LoggerPlugin [39m: 컴선생83: 7800에 a620으로 74에 끊었다
+[35m⚡LoggerPlugin [39m: 컴선생83: 공랭 달고
+[35m⚡LoggerPlugin [39m: 컴선생83: 4090을 일찍사서 최저가는 실패
+[35m⚡LoggerPlugin [39m: 케이미넴: 나도 4090 그닥
+[35m⚡LoggerPlugin [39m: 케이미넴: 싸게는 못삼
+[35m⚡LoggerPlugin [39m: 케이미넴: 거래처 후려쳤더니 238까진 해주던데
+[35m⚡LoggerPlugin [39m: 컴선생83: 그냥 중고로 200이하에 주웠어야 했는데
+[35m⚡LoggerPlugin [39m: 컴선생83: 그럼 7800x3d에 4090달고 300 안쪽으로 쌉가능 했을긋
+[35m⚡LoggerPlugin [39m: 익익: 아뮤튼
+[35m⚡LoggerPlugin [39m: 익익: 아조씨들
+[35m⚡LoggerPlugin [39m: 익익: 이제 아이폰15부터
+[35m⚡LoggerPlugin [39m: 익익: C타입이리던데
+[35m⚡LoggerPlugin [39m: 케이미넴: 아무상관없는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 요즘 누가 케이블로 충전함;
+[35m⚡LoggerPlugin [39m: 익익: 집에 사둔 여분 라이트닝
+[35m⚡LoggerPlugin [39m: 케이미넴: 갓세이프
+[35m⚡LoggerPlugin [39m: 익익: ㅇ어따쓰지
+[35m⚡LoggerPlugin [39m: 익익: 시발...
+[35m⚡LoggerPlugin [39m: 기요미: 라이트닝은제발운지좀해야해
+[35m⚡LoggerPlugin [39m: 컴선생83: 현존 최강 게이밍 피씨가
+[35m⚡LoggerPlugin [39m: 컴선생83: 300 안쪽이라니
+[35m⚡LoggerPlugin [39m: 케이미넴: 중고가로 계산하면
+[35m⚡LoggerPlugin [39m: 컴선생83: 결국 먼저 사면 바보되는 건가
+[35m⚡LoggerPlugin [39m: 케이미넴: 천원 공짜도 가능하지뭐
+[35m⚡LoggerPlugin [39m: 익익: 애플 그와중에 mfi미인증 c타입은 아이폰15부터 충전속도 제약 둘라다
+[35m⚡LoggerPlugin [39m: 기요미: 님덜 모니터 몇개씀
+[35m⚡LoggerPlugin [39m: 컴선생83: 아니 중고 말고
+[35m⚡LoggerPlugin [39m: 익익: Eu에서 경고받았다던디
+[35m⚡LoggerPlugin [39m: 컴선생83: 4090 미개봉은 200이하로 나옴
+[35m⚡LoggerPlugin [39m: 익익: "0"
+[35m⚡LoggerPlugin [39m: 기요미: 경고는 경고일뿐...
+[35m⚡LoggerPlugin [39m: 익익: 본가에선 두개
+[35m⚡LoggerPlugin [39m: 익익: 27 24
+[35m⚡LoggerPlugin [39m: 익익: 이렇게 두개써용
+[35m⚡LoggerPlugin [39m: 컴선생83: 다 새걸로 사도 300가믕
+[35m⚡LoggerPlugin [39m: 기요미: 24 27?
+[35m⚡LoggerPlugin [39m: 익익: 메인 27 서브 24
+[35m⚡LoggerPlugin [39m: 케이미넴: 하나쓴다
+[35m⚡LoggerPlugin [39m: 기요미: 막 거슬리는거없?
+[35m⚡LoggerPlugin [39m: 컴선생83: 난 모니터 너무 많다
+[35m⚡LoggerPlugin [39m: 익익: 모니터암 해두고 하니까
+[35m⚡LoggerPlugin [39m: 익익: 딱히 없던데 나는
+[35m⚡LoggerPlugin [39m: 기요미: 컴아조씨는
+[35m⚡LoggerPlugin [39m: 케이미넴: https://m.shoppinghow.kakao.com/m/product/A5103031106/q:38gl950g&cateid:100101102&srchhow:Cexpo
+[35m⚡LoggerPlugin [39m: 기요미: 지금 24쓰는데 24를하나더둘까...
+[35m⚡LoggerPlugin [39m: 케이미넴: 샵검색: #38gl950g
+[35m⚡LoggerPlugin [39m: 기요미: 27 32를둘까
+[35m⚡LoggerPlugin [39m: 컴선생83: 그냔 난 3개 씀
+[35m⚡LoggerPlugin [39m: 케이미넴: 모니터도
+[35m⚡LoggerPlugin [39m: 컴선생83: 283227
+[35m⚡LoggerPlugin [39m: 익익: 난 개인적으로
+[35m⚡LoggerPlugin [39m: 케이미넴: 한방에 좋은거 사야 후회안함
+[35m⚡LoggerPlugin [39m: 익익: 27이 제일 좋아
+[35m⚡LoggerPlugin [39m: 케이미넴: 컴터당 한대쓰고있으니까
+[35m⚡LoggerPlugin [39m: 케이미넴: 한대쓰는거 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 컴선생83: 그리고 cx48
+[35m⚡LoggerPlugin [39m: 익익: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 기요미: 모암을 달고싶어도 책상이유리라서
+[35m⚡LoggerPlugin [39m: 케이미넴: 안그럼 모니터 진짜 개많은데
+[35m⚡LoggerPlugin [39m: 기요미: ㅁ늣달아
+[35m⚡LoggerPlugin [39m: 케이미넴: kvm도 있....
+[35m⚡LoggerPlugin [39m: 익익: 책상을 바꿔
+[35m⚡LoggerPlugin [39m: 기요미: 못바꿔.
+[35m⚡LoggerPlugin [39m: 익익: 한남 유리책상
+[35m⚡LoggerPlugin [39m: 기요미: 사정이있어.
+[35m⚡LoggerPlugin [39m: 익익: 아웃!
+[35m⚡LoggerPlugin [39m: 케이미넴: 바보야..
+[35m⚡LoggerPlugin [39m: 케이미넴: 그럴때 쓰는게 고무패드임
+[35m⚡LoggerPlugin [39m: 케이미넴: 뒀다 국끓여물래
+[35m⚡LoggerPlugin [39m: 기요미: 고무패드 끼고 부셔질까봐
+[35m⚡LoggerPlugin [39m: 기요미: 무서움..
+[35m⚡LoggerPlugin [39m: 최송아: 반갑습니다
+[35m⚡LoggerPlugin [39m: 황은지: 숭어다..!
+[35m⚡LoggerPlugin [39m: 황은지: !! 숭어는 언제돌아와?
+저는 인공지능 언어모델 AI이므로 실제 생물인 숭어의 이동 패턴에 대해서는 정보를 가지고 있지 않습니다. 일반적으로 숭어는 봄과 여름철에 어류 번식을 위해 상류로 이동하게 되며, 가을과 겨울철에는 하류로 내려가서 겨울잠을 잡니다. 따라서 이에따른 구체적인 기간은 지역, 기상상황, 수질 등에 따라 다양할 것입니다.
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 최송아: 오픈챗방에 신기한거 많이생겼네요 그새 ㅎ
+[35m⚡LoggerPlugin [39m: 황은지: 오늘 샹겼어요..
+[35m⚡LoggerPlugin [39m: 최송아: 아하 !
+[35m⚡LoggerPlugin [39m: 최송아: hmm에 관심끊다가 혹시나하는 작은 바램에 다시들어왔습니다 ㅠ
+[35m⚡LoggerPlugin [39m: 배성득님: 송아님이라면 그 술 조아하시는분아닌가여
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋㅋㅋ네??
+[35m⚡LoggerPlugin [39m: 최송아: 잘못아신거같습니다만^.^;;
+[35m⚡LoggerPlugin [39m: 배성득님: 아닌가..내기억이맞다면..
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋ 저 술 못마셔요
+[35m⚡LoggerPlugin [39m: 윤수: 동명이인이신가
+[35m⚡LoggerPlugin [39m: K: HMM에 물려서 술 끊으신듯
+[35m⚡LoggerPlugin [39m: 최송아: 5만원가면 끊을랬는데
+[35m⚡LoggerPlugin [39m: 배성득님: 동명이인인가봅니댜..
+[35m⚡LoggerPlugin [39m: 윤수: 5만원 가면 양주...
+[35m⚡LoggerPlugin [39m: 최송아: 이젠 병소주는 물려서 페트병으로 마십니다
+[35m⚡LoggerPlugin [39m: 여환준: 워 숭어다
+[35m⚡LoggerPlugin [39m: 윤수: 저도 병은 질려서 피쳐로 맥주 마십니다
+[35m⚡LoggerPlugin [39m: 최송아: 안뇽하세여 !ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 우리숭어 못본새 정강이가 많이 길어졌네 ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 윤수: 근데 오랜만에 뵈니 방갑네욬ㅋㅋ
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋㅋㅋ 원래 발이300이었었는데 이젠 정강이네요 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 최송아: 네 반갑습니다 ㅠㅠ
+[35m⚡LoggerPlugin [39m: 최송아: 같이으쌰으쌰합시다 !
+[35m⚡LoggerPlugin [39m: 현우: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 현우: 소주 3병기본이신분인데.. @최송아 
+[35m⚡LoggerPlugin [39m: 최송아: 응?? 뭐래 나 3잔이야 !
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 너이자식 놀릴려고
+[35m⚡LoggerPlugin [39m: 조.련.사(조무사전문) 黒化: 흠차!
+[35m⚡LoggerPlugin [39m: 윤수: 샵검색: #소주잔
+[35m⚡LoggerPlugin [39m: 윤수: 3잔 확인입니다
+[35m⚡LoggerPlugin [39m: 여환준: 숭어님이랑 대작하다 발렸습니다
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 어후…. 벌써 작년이네
+[35m⚡LoggerPlugin [39m: 최송아: 시간빠르네요,,,ㅠㅠ
+[35m⚡LoggerPlugin [39m: 안한영: 샵검색: #소주잔
+[35m⚡LoggerPlugin [39m: 최송아: 탐나는군요 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 저 집가고 싶어여
+[35m⚡LoggerPlugin [39m: Joonsoo: 언제 나갔었어요?
+[35m⚡LoggerPlugin [39m: 최송아: 채팅방 작년 여름가을쯤 나갔었습니당,,,
+[35m⚡LoggerPlugin [39m: Joonsoo: 헐
+[35m⚡LoggerPlugin [39m: Joonsoo: 왜 몰랐지…
+[35m⚡LoggerPlugin [39m: 최송아:  존재감이없어서,,,그럴수도있죠 ㅎㅎㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: 최송아: 이제 주가봐도 무감각해져서 
+[35m⚡LoggerPlugin [39m: 최송아: 흠방 들어가도될거같더라구요,,ㅋㅋ
+[35m⚡LoggerPlugin [39m: 현우: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 현우: 슬퍼하지마 노노노
+[35m⚡LoggerPlugin [39m: 현우: 혼자가 아냐 노노오
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 케이미넴: 출격준비완료
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 최송아: 다들배당금은 어디쓰셨나요??
+[35m⚡LoggerPlugin [39m: 최송아: 아직 그대로 계좌에 박혀있는데 물타신분 계신가요?
+[35m⚡LoggerPlugin [39m: 현우: 난 딴주식 삿슙니다
+[35m⚡LoggerPlugin [39m: 이승학: 저두요
+[35m⚡LoggerPlugin [39m: 황은지: 전 어버이 은혜
+[35m⚡LoggerPlugin [39m: 김얼: Hmm ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'Hmm ㅅㅇ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx

@@ -1,0 +1,1098 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 박민혁: 찾았는데
+[35m⚡LoggerPlugin [39m: 박민혁: 어디에 업로드하지?
+[35m⚡LoggerPlugin [39m: 박민혁: 15기가임
+[35m⚡LoggerPlugin [39m: 제원: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 용성: 이 마수는 너에겐 너무 위험하다
+[35m⚡LoggerPlugin [39m: 박민혁: 나스?
+[35m⚡LoggerPlugin [39m: 박민혁: 일단 아이디 ㄱ
+[35m⚡LoggerPlugin [39m: 박용규: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 오늘 가나요?
+[35m⚡LoggerPlugin [39m: 박재건: 밑으로?..
+[35m⚡LoggerPlugin [39m: 황설희: 와.. 
+[35m⚡LoggerPlugin [39m: 황설희: 동무 살아있는가.. 
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오석천: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'qE', '3v', 'TF', 'Mc' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,750원 (▽20원 -0.11%)
+시총/대금: 9.17조 / 2.62억
+
+dreago.kr/ts/36Qwanv
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 49392, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'qs', 'GN', 'Vn', '5N' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'qs', 'Gn', '53', 'HP' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'K2', '19', 'aT', 'wN' ]
+index
+코스닥
+[ '코스닥', '' ]
+undefined
+아마 중복떄문에 ? 
+undefined
+[ '1f', 'DL', '7Y', 'jr' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'q3', 'Zn', 'wC', 's7' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ '4w', '59', 'CI', '1L' ]
+index
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Ql', 'zn', 'US', 'bQ' ]
+[35m⚡LoggerPlugin [39m: 아딱: sk하이닉스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'sk하이닉스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'SK하이닉스' ]
+  }
+]
+[ 'SK하이닉스' ]
+1
+[ 'ye', 'rR', 'cx', 'Ba' ]
+[35m⚡LoggerPlugin [39m: 문정은: 오빠
+[35m⚡LoggerPlugin [39m: 문정은: 저희 쥐나왔어요
+[35m⚡LoggerPlugin [39m: 문정은: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 승환: 와...겁내 고생햇네요..
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'rj', 'Kn', 'cK', 'Dm' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,950원 (▲180원 +0.96%)
+시총/대금: 9.27조 / 28.32억
+
+dreago.kr/ts/1n30UR3
+[35m⚡LoggerPlugin [39m: 박재건: 드리고
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 투자의 서포터 드리고와 함께 하세요.
+
+https://dreago.kr
+[35m⚡LoggerPlugin [39m: 박재건: 돌아왔네
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 드리고 살아났어요?
+[35m⚡LoggerPlugin [39m: 박재건: 그렇네여
+[35m⚡LoggerPlugin [39m: 이ㅎ: 흠이 또 개미꼬시기모드
+[35m⚡LoggerPlugin [39m: 박재건: 이제속으면 문제있음
+[35m⚡LoggerPlugin [39m: 배성득님: 이제 쭉올라가나여
+[35m⚡LoggerPlugin [39m: 김동희: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Gy', 'h5', 'mK', 'Gv' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,930원 (▲160원 +0.85%)
+시총/대금: 9.26조 / 30.88억
+
+dreago.kr/ts/2Sfhf7e
+[35m⚡LoggerPlugin [39m: 조.련.사: 삼성중고업
+[35m⚡LoggerPlugin [39m: 조.련.사: 삼성중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '삼성중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업' ]
+  }
+]
+[ '삼성중공업' ]
+1
+[ 'D5', '4g', 'xY', '5O' ]
+[35m⚡LoggerPlugin [39m: 배성득님: 이제는갈때안됫나 ㅜㅜ
+[35m⚡LoggerPlugin [39m: 유지준: 삼성증권 매도주체 누굴까
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: '삼성증권 매도주체 누굴까',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성증권', '매도주체', '누굴까' ]
+  }
+]
+[ '삼성증권', '매도주체', '누굴까' ]
+1
+[ 'b5', 'SD', 'iV', 'Qf' ]
+[35m⚡LoggerPlugin [39m: 이주헌: 어제 오늘 만주는 기본으로 던지네여
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'd0', 'x2', 'DH', 'oO' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,820원 (▲50원 +0.27%)
+시총/대금: 9.20조 / 64.64억
+
+dreago.kr/ts/1oboEL6
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 박용규: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박용규: 지랄맞은 수익률
+[35m⚡LoggerPlugin [39m: JSY: 양호하시네요..
+[35m⚡LoggerPlugin [39m: 박용규: 숫자가 지랄맞아서요
+[35m⚡LoggerPlugin [39m: 현우: 적을 자리다
+[35m⚡LoggerPlugin [39m: 조.련.사: 삼성중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '삼성중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업' ]
+  }
+]
+[ '삼성중공업' ]
+1
+[ 'fj', 'yG', 'k6', 'z8' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 좋아좋아
+[35m⚡LoggerPlugin [39m: 이애경: 드리고가 속도가 느리네 나얌한티 밀려
+[35m⚡LoggerPlugin [39m: 박재건: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'bh', 'K2', 'yw', 'SQ' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,820원 (▲50원 +0.27%)
+시총/대금: 9.20조 / 75.01억
+
+dreago.kr/ts/2CbQsF7
+[35m⚡LoggerPlugin [39m: 박재건: 진짜 환장할
+[35m⚡LoggerPlugin [39m: 박재건: 주식이네
+[35m⚡LoggerPlugin [39m: 박재건: 오늘
+[35m⚡LoggerPlugin [39m: 박재건: 코스피
+코스피
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 64927, size: 19563 },
+  room: '강성주주방',
+  content: '코스피',
+  sender: { name: '박재건', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피' ]
+[ 'oi', 'jb', 'Wu', 's5' ]
+index
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: ■ 코스피 (09:59)
+
+🔵 2,565.59p (▽1.96p -0.08%)
+ ➥ 개인 +857 억
+ ➥ 외인 +270 억
+ ➥ 기관 -1,103 억
+ ➥ 비차익/차익 +298/+63
+
+dreago.kr/ti/kp4QWxg8c
+[35m⚡LoggerPlugin [39m: 박재건: 코스피상위권종목들 상태안좋은데
+[35m⚡LoggerPlugin [39m: 박재건: 코스피는 선방하네
+[35m⚡LoggerPlugin [39m: KBJ: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Dh', '8e', 'oq', '6D' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,820원 (▲50원 +0.27%)
+시총/대금: 9.20조 / 75.59억
+
+dreago.kr/ts/2xcSO8h
+[35m⚡LoggerPlugin [39m: 박용준: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'dZ', 'ZO', '1J', 'HK' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,750원 (▽20원 -0.11%)
+시총/대금: 9.17조 / 81.33억
+
+dreago.kr/ts/oJ6slr
+[35m⚡LoggerPlugin [39m: 박용준: 흠봉
+[35m⚡LoggerPlugin [39m: ㅎㅎ: ㅋㅋ
+[35m⚡LoggerPlugin [39m: ㅎㅎ: 쓰레기놈ㅋㅋ
+[35m⚡LoggerPlugin [39m: 최송아: 흠레기ㅜㅜ
+[35m⚡LoggerPlugin [39m: Kong: 기가레인
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: '기가레인',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '기가레인' ]
+  }
+]
+[ '기가레인' ]
+1
+[ 'cI', 'nc', 'kd', 'fI' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 기가레인 】 주식 시세
+
+🔴 1,734원 (▲4원 +0.23%)
+시총/대금: 1,472억 / 19.82억
+
+dreago.kr/ts/eb1XTW
+[35m⚡LoggerPlugin [39m: 현우: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'nU', 'iL', 'LD', 'sV' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,750원 (▽20원 -0.11%)
+시총/대금: 9.17조 / 81.95억
+
+dreago.kr/ts/CbE0sh
+[35m⚡LoggerPlugin [39m: 현우: 개 스렉이 생키
+[35m⚡LoggerPlugin [39m: 박용규: 어? 드리고 돌아왔네요?
+[35m⚡LoggerPlugin [39m: 아딱: SK하이닉스
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'SK하이닉스',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'SK하이닉스' ]
+  }
+]
+[ 'SK하이닉스' ]
+1
+[ 'NE', 'qv', 'ls', 'KT' ]
+[35m⚡LoggerPlugin [39m: 아딱: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '9c', 'Lr', '5Z', 'hx' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㅜㅜ
+[35m⚡LoggerPlugin [39m: 아딱: 흠아죽지망
+[35m⚡LoggerPlugin [39m: 유지준: Hmm 누가 자꾸 누르냐
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm 누가 자꾸 누르냐',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM', '누가', '자꾸', '누르냐' ]
+  }
+]
+[ 'HMM', '누가', '자꾸', '누르냐' ]
+1
+[ 'QD', 'F7', 'DA', '27' ]
+[35m⚡LoggerPlugin [39m: 유지준: 삼성증권 누군데 자꾸 던지는거지
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: '삼성증권 누군데 자꾸 던지는거지',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성증권', '누군데', '자꾸', '던지는거지' ]
+  }
+]
+[ '삼성증권', '누군데', '자꾸', '던지는거지' ]
+1
+[ 'Mk', 'bQ', 'xZ', 's6' ]
+[35m⚡LoggerPlugin [39m: 이지영: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이주헌: ㅗㅡㅡ
+[35m⚡LoggerPlugin [39m: 이주헌: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '8R', 'Uc', 'eG', 'iN' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔴 18,800원 (▲30원 +0.16%)
+시총/대금: 9.19조 / 93.84억
+
+dreago.kr/ts/3Y0cFYX
+[35m⚡LoggerPlugin [39m: 정주환: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이지영: 승학이오빠 아직도 영정 안풀린건가
+[35m⚡LoggerPlugin [39m: 이지영: 안 나타나네
+[35m⚡LoggerPlugin [39m: 이지영: 나 심심하다
+[35m⚡LoggerPlugin [39m: 정주환: 저랑 케라스 하실래요?
+[35m⚡LoggerPlugin [39m: 이지영: 아니,,,
+[35m⚡LoggerPlugin [39m: 이지영: 그런거 말고 재미있는거 없냐
+[35m⚡LoggerPlugin [39m: 정주환: 그럼 뭐
+[35m⚡LoggerPlugin [39m: 이지영: 오늘 일 하나도 못할듯
+[35m⚡LoggerPlugin [39m: 정주환: 어떻게 하면 정주환 여친을 만들 수 있을까에 대한 고찰은요?
+[35m⚡LoggerPlugin [39m: 이지영: 지랄 ㄴㄴ
+[35m⚡LoggerPlugin [39m: 정주환: ㅋ
+[35m⚡LoggerPlugin [39m: 이지영: 정주환 여친 죽어도 안생김
+[35m⚡LoggerPlugin [39m: 이지영: 그런 고찰은 할 수 있어
+[35m⚡LoggerPlugin [39m: 이지영: 아니 내 코가 석자인데 그럴꺼냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱이가
+[35m⚡LoggerPlugin [39m: 조.련.사: 계속언급해서
+[35m⚡LoggerPlugin [39m: 조.련.사: 죽는거야!
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱의 저주에 걸렸따!
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 드리고가 더 자세하네요
+[35m⚡LoggerPlugin [39m: 정주환: ?
+[35m⚡LoggerPlugin [39m: 이지영: ㅎㅋㅎㅋㅎㅋㅋㅎㅋㅎㅎㅋㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎ
+[35m⚡LoggerPlugin [39m: 정주환: 진짜 너무하시네요
+[35m⚡LoggerPlugin [39m: 이지영: ㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅋㅎㅎㅋㅋㅎㅎㅋㅎㅋㅎㅋ 아니 너 요즘에 왜 이리 여친여친그애
+[35m⚡LoggerPlugin [39m: 이지영: 그 시간에 공부해 공부
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Ut', 'Yd', 'RY', 'Cy' ]
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'RJ', 'jl', 'YJ', 'oM' ]
+[35m⚡LoggerPlugin [39m: 정주환: 으
+[35m⚡LoggerPlugin [39m: 이지영: 여친 여친 할시간에 코드 하나라도 더 봐라 그래야지 내 회사 같은 스곳 안온더
+[35m⚡LoggerPlugin [39m: hmj: 안풀렷어
+[35m⚡LoggerPlugin [39m: hmj: 못푼대
+[35m⚡LoggerPlugin [39m: 이지영: 그러면 아예 카톡 없이 사는거에요??
+[35m⚡LoggerPlugin [39m: 이지영: 에바닌데
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 어절수없엌ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 정주환: 번호 하나 더 만들어서 계정 새로 만드는것도 막힌거래요?
+[35m⚡LoggerPlugin [39m: 조.련.사: 삼성중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '삼성중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업' ]
+  }
+]
+[ '삼성중공업' ]
+1
+[ '0r', 'kq', 'zb', 'VI' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 올라올라라메 올라 올라라이젠 올라라요~ 올라이제에엔
+[35m⚡LoggerPlugin [39m: 조.련.사: 올라라~ 올라라~ 올라라요
+[35m⚡LoggerPlugin [39m: 조.련.사: 올라라~ 올라라이제에엔
+[35m⚡LoggerPlugin [39m: 이지영: 나얌인게 걔 쓰면 안되나
+[35m⚡LoggerPlugin [39m: hmj: 그냥
+[35m⚡LoggerPlugin [39m: hmj: 카톡쓰는지안쓰는지도모르겟고
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 영정당한거
+[35m⚡LoggerPlugin [39m: hmj: 못퓰엇다햇음
+[35m⚡LoggerPlugin [39m: 현우: 올라라제발 봄
+[35m⚡LoggerPlugin [39m: 정주환: 홀리몰리 과카몰리
+[35m⚡LoggerPlugin [39m: 이지영: 왜 영정당랬는지 알고 일어여??
+[35m⚡LoggerPlugin [39m: hmj: 그거
+[35m⚡LoggerPlugin [39m: hmj: 카톡에서 잘못 영정햇다는데
+[35m⚡LoggerPlugin [39m: hmj: 근데 그건 심증만잇을뿐이고
+[35m⚡LoggerPlugin [39m: hmj: 카톡에서는 뭐때뮨에 영정당햇는지안알려준대
+[35m⚡LoggerPlugin [39m: hmj: 그냥 어떤사유인지만알랴준대
+[35m⚡LoggerPlugin [39m: 아딱: HMM이랑 비교ㅕㅎ,며
+[35m⚡LoggerPlugin [39m: 아딱: 중공업 얼마들어가있음
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 이지영: 아하 
+[35m⚡LoggerPlugin [39m: 이지영: 뭐땜에 되었는지 엄청 궁금하다
+[35m⚡LoggerPlugin [39m: 이지영: ㅋㅎㅋㅎㅋㅎㅋㅎㅋ
+[35m⚡LoggerPlugin [39m: hmj: 사유는 아는데
+[35m⚡LoggerPlugin [39m: hmj: 본인에게 물어바밬ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 듣고 웃겼음
+[35m⚡LoggerPlugin [39m: 이지영: 문자로 연락하면 되는건가
+[35m⚡LoggerPlugin [39m: hmj: 엉
+[35m⚡LoggerPlugin [39m: hmj: 근데 주환이
+[35m⚡LoggerPlugin [39m: hmj: 뭔 여친이냐
+[35m⚡LoggerPlugin [39m: hmj: 주환이 요새 여친여친 거리나
+[35m⚡LoggerPlugin [39m: 정주환: 그냥 심심해보이시길래
+[35m⚡LoggerPlugin [39m: 정주환: 난제 하나 풀어달라고 드린거죠 머
+[35m⚡LoggerPlugin [39m: hmj: 애인이 없으먼 어때
+[35m⚡LoggerPlugin [39m: hmj: 잘살아가는데
+[35m⚡LoggerPlugin [39m: 이지영: 애인있는 분이 그러지마요 코코콬ㅎㅋㅎㅋㅎㅋㅎ
+[35m⚡LoggerPlugin [39m: 이지영: ㅇㅈ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋ왜
+[35m⚡LoggerPlugin [39m: hmj: 바꾸냨ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이지영: 내맘
+[35m⚡LoggerPlugin [39m: 이지영: 코코콬ㅎㅋㅎㅋㅎㅋㅎㅋ
+[35m⚡LoggerPlugin [39m: hmj: 심지어 2분만에
+[35m⚡LoggerPlugin [39m: hmj: 생각이 바꼈어
+[35m⚡LoggerPlugin [39m: 이지영: 뭔가 선 넘는더 같아서
+[35m⚡LoggerPlugin [39m: 이지영: 바꿈
+[35m⚡LoggerPlugin [39m: hmj: 딱히
+[35m⚡LoggerPlugin [39m: 정주환: 으
+[35m⚡LoggerPlugin [39m: hmj: 아무생각없텄는데
+[35m⚡LoggerPlugin [39m: 이지영: 그러면 다행이당
+[35m⚡LoggerPlugin [39m: hmj: 뭘그런걸신경쎀ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 넌 먼데 쥬환아
+[35m⚡LoggerPlugin [39m: 이지영: 친할수록 선 더 신경써애한다고 했늠
+[35m⚡LoggerPlugin [39m: 이지영: 어차피 안생길껀데 무슨 으야
+[35m⚡LoggerPlugin [39m: hmj: 맞긴하징
+[35m⚡LoggerPlugin [39m: hmj: 난 저렁건 신경안쓰긴해서
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 야야 팩트로때리면
+[35m⚡LoggerPlugin [39m: hmj: 더아파
+[35m⚡LoggerPlugin [39m: hmj: 오.. ㅎㅇ
+[35m⚡LoggerPlugin [39m: hmj: 영정먹어도 그건되냐
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 관련채팅내역왜안알려주냐
+[35m⚡LoggerPlugin [39m: 이지영: 뭐깸에
+[35m⚡LoggerPlugin [39m: hmj: 칵칵옼녘섴들
+[35m⚡LoggerPlugin [39m: 이지영: 영정이에요
+[35m⚡LoggerPlugin [39m: 이지영: 개 궁금함
+[35m⚡LoggerPlugin [39m: hmj: 머땜에 영정먹엇는지 알려주래 승학아
+[35m⚡LoggerPlugin [39m: 이지영: 뭔가
+[35m⚡LoggerPlugin [39m: 이지영: 오픈톡방이랑 연관있을거 같았음
+[35m⚡LoggerPlugin [39m: ㅎㅎ: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '5X', '5K', 'Py', '97' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,670원 (▽100원 -0.53%)
+시총/대금: 9.13조 / 123억
+
+dreago.kr/ts/3286Vmv
+[35m⚡LoggerPlugin [39m: ㅎㅎ: Zzz
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 나얌이 짤리겠는데..
+[35m⚡LoggerPlugin [39m: 여환준: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '3a', 'ft', 'an', 'Ct' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,670원 (▽100원 -0.53%)
+시총/대금: 9.13조 / 123억
+
+dreago.kr/ts/3DInbXA
+[35m⚡LoggerPlugin [39m: 이지영: 카카오 욕에서 영정 당한듯
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '금',
+      content: '카카오 욕에서 영정 당한듯',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오', '욕에서', '영정', '당한듯' ]
+  }
+]
+[ '카카오', '욕에서', '영정', '당한듯' ]
+1
+[ 'Qt', 'EA', '90', 'Jm' ]
+[35m⚡LoggerPlugin [39m: 정주환: 봇이 그걸 인식하네욬ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박민혁: 오키
+[35m⚡LoggerPlugin [39m: 조.련.사: 조금
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 내 포트 폴리오
+[35m⚡LoggerPlugin [39m: 두&두: 국보
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: '국보',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '국보' ]
+  }
+]
+[ '국보' ]
+1
+[ 'wx', 'sJ', 'ZL', 'e6' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 국보 】 주식 시세
+
+🔴 7,020원 (▲1,620원 +30.00%)
+시총/대금: 745억 / 44.73억
+
+dreago.kr/ts/2URxjNA
+[35m⚡LoggerPlugin [39m: 두&두: 드뎌 수익보내요 hmm때문에 속상했는데
+[35m⚡LoggerPlugin [39m: 제서비: 냐얌은 -30%
+[35m⚡LoggerPlugin [39m: 김병환: 국보카리스
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜 씹련앙
+[35m⚡LoggerPlugin [39m: 문정은:  ㅋㅎㅋㅎㅎㅋㅎㅋㅎㅋㅎ
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'OR', '4x', 'm0', '2U' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,690원 (▽80원 -0.43%)
+시총/대금: 9.14조 / 133억
+
+dreago.kr/ts/4a9m5j7
+[35m⚡LoggerPlugin [39m: 케이미넴: 와…
+[35m⚡LoggerPlugin [39m: 케이미넴: 아직도 fhd 랑 uhd랑 화질차이 없다고 주장하는 정신나간 주장을 하는 애들이있네
+[35m⚡LoggerPlugin [39m: 케이미넴: 진짜 찐 uhd모니터에서 uhd소스영상 한번이라도 봤으면 이런 개소리는 못할텐데 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 로버: 엄
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭐라 할말이없네 ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 로버: 당장 tv만보더라도
+[35m⚡LoggerPlugin [39m: 로버: 화질이 다를텐데
+[35m⚡LoggerPlugin [39m: 조.련.사: 저거 폐기물관련인데
+[35m⚡LoggerPlugin [39m: 조.련.사: 장마철 오르더라고
+[35m⚡LoggerPlugin [39m: 조.련.사: 벌써 약간 얼랐는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 많이는 아니고 정찰느낌으로 100주만 샀음
+[35m⚡LoggerPlugin [39m: 조.련.사: 8000위로 오르면 팔예정
+[35m⚡LoggerPlugin [39m: 승환: 네 잠시만요 ㅎ
+[35m⚡LoggerPlugin [39m: 승환: 파일: 220125_디자인 용역 결과보고서(플라존케이).pdf
+[35m⚡LoggerPlugin [39m: 승환: 한글 파일을
+[35m⚡LoggerPlugin [39m: 승환: 복사 안하고 나왓나봐요
+[35m⚡LoggerPlugin [39m: 승환: ㅠㅠ 없음 ㅠㅠ
+[35m⚡LoggerPlugin [39m: 김준협: 해저탐험
+[35m⚡LoggerPlugin [39m: 김현도: HmM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'HmM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'aW', '3A', 'Xb', 'Gq' ]
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A신고로톡불가: 📈 【 HMM 】 주식 시세
+
+🔵 18,690원 (▽80원 -0.43%)
+시총/대금: 9.14조 / 138억
+
+dreago.kr/ts/2GQK9Tf
+[35m⚡LoggerPlugin [39m: 조.련.사: 박나래 성훈 고소장제출했네 18일에 
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데 블라발인데 잡히나?
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 저희가 잔인해여?
+[35m⚡LoggerPlugin [39m: 문정은: 이놈이 요즘시대에 어디라구 회사에 들어온게 나쁜거지!
+[35m⚡LoggerPlugin [39m: 문정은: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 떡밥제일먼저올린
+[35m⚡LoggerPlugin [39m: 아딱: 조련사도
+[35m⚡LoggerPlugin [39m: 아딱: 잡혀가겠네!
+[35m⚡LoggerPlugin [39m: 아딱: 허걱
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 고양이 귀여웡
+[35m⚡LoggerPlugin [39m: 흰티마: 그래서 질경련은 어떻게 해결함?
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 사실이 아니무니다! 라고했대!
+[35m⚡LoggerPlugin [39m: 흰티마: 주사 꽂아야하나?
+[35m⚡LoggerPlugin [39m: 조.련.사: 진짜면 근육이완제 맞아야하는거고
+[35m⚡LoggerPlugin [39m: 흰티마: 으
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데
+[35m⚡LoggerPlugin [39m: 조.련.사:  진짜면
+[35m⚡LoggerPlugin [39m: 조.련.사: 목격담 더나오지 않을까?
+[35m⚡LoggerPlugin [39m: 승환: ㅇㅇㅇ
+[35m⚡LoggerPlugin [39m: 승환: 아니면 그냥
+[35m⚡LoggerPlugin [39m: 승환: 아이디어 스케치 라는 용어를 다른 단어로 바꿔용
+[35m⚡LoggerPlugin [39m: 승환: 보고서 제가 준 양식 보고 그대로 만들거에요?
+[35m⚡LoggerPlugin [39m: 승환: ㅇㅅㅇ 그래요 ㅎㅎ 너무 고퀄로 고생하지마여...
+[35m⚡LoggerPlugin [39m: 조정원: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조정원: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조정원: 저건
+[35m⚡LoggerPlugin [39m: 조정원: 그냥 지 눈이 이상한거 아니노
+[35m⚡LoggerPlugin [39m: 조정원: 당장에 겜만 해도 느껴지는데 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 황설희: 담배피러가자그으~
+[35m⚡LoggerPlugin [39m: hmj: 뭔데
+[35m⚡LoggerPlugin [39m: 승환: ㅇㅇ 가요 담배피러
+[35m⚡LoggerPlugin [39m: hmj: 아
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 그런가본데
+[35m⚡LoggerPlugin [39m: hmj: 너가말한것도아니잖음
+[35m⚡LoggerPlugin [39m: 황설희: 밖에 있숨다
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+3
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 52391, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'TV', 'aV', '7e', '1T' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'qR', 'Ln', 'oO', 'Vk' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'Hb', 'Xf', '9Y', 'b3' ]
+index
+undefined
+아마 중복떄문에 ? 
+undefined
+코스닥
+[ '코스닥', '' ]
+[ '9R', '4K', 'he', 'Jk' ]
+index
+[35m⚡LoggerPlugin [39m: 황소원: 태광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '태광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '태광' ]
+  }
+]
+[ '태광' ]
+1
+[ 'ZH', '8i', '8u', 'KT' ]
+[35m⚡LoggerPlugin [39m: 황소원: 훗
+[35m⚡LoggerPlugin [39m: 황소원: 21000원가자
+[35m⚡LoggerPlugin [39m: MZ: 5일선이 무너진다
+[35m⚡LoggerPlugin [39m: MZ: (감동)
+[35m⚡LoggerPlugin [39m: 황소원: 너두고갈게
+[35m⚡LoggerPlugin [39m: 황소원: 솔루엠
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '솔루엠',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '솔루엠' ]
+  }
+]
+[ '솔루엠' ]
+1
+[ 'TU', 'Ak', '9j', 'd4' ]
+[35m⚡LoggerPlugin [39m: 황소원: 아 시발 들어갈걸
+[35m⚡LoggerPlugin [39m: 황소원: 마녀공장 공모주
+[35m⚡LoggerPlugin [39m: 황소원: 꼭참여해
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 내일 갭상승 갑시다~
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 왜 안알려줫음
+[35m⚡LoggerPlugin [39m: hmj: 넘하네
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 그러쿠만
+[35m⚡LoggerPlugin [39m: 문정은: 안귀여웠음 멸종했음 동물 1위 아니에요?
+[35m⚡LoggerPlugin [39m: 문정은: 그렇다는 말은 귀엽다는거 아닌가..?
+[35m⚡LoggerPlugin [39m: 문정은: 헉
+[35m⚡LoggerPlugin [39m: 문정은: 저 행동이 띠껍다는..?
+[35m⚡LoggerPlugin [39m: 문정은: 그런..??
+[35m⚡LoggerPlugin [39m: 유지준: 막판에
+[35m⚡LoggerPlugin [39m: 유지준: 밀었네
+[35m⚡LoggerPlugin [39m: 유지준: 아랫꼬리없는
+[35m⚡LoggerPlugin [39m: 유지준: 음봉
+[35m⚡LoggerPlugin [39m: 이ㅎ: 흠봉!
+[35m⚡LoggerPlugin [39m: 제원: 카카오
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '카카오',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '카카오' ]
+  }
+]
+[ '카카오' ]
+1
+[ 'VB', 'UD', 'Ds', 'JT' ]
+[35m⚡LoggerPlugin [39m: 제원: 나락을
+[35m⚡LoggerPlugin [39m: 제원: 가는구나
+[35m⚡LoggerPlugin [39m: 제원: 때문에
+[35m⚡LoggerPlugin [39m: 제원: 같이 망하는갑네
+[35m⚡LoggerPlugin [39m: 제원: ㅋ
+[35m⚡LoggerPlugin [39m: 𝗗𝗥𝗘𝗔𝗚𝗢-A: 【 외국인, 기관 순매수, 순매도 】
+2023년 5월 24일
+
+『 코스피 』
+🔴 외국인 순매수
+　949 억, 삼성전자
+🔵 외국인 순매도
+　-442 억, POSCO홀딩스
+🔴 기관 순매수
+　133 억, LG화학
+🔵 기관 순매도
+　-425 억, 삼성전자
+
+『 코스닥 』
+🔴 외국인 순매수
+　77.85 억, 루닛
+🔵 외국인 순매도
+　-296 억, 에코프로
+🔴 기관 순매수
+　48.33 억, 엘앤에프
+🔵 기관 순매도
+　-209 억, 에코프로비엠
+
+- 상세 정보는 아래링크 클릭 -
+https://dreago.kr/net_investor.html?date=20230524
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 사실 그랬어도 뭐..
+[35m⚡LoggerPlugin [39m: 문정은: 어쩔 수 없긴해요!
+[35m⚡LoggerPlugin [39m: 승환: 뭐가 된걸까..
+[35m⚡LoggerPlugin [39m: 승환: 박사님 계속 됐다!! 이래서
+[35m⚡LoggerPlugin [39m: 승환: 난 지금 내가 뭔짓거리하고잇는지를 모르겟는데..

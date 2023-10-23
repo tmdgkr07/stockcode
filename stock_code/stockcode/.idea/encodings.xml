@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/NASMST.COD" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/NASMST.json" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/kosdaq.json" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/kosdaq_code_part1.tmp" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/kospi_code.mst" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/stock.json" charset="x-windows-949" />
+  </component>
+</project>

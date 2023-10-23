@@ -1,0 +1,100 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 최근 김의철 기자님하고 수시로 통화하면 (오기도 하고 제가 걸기도 하고) 늘 30분씩 수다좀 떨어보면서 들을수 있는 정보를 좀 캐묻고 듣는데~
+[35m⚡LoggerPlugin [39m: 이승학: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 이승학: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 산은 실무자들은 계속 CB 이익보려는 욕심에 변함이 없다고 하고 해진공은 별로 매각의 의지가 없다고 합니다 (개뭐라고 투덜투덜)
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 결국 기재부가 정해줘야 한다는데(CB 방향)
+[35m⚡LoggerPlugin [39m: 박재건: 걍 ㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 망
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 기재부중 이 일을 책임지고 할 인재가 없답니다 
+[35m⚡LoggerPlugin [39m: 박재건: 해진공이랑 산은따위를
+[35m⚡LoggerPlugin [39m: 박재건: 애초에
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 금융위도
+[35m⚡LoggerPlugin [39m: 박재건: 믿질않습니다.
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 글코
+[35m⚡LoggerPlugin [39m: 박재건: 김양수는 왜 이정부에서 계속 있는지
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 금융위가 나서서 CB 문제에 배임의 소지는 적용치 아니한다 의견을 줘야하는데~
+[35m⚡LoggerPlugin [39m: 박재건: 자발적으로 좀나가지
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 그렇질 못하다네요 그러므로 매각공고도 없는것이고
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 다들 걍 참고만 하세유
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 이 개잡주의 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 문제는
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: "불 확 실 성"
+[35m⚡LoggerPlugin [39m: 유지준: 엔솔은 분기영익 천억 넘었다고 펌핑 가더만
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 아무도 몰라
+[35m⚡LoggerPlugin [39m: 유지준: 흠은 3천억도 쇼크네
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: CB 방향 아몰라~
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 지준님 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 엔솔하고 비교함 주린이 소리 듣죠
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 해운주인데
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 당장 실적이 아니라 업황 시황이 엔솔 분야랑 해운업이랑 같을순 없잖아요. 그렇게 따지면 10조 벌었을때 왜 거꾸로 주가는 반대로 갔을까요..결국 영업이익 얼마나오고 말고 중요한거 1도 없고 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 무조건 CB
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 총 발행주식수가 그래서 얼만데~~~~~~~~~~~~이게 더 중요
+[35m⚡LoggerPlugin [39m: 박재건: 솔직히이젠
+[35m⚡LoggerPlugin [39m: 박재건: cb가 해결되도 
+[35m⚡LoggerPlugin [39m: 박재건: 갈지도모르것어여
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 가는건 기대를 안하네 나는
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: CB 만 방향성 나오면
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 주가는 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 그에 맞게 조정되겠지
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 걍
+[35m⚡LoggerPlugin [39m: JSY: 제발 이제 3만만 다기 오길
+[35m⚡LoggerPlugin [39m: JSY: 기도
+[35m⚡LoggerPlugin [39m: JSY: 꺼져줄게 완전히 달라진 나~~~
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 그냥 매수세 없는것도.
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: CB 방향성 안나오니
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 기관도 외인도 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 소극적 투자만 하잖아 단기로 발라먹고 튀고
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 심지어 연기금도
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 안그래?
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 누가 숨어잇는 5억주 있는데 매수 갈겨 개미말고는 없지 나같아도 안사지
+[35m⚡LoggerPlugin [39m: 제원: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 제원: 결국 떳네 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 암튼 김의철 기자는 해수부 들락거리고 산은 들락거리면서 자기가 느끼는건 매각의 의지가 읎다~ 산은 해진공 CB 튀겨 먹을 생각만 한다 이래서 매각 안된다 
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 이럽디다

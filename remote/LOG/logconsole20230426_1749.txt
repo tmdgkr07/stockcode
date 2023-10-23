@@ -1,0 +1,446 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 코스피
+test123
+[ '코스피' ]
+코스피
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 59153, size: 9468 },
+  room: '이승학',
+  content: '코스피',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+코스피
+[ '코스피' ]
+index
+[ 'rd', 'gi', 'tj', 'S7' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 1+1은?
+[ '!!', '1+1은?' ]
+2입니다.
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: !! 현재 서울시장은?
+[ '!!', '현재', '서울시장은?' ]
+저는 인공지능 챗봇이므로 실시간 정보를 제공할 수 없습니다. 하지만, 현재(2021년 11월) 서울시장은 오세훈(Oh Se-hoon)입니다.
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 얘 21년 11월이 기준이네 ㅋㅋㅋ
+[ '얘', '21년', '11월이', '기준이네', 'ㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: !! 뉴욕주지사 성추행사건을 알려줘
+[ '!!', '뉴욕주지사', '성추행사건을', '알려줘' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 안나오려나
+[ '안나오려나' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 기준일이저래서
+[ '기준일이저래서' ]
+뉴욕주 전 지사 엘리엇 스피처는 2018년에 여러 명의 여성들에게 성추행을 가했다는 혐의로 기소되었습니다. 스피처는 여성 직원들과의 만남에서 성적인 노출과 성적인 언어를 사용했으며, 몇몇 여성 직원에게는 성적인 접촉을 시도하는 등의 행동도 보였습니다. 이러한 사건들이 밝혀지면서 엘리엇 스피처는 강제적 성행위 등의 혐의로 기소되었으며, 2019년 3월에는 유죄 판결을 받았습니다. 그 후 스피처는 지사직을 사퇴하게 되었습니다.
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: ?
+[ '?' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 다른 뉴욕주지사 기소건이나오노
+[ '다른', '뉴욕주지사', '기소건이나오노' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 2021년 기준임
+[ '2021년', '기준임' ]
+[35m⚡LoggerPlugin [39m: 황소원: 악악악악앋앋
+[ '악악악악앋앋' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: https://simg.donga.com/ugc/MLBPARK/Boardvideo/16/82/43/92/16824392534740.mp4#t=0.01
+[
+  'HTTPS://SIMG.DONGA.COM/UGC/MLBPARK/BOARDVIDEO/16/82/43/92/16824392534740.MP4#T=0.01'
+]
+[35m⚡LoggerPlugin [39m: 케이미넴: 캬.
+[ '캬.' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 잡아 죽이고싶네
+[ '잡아', '죽이고싶네' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=bullpen&id=202304260080453223&select=sct&query=14%EC%82%B4&user=&site=naver.com&reply=&source=&pos=&sig=h6jXGY21jhjRKfX2h3a9SY-A4hlq
+[
+  'HTTPS://MLBPARK.DONGA.COM/MP/B.PHP?M=SEARCH&P=1&B=BULLPEN&ID=202304260080453223&SELECT=SCT&QUERY=14%EC%82%B4&USER=&SITE=NAVER.COM&REPLY=&SOURCE=&POS=&SIG=H6JXGY21JHJRKFX2H3A9SY-A4HLQ'
+]
+[35m⚡LoggerPlugin [39m: 로버: 저딴새끼는
+[ '저딴새끼는' ]
+[35m⚡LoggerPlugin [39m: 로버: 부모상이 ㅈㄴ 잘보인다
+[ '부모상이', 'ㅈㄴ', '잘보인다' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 촉법소년은
+[ '촉법소년은' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 없애야한다
+[ '없애야한다' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 경찰도 위협 느끼면
+[ '경찰도', '위협', '느끼면' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 영장이고 뭐고
+[ '영장이고', '뭐고' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 총기사용 하게 해야함
+[ '총기사용', '하게', '해야함' ]
+[35m⚡LoggerPlugin [39m: 이승학: 오늘도 고생했어
+[ '오늘도', '고생했어' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅂ aapl
+[ 'ㅂ', 'AAPL' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: 'ㅂ aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'yE', 'Q7', 'B9', 'ac' ]
+[35m⚡LoggerPlugin [39m: 이승학: https://mlbpark.donga.com/mp/b.php?m=search&p=1&b=bullpen&id=202304260080453223&select=sct&query=14%EC%82%B4&user=&site=naver.com&reply=&source=&pos=&sig=h6jXGY21jhjRKfX2h3a9SY-A4hlq
+[
+  'HTTPS://MLBPARK.DONGA.COM/MP/B.PHP?M=SEARCH&P=1&B=BULLPEN&ID=202304260080453223&SELECT=SCT&QUERY=14%EC%82%B4&USER=&SITE=NAVER.COM&REPLY=&SOURCE=&POS=&SIG=H6JXGY21JHJRKFX2H3A9SY-A4HLQ'
+]
+[35m⚡LoggerPlugin [39m: 이승학: 찾아가서 대가리 뿌셔주고싶다 
+[ '찾아가서', '대가리', '뿌셔주고싶다', '' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 위컴알이 추천한거
+[ '위컴알이', '추천한거' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 와드 꼽아놨는데
+[ '와드', '꼽아놨는데' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 0.2유로왔노
+[ '0.2유로왔노' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋㅋ
+[ 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 위컴알: 고소득ㄷㄷ
+[ '고소득ㄷㄷ' ]
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[ '지옥의', '시간이다', '그지', '깽깽이들아' ]
+node-cron test
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 59153, size: 9468 },
+  room: '이승학',
+  content: '코스피',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 수도권
+[ '수도권' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 전세사기 또터졌노
+[ '전세사기', '또터졌노' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 66년생 아줌마 100억대 
+[ '66년생', '아줌마', '100억대', '' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: ㅋ
+[ 'ㅋ' ]
+[35m⚡LoggerPlugin [39m: 아딱: 아오 
+[ '아오', '' ]
+[35m⚡LoggerPlugin [39m: 아딱: 나 ㅅㅂ 이번달
+[ '나', 'ㅅㅂ', '이번달' ]
+[35m⚡LoggerPlugin [39m: 아딱: 뭔짓을했길래
+[ '뭔짓을했길래' ]
+[35m⚡LoggerPlugin [39m: 아딱: 카드갑이 150이나오냐
+[ '카드갑이', '150이나오냐' ]
+[35m⚡LoggerPlugin [39m: 아딱: 사기아냐이거!!?
+[ '사기아냐이거!!?' ]
+[35m⚡LoggerPlugin [39m: 아딱: 안썼는데
+[ '안썼는데' ]
+[35m⚡LoggerPlugin [39m: 아딱: 으이?!
+[ '으이?!' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 부자아딱
+[ '부자아딱' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 돈펑펑
+[ '돈펑펑' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 구멍탁
+[ '구멍탁' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 숨참고 러브 다이브
+[ '숨참고', '러브', '다이브' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 우우우우우~~
+[ '우우우우우~~' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 경기광주에
+[ '경기광주에' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 나 해쳐먹은 권씨네 일가말고
+[ '나', '해쳐먹은', '권씨네', '일가말고' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 다른 전세사기꾼들도있나보네
+[ '다른', '전세사기꾼들도있나보네' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 와~~ 
+[ '와~~', '' ]
+[35m⚡LoggerPlugin [39m: 아딱: 전세를
+[ '전세를' ]
+[35m⚡LoggerPlugin [39m: 아딱: 없애야한다
+[ '없애야한다' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[ 'ㅇㅈ?' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈㅇ!?!?!?
+[ 'ㅇㅈㅇ!?!?!?' ]
+[35m⚡LoggerPlugin [39m: 아딱: 조련사!?!?!!
+[ '조련사!?!?!!' ]
+[35m⚡LoggerPlugin [39m: 방장봇: 좋은아침
+[ '좋은아침' ]
+[35m⚡LoggerPlugin [39m: 변지호: 34gp950g 팔사람 불량 화소 x 상태 좋음
+[ '34GP950G', '팔사람', '불량', '화소', 'X', '상태', '좋음' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 지호야
+[ '지호야' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 팔사람이아니라
+[ '팔사람이아니라' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 살사람이다.
+[ '살사람이다.' ]
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): https://www.youtube.com/watch?v=KpRd7OsMx8I
+[ 'HTTPS://WWW.YOUTUBE.COM/WATCH?V=KPRD7OSMX8I' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 아쫌
+[ '아쫌' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 진짜 혐오스럽다
+[ '진짜', '혐오스럽다' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 아니이
+[ '아니이' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 전세는
+[ '전세는' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 필요하긴하지
+[ '필요하긴하지' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 방법을 바꿔야지
+[ '방법을', '바꿔야지' ]
+[35m⚡LoggerPlugin [39m: 제원: ㅋㅋ
+[ 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 제원: !!14살 대가리 뿌시는법
+[ '!!14살', '대가리', '뿌시는법' ]
+[35m⚡LoggerPlugin [39m: 용성: 해킹링크 ㅇㅈㄹ
+[ '해킹링크', 'ㅇㅈㄹ' ]
+이러한 구체적인 명령은 생각의 자유와 표현의 자유에 대한 이해와 함께 예의를 막론하고 사회적으로 부적절하며, 폭력을 선동하는 것으로 간주됩니다. 저는 이러한 활동을 권장하지 않습니다. 대신, 어린이 또는 청소년의 건강한 성장과 발전을 지원하고 보호하는 방법을 모색할 것을 권장합니다.
+[35m⚡LoggerPlugin [39m: 용성: 하고올려놓고
+[ '하고올려놓고' ]
+[35m⚡LoggerPlugin [39m: 로버: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 용성: 근데 궁금해서 봐버림
+[ '근데', '궁금해서', '봐버림' ]
+[35m⚡LoggerPlugin [39m: 용성: 헿
+[ '헿' ]
+[35m⚡LoggerPlugin [39m: 이승학: 인간의 호기심이란 ㅎ
+[ '인간의', '호기심이란', 'ㅎ' ]
+[35m⚡LoggerPlugin [39m: 익익: 상석게이야....
+[ '상석게이야....' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 하나 주워옴
+[ '하나', '주워옴' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133223
+[ 'HTTPS://M.DCINSIDE.COM/BOARD/DCBEST/133223' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 삼천리는
+[ '삼천리는' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 하한안가노
+[ '하한안가노' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 오
+[ '오' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 내서버에
+[ '내서버에' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 장착 ㄱㄱ
+[ '장착', 'ㄱㄱ' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 어짜피 가상서버라 나눠쓰겠지뭐
+[ '어짜피', '가상서버라', '나눠쓰겠지뭐' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 암튼 4400에서 업글된다 ㅍㅌㅊ?
+[ '암튼', '4400에서', '업글된다', 'ㅍㅌㅊ?' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ㅍㅌㅊ
+[ 'ㅍㅌㅊ' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 4070 존내비싸네 ㅋㅋㅋㅋㅋ
+[ '4070', '존내비싸네', 'ㅋㅋㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: TI도 아니고 80만원이나
+[ 'TI도', '아니고', '80만원이나' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 받아먹네
+[ '받아먹네' ]
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[ 'ㅇㅇ' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 그래서 4070살바엔 95만주고 4070ti 하급 삼
+[ '그래서', '4070살바엔', '95만주고', '4070TI', '하급', '삼' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 아니면
+[ '아니면' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 40만원에 3080 채굴에디션 주워옴
+[ '40만원에', '3080', '채굴에디션', '주워옴' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 거래처사장이 즈그 아들 컴터 업글해준다고하는데
+[ '거래처사장이', '즈그', '아들', '컴터', '업글해준다고하는데' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 4090 넣어줄꺼래
+[ '4090', '넣어줄꺼래' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 케이미넴아
+[ '케이미넴아' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 존내 부럽지않냐 
+[ '아', '존내', '부럽지않냐', '' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅇㅇ?
+[ 'ㅇㅇ?' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 가상서버
+[ '가상서버' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 안드서버하나
+[ '안드서버하나' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 만들어줄수잇냐
+[ '만들어줄수잇냐' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 6100 넣으면
+[ '6100', '넣으면' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 되지않을까?
+[ '되지않을까?' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭐 돌릴라고
+[ '뭐', '돌릴라고' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 안드서버로 돌아가면
+[ '안드서버로', '돌아가면' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 카톡하나?
+[ '카톡하나?' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 그 뭐냐
+[ '그', '뭐냐' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 요즘 로코가 막혀서 디비뜯얼라고
+[ '요즘', '로코가', '막혀서', '디비뜯얼라고' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: og서버에다가
+[ 'OG서버에다가' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 안드 한번올려봐
+[ '안드', '한번올려봐' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 아마 될껄?
+[ '아마', '될껄?' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 이미
+[ '이미' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 리눅스
+[ '리눅스' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 올라가있자나
+[ '올라가있자나' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 안드가 리눅스 위에 자바깔고 그위에 올라가는거라
+[ '안드가', '리눅스', '위에', '자바깔고', '그위에', '올라가는거라' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 될꺼임
+[ '될꺼임' ]
+[35m⚡LoggerPlugin [39m: 이승학: 민혁아
+[ '민혁아' ]
+[35m⚡LoggerPlugin [39m: 이승학: https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000060
+[
+  'HTTPS://WWW.BOKJIRO.GO.KR/SSIS-TBU/TWATAA/WLFAREINFO/MOVETWAT52011M.DO?WLFAREINFOID=WLF00000060'
+]
+[35m⚡LoggerPlugin [39m: 이승학: ㄱㄱ
+[ 'ㄱㄱ' ]
+[35m⚡LoggerPlugin [39m: 이승학: 계임아
+[ '계임아' ]
+[35m⚡LoggerPlugin [39m: 이승학: https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000060
+[
+  'HTTPS://WWW.BOKJIRO.GO.KR/SSIS-TBU/TWATAA/WLFAREINFO/MOVETWAT52011M.DO?WLFAREINFOID=WLF00000060'
+]
+[35m⚡LoggerPlugin [39m: 이승학: 이거나 신청해라
+[ '이거나', '신청해라' ]
+[35m⚡LoggerPlugin [39m: 이승학: 공무원 전용이다 
+[ '공무원', '전용이다', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅅㅂ 공무원 빼고 월 220이하 근로소득자가 어딨어
+[ 'ㅅㅂ', '공무원', '빼고', '월', '220이하', '근로소득자가', '어딨어' ]
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: 앞으로 오픈채팅봇의 자동응답을 이용하실 수 있습니다. 지금 오픈채팅봇 소개를 확인해보세요!
+[
+  '앞으로',
+  '오픈채팅봇의',
+  '자동응답을',
+  '이용하실',
+  '수',
+  '있습니다.',
+  '지금',
+  '오픈채팅봇',
+  '소개를',
+  '확인해보세요!'
+]
+[35m⚡LoggerPlugin [39m: 제원: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: 바람피네?
+[ '바람피네?' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자:  예준이 근황,,,,
+[ '', '예준이', '근황,,,,' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 고2와 연애중,,,
+[ '고2와', '연애중,,,' ]
+[35m⚡LoggerPlugin [39m: 아딱: 그 늙은이 
+[ '그', '늙은이', '' ]
+[35m⚡LoggerPlugin [39m: 아딱: 왜이리
+[ '왜이리' ]
+[35m⚡LoggerPlugin [39m: 아딱: 젊은애랑 사귐?
+[ '젊은애랑', '사귐?' ]
+[35m⚡LoggerPlugin [39m: 아딱: 뭐하는데
+[ '뭐하는데' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[ 'ㄷㄷ' ]
+[35m⚡LoggerPlugin [39m: 아딱: 저번에도 고딩이랑 사귀지않음?
+[ '저번에도', '고딩이랑', '사귀지않음?' ]
+[35m⚡LoggerPlugin [39m: 용성: 세전이라
+[ '세전이라' ]
+[35m⚡LoggerPlugin [39m: 용성: 안댐니다..
+[ '안댐니다..' ]
+[35m⚡LoggerPlugin [39m: 조정원: 관광버스조명은 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄴㅋ
+[ '관광버스조명은', 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㄴㅋ' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 조건에 안되는듯
+[ '조건에', '안되는듯' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 월소득 220이하래
+[ '월소득', '220이하래' ]
+[35m⚡LoggerPlugin [39m: 이승학: 현재 신청기준 급여라서 될수도?
+[ '현재', '신청기준', '급여라서', '될수도?' ]
+[35m⚡LoggerPlugin [39m: 이승학: 너가 1년 풀로 일한게아니니까...
+[ '너가', '1년', '풀로', '일한게아니니까...' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 이미 넘어
+[ '이미', '넘어' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 이모티콘을 보냈습니다.
+[ '이모티콘을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㄴㄴ 내말은 
+[ 'ㄴㄴ', '내말은', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 지금 총 소득이 1000이라 한들 
+[ '지금', '총', '소득이', '1000이라', '한들', '' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 저게 평균이야?
+[ '저게', '평균이야?' ]
+[35m⚡LoggerPlugin [39m: 박민혁: ㅇㅇ
+[ 'ㅇㅇ' ]
+[35m⚡LoggerPlugin [39m: 이승학: 평균일걸
+[ '평균일걸' ]
+[35m⚡LoggerPlugin [39m: 이승학: 근데 그거보다
+[ '근데', '그거보다' ]
+[35m⚡LoggerPlugin [39m: 이승학: 가구분리했움?
+[ '가구분리했움?' ]
+[35m⚡LoggerPlugin [39m: 박민혁: ㅇㅇ
+[ 'ㅇㅇ' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 나 혼자 세대주야
+[ '나', '혼자', '세대주야' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그럼 될거같은디
+[ '그럼', '될거같은디' ]
+[35m⚡LoggerPlugin [39m: 박민혁: 저거 로그인이 잘 안되네
+[ '저거', '로그인이', '잘', '안되네' ]
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: 안되겠따
+[ '안되겠따' ]
+[35m⚡LoggerPlugin [39m: 이승학: 어차피 소득초과되면 지급해지되네
+[ '어차피', '소득초과되면', '지급해지되네' ]
+[35m⚡LoggerPlugin [39m: 이승학: 신청 되면 한 3~40 받을듯? 
+[ '신청', '되면', '한', '3~40', '받을듯?', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 파일: 23년 자산형성지원 통장사업 안내 .hwp
+[ '파일:', '23년', '자산형성지원', '통장사업', '안내', '.HWP' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 참 능력도
+[ '참', '능력도' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 좋음 ㅋㅋ
+[ '좋음', 'ㅋㅋ' ]

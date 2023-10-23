@@ -1,0 +1,10 @@
+2023-09-26 09:45:46.060 [info] Extension host with pid 10417 started
+2023-09-26 09:45:46.119 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-26 09:45:46.121 [info] ExtensionService#_doActivateExtension albert.TabOut, startup: true, activationEvent: '*'
+2023-09-26 09:45:46.154 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-26 09:45:46.155 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-26 09:45:46.390 [info] Eager extensions activated
+2023-09-26 09:45:46.390 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 09:45:46.392 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-26 09:45:55.601 [info] Extension host terminating: received terminate message from renderer
+2023-09-26 09:45:55.611 [info] Extension host with pid 10417 exiting with code 0

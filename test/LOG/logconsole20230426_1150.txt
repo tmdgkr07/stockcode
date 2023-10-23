@@ -1,0 +1,182 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: @조.련 전문 조.련.사  조전조야ㅈ
+test123
+[ '@조.련', '전문', '조.련.사', '', '조전조야ㅈ' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 나ㅇㄹㄴㅁ
+[ '나ㅇㄹㄴㅁ' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 조전조야 나 완장좀
+[ '조전조야', '나', '완장좀' ]
+[35m⚡LoggerPlugin [39m: 이승학: 방이름
+[ '방이름' ]
+[35m⚡LoggerPlugin [39m: 이승학: 근데 날씨 넣으면
+[ '근데', '날씨', '넣으면' ]
+[35m⚡LoggerPlugin [39m: 이승학: 써? 
+[ '써?', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 아무도 안쓸거같아서 뻈는데
+[ '아무도', '안쓸거같아서', '뻈는데' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! how to  sole chatgpt timeout error
+[
+  '!!',      'HOW',
+  'TO',      '',
+  'SOLE',    'CHATGPT',
+  'TIMEOUT', 'ERROR'
+]
+There are a few potential reasons why you may be experiencing a chat GPT timeout error. Here are some steps you can take to try to solve the issue:
+
+1. Check your internet connection: Sometimes, slow or interrupted internet connections can cause chat GPT timeouts. Try resetting your router or modem, or moving closer to your Wi-Fi source if you're using a wireless connection.
+
+2. Clear your browser cache: Over time, your browser cache can become full and slow down your browsing experience. Clearing your cache can help speed things up and potentially prevent timeout errors.
+
+3. Try a different browser: Sometimes, certain browsers may not be compatible with chat GPT software. Try accessing the chat from a different browser to see if that solves the issue.
+
+4. Disable any browser extensions: Some browser extensions can also cause timeout errors, particularly if they're blocking certain scripts or resources required for chat GPT to run. Try disabling any extensions and see if that solves the issue.
+
+5. Contact customer support: If none of the above steps work, it's possible that there's an issue on the server side. Contact customer support for the chat GPT software you're using and explain the issue. They may be able to provide additional troubleshooting steps or identify the root cause of the issue.
+[35m⚡LoggerPlugin [39m: 이승학: !! 30초에 한번씩 영어단어 100개씩 알려줘
+[ '!!', '30초에', '한번씩', '영어단어', '100개씩', '알려줘' ]
+죄송합니다, 저는 그런 기능을 가지고 있지 않습니다. 하지만, 여러분이 영어 단어를 연습하고 싶다면, 온라인 영어 단어장이나 모바일 앱을 사용해 보시는 것을 추천합니다. 이러한 도구들은 단어 리스트를 제공하며, 사용자에게 단어의 뜻과 발음, 예문 등을 제공합니다. 적극적인 연습과 학습으로 영어 실력을 향상시킬 수 있습니다.
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[ 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 문정은: false
+[ 'FALSE' ]
+[35m⚡LoggerPlugin [39m: 이승학: 저건
+[ '저건' ]
+[35m⚡LoggerPlugin [39m: 이승학: 디버그채팅방아니는뜻
+[ '디버그채팅방아니는뜻' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅇㄹㄴㅁ aapl
+[ 'ㅇㄹㄴㅁ', 'AAPL' ]
+[35m⚡LoggerPlugin [39m: 이승학: q aapl
+[ 'Q', 'AAPL' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'd6', 'Cd', 'do', 'Qn' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: tq qqq
+[ 'TQ', 'QQQ' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: tq tqqq
+[ 'TQ', 'TQQQ' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: q qqq
+[ 'Q', 'QQQ' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'q qqq',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'QQQ'
+  }
+]
+QQQ
+nasdaq
+[ 'g7', 'sy', 'Wu', 'CT' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 됬다
+[ '됬다' ]
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: hmj: 날씨
+[ '날씨' ]
+[35m⚡LoggerPlugin [39m: hmj: 매일
+[ '매일' ]
+[35m⚡LoggerPlugin [39m: hmj: 뜨게해줘
+[ '뜨게해줘' ]
+[35m⚡LoggerPlugin [39m: hmj: 서울 용산구
+[ '서울', '용산구' ]
+[35m⚡LoggerPlugin [39m: hmj: 경기 과천
+[ '경기', '과천' ]
+[35m⚡LoggerPlugin [39m: 이지영: 관악구랑 송파구도요
+[ '관악구랑', '송파구도요' ]
+node-cron test
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 64911, size: 24098 },
+  room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+  content: '@조.련 전문 조.련.사  조전조야ㅈ',
+  sender: { name: '돼지주먹감자', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'tV', 'me', '4V', 'JN' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'fU', 'PB', '9E', 'UC' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Va', 'Yb', 'nZ', 'cb' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Ji', '3e', 'cz', 'oE' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'hd', 'jE', 'GQ', 'w3' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '5B', 'ov', 'QM', 'Ns' ]
+[35m⚡LoggerPlugin [39m: 이지영: 오빠근데 일안하고 이런거 만드는거예요?
+[ '오빠근데', '일안하고', '이런거', '만드는거예요?' ]
+[35m⚡LoggerPlugin [39m: 아딱: https://www.cstimes.com/news/articleView.html?idxno=540369
+[ 'HTTPS://WWW.CSTIMES.COM/NEWS/ARTICLEVIEW.HTML?IDXNO=540369' ]
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 아딱: https://emart.ssg.com/item/itemView.ssg?itemId=1000484584813&siteNo=6001&salestrNo=2033&click=itemMidArea02
+[
+  'HTTPS://EMART.SSG.COM/ITEM/ITEMVIEW.SSG?ITEMID=1000484584813&SITENO=6001&SALESTRNO=2033&CLICK=ITEMMIDAREA02'
+]
+[35m⚡LoggerPlugin [39m: 아딱: 지슈라 12만9천원에파는중
+[ '지슈라', '12만9천원에파는중' ]
+[35m⚡LoggerPlugin [39m: 아딱: 20만 -> 12.9
+[ '20만', '->', '12.9' ]
+[35m⚡LoggerPlugin [39m: 이승학: 웅
+[ '웅' ]
+[35m⚡LoggerPlugin [39m: 이승학: 디자인하라길래
+[ '디자인하라길래' ]
+[35m⚡LoggerPlugin [39m: 이승학: 아몰라하면서 루팡중
+[ '아몰라하면서', '루팡중' ]
+[35m⚡LoggerPlugin [39m: 이승학: 알빠노~
+[ '알빠노~' ]

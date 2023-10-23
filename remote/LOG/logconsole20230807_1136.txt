@@ -1,0 +1,79 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹잡주는
+[35m⚡LoggerPlugin [39m: 조.련.사: 나오지않는
+[35m⚡LoggerPlugin [39m: 조.련.사: 버그에걸렸습니다
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'C0', 'DL', 'VA', 'ZU' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 되는데?
+[35m⚡LoggerPlugin [39m: 조.련.사: 그럼
+[35m⚡LoggerPlugin [39m: 흐엉: 아! 앋가이가
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱이가
+[35m⚡LoggerPlugin [39m: 흐엉: 조련사
+[35m⚡LoggerPlugin [39m: 흐엉: 치킨안사줘서
+[35m⚡LoggerPlugin [39m: 흐엉: 조련사가 벤한듯
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨팡련에게는 나오지 않는
+[35m⚡LoggerPlugin [39m: 조.련.사: 버그가걸렸습니다
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 커여운 쪽본인이나봐라
+[35m⚡LoggerPlugin [39m: 아딱: 보거스같이생김
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 보거스 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 단군이 보거스처럼생김
+[35m⚡LoggerPlugin [39m: 아딱: 보 거 스 는 내 친 구 
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 조용
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딲
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹련
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'eE', 'gA', 'QE', 'cX' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 하한가 맞아라
+[35m⚡LoggerPlugin [39m: 아딱: 조 용
+[35m⚡LoggerPlugin [39m: 아딱: 나의판단?
+[35m⚡LoggerPlugin [39m: 아딱: 틀린적이없다
+[35m⚡LoggerPlugin [39m: 조.련.사: 그럼
+[35m⚡LoggerPlugin [39m: 조.련.사: 나에게
+[35m⚡LoggerPlugin [39m: 조.련.사: 치킨을
+[35m⚡LoggerPlugin [39m: 아딱: 두 퓨 셀 지 금 안 사 면 
+[35m⚡LoggerPlugin [39m: 조.련.사: 한마리
+[35m⚡LoggerPlugin [39m: 아딱: 후 회 한 다
+[35m⚡LoggerPlugin [39m: 조.련.사: 보내!
+[35m⚡LoggerPlugin [39m: 조.련.사: 이미
+[35m⚡LoggerPlugin [39m: 조.련.사: 샀어
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨팔련아
+[35m⚡LoggerPlugin [39m: 조.련.사: 마이너스야
+[35m⚡LoggerPlugin [39m: 조.련.사: 짱나네

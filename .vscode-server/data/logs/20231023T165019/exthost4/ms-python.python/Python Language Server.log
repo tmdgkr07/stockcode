@@ -1,0 +1,9 @@
+2023-10-23 20:27:47.551 [info] [Info  - 오후 8:27:47] (20578) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-23 20:27:47.552 [info] [Info  - 오후 8:27:47] (20578) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-23 20:27:47.553 [info] [Info  - 오후 8:27:47] (20578) Starting service instance "ubuntu"
+2023-10-23 20:27:47.623 [info] [Info  - 오후 8:27:47] (20578) Setting environmentName for service "ubuntu": "C:\Users\KOREA\AppData\Local\Programs\Python\Python311\python.exe"
+2023-10-23 20:27:47.740 [info] [Info  - 오후 8:27:47] (20578) Found 7 source files
+2023-10-23 20:29:47.459 [info] [Info  - 오후 8:29:47] (20578) Setting environmentName for service "ubuntu": "C:\Users\KOREA\AppData\Local\Programs\Python\Python311\python.exe"
+2023-10-23 20:29:47.547 [info] [Info  - 오후 8:29:47] (20578) Found 7 source files
+2023-10-23 21:23:37.886 [info] [Info  - 오후 9:23:37] (20578) Setting environmentName for service "ubuntu": "C:\Users\KOREA\AppData\Local\Programs\Python\Python311\python.exe"
+2023-10-23 21:23:38.016 [info] [Info  - 오후 9:23:38] (20578) Found 9 source files

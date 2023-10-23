@@ -1,0 +1,886 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 2
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Hn', 'zY', 'g0', 'lb' ]
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'jE', 'hm', 'sc', 'MQ' ]
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Hx', 'tR', 'lY', '1T' ]
+[35m⚡LoggerPlugin [39m: LSH: 1
+[35m⚡LoggerPlugin [39m: LSH: 1
+[35m⚡LoggerPlugin [39m: LSH: 12
+[35m⚡LoggerPlugin [39m: LSH: 1232412
+[35m⚡LoggerPlugin [39m: LSH: 123
+[35m⚡LoggerPlugin [39m: LSH: 123
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: 123@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: asdfksdajflasdjfsdjkla@@@@@@@@@@@@@@@@@@@@@@@#@!#!@!@$!@RT#ㅁㄹㅇㄴㄹㄴㅇㄹㄸㄻㅇㄻ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: asdfksdajflasdjfsdjkla@@@@@@@@@@@@@@@@@@@@@@@#@!#!@!@$!@RT#ㅁㄹㅇㄴㄹㄴㅇㄹㄸㄻㅇㄻ@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[35m⚡LoggerPlugin [39m: LSH: 22
+[35m⚡LoggerPlugin [39m: LSH: 11
+[35m⚡LoggerPlugin [39m: 조영우: 그리고 미역 시간 지나면
+[35m⚡LoggerPlugin [39m: 조영우: 습기 먹고 맛 없어짐
+[35m⚡LoggerPlugin [39m: LSH: test
+[35m⚡LoggerPlugin [39m: 김가비: ㅡㅡ........................
+[35m⚡LoggerPlugin [39m: 김가비: 취소할까
+[35m⚡LoggerPlugin [39m: 멋쩍은 튜브: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '멋쩍은 튜브',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'tL', 'Ww', 'Ow', 'ok' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 1
+[35m⚡LoggerPlugin [39m: 영숙: 이것이 뭐냐?
+[35m⚡LoggerPlugin [39m: LSH: 테슽트좀했어
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: LSH: 단톡방 패킷이 어떻게 흘러가나 궁금햇거든ㅇ
+[35m⚡LoggerPlugin [39m: 박재건: 저렇게 stx중공업샀는데
+[35m⚡LoggerPlugin [39m: 박재건: 얻어걸린거지?
+[35m⚡LoggerPlugin [39m: 박재건: 나머지는 다잃고있잖아
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/article/055/0001083796?ntype=RANKING
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 서이초 학부모
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: 네트워크 전문가 형님들 구하빈다
+[35m⚡LoggerPlugin [39m: LSH: @이지영  
+[35m⚡LoggerPlugin [39m: LSH: 패킷을 까보고있는데요 ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 갠톡방에서 보내는 udp 패킷은 
+[35m⚡LoggerPlugin [39m: LSH: 형아들
+[35m⚡LoggerPlugin [39m: LSH: 테스트중인데 ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 각자 동시에 
+[35m⚡LoggerPlugin [39m: LSH: 원하는 주식 한번
+[35m⚡LoggerPlugin [39m: LSH: 조회해줄수있나요 ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'jg', 'WT', 'bc', 'b2' ]
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'SS', 'YR', 'Eb', 'nA' ]
+[35m⚡LoggerPlugin [39m: LSH: 이렇게용 ㅎ
+[35m⚡LoggerPlugin [39m: LSH: 요즘 힘ㄷ든 어떤 누님이 씹히는 현상 해결하라고해서,,
+[35m⚡LoggerPlugin [39m: 조.련.사: 이제봄?
+[35m⚡LoggerPlugin [39m: 김가비: stx중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: 'stx중공업',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'STX중공업' ]
+  }
+]
+[ 'STX중공업' ]
+1
+[ 'UC', 'g2', 'tX', 'lC' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래서 경찰이 무혐의로
+[35m⚡LoggerPlugin [39m: 조.련.사: 빠른종결
+[35m⚡LoggerPlugin [39m: 김가비: 미스터블루
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '미스터블루',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '미스터블루' ]
+  }
+]
+[ '미스터블루' ]
+1
+[ 'ZS', '0q', 'dP', 'Uo' ]
+[35m⚡LoggerPlugin [39m: 아딱: 역시
+[35m⚡LoggerPlugin [39m: 아딱: 한동훈이
+[35m⚡LoggerPlugin [39m: 김가비: 팝스토리
+[35m⚡LoggerPlugin [39m: 김가비: 팝스토리
+[35m⚡LoggerPlugin [39m: 아딱: 검수완박 
+[35m⚡LoggerPlugin [39m: 김가비: 팜스토리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '팜스토리',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '팜스토리' ]
+  }
+]
+[ '팜스토리' ]
+1
+[ 'Qj', 'aU', '7b', 'Wk' ]
+[35m⚡LoggerPlugin [39m: 아딱: 다시 되돌려야한다
+[35m⚡LoggerPlugin [39m: 김가비: 신성이엔지
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '신성이엔지',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '신성이엔지' ]
+  }
+]
+[ '신성이엔지' ]
+1
+[ 'md', '8x', 'Ve', 'Ht' ]
+[35m⚡LoggerPlugin [39m: 아딱: 경찰 기소권
+[35m⚡LoggerPlugin [39m: 아딱: 뻇어와야댐
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김가비: 와씨
+[35m⚡LoggerPlugin [39m: 김가비: 신성 자식 ㅠㅠ
+[35m⚡LoggerPlugin [39m: 김동환: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김동환: 전들고있습니다
+[35m⚡LoggerPlugin [39m: 조.련.사: 그거도봄?
+[35m⚡LoggerPlugin [39m: 김동환: 크린룸 가즈아
+[35m⚡LoggerPlugin [39m: LSH: 가비씨
+[35m⚡LoggerPlugin [39m: LSH: 이정도면
+[35m⚡LoggerPlugin [39m: 조.련.사: 저 뭐냐
+[35m⚡LoggerPlugin [39m: LSH: 괜찮?>
+[35m⚡LoggerPlugin [39m: 조.련.사: 한전공대
+[35m⚡LoggerPlugin [39m: 조.련.사: 걔들
+[35m⚡LoggerPlugin [39m: 흐엉: 애들아
+[35m⚡LoggerPlugin [39m: 조.련.사: 세금 오지게 빼먹음
+[35m⚡LoggerPlugin [39m: 흐엉: 씹히는
+[35m⚡LoggerPlugin [39m: 흐엉: 패킷좀
+[35m⚡LoggerPlugin [39m: 흐엉: 확인할려고하는데
+[35m⚡LoggerPlugin [39m: 흐엉: 동시에
+[35m⚡LoggerPlugin [39m: 흐엉: 주식 다른종목
+[35m⚡LoggerPlugin [39m: 흐엉: 검색좀해주라
+[35m⚡LoggerPlugin [39m: 아딱: 3
+[35m⚡LoggerPlugin [39m: 흐엉: 조련조 hmm
+[35m⚡LoggerPlugin [39m: 아딱: 2
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱이
+[35m⚡LoggerPlugin [39m: 흐엉: 두퓨 ㄱ
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 3
+[35m⚡LoggerPlugin [39m: 흐엉: 2
+[35m⚡LoggerPlugin [39m: 흐엉: 1
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'IQ', 'Qk', 'oi', 'it' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ '4C', 'T6', 'Kh', '0L' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 두퓨
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹혔네
+[35m⚡LoggerPlugin [39m: 아딱: 어이 두산퓨얼셀
+[35m⚡LoggerPlugin [39m: 아딱: 나와라.
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ박은 주식이라
+[35m⚡LoggerPlugin [39m: 조.련.사: 안나오는듯
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'Tk', 'BK', 'aY', 'uP' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 다시한번 ㄱㄱ
+[35m⚡LoggerPlugin [39m: 아딱: ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 조.련.사: 3
+[35m⚡LoggerPlugin [39m: 조.련.사: 2
+[35m⚡LoggerPlugin [39m: 조.련.사: 1
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Pi', 'Nx', 'n8', 'Dd' ]
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'Qd', 'd0', 'l5', '5f' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 느려느려
+[35m⚡LoggerPlugin [39m: 조.련.사: 오소이
+[35m⚡LoggerPlugin [39m: 흐엉: 아
+[35m⚡LoggerPlugin [39m: 흐엉: @아딱  
+[35m⚡LoggerPlugin [39m: 흐엉: 딱이형님
+[35m⚡LoggerPlugin [39m: 흐엉: 다시한번 부탁드립니다
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹딱
+[35m⚡LoggerPlugin [39m: 조.련.사: 이새끼
+[35m⚡LoggerPlugin [39m: 박재건: http://www.dailylog.co.kr/news/articleView.html?idxno=24425
+[35m⚡LoggerPlugin [39m: 흐엉: udp 패킷이 자꾸 씹히거든요ㅕ ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 안바쁘면서
+[35m⚡LoggerPlugin [39m: 아딱: ㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 다시검색
+[35m⚡LoggerPlugin [39m: 흐엉: 자자 가자
+[35m⚡LoggerPlugin [39m: 조.련.사: 3
+[35m⚡LoggerPlugin [39m: 조.련.사: 2
+[35m⚡LoggerPlugin [39m: 조.련.사: 1
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ '0O', 'vn', 'fz', 'ii' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'd0', '21', 'XG', 'j4' ]
+[35m⚡LoggerPlugin [39m: 흐엉: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'rc', '0c', 'Do', 'Le' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ받은 두퓨 안나옴
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀이 왜자꾸 
+[35m⚡LoggerPlugin [39m: 흐엉: 씹히지  ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 내가 두퓨해봄
+[35m⚡LoggerPlugin [39m: 흐엉: 아딱이문제인듯
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 3
+[35m⚡LoggerPlugin [39m: 흐엉: 좆딱이 hmm rr
+[35m⚡LoggerPlugin [39m: 조.련.사: 2
+[35m⚡LoggerPlugin [39m: 조.련.사: 1
+[35m⚡LoggerPlugin [39m: 아딱: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'U8', 'jK', 'Da', 'Tw' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ '67', 'A7', 'v5', 'Gi' ]
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'ry', 'mo', 'w2', 'sX' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 근데 뭐
+[35m⚡LoggerPlugin [39m: 흐엉: 이정도로
+[35m⚡LoggerPlugin [39m: 흐엉: 동시에
+[35m⚡LoggerPlugin [39m: 흐엉: 검색하는사람이있을가?
+[35m⚡LoggerPlugin [39m: 조.련.사: 그럴껄
+[35m⚡LoggerPlugin [39m: 조.련.사: 연속으로해도
+[35m⚡LoggerPlugin [39m: 조.련.사: 되나
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'Hd', 'Wu', 'xC', 'fl' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'gX', 'Wq', 'l1', 'f2' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 그건
+[35m⚡LoggerPlugin [39m: 흐엉: 정지먹어
+[35m⚡LoggerPlugin [39m: 흐엉: 닥
+[35m⚡LoggerPlugin [39m: 흐엉: 쳐
+[35m⚡LoggerPlugin [39m: 흐엉: 그만
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 너도 정지먹음
+[35m⚡LoggerPlugin [39m: 흐엉: 동일내용 연속 필터링있어
+[35m⚡LoggerPlugin [39m: 박민철: Q NNOX
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박민철',
+      content: 'Q NNOX',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'NNOX' ]
+  }
+]
+NNOX
+[ 'K9', '8k', 'CG', 'm6' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 박민철: 왐마 이거 잘 되네
+[35m⚡LoggerPlugin [39m: 흐엉: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'kU', 'PL', '89', 'RM' ]
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'Mq', 'FB', 'ra', 'mr' ]
+[35m⚡LoggerPlugin [39m: 영숙: 우리는 보아도 모르것다
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ박은 초전도체때문에
+[35m⚡LoggerPlugin [39m: 조.련.사: 오늘 기분이
+[35m⚡LoggerPlugin [39m: 조.련.사: 안좋다
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm이라도
+[35m⚡LoggerPlugin [39m: 조.련.사: 5만찍어주면
+[35m⚡LoggerPlugin [39m: 조.련.사: 기분좋은데
+[35m⚡LoggerPlugin [39m: 흐엉: 신성델타테크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '신성델타테크',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '신성델타테크' ]
+  }
+]
+[ '신성델타테크' ]
+1
+[ 'V1', '4I', 'LD', 'jF' ]
+[35m⚡LoggerPlugin [39m: LSH: 클라우드 공용ip로 보내든 전용ip 로 보내든 
+[35m⚡LoggerPlugin [39m: LSH: 잘 전송되는데
+[35m⚡LoggerPlugin [39m: LSH: 단톡방 패킷은
+[35m⚡LoggerPlugin [39m: LSH: 공용 ip 로 보내면 
+[35m⚡LoggerPlugin [39m: LSH: 자꾸 씹힘
+[35m⚡LoggerPlugin [39m: LSH: 왜 그럴까?
+[35m⚡LoggerPlugin [39m: 박재건: 승학이
+[35m⚡LoggerPlugin [39m: 박재건: 굿
+[35m⚡LoggerPlugin [39m: 조영우: Q O
+O
+[ 'NL', '5k', 'NJ', 'no' ]
+nyse
+[35m⚡LoggerPlugin [39m: 조영우: 제법이구먼
+[35m⚡LoggerPlugin [39m: 김가비: 올
+[35m⚡LoggerPlugin [39m: 김가비: 승학이 짱인데
+[35m⚡LoggerPlugin [39m: LSH: 공용아이피로보내면
+[35m⚡LoggerPlugin [39m: LSH: 전용아이피 대역으로 넘겨주는데
+[35m⚡LoggerPlugin [39m: 여환준: 싱아형 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 하 10.0.0.1/8 개념
+[35m⚡LoggerPlugin [39m: LSH: 을 모르겠다
+[35m⚡LoggerPlugin [39m: 여환준: Q nnox
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '여환준',
+      content: 'Q nnox',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'NNOX' ]
+  }
+]
+NNOX
+[ '1G', 'gi', 'jQ', 'MZ' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 조영우: 녹스야....
+[35m⚡LoggerPlugin [39m: 조영우: 다시 시련을 겪고있구나.....
+[35m⚡LoggerPlugin [39m: LSH: 매수타이밍이다
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 형
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 나 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 10.0.0.1 번대역
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 이해가 필요해
+[35m⚡LoggerPlugin [39m: 케이미넴: ?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 클라우드 서버에서 전용아이피 공용아이피
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 있잖음
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 어떻게 구동하는방식인지
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 이해좀시켜줘
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 아니 어떻게어떻게 이거겠다~!
+[35m⚡LoggerPlugin [39m: 케이미넴: 머라는건지
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㄱㄷ
+[35m⚡LoggerPlugin [39m: 케이미넴: 샵검색: #Ip주소 체계
+[35m⚡LoggerPlugin [39m: 케이미넴: 모든건 이안에있다
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: Photo
+[35m⚡LoggerPlugin [39m: 김동환: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 나는 분명 검은색 공용아이피로 보냈는데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 왜 저렇게 작동하는지
+[35m⚡LoggerPlugin [39m: 케이미넴: 하나도 보기안편한데 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 그리고 저 중간에 udplength가 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 9128 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 넘으면
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 넘어올때 씹힘
+[35m⚡LoggerPlugin [39m: 케이미넴: 일단 무슨 작업중인지부터좀 말해줄래
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 단순히
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: udp 전송
+[35m⚡LoggerPlugin [39m: 케이미넴: Udp를 쓰는 이유가?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 클라우드에서 도커만들어서
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: udp 송수신
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: udp 쓰는이유 빨라서
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 도커 쓴다고 
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭐 웹 임?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㄴㄴ 웹아님
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 단순 패킷전소임
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 일단 너가준 내용에도
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 클라우드 공용아이피 전용아이피 (10.0.0대역) 에 대한 동작은 설명이안됨
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 애초에 OCI에서만 이렇게 특수하게 쓰는거같은데
+[35m⚡LoggerPlugin [39m: 케이미넴: 아직도 그게 뭔지 모르겠어서
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 왜 중간에 UDP 패킷이 씹히는지 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 모륵ㅆ네
+[35m⚡LoggerPlugin [39m: 케이미넴: 전용아이피 공용아이피가 뭐임
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㅇㅇ 그럼 너도 모르는거임
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭔서비스쓰는데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: OCI
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'OCI',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'OCI' ]
+  }
+]
+[ 'OCI' ]
+1
+[ 'P0', 'Sb', 'JF', '3V' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 나도 오라클 쓰는데
+[35m⚡LoggerPlugin [39m: 케이미넴: 저런거 없었는데 뭐짘ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 도커 아이피랑 헷갈리는거아니냐 
+[35m⚡LoggerPlugin [39m: 케이미넴: 로컬 아이피 도커아이피 따로 주잖아 
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 
+[35m⚡LoggerPlugin [39m: 케이미넴: @말썽쟁이 네오 
+[35m⚡LoggerPlugin [39m: 케이미넴: 공용이라쓰고 임시라 읽는대
+[35m⚡LoggerPlugin [39m: 케이미넴: 끝 뭘 설명해달라는건지몰라서 나도 끝;
+[35m⚡LoggerPlugin [39m: 정주환: 저 대역도 사설 대역 아니에요?
+[35m⚡LoggerPlugin [39m: 정주환: 공유기 192.168.0.0/24 대역처럼 쓰는걸로 아는데
+[35m⚡LoggerPlugin [39m: 케이미넴: Udp전송 막는건 waf에서 막는거 아닌가 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 1만주 채웠습니다
+[35m⚡LoggerPlugin [39m: 여환준: 3년뒤 열겠습니다
+[35m⚡LoggerPlugin [39m: 김가비: 그럼 한 2년 6개월뒤에 
+[35m⚡LoggerPlugin [39m: 김가비: 사면되겠다
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 너사면 저기서 -50%됨
+[35m⚡LoggerPlugin [39m: 여환준: 들어올생각마
+[35m⚡LoggerPlugin [39m: 김동환: 만주 ㄷㄷㄷㄷㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 김동환: 쎄게 태우셨네요
+[35m⚡LoggerPlugin [39m: 여환준: 말연에 놀고먹을겁니다 ㅠㅠ
+[35m⚡LoggerPlugin [39m: 흰티마: 삼성증권 씨발년들이 110만주 시장가로 던졌다네
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흰티마',
+      content: '삼성증권 씨발년들이 110만주 시장가로 던졌다네',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성증권', '씨발년들이', '110만주', '시장가로', '던졌다네' ]
+  }
+]
+[ '삼성증권', '씨발년들이', '110만주', '시장가로', '던졌다네' ]
+1
+[35m⚡LoggerPlugin [39m: 아딱: 신성델타테크 시외
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: '신성델타테크 시외',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '신성델타테크', '시외' ]
+  }
+]
+[ '신성델타테크', '시외' ]
+krx
+[35m⚡LoggerPlugin [39m: 아딱: 시외에서 또오르네
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀 시외
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: '두산퓨얼셀 시외',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀', '시외' ]
+  }
+]
+[ '두산퓨얼셀', '시외' ]
+krx
+[35m⚡LoggerPlugin [39m: 아딱: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 이지영: 나도 모라요 일 하기 겁나 싫다
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/article/014/0005061103?cds=news_media_pc
+[35m⚡LoggerPlugin [39m: 아딱: Photo
+[35m⚡LoggerPlugin [39m: 아딱: 30살ㅋㅋ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: SS
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ㄴㄴ 공용이랑 ㅇ ㅣㅁ시랑 달라
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 공용이 흔히 우리가아는 외부아이피임
+[35m⚡LoggerPlugin [39m: LSH: 주환아
+[35m⚡LoggerPlugin [39m: LSH: 왜 대답학
+[35m⚡LoggerPlugin [39m: LSH: 삭제해?
+[35m⚡LoggerPlugin [39m: ㅎㅎ: 하팍에팔면좋겟네
+[35m⚡LoggerPlugin [39m: LSH: 192.168.0.1/24 는 내부 게이트인데 
+[35m⚡LoggerPlugin [39m: LSH: 10.0.0.1은 외부게이트야
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: LSH: 그래 서 외부아이피 검은색칠한거( 예시 123.123.123.123 에 3000 포트에 UDP 패킷 보내면
+[35m⚡LoggerPlugin [39m: 이승원: 해외서 인수전 왔둠
+[35m⚡LoggerPlugin [39m: LSH: ㅈㄴ 이해가 안되게 진행이됨ㅁ
+[35m⚡LoggerPlugin [39m: 이승원: 산은이랑 정부가 우리나라 내부 매각 하려고 애쓰겠네요 혜택 많이주면서
+[35m⚡LoggerPlugin [39m: 이승원: 하팍은 공동지분이라도 가질라고 할거고
+[35m⚡LoggerPlugin [39m: 이승원: 아닐까요
+[35m⚡LoggerPlugin [39m: LSH: 10.0.0.195에 44877포트에서  123.123.123.123:3000으로 
+[35m⚡LoggerPlugin [39m: LSH: 전송되고 
+[35m⚡LoggerPlugin [39m: LSH: 또 그게 123.123.123.123 44877에서10.0.0.195 3000으로 전송되어서 
+[35m⚡LoggerPlugin [39m: LSH: 나한테옴
+[35m⚡LoggerPlugin [39m: LSH: 근데 또 그 중간에 UDP LENGTH 가 9000이 넘으면 씹힘
+[35m⚡LoggerPlugin [39m: LSH: 으악 이해안됨 어렵다
+[35m⚡LoggerPlugin [39m: 흐엉: 나닮ㄷ앗다...
+[35m⚡LoggerPlugin [39m: 흐엉: 좆됫다
+[35m⚡LoggerPlugin [39m: 흐엉: 씹
+[35m⚡LoggerPlugin [39m: 흐엉: ㅏㄹ
+[35m⚡LoggerPlugin [39m: LSH: 카카오뱅크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '카카오뱅크',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '카카오뱅크' ]
+  }
+]
+[ '카카오뱅크' ]
+1
+[ 'cS', 'Qi', 'EO', 'D1' ]
+[35m⚡LoggerPlugin [39m: 정주환: 공부한지 오래돼서 맞다는 확신이 없었어요 ㅎ
+[35m⚡LoggerPlugin [39m: LSH: 12
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'j5', 'Ka', 'GH', 'C2' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딲?
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱이랑 쌍둥이?
+[35m⚡LoggerPlugin [39m: 아딱: 글내려 학생^^
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 나는 나보다 약한자의 말은 듣지않는다
+[35m⚡LoggerPlugin [39m: 아딱: 헉

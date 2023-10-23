@@ -1,0 +1,49 @@
+2023-10-23 20:27:45.751 [info] Experiment 'pythonaacf' is active
+2023-10-23 20:27:45.751 [info] Experiment 'pythonPromptNewFormatterExt' is active
+2023-10-23 20:27:45.751 [info] Experiment 'pythonPromptNewToolsExt' is active
+2023-10-23 20:27:45.751 [info] Experiment 'pythonSurveyNotification' is active
+2023-10-23 20:27:45.751 [info] Experiment 'pythonTestAdapter' is active
+2023-10-23 20:27:45.758 [info] Test server listening.
+2023-10-23 20:27:45.878 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 20:27:45.878 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 20:27:45.878 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 20:27:45.878 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 20:27:45.894 [info] > C:\Users\KOREA\AppData\Local\Programs\Python\Python311\python.exe -c "import sys;print(sys.executable)"
+2023-10-23 20:27:45.900 [error] [Error: Command failed: C:\Users\KOREA\AppData\Local\Programs\Python\Python311\python.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UsersKOREAAppDataLocalProgramsPythonPython311python.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:420:12)
+	at ChildProcess.emit (node:events:513:28)
+	at maybeClose (node:internal/child_process:1091:16)
+	at Socket.<anonymous> (node:internal/child_process:449:11)
+	at Socket.emit (node:events:513:28)
+	at Pipe.<anonymous> (node:net:322:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\KOREA\\AppData\\Local\\Programs\\Python\\Python311\\python.exe -c "import sys;print(sys.executable)"'
+}
+2023-10-23 20:27:46.383 [warning] Retry failed, storage update failed for key PYTHON_WORKSPACE_STORAGE_KEYS
+2023-10-23 20:27:46.390 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2023-10-23 20:27:47.578 [info] Starting Pylance language server.
+2023-10-23 20:30:07.723 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/main.py
+2023-10-23 20:32:17.885 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/.local/lib/python3.10/site-packages/numpy/f2py/setup.cfg
+2023-10-23 20:32:20.016 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/.local/lib/python3.10/site-packages/pandas/pyproject.toml
+2023-10-23 20:38:02.803 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:38:53.931 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:39:33.345 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:43:36.750 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:43:38.839 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kosdaq.py
+2023-10-23 20:43:41.602 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/oversea.py
+2023-10-23 20:46:19.648 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:48:48.025 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:49:44.849 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:51:21.430 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kospi.py
+2023-10-23 20:52:15.433 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/kosdaq.py
+2023-10-23 20:53:18.916 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/oversea.py
+2023-10-23 20:54:11.449 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/oversea.py
+2023-10-23 20:55:08.984 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/oversea.py
+2023-10-23 20:58:29.635 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/overseaconvert.py
+2023-10-23 21:00:06.130 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/koreaconvert.py
+2023-10-23 21:00:07.439 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/overseaconvert.py
+2023-10-23 21:21:29.620 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/stock_code/stockcode/koreaconvert.py

@@ -1,0 +1,28 @@
+2023-10-23 17:11:07.241 [info] [Info  - 오후 5:11:07] (17044) Pylance language server 2023.10.40 (pyright 088ebaa5) starting
+2023-10-23 17:11:07.242 [info] [Info  - 오후 5:11:07] (17044) Server root directory: /home/ubuntu/.vscode-server/extensions/ms-python.vscode-pylance-2023.10.40/dist
+2023-10-23 17:11:07.242 [info] [Info  - 오후 5:11:07] (17044) Starting service instance "ubuntu"
+2023-10-23 17:11:07.246 [info] [Info  - 오후 5:11:07] (17044) Starting service instance "stockcode"
+2023-10-23 17:11:07.380 [info] [Info  - 오후 5:11:07] (17044) Setting pythonPath for service "ubuntu": "/bin/python3"
+2023-10-23 17:11:07.380 [info] [Info  - 오후 5:11:07] (17044) Setting environmentName for service "ubuntu": "3.10.12 (global)"
+2023-10-23 17:11:07.443 [info] [Info  - 오후 5:11:07] (17044) Assuming Python version 3.10
+2023-10-23 17:11:07.558 [info] [Info  - 오후 5:11:07] (17044) Found 7 source files
+2023-10-23 17:11:07.609 [info] [Info  - 오후 5:11:07] (17044) Setting pythonPath for service "stockcode": "/bin/python3"
+2023-10-23 17:11:07.609 [info] [Info  - 오후 5:11:07] (17044) Setting environmentName for service "stockcode": "3.10.12 (global)"
+2023-10-23 17:11:07.696 [info] [Info  - 오후 5:11:07] (17044) Assuming Python version 3.10
+2023-10-23 17:11:07.760 [info] [Info  - 오후 5:11:07] (17044) Found 7 source files
+2023-10-23 17:11:11.376 [info] [Info  - 오후 5:11:11] (17044) [BG(2)] Long operation: analyzing: /home/ubuntu/stock_code/stockcode/koreaconvert.py (2003ms)
+2023-10-23 17:11:13.766 [info] [Info  - 오후 5:11:13] (17044) [BG(1)] Long operation: checking: /home/ubuntu/stock_code/stockcode/kospi.py (2605ms)
+2023-10-23 17:11:13.766 [info] [Info  - 오후 5:11:13] (17044) [BG(1)] Long operation: analyzing: /home/ubuntu/stock_code/stockcode/kospi.py (2634ms)
+2023-10-23 17:11:14.204 [info] [Info  - 오후 5:11:14] (17044) [BG(2)] Long operation: checking: /home/ubuntu/stock_code/stockcode/kospi.py (2726ms)
+2023-10-23 17:11:14.207 [info] [Info  - 오후 5:11:14] (17044) [BG(2)] Long operation: analyzing: /home/ubuntu/stock_code/stockcode/kospi.py (2767ms)
+2023-10-23 17:11:14.668 [info] [Info  - 오후 5:11:14] (17044) [IDX(3)] Long operation: index execution environment /home/ubuntu (3318ms)
+2023-10-23 17:11:14.688 [info] [Info  - 오후 5:11:14] (17044) [IDX(3)] Long operation: index packages /home/ubuntu (3355ms)
+2023-10-23 17:12:48.433 [info] [Info  - 오후 5:12:48] (17044) Setting pythonPath for service "ubuntu": "/bin/python3"
+2023-10-23 17:12:48.433 [info] [Info  - 오후 5:12:48] (17044) Setting environmentName for service "ubuntu": "3.10.12 (global)"
+2023-10-23 17:12:48.475 [info] [Info  - 오후 5:12:48] (17044) Assuming Python version 3.10
+2023-10-23 17:12:48.569 [info] [Info  - 오후 5:12:48] (17044) Found 7 source files
+2023-10-23 17:12:48.648 [info] [Info  - 오후 5:12:48] (17044) Setting pythonPath for service "stockcode": "/bin/python3"
+2023-10-23 17:12:48.648 [info] [Info  - 오후 5:12:48] (17044) Setting environmentName for service "stockcode": "3.10.12 (global)"
+2023-10-23 17:12:48.739 [info] [Info  - 오후 5:12:48] (17044) Assuming Python version 3.10
+2023-10-23 17:12:48.851 [info] [Info  - 오후 5:12:48] (17044) Found 7 source files
+2023-10-23 17:12:51.230 [info] [Info  - 오후 5:12:51] (17044) [BG(2)] Long operation: getSemanticTokens delta previousResultId:1698048689389 at /home/ubuntu/stock_code/stockcode/kospi.py (2282ms)

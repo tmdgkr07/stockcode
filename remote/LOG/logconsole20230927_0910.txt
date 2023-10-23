@@ -1,0 +1,2495 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 2
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'o6', '7O', 'bY', 'OE' ]
+[35m⚡LoggerPlugin [39m: LSH: 밀리의 서재
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'Kl', '09', 'ah', 'HD' ]
+[35m⚡LoggerPlugin [39m: LSH: 케텍스 아이디를줘
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ '17', 'ul', 'B2', '0w' ]
+[35m⚡LoggerPlugin [39m: LSH: 팔아버리장
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'ez', 'sU', 'Cw', '5U' ]
+[35m⚡LoggerPlugin [39m: LSH: 달다 달아
+[35m⚡LoggerPlugin [39m: 조.련.사: 기각되어서
+[35m⚡LoggerPlugin [39m: 조.련.사: 이제
+[35m⚡LoggerPlugin [39m: 조.련.사: 민좆당
+[35m⚡LoggerPlugin [39m: 조.련.사: 기세등등
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 영장기각 판결문에
+
+① 위증교사 혐의는 "소명된 것으로 보인다"
+② 백현동 사건에 대해서는 "피의자의 관여가 있었다고 볼만한 상당한 의심이 든다"
+
+[35m⚡LoggerPlugin [39m: 아딱: 이거 내용가지고
+[35m⚡LoggerPlugin [39m: 아딱: 변호사 패널들이 설명하는데
+[35m⚡LoggerPlugin [39m: 아딱: 허물뿐이없는 기각이라고
+[35m⚡LoggerPlugin [39m: 아딱: 하더라
+[35m⚡LoggerPlugin [39m: 아딱: @조.련.사  
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: ① 위증교사 소명 
+[35m⚡LoggerPlugin [39m: 아딱: 이거는 대선자금이랑도 관계가있어서
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/469/0000762735
+[35m⚡LoggerPlugin [39m: 조.련.사: 이 씹새끼
+[35m⚡LoggerPlugin [39m: 조.련.사: 입꾹닫하더니
+[35m⚡LoggerPlugin [39m: 아딱: 실형 유죄되면은
+[35m⚡LoggerPlugin [39m: 조.련.사: 쳐 나오더니
+[35m⚡LoggerPlugin [39m: 조.련.사: 입터짐
+[35m⚡LoggerPlugin [39m: 아딱: 민주당에서 350억
+[35m⚡LoggerPlugin [39m: 아딱: 내뱉어야됨
+[35m⚡LoggerPlugin [39m: 아딱: 대선자금
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 오히려
+[35m⚡LoggerPlugin [39m: 조.련.사:  "인권의 최후 보루라는 사실을 명징하게 증명해주신 사법부에 깊은 감사의 말씀을 드린다"
+[35m⚡LoggerPlugin [39m: 아딱: '기각' 이라는 허울뿐인 말에 
+[35m⚡LoggerPlugin [39m: 조.련.사: "역시 정치는 정치인들이 하는 것 같아도 국민이 하는 것"
+[35m⚡LoggerPlugin [39m: 아딱: 샴페인터뜨려서
+[35m⚡LoggerPlugin [39m: 아딱: 방심하게되는게 맞음
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 그게더 유리할듯
+[35m⚡LoggerPlugin [39m: 조.련.사:  "정치란 언제나 국민의 삶을 챙기고 국가의 미래를 개척해 나가는 것이란 사실을 여야, 정부 모두 잊지 말고 이제는 상대를 죽여 없애는 전쟁이 아니라 국민과 국가를 위해 누가 더 많은 역할을 제대로 할 수 있는지를 경쟁하는 진정한 의미의 정치로 되돌아가길 바란다"고 당부했다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 아오 이 씨발새끼
+[35m⚡LoggerPlugin [39m: 조.련.사: 안에서 
+[35m⚡LoggerPlugin [39m: 조.련.사: 입좀 놀려보지
+[35m⚡LoggerPlugin [39m: 조.련.사: 입꾹닫 하다가
+[35m⚡LoggerPlugin [39m: 아딱: 이말하고
+[35m⚡LoggerPlugin [39m: 아딱: 실형선고되면ㄸ
+[35m⚡LoggerPlugin [39m: 아딱: 사법부한테
+[35m⚡LoggerPlugin [39m: 아딱: 어떤말할지
+[35m⚡LoggerPlugin [39m: 아딱: 지켜보면됨
+[35m⚡LoggerPlugin [39m: LSH: 아닝 아이디비번 알려달라는건디
+[35m⚡LoggerPlugin [39m: LSH: 니껄로 예매하게
+[35m⚡LoggerPlugin [39m: 조.련.사: 구속 면한 이재명 "정치는 상대 죽여 없애는 전쟁 아냐"
+[35m⚡LoggerPlugin [39m: 조.련.사: "여러분~~~ 도와주십시오~~ 감옥갈것같습니다!!!"
+[35m⚡LoggerPlugin [39m: LSH: 내아이디 4갠가해서 정지먹을거같앙
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발새끼
+[35m⚡LoggerPlugin [39m: 조.련.사: 고향내려가면
+[35m⚡LoggerPlugin [39m: 조.련.사: 민좆당 지지하는 새끼들
+[35m⚡LoggerPlugin [39m: 조.련.사: 기새등등할거 생각하니
+[35m⚡LoggerPlugin [39m: 조.련.사: 꼴받네
+[35m⚡LoggerPlugin [39m: 조.련.사: 정치얘기나오면
+[35m⚡LoggerPlugin [39m: 조.련.사: 바로 화제전환해야겠노
+[35m⚡LoggerPlugin [39m: 조.련.사: 아
+[35m⚡LoggerPlugin [39m: 조.련.사: 어제
+[35m⚡LoggerPlugin [39m: 조.련.사: 태권도
+[35m⚡LoggerPlugin [39m: 조.련.사: 혐한
+[35m⚡LoggerPlugin [39m: 아딱: 아갈
+[35m⚡LoggerPlugin [39m: 아딱: 아갈
+[35m⚡LoggerPlugin [39m: 아딱: 아갈!!!
+[35m⚡LoggerPlugin [39m: 조.련.사: 제조한거암?
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발련아
+[35m⚡LoggerPlugin [39m: 아딱: 국뽕
+[35m⚡LoggerPlugin [39m: 아딱: 유튜브만
+[35m⚡LoggerPlugin [39m: 아딱: 볼거야
+[35m⚡LoggerPlugin [39m: 아딱: 한 국 욕 하 면 
+[35m⚡LoggerPlugin [39m: 아딱: 가 만 안 둬
+[35m⚡LoggerPlugin [39m: 조.련.사: 어제
+[35m⚡LoggerPlugin [39m: 조.련.사: 여자 태권도
+[35m⚡LoggerPlugin [39m: 조.련.사: 결승전
+[35m⚡LoggerPlugin [39m: 조.련.사: 대만 갈대같은새끼가
+[35m⚡LoggerPlugin [39m: 조.련.사: 발 발레마냥
+[35m⚡LoggerPlugin [39m: 기석주: 시발 답답하다 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 휘적휘적 대가리 툭툭 건드는 방식으로 결승 올라왔단말야
+[35m⚡LoggerPlugin [39m: LSH: ㅆㅇㅈ
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래서
+[35m⚡LoggerPlugin [39m: LSH: 근데
+[35m⚡LoggerPlugin [39m: LSH: 석주야
+[35m⚡LoggerPlugin [39m: 조.련.사: 신장차이
+[35m⚡LoggerPlugin [39m: 조.련.사: 많이나서
+[35m⚡LoggerPlugin [39m: 기석주: 하아
+[35m⚡LoggerPlugin [39m: 조.련.사: 고전
+[35m⚡LoggerPlugin [39m: 기석주: 읭
+[35m⚡LoggerPlugin [39m: LSH: 너 밀리의서재는
+[35m⚡LoggerPlugin [39m: LSH: 청약안햇냐?
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/article/056/0011573941
+[35m⚡LoggerPlugin [39m: 아딱: 와 ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 20대인데
+[35m⚡LoggerPlugin [39m: 기석주: 시발련아
+[35m⚡LoggerPlugin [39m: 기석주: 알려둬야하지
+[35m⚡LoggerPlugin [39m: LSH: 안알려줫규낭
+[35m⚡LoggerPlugin [39m: LSH: 존나맛잇네
+[35m⚡LoggerPlugin [39m: 기석주: 응응
+[35m⚡LoggerPlugin [39m: 아딱: 국가장학금으로 대학나와서 성공했다구
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'ug', 'HG', 'vg', 'gf' ]
+[35m⚡LoggerPlugin [39m: 아딱: 11억 통째로 기부하고
+[35m⚡LoggerPlugin [39m: 기석주: 시발?
+[35m⚡LoggerPlugin [39m: 아딱: 매달1억씩 기부한데
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 뭔일하길래?
+[35m⚡LoggerPlugin [39m: 아딱: 11억 + 매달1억?
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 맛잇져
+[35m⚡LoggerPlugin [39m: 기석주: 밀리의 서재
+[35m⚡LoggerPlugin [39m: 기석주: 쓰는 데
+[35m⚡LoggerPlugin [39m: 기석주: 하아
+[35m⚡LoggerPlugin [39m: 기석주: 🤦🏻‍♂️
+[35m⚡LoggerPlugin [39m: 조.련.사: 나한테
+[35m⚡LoggerPlugin [39m: 조.련.사: 기부를하지
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅡ,.ㅡ
+[35m⚡LoggerPlugin [39m: 아딱: 암튼
+[35m⚡LoggerPlugin [39m: 아딱: 걱정마
+[35m⚡LoggerPlugin [39m: 아딱: ① 위증교사 혐의는 "소명된 것으로 보인다"
+② 백현동 사건에 대해서는 "피의자의 관여가 있었다고 볼만한 상당한 의심이 든다"
+[35m⚡LoggerPlugin [39m: 아딱: 이거
+[35m⚡LoggerPlugin [39m: 아딱: 불쌍해서 방어권준거뿐임
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 소명도되는데 구속까지 할필요있냐 
+[35m⚡LoggerPlugin [39m: 아딱: 브레이크건거임
+[35m⚡LoggerPlugin [39m: 아딱: 티배깅이라고 생각하면됨
+[35m⚡LoggerPlugin [39m: LSH: 아니다 걍 내꺼 아디로함
+[35m⚡LoggerPlugin [39m: LSH: 설맟정지먹겟냐
+[35m⚡LoggerPlugin [39m: 흰티마: 증거인멸 한 새끼를 왜 구속 안 시킴?
+[35m⚡LoggerPlugin [39m: 허지은: 히히히재밋어어어
+[35m⚡LoggerPlugin [39m: 아딱: 아마
+[35m⚡LoggerPlugin [39m: 흰티마: 상당한 의심이 드는데 왜 구속 안 시킴?
+[35m⚡LoggerPlugin [39m: 아딱: 단식해서 몸상태안좋음 + 제1야당대표 + 국민여론 + 증거상태
+[35m⚡LoggerPlugin [39m: 흰티마: 이번에 구속당하고 옥중자살하는거 기대했는데
+[35m⚡LoggerPlugin [39m: 아딱: 다 따진듯
+[35m⚡LoggerPlugin [39m: 흰티마: 왜 구속 안 시킴?
+[35m⚡LoggerPlugin [39m: 흰티마: 유창현 에미창년
+[35m⚡LoggerPlugin [39m: 아딱: 판결문에는근데
+[35m⚡LoggerPlugin [39m: 아딱: 혐의소명됐다고
+[35m⚡LoggerPlugin [39m: 아딱: 명시했으니깐
+[35m⚡LoggerPlugin [39m: 아딱: 증거가 명백할때도 기각한데
+[35m⚡LoggerPlugin [39m: 아딱: 변호사패널들이
+[35m⚡LoggerPlugin [39m: 아딱: 말했음
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 굳이? 이정도면 실형인데 구속해야함?
+[35m⚡LoggerPlugin [39m: 김민성: 야 걍 하지마
+[35m⚡LoggerPlugin [39m: 김민성: 그거 걸리면
+[35m⚡LoggerPlugin [39m: 김민성: 최소 벌금임
+[35m⚡LoggerPlugin [39m: 아딱: 바로 기소해서 법원가세요
+[35m⚡LoggerPlugin [39m: 흰티마: 유무죄 관심없음
+[35m⚡LoggerPlugin [39m: 아딱: 이거
+[35m⚡LoggerPlugin [39m: 흰티마: 이재명 뒤지는거 기대했는데
+[35m⚡LoggerPlugin [39m: 흰티마: 개씹노잼됨
+[35m⚡LoggerPlugin [39m: LSH: 왜 벌금임
+[35m⚡LoggerPlugin [39m: 흰티마: 유창현도 구속시켜라
+[35m⚡LoggerPlugin [39m: 김민성: 아님말고
+[35m⚡LoggerPlugin [39m: LSH: 열심히 손으로 f5눌럿는지 어케알아 ㅎㅎ
+[35m⚡LoggerPlugin [39m: MJ: 헐
+[35m⚡LoggerPlugin [39m: 흰티마: 생방에서 이재명 커터칼로 이마 긋고 피바다되는거만 기다리는데
+[35m⚡LoggerPlugin [39m: MJ: 나
+[35m⚡LoggerPlugin [39m: MJ: 까먹음
+[35m⚡LoggerPlugin [39m: 흰티마: 왜 안 함
+[35m⚡LoggerPlugin [39m: 흰티마: 이재명 씨발년아
+[35m⚡LoggerPlugin [39m: LSH: 근데 웃돈받고 팔면 벌금맞음 
+[35m⚡LoggerPlugin [39m: LSH: 이천원손해봣네 빨리팧알
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'aA', '4Z', 'jW', '4X' ]
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'y8', 'dL', 'sC', 'hs' ]
+[35m⚡LoggerPlugin [39m: LSH: 나도핌!!
+[35m⚡LoggerPlugin [39m: MJ: 49700에팜
+[35m⚡LoggerPlugin [39m: MJ: 지금 가격그대로팔아보림
+[35m⚡LoggerPlugin [39m: LSH: 잘햇움 ㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 커피 두개
+[35m⚡LoggerPlugin [39m: LSH: 인줄알앗는데
+[35m⚡LoggerPlugin [39m: LSH: 치킨에 커피 두개였네
+[35m⚡LoggerPlugin [39m: LSH: 두잔
+[35m⚡LoggerPlugin [39m: MJ: 팔자마자 5만우ㅗㄴ찍네
+[35m⚡LoggerPlugin [39m: MJ: ㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: 어차피 더올라봐야 일이천원
+[35m⚡LoggerPlugin [39m: LSH: 딴돈의 반만가져 
+[35m⚡LoggerPlugin [39m: MJ: 이미팔앗어
+[35m⚡LoggerPlugin [39m: LSH: 굳
+[35m⚡LoggerPlugin [39m: MJ: 귣!
+[35m⚡LoggerPlugin [39m: LSH: 오늘저녁값 굳었다
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㅋㅋㅋ진자루
+[35m⚡LoggerPlugin [39m: LSH: 3만원이몀 막말로
+[35m⚡LoggerPlugin [39m: LSH: 일주일밥값 가능
+[35m⚡LoggerPlugin [39m: MJ: 난 2만6천우ㅗㄴ이야
+[35m⚡LoggerPlugin [39m: MJ: 헉..
+[35m⚡LoggerPlugin [39m: MJ: 그롤수롭ㄹ음
+[35m⚡LoggerPlugin [39m: 제원: 저 회사
+[35m⚡LoggerPlugin [39m: 제원: 광고 존니 하는데 우리 회사 엘베 앞에
+[35m⚡LoggerPlugin [39m: LSH: 예매완료
+[35m⚡LoggerPlugin [39m: 김민성: 몇시꺼
+[35m⚡LoggerPlugin [39m: 기석주: 맞아
+[35m⚡LoggerPlugin [39m: LSH: 7 42
+[35m⚡LoggerPlugin [39m: 기석주: 가족꺼 다 대신해주잖아
+[35m⚡LoggerPlugin [39m: 김민성: 낼 7시42분?
+[35m⚡LoggerPlugin [39m: 김민성: ㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: 결재한다,
+[35m⚡LoggerPlugin [39m: LSH: ??
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 김민성: 엉
+[35m⚡LoggerPlugin [39m: 이ㅎ: 흠아~ 힘내
+[35m⚡LoggerPlugin [39m: 김민성: 해줘잉
+[35m⚡LoggerPlugin [39m: 이지영: 까먹고 밀리의 서재 안했는디
+[35m⚡LoggerPlugin [39m: 이지영: 퓨ㅠㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: MJ: 괜찮아
+[35m⚡LoggerPlugin [39m: MJ: 다음을노리자
+[35m⚡LoggerPlugin [39m: LSH: 김민성
+[35m⚡LoggerPlugin [39m: LSH: 핸드폰번호뭐임?
+[35m⚡LoggerPlugin [39m: 김민성: 01075074808
+[35m⚡LoggerPlugin [39m: 김민성: 아냐아냐
+[35m⚡LoggerPlugin [39m: 김민성: 01072074808
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발련아 이게 이유가됨?
+[35m⚡LoggerPlugin [39m: 조.련.사: 유전무죄 무전유죄
+[35m⚡LoggerPlugin [39m: 조.련.사: 씨발련아 
+[35m⚡LoggerPlugin [39m: LSH: 보냇음
+[35m⚡LoggerPlugin [39m: 기석주: 그냥 전화했습니다
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 회사임
+[35m⚡LoggerPlugin [39m: 김민성: 미친놈ㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 쿄ㅛㅋ쿄쿄쿄쿄쿄쿄쿄쿄
+[35m⚡LoggerPlugin [39m: 기석주: 쿄쿄쿄쿄쿄쿄쿄쿜쿄
+[35m⚡LoggerPlugin [39m: 김민성: 지도: 경기도 화성시 송산면 삼존로 200 (송산면 삼존리 621)
+[35m⚡LoggerPlugin [39m: LSH: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 짜잔
+[35m⚡LoggerPlugin [39m: 김민성: 지리농
+[35m⚡LoggerPlugin [39m: LSH: 그러니
+[35m⚡LoggerPlugin [39m: LSH: 얼료쥬묜
+[35m⚡LoggerPlugin [39m: LSH: 제떄제떄하자 !!!
+[35m⚡LoggerPlugin [39m: LSH: 이제 다들 숙련되서 1분이면되잖아!!!
+[35m⚡LoggerPlugin [39m: MJ: 까먹엇닥오!!!!
+[35m⚡LoggerPlugin [39m: 기석주: 스바
+[35m⚡LoggerPlugin [39m: 기석주: 봐도 모르겠노…
+[35m⚡LoggerPlugin [39m: LSH: 걍 대기열]
+[35m⚡LoggerPlugin [39m: LSH: 뚫리는게 ㅈ사기임
+[35m⚡LoggerPlugin [39m: LSH: 그리고 로딩전에 예매가능전에 바로 예약되는게 손절대못따라감
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅎ
+[35m⚡LoggerPlugin [39m: 기석주: 멋지다
+[35m⚡LoggerPlugin [39m: MJ: 다음 두산 로보틱스도
+[35m⚡LoggerPlugin [39m: MJ: 팔라고말점
+[35m⚡LoggerPlugin [39m: MJ: 감사
+[35m⚡LoggerPlugin [39m: LSH: 나도까먹을수도
+[35m⚡LoggerPlugin [39m: LSH: 나도ㅇㅎ늘 다른사람이 알려주서ㅓ
+[35m⚡LoggerPlugin [39m: LSH: 기억남
+[35m⚡LoggerPlugin [39m: 이지영: 그건 나도 한주있ㅁㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: MJ: 그럼
+[35m⚡LoggerPlugin [39m: MJ: 파는사람이
+[35m⚡LoggerPlugin [39m: MJ: 말해주기로
+[35m⚡LoggerPlugin [39m: MJ: 먼저
+[35m⚡LoggerPlugin [39m: MJ: 파는사람
+[35m⚡LoggerPlugin [39m: LSH: 뭐야
+[35m⚡LoggerPlugin [39m: LSH: 지영이
+[35m⚡LoggerPlugin [39m: LSH: 한티ㅜ로안햇어?
+[35m⚡LoggerPlugin [39m: LSH: 한투로안했어?
+[35m⚡LoggerPlugin [39m: 김민성: 지렸다 승학아
+[35m⚡LoggerPlugin [39m: 용성: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '용성',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'Td', 'ZQ', 'W0', 'JP' ]
+[35m⚡LoggerPlugin [39m: 용성: 상장햇네
+[35m⚡LoggerPlugin [39m: 용성: 위메이드
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '용성',
+      content: '위메이드',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '위메이드' ]
+  }
+]
+[ '위메이드' ]
+1
+[ 'CG', 'aO', 'Gj', 'tc' ]
+[35m⚡LoggerPlugin [39m: MJ: 나한투
+[35m⚡LoggerPlugin [39m: LSH: 13프로 확률로
+[35m⚡LoggerPlugin [39m: LSH: 1주,,
+[35m⚡LoggerPlugin [39m: LSH: 87프로 확ㄹ ㄹ로2주,,,
+[35m⚡LoggerPlugin [39m: LSH: 3560629358213농협 입금해라
+[35m⚡LoggerPlugin [39m: 이지영: 한투로 한주던데
+[35m⚡LoggerPlugin [39m: 이지영: ㅡㅡ
+[35m⚡LoggerPlugin [39m: LSH: 29500
+[35m⚡LoggerPlugin [39m: LSH: 지영이가
+[35m⚡LoggerPlugin [39m: LSH: 운이좋네
+[35m⚡LoggerPlugin [39m: 이지영: 아니
+[35m⚡LoggerPlugin [39m: 이지영: 놀리는건가요
+[35m⚡LoggerPlugin [39m: LSH: 저번엔 7퍼 확률로2주받더니
+[35m⚡LoggerPlugin [39m: 이지영: ㅡㅡ
+[35m⚡LoggerPlugin [39m: MJ: 나 2주야
+[35m⚡LoggerPlugin [39m: 김민성: ㅇㅋㄷㅋ
+[35m⚡LoggerPlugin [39m: LSH: 승환이형한테는 말안해줫는디 ㅎㅎ,,,
+[35m⚡LoggerPlugin [39m: LSH: 누나가 알려줬을려나,,,
+[35m⚡LoggerPlugin [39m: 허지은: 난? 이런거 너랑만 얘기한디
+[35m⚡LoggerPlugin [39m: 허지은: 오 굿!
+[35m⚡LoggerPlugin [39m: LSH: 오늘 번돈으로
+[35m⚡LoggerPlugin [39m: LSH: 김밥이랑 떡볶이
+[35m⚡LoggerPlugin [39m: LSH: 먹는중
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 허지은: 아 개굿이잖슴
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박남혁: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박남혁',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'mJ', 'eQ', 'lg', '4m' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ 이것도 웃기네 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 심사받기전 쩔뚝쩔뚝
+심사받은후 뚜벅뚜벅
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ 안에서 치료받았노
+[35m⚡LoggerPlugin [39m: 이: 또다시 바닥 열심히 다지고 있습니다 
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'oU', 'kO', '0D', '40' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 와 아침에
+[35m⚡LoggerPlugin [39m: 흐엉: 개미한번 시원하게 털엇네
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니
+[35m⚡LoggerPlugin [39m: 조.련.사: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ '6t', 'OR', 'ZF', 'w1' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '3D', 'Wu', 'Fx', 'V4' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: @아
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱 
+[35m⚡LoggerPlugin [39m: 조.련.사: 내예상대로 맞지?
+[35m⚡LoggerPlugin [39m: 조.련.사: 아주 지랄
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹재명
+[35m⚡LoggerPlugin [39m: 조.련.사: 사형 내려라
+[35m⚡LoggerPlugin [39m: 조.련.사: 또 탄햇맛 보고싶어서
+[35m⚡LoggerPlugin [39m: 조.련.사: 탄핵 시동 부릉부릉
+[35m⚡LoggerPlugin [39m: 조.련.사: 걸겠지
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹새들 진짜
+[35m⚡LoggerPlugin [39m: 조.련.사: 디재스터때
+[35m⚡LoggerPlugin [39m: 조.련.사: 청와대 쳐들어가서
+[35m⚡LoggerPlugin [39m: 조.련.사: 모가지쳐야한다
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003790316?sid=102
+[35m⚡LoggerPlugin [39m: 제서비: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '제서비',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '7q', 'BP', 'tc', 'Qm' ]
+[35m⚡LoggerPlugin [39m: 박재건: stx
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: 'stx',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'STX' ]
+  }
+]
+[ 'STX' ]
+1
+[ 't2', 'Gd', 'rk', 'OF' ]
+[35m⚡LoggerPlugin [39m: 박재건: 팬오션
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: '팬오션',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '팬오션' ]
+  }
+]
+[ '팬오션' ]
+1
+[ 'ch', 'Qi', 'Xb', 'hk' ]
+[35m⚡LoggerPlugin [39m: 박재건: 대한해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: '대한해운',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '대한해운' ]
+  }
+]
+[ '대한해운' ]
+1
+[ 'fO', 'CP', 'oq', 'n3' ]
+[35m⚡LoggerPlugin [39m: 박재건: kss해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: 'kss해운',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'KSS해운' ]
+  }
+]
+[ 'KSS해운' ]
+1
+[ 'Sq', 'fR', 'fl', 'Y4' ]
+[35m⚡LoggerPlugin [39m: 조영우: 슬슬 퇴근준비를 해야겠군
+[35m⚡LoggerPlugin [39m: 박재건: 부럽스니다형님
+[35m⚡LoggerPlugin [39m: 김가비: 난 오늘 3시 끝나는데
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/448/0000429575
+[35m⚡LoggerPlugin [39m: 김가비: http://news.heraldcorp.com/view.php?ud=20230927000017
+[35m⚡LoggerPlugin [39m: 조.련.사: 이 십련은 왜또 가석방이노
+[35m⚡LoggerPlugin [39m: 김가비: 금리 10% 이다
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 진짜 나라가 망하는 꼴을
+[35m⚡LoggerPlugin [39m: 김가비: 보겟딴다
+[35m⚡LoggerPlugin [39m: 김가비: 대단하다 진짜 
+[35m⚡LoggerPlugin [39m: 조영우: 다들 즐거운 명절 보내시라요
+[35m⚡LoggerPlugin [39m: 조영우: 건강하시고 돈 많이 버시고
+[35m⚡LoggerPlugin [39m: 조영우: 주리는 시집 좀 가자
+[35m⚡LoggerPlugin [39m: 김가비: 내년 무조껀 간다
+[35m⚡LoggerPlugin [39m: 김가비: 아님 내후년
+[35m⚡LoggerPlugin [39m: 김가비: 아님 내내후년
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/586/0000065145
+[35m⚡LoggerPlugin [39m: 조.련.사: 어휴 씨발
+[35m⚡LoggerPlugin [39m: 조.련.사: 이재명을 죽여라!
+[35m⚡LoggerPlugin [39m: 조.련.사: 민주당을 죽여라!
+[35m⚡LoggerPlugin [39m: 박재건: 형님은 
+[35m⚡LoggerPlugin [39m: 박재건: 명절에
+[35m⚡LoggerPlugin [39m: 박재건: 어디가세여?
+[35m⚡LoggerPlugin [39m: 조영우: 올해 가면 내가 냉장고 한 대 해줄라고 했는데
+[35m⚡LoggerPlugin [39m: 조영우: 아깝게 됏네
+[35m⚡LoggerPlugin [39m: 조영우: 난 남양주ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 가깝다ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 올해 ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 법원 앞 10만 보수지지자들 모여서
+[35m⚡LoggerPlugin [39m: 조.련.사: 찢 죽이라고 하면
+[35m⚡LoggerPlugin [39m: 조.련.사: 죽여줌?
+[35m⚡LoggerPlugin [39m: 박재건: 오 
+[35m⚡LoggerPlugin [39m: 김가비: 바로 식 올린다
+[35m⚡LoggerPlugin [39m: 박재건: 명절내내계신가여
+[35m⚡LoggerPlugin [39m: 조영우: 아니 뭔소리여
+[35m⚡LoggerPlugin [39m: 조영우: 당일날만 잠깐 갔다오는거지
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 저도 충북다녀올것같은데
+[35m⚡LoggerPlugin [39m: 박재건: 타밍맞으면
+[35m⚡LoggerPlugin [39m: 박재건: 한잔하시져형님
+[35m⚡LoggerPlugin [39m: 박재건: 연휴도긴데
+[35m⚡LoggerPlugin [39m: 김가비: 재건 또 맘에도 없는 소리 하네
+[35m⚡LoggerPlugin [39m: 박재건: 평일에 자주못뵈니
+[35m⚡LoggerPlugin [39m: 김가비: 언니 언제 밥한번 먹어요
+[35m⚡LoggerPlugin [39m: 김가비: 느낌인데
+[35m⚡LoggerPlugin [39m: 박재건: ?
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 또ㅗ또또ㄸ또저 물음표
+[35m⚡LoggerPlugin [39m: 김가비: 또또ㅗ또ㄸ또
+[35m⚡LoggerPlugin [39m: 김가비: 또또
+[35m⚡LoggerPlugin [39m: 박재건: 형님한테 먹자고 나도 연락한적도있음 
+[35m⚡LoggerPlugin [39m: 박재건: 타이밍이안맞은거임
+[35m⚡LoggerPlugin [39m: 조영우: 좋지
+[35m⚡LoggerPlugin [39m: 박재건: 그떄 너가족행사있다고
+[35m⚡LoggerPlugin [39m: 박재건: 짼날
+[35m⚡LoggerPlugin [39m: 박재건: 가비야
+[35m⚡LoggerPlugin [39m: 조영우: 그래 새캬 너보단 재건이가 낫다
+[35m⚡LoggerPlugin [39m: 조영우: 넌 불러도 졸라 안 나오잖아
+[35m⚡LoggerPlugin [39m: 김가비: 아 그떄 정확히 기억나
+[35m⚡LoggerPlugin [39m: 박재건: 누가 누굴 
+[35m⚡LoggerPlugin [39m: 박재건: 나무라냐
+[35m⚡LoggerPlugin [39m: 김가비: 가족 여행이었떤걸 어케
+[35m⚡LoggerPlugin [39m: 김가비: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 박재건: 여행아니었고 
+[35m⚡LoggerPlugin [39m: 박재건: 니네어머니
+[35m⚡LoggerPlugin [39m: 박재건: 무슨
+[35m⚡LoggerPlugin [39m: 박재건: 장로 어쩌구
+[35m⚡LoggerPlugin [39m: 박재건: 해서
+[35m⚡LoggerPlugin [39m: 박재건: 못나옴
+[35m⚡LoggerPlugin [39m: 박재건: 헛소리 ㄴㄴ
+[35m⚡LoggerPlugin [39m: 박재건: 기억도 못하면서 정확히기억나가 개웃기네
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 아 그날은 또 그날이야 ?
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 두 개가 섞였네
+[35m⚡LoggerPlugin [39m: 김가비: 그날도 아주 정확하게 기억하지 
+[35m⚡LoggerPlugin [39m: 조영우: 근데 정확히 기억난다는게 개웃기네ㄹㅇㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 가비야 내가널부른게
+[35m⚡LoggerPlugin [39m: 박재건: 한번이란다
+[35m⚡LoggerPlugin [39m: 박재건: 그날
+[35m⚡LoggerPlugin [39m: 도현: https://www.smedaily.co.kr/news/articleView.html?idxno=269572
+[35m⚡LoggerPlugin [39m: 도현: 정리만이 살길인듯요..
+[35m⚡LoggerPlugin [39m: 김가비: 응 담엔 두번 불러워 
+[35m⚡LoggerPlugin [39m: 헌: ㅂㅓ러지같은넘들..
+[35m⚡LoggerPlugin [39m: 조영우: 그러면
+[35m⚡LoggerPlugin [39m: 조영우: 너도 이번 연휴때 같이보자
+[35m⚡LoggerPlugin [39m: 조영우: 알았냐
+[35m⚡LoggerPlugin [39m: 김가비: 남친이랑 같이 없으면 바로 텨나감 ㅋ_ㅋ
+[35m⚡LoggerPlugin [39m: -규상-: 살이 쭉쭉 빠지시는건 아니죠?
+[35m⚡LoggerPlugin [39m: -규상-: 기운차리세요~
+[35m⚡LoggerPlugin [39m: 도현: 요새 입맛도 없고 살도 빠지고ㅠㅠㅠ...
+[35m⚡LoggerPlugin [39m: 도현: 시기가 도래할수록 점점 불안감이 커지네요..
+[35m⚡LoggerPlugin [39m: 도현: 규상님도 힘내세요🥹🥹
+[35m⚡LoggerPlugin [39m: -규상-: 그냥 쳐다보지 마세요~
+[35m⚡LoggerPlugin [39m: 윤수: 한가위
+[35m⚡LoggerPlugin [39m: -규상-: 화이팅!!
+[35m⚡LoggerPlugin [39m: 조영우: 근데 지금 사귀는거임?
+[35m⚡LoggerPlugin [39m: 김가비: 이정도면 사귀는거지
+[35m⚡LoggerPlugin [39m: 조영우: 확실히 얘기함?
+[35m⚡LoggerPlugin [39m: 조영우: 우리 오늘부터 1일이다~?
+[35m⚡LoggerPlugin [39m: 김가비: 아니
+[35m⚡LoggerPlugin [39m: 김가비: 그런거없는데
+[35m⚡LoggerPlugin [39m: 조영우: 쯧
+[35m⚡LoggerPlugin [39m: 조영우: 넌 어장 속에 있는 아귀야
+[35m⚡LoggerPlugin [39m: 유지준: 흠 매각 반대하고 빨대꽂을라는 고위층
+[35m⚡LoggerPlugin [39m: 유지준: 있는거같은대
+[35m⚡LoggerPlugin [39m: 김가비: 아귀찜 존맛
+[35m⚡LoggerPlugin [39m: 조영우: 신사에 마산할매아구찜
+[35m⚡LoggerPlugin [39m: 조영우: 존나 맛집인데
+[35m⚡LoggerPlugin [39m: 조영우: 갑자기 땡기누...
+[35m⚡LoggerPlugin [39m: 박재건: 저희집근처에도
+[35m⚡LoggerPlugin [39m: 박재건: 아구찜
+[35m⚡LoggerPlugin [39m: 박재건: 맛집있는데
+[35m⚡LoggerPlugin [39m: 박재건: 진짜 ㄹㅇ
+[35m⚡LoggerPlugin [39m: 박재건: 굿
+[35m⚡LoggerPlugin [39m: 조영우: 가자 거기로
+[35m⚡LoggerPlugin [39m: 조영우: 이번 연휴때
+[35m⚡LoggerPlugin [39m: 조영우: 형이 건너간다
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅡ
+[35m⚡LoggerPlugin [39m: 조.련.사: 이거 언리얼 4라는데 흠? 뭔겜이노
+[35m⚡LoggerPlugin [39m: 조.련.사: 전송
+[35m⚡LoggerPlugin [39m: 조.련.사: 개느리네
+[35m⚡LoggerPlugin [39m: 조.련.사: 후방주의
+[35m⚡LoggerPlugin [39m: 조.련.사: 후
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 후
+[35m⚡LoggerPlugin [39m: 조.련.사: 방
+[35m⚡LoggerPlugin [39m: 조.련.사: 주
+[35m⚡LoggerPlugin [39m: 조.련.사: 의
+[35m⚡LoggerPlugin [39m: 조.련.사: 애ㅗㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 으
+[35m⚡LoggerPlugin [39m: 조.련.사: 로
+[35m⚡LoggerPlugin [39m: 조.련.사: 일
+[35m⚡LoggerPlugin [39m: 조.련.사: 단
+[35m⚡LoggerPlugin [39m: 조.련.사: 올
+[35m⚡LoggerPlugin [39m: 조.련.사: 리
+[35m⚡LoggerPlugin [39m: 조.련.사: 는
+[35m⚡LoggerPlugin [39m: 조.련.사: 중
+[35m⚡LoggerPlugin [39m: 조.련.사: 언리얼4
+[35m⚡LoggerPlugin [39m: 조.련.사: 제작된거라
+[35m⚡LoggerPlugin [39m: 조.련.사: 함
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭔겜이냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 전문사
+[35m⚡LoggerPlugin [39m: 조.련.사: 전문가
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱
+[35m⚡LoggerPlugin [39m: 조.련.사: 알아와
+[35m⚡LoggerPlugin [39m: 박재건: 아 저희도
+[35m⚡LoggerPlugin [39m: 박재건: 별거없으면
+[35m⚡LoggerPlugin [39m: 박재건: 좀보내주지
+[35m⚡LoggerPlugin [39m: 박재건: 연차소진시킨다고 
+[35m⚡LoggerPlugin [39m: 박재건: 연차쓰고가라네여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 갈거면
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'tM', 'jC', 'Qe', 'I7' ]
+[35m⚡LoggerPlugin [39m: 아딱: 내가 뭔 엉덩이만보면
+[35m⚡LoggerPlugin [39m: 아딱: 뭔 게임인지맞추는
+[35m⚡LoggerPlugin [39m: 아딱: 전문가냐?
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 맞자나
+[35m⚡LoggerPlugin [39m: 조.련.사: 넌 가능할거 같아서 물은거잖어
+[35m⚡LoggerPlugin [39m: 조.련.사: 아....
+[35m⚡LoggerPlugin [39m: 조.련.사: 로리콘이 아니라
+[35m⚡LoggerPlugin [39m: 조.련.사: 못한건가;
+[35m⚡LoggerPlugin [39m: 조.련.사: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박재건: 팬오션
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: '팬오션',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '팬오션' ]
+  }
+]
+[ '팬오션' ]
+1
+[ 'jy', 'jK', 'V6', 'MX' ]
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Wu', 'We', 'Xv', 'hv' ]
+[35m⚡LoggerPlugin [39m: 조영우: 또 15층 가겠노
+[35m⚡LoggerPlugin [39m: 김가비: ㅇㅇ 한번더 ~
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 아 남은
+[35m⚡LoggerPlugin [39m: 박재건: 오후뭐하지
+[35m⚡LoggerPlugin [39m: 조영우: 아우 나 늑골염 제대로 왔다
+[35m⚡LoggerPlugin [39m: 조영우: 가슴뼈 조온나 아프네ㅠㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 조영우: 아무래도 범인은 딥스인듯…..
+[35m⚡LoggerPlugin [39m: 박재건: 헐
+[35m⚡LoggerPlugin [39m: 박재건: 형님 어쩌다가
+[35m⚡LoggerPlugin [39m: 조영우: 싯팔
+[35m⚡LoggerPlugin [39m: 박재건: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 박재건: 집에딥스기구하나샀는데
+[35m⚡LoggerPlugin [39m: 박재건: 딥스가
+[35m⚡LoggerPlugin [39m: 박재건: 다치기쉬워서
+[35m⚡LoggerPlugin [39m: 박재건: 진짜조심해야하는것같아여
+[35m⚡LoggerPlugin [39m: 조영우: 발판 대고 했는디
+[35m⚡LoggerPlugin [39m: 조영우: 젠장
+[35m⚡LoggerPlugin [39m: 박재건: 으
+[35m⚡LoggerPlugin [39m: 박재건: 당분간
+[35m⚡LoggerPlugin [39m: 박재건: 하체하셔야겠네여
+[35m⚡LoggerPlugin [39m: 조영우: 잭언 너 딥스할때 어깨 어케하냐
+[35m⚡LoggerPlugin [39m: 조영우: 후인하강?
+[35m⚡LoggerPlugin [39m: 조영우: 전인하강?
+[35m⚡LoggerPlugin [39m: 박재건: 전보통 
+[35m⚡LoggerPlugin [39m: 박재건: 후인하강
+[35m⚡LoggerPlugin [39m: 박재건: 이요
+[35m⚡LoggerPlugin [39m: 박재건: 전인은 
+[35m⚡LoggerPlugin [39m: 박재건: 뭔가
+[35m⚡LoggerPlugin [39m: 박재건: 무리오는느낌이라
+[35m⚡LoggerPlugin [39m: 조.련.사: 퇴근
+[35m⚡LoggerPlugin [39m: 조.련.사: 퇴근~~~~~~~~~~~~~~~
+[35m⚡LoggerPlugin [39m: 조.련.사: 퇴근~~~~~~
+[35m⚡LoggerPlugin [39m: 조.련.사: 즐츄
+[35m⚡LoggerPlugin [39m: 조영우: 자극 더 잘 오는 느낌이길래
+[35m⚡LoggerPlugin [39m: 조영우: 신나게 전인 조졌는데
+[35m⚡LoggerPlugin [39m: 조영우: 그게 문제였던건가
+[35m⚡LoggerPlugin [39m: 박재건: 전인이 무리가 많이가더라구여 
+[35m⚡LoggerPlugin [39m: 박재건: 딥스는 어깨다치기
+[35m⚡LoggerPlugin [39m: 박재건: 너무쉬워서
+[35m⚡LoggerPlugin [39m: 박재건: 저도 후인으로 거의하는것같아여
+[35m⚡LoggerPlugin [39m: 박재건: 전인이 느낌좋긴한데
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 냥
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱
+[35m⚡LoggerPlugin [39m: 박재건: https://search.shopping.naver.com/catalog/25764259690?cat_id=50003161&frm=NVSCPRO&query=%EB%94%A5%EC%8A%A4+%EA%B8%B0%EA%B5%AC&NaPm=ct%3Dln19nz2g%7Cci%3Dc7d5e990d96c6cf2f4ce292c18e532039123f949%7Ctr%3Dsls%7Csn%3D95694%7Chk%3D12e4eaff41d2789f71cdadb4596e1d10396b892c
+[35m⚡LoggerPlugin [39m: 박재건: 집에이거하나샀어요
+[35m⚡LoggerPlugin [39m: 조.련.사: 갑작스런
+[35m⚡LoggerPlugin [39m: 조.련.사: 업무요청
+[35m⚡LoggerPlugin [39m: 조.련.사: 1시 55분 갑작스런 업무요청 들어올예정
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱 
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 점점 진정한 헬창이 되어가는구만
+[35m⚡LoggerPlugin [39m: 조영우: 이러다 홈짐 차리는거아니냐
+[35m⚡LoggerPlugin [39m: 박재건: 진짜
+[35m⚡LoggerPlugin [39m: 박재건: 나중에하나
+[35m⚡LoggerPlugin [39m: 박재건: 차리고싶어여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 집도착
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱 퇴근전 조련사 집도착
+[35m⚡LoggerPlugin [39m: 조.련.사: 캬
+[35m⚡LoggerPlugin [39m: LSH: 밀리의서재
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '밀리의서재',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '밀리의서재' ]
+  }
+]
+[ '밀리의서재' ]
+1
+[ 'EC', '3U', 'Zx', 'kV' ]
+[35m⚡LoggerPlugin [39m: LSH: 결국 이렇게 떨어져서
+[35m⚡LoggerPlugin [39m: LSH: 그냥 욕심안부리고 적당히 먹는게 최고
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'k1', 'jG', 'rx', 'zN' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀 일봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀', '일봉' ]
+  }
+]
+[ '두산퓨얼셀', '일봉' ]
+1
+[ 'Jw', 'e6', 'CU', 'ER' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 17000쯤네 들어갈만할듯? @아딱 
+[35m⚡LoggerPlugin [39m: 흐엉: 남선알미늄
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '남선알미늄',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '남선알미늄' ]
+  }
+]
+[ '남선알미늄' ]
+1
+[ 'uq', 'b9', 'Lm', 'bL' ]
+[35m⚡LoggerPlugin [39m: 허지은: 와 진짜네?
+[35m⚡LoggerPlugin [39m: 허지은: 우리잘했다!
+[35m⚡LoggerPlugin [39m: LSH: 굳굳
+[35m⚡LoggerPlugin [39m: 허지은: 언넝 두산아 와라
+[35m⚡LoggerPlugin [39m: 허지은: 나 2주 된건 처음임
+[35m⚡LoggerPlugin [39m: LSH: 왜냐면
+[35m⚡LoggerPlugin [39m: LSH: 물량이많아서
+[35m⚡LoggerPlugin [39m: LSH: 걍쟁률이
+[35m⚡LoggerPlugin [39m: LSH: 1.8주였어용 
+[35m⚡LoggerPlugin [39m: LSH: 한투기준
+[35m⚡LoggerPlugin [39m: LSH: 그래서 한투로 하라고한겅
+[35m⚡LoggerPlugin [39m: 허지은: 오오 좋다좋아!
+[35m⚡LoggerPlugin [39m: 허지은: 대리님은 했대?
+[35m⚡LoggerPlugin [39m: 조.련.사: 짜이밍 들어가있으면 낙연이한테 좋은데 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 남선알미늄 일봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '조.련.사',
+      content: '남선알미늄 일봉',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '남선알미늄', '일봉' ]
+  }
+]
+[ '남선알미늄', '일봉' ]
+1
+[ 'EE', 'Mh', 'se', 'hN' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 짜이밍 
+[35m⚡LoggerPlugin [39m: 조.련.사: 통과하고 폭풍성장
+[35m⚡LoggerPlugin [39m: LSH: 안물어봤아용 ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 나도 누나말고는 약간 편하게 해라 말아라 하긴 쪼오옴 ㅎㅎㅎㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: 허지은: 어어 냅둬 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ알아서 하시겠지
+[35m⚡LoggerPlugin [39m: LSH: 두산이도
+[35m⚡LoggerPlugin [39m: LSH: 밀리만큼만 되면 좋겠다 ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 근데 두산이가 밀리보다 약간 경쟁력은 떨어지긴해여 ㅠㅠ
+[35m⚡LoggerPlugin [39m: LSH: 규모자체는 두산이가 더크긴한데 
+[35m⚡LoggerPlugin [39m: 허지은: 밀리가 쫌 컷다잉 
+[35m⚡LoggerPlugin [39m: LSH: 저는 이번쥬
+[35m⚡LoggerPlugin [39m: LSH: 뭐시기코퍼레이션이랑
+[35m⚡LoggerPlugin [39m: LSH: 한싹도있아요
+[35m⚡LoggerPlugin [39m: 허지은: 오 다 잘됐음좋겠다
+[35m⚡LoggerPlugin [39m: 허지은: 두배두배!!
+[35m⚡LoggerPlugin [39m: LSH: 한싹인
+[35m⚡LoggerPlugin [39m: LSH: 세배 가야지!!!
+[35m⚡LoggerPlugin [39m: 허지은: 그래 뭔지 모르지만 세배가랏!
+[35m⚡LoggerPlugin [39m: 허지은: 집에만 있어?
+[35m⚡LoggerPlugin [39m: 허지은: 아님 돌아다니냐?
+[35m⚡LoggerPlugin [39m: LSH: 오늘은 집콕 어제는
+[35m⚡LoggerPlugin [39m: LSH: 슝슝
+[35m⚡LoggerPlugin [39m: LSH: 아 오늘은 7시에 
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: LSH: 나갑니다 
+[35m⚡LoggerPlugin [39m: LSH: 하하하
+[35m⚡LoggerPlugin [39m: 허지은: 좋아 나댕겨야해 
+[35m⚡LoggerPlugin [39m: LSH: 요즘
+[35m⚡LoggerPlugin [39m: LSH: 아침에 일찍일어나ㅡㄴ걸
+[35m⚡LoggerPlugin [39m: LSH: 목표로하니까
+[35m⚡LoggerPlugin [39m: LSH: 너무 지나치게 일찍자요
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ뭐든 좋은거임
+[35m⚡LoggerPlugin [39m: LSH: 10시 11시에 자서 4시쯤에 일어남
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 거의 2주됐습니다
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋ어?4시는 심한디
+[35m⚡LoggerPlugin [39m: 허지은: 와...
+[35m⚡LoggerPlugin [39m: LSH: 8시 30만되면 눈이 감기기 시작,,,,
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+3
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 53213, size: 12809 },
+  room: '오픈채팅봇',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ옛날허지은이군
+[35m⚡LoggerPlugin [39m: LSH: 오늘은 칭구들
+[35m⚡LoggerPlugin [39m: LSH: 케이티엑스 예매 해주느라고
+[35m⚡LoggerPlugin [39m: LSH: 3시30엔가 
+[35m⚡LoggerPlugin [39m: LSH: 일어남
+[35m⚡LoggerPlugin [39m: 임영주(林荣柱): 하...오늘 보유종목 중에 흠발만 홀로 음봉이네요
+[35m⚡LoggerPlugin [39m: LSH: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 제기 만든 슈퍼 취소표 예매 매크로 대기열을 1초만에 통괴시킵니당 
+[35m⚡LoggerPlugin [39m: 임영주(林荣柱): 독도처럼 홀로 꼿꼿
+[35m⚡LoggerPlugin [39m: 허지은: 와 도랏다
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ취소표 줍줍 한거임?
+[35m⚡LoggerPlugin [39m: LSH: 넹
+[35m⚡LoggerPlugin [39m: LSH: 4명 해줫어용
+[35m⚡LoggerPlugin [39m: LSH: 지영인
+[35m⚡LoggerPlugin [39m: LSH: 기 차 타고있겟구만
+[35m⚡LoggerPlugin [39m: 허지은: 어우 넌 대단도 하다
+[35m⚡LoggerPlugin [39m: 이지영: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: MJ: 기타치고있는데?
+[35m⚡LoggerPlugin [39m: LSH: 라임 개지렸다
+[35m⚡LoggerPlugin [39m: LSH: ㄷㄷ 
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㅋㅋㅇㅈ
+[35m⚡LoggerPlugin [39m: 이지영: 그냥 보낸건데
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㄴㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 샵검색: #리사 나체쇼
+[35m⚡LoggerPlugin [39m: 조.련.사: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 이건 연습영상
+[35m⚡LoggerPlugin [39m: 아딱: https://www.youtube.com/live/nJO1_7mjjfE?si=qrxo2aSmpnuWcBNG&t=451
+[35m⚡LoggerPlugin [39m: 아딱: @조.련.사  
+[35m⚡LoggerPlugin [39m: 아딱: 내가제일 좋아하는
+[35m⚡LoggerPlugin [39m: 아딱: 보수패널 구자룡변호사임
+[35m⚡LoggerPlugin [39m: 아딱: 얘나오면 진보 패널들
+[35m⚡LoggerPlugin [39m: 아딱: 말도못함
+[35m⚡LoggerPlugin [39m: 아딱: 반박불가
+[35m⚡LoggerPlugin [39m: 흐엉: 와 른데
+[35m⚡LoggerPlugin [39m: 흐엉: 리사 개지리긴한다
+[35m⚡LoggerPlugin [39m: 흐엉: 어떻게 저게 사람 비율이냐
+[35m⚡LoggerPlugin [39m: 흐엉: 도라리급이다
+[35m⚡LoggerPlugin [39m: 조.련.사: 힐빨힐빨
+[35m⚡LoggerPlugin [39m: 조.련.사: 쟤도 태생이 똥남아라
+[35m⚡LoggerPlugin [39m: 조.련.사: 서양애들이랑 비교하면
+[35m⚡LoggerPlugin [39m: 조.련.사: 똥내남
+[35m⚡LoggerPlugin [39m: 흰티마: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 현우: https://n.news.naver.com/article/293/0000047890
+[35m⚡LoggerPlugin [39m: 박재건: 개미꼬시기
+[35m⚡LoggerPlugin [39m: ㅎㅎ: ㅋㅋ
+[35m⚡LoggerPlugin [39m: ㅎㅎ: 포스코가 지금까지 관심없다고 말한기사만
+[35m⚡LoggerPlugin [39m: ㅎㅎ: 500개정도되는거같은데
+[35m⚡LoggerPlugin [39m: ㅎㅎ: 누가자꾸재점화래 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: ㄹㅇ ㅋㅋㄱ
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 블로터 기사는 신뢰해도 되는데
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 글구 실제로 해진공이
+포스코 졸라 들락거렷어요 계속
+[35m⚡LoggerPlugin [39m: 이: 포스코 가능성 있습니다
+[35m⚡LoggerPlugin [39m: 조현우: 포스코상선
+[35m⚡LoggerPlugin [39m: 조.련.사: 축구중계하다가
+[35m⚡LoggerPlugin [39m: 조.련.사: 수영 중계 레전드노
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 수영 금메달 ㅊㅋ
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 포스코가 가장 무거운걸 수출하니까 가장 필요하긴 하죠.
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 어디노
+[35m⚡LoggerPlugin [39m: 윤경민: HMM은 컨선위주라 포스코랑 관련이 없을텐데요
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 컨테이너에 뭐든 넣으면 안되까요?
+[35m⚡LoggerPlugin [39m: 윤경민: 안됩니다 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 윤영환: 안되여
+[35m⚡LoggerPlugin [39m: 윤영환: 보통 60톤넘으면작업안되는데
+[35m⚡LoggerPlugin [39m: 윤영환: 그걸로작업할바에는 철강자체를  코일로만들어서보내는게더 합리적입니다.
+[35m⚡LoggerPlugin [39m: 윤영환: 넣을순있는데 공간이너무아까워요
+[35m⚡LoggerPlugin [39m: 윤영환: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 윤영환: 벌크선은 공간안에이렇게 넣어서보내고
+[35m⚡LoggerPlugin [39m: 윤영환: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 윤영환: 컨선은요렇게생겨서안되요
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 우와~ 사진으로 알려주셔서 감사합니다
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 컨테이너에 넣으면 다 되는줄 알고. ㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 포스코 이차전지 원자재 수입도 컨테이너로 불가능할까요?
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 아르헨티나에서 가져오기?
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: ㅎㅇ
+[35m⚡LoggerPlugin [39m: 윤영환: 보니깐 온도유지위해 냉동컨테이너로 가져오네요
+[35m⚡LoggerPlugin [39m: INTJ-A 김영춘: 포스코가 가져가야 되는 이유가 만들어지는 셈인거죠?
+[35m⚡LoggerPlugin [39m: 윤경민: 그냥 운송비내고 배 쓰고말지
+그 비싼돈을 포스코가 선사를 매수할 이유가 없죠
+[35m⚡LoggerPlugin [39m: LSH: 아 맞다 소원아 
+[35m⚡LoggerPlugin [39m: LSH: 토익학원 추천좀요 ㅎㅎ 
+[35m⚡LoggerPlugin [39m: 황소원: 플래티넘??
+[35m⚡LoggerPlugin [39m: 황소원: 플래너??
+[35m⚡LoggerPlugin [39m: 황소원: 시내에 있는곳
+[35m⚡LoggerPlugin [39m: 황소원: 집근처다녀 걍
+[35m⚡LoggerPlugin [39m: LSH: 집근처에없어 
+[35m⚡LoggerPlugin [39m: LSH: ㅅㅂ
+[35m⚡LoggerPlugin [39m: LSH: 너 다녓던데 어딘뎅
+[35m⚡LoggerPlugin [39m: 황소원: 나는 이은식 ㄹㅎ
+[35m⚡LoggerPlugin [39m: 황소원: ㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 뭐야 ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 은식이형은
+[35m⚡LoggerPlugin [39m: LSH: 별로임?
+[35m⚡LoggerPlugin [39m: 황소원: 그냥 야매로 배우는게 훨나은듯
+[35m⚡LoggerPlugin [39m: 황소원: 이은식은진짜영어배우는느낌
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅋ 
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 박영종: https://n.news.naver.com/article/366/0000935902?cds=news_my
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 추석잘보내랑
+[35m⚡LoggerPlugin [39m: LSH: ㅎㄹ
+[35m⚡LoggerPlugin [39m: LSH: 애들앙 추석 잘보내
+[35m⚡LoggerPlugin [39m: MJ: 즐추~~
+[35m⚡LoggerPlugin [39m: 정주환: 즐추!!
+[35m⚡LoggerPlugin [39m: 정주환: 어제 원어민 강사가 송편 뭐라고 했었는데 
+[35m⚡LoggerPlugin [39m: 정주환: 순간 왜 추석에 송편을 말하지 싶었어욬ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이지영: 즐추
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: MJ: 세상에 찌들어서 송편을잊럿다
+[35m⚡LoggerPlugin [39m: 유민: 너둥~ 
+[35m⚡LoggerPlugin [39m: LSH: 추석연휴때
+[35m⚡LoggerPlugin [39m: LSH: 정모할사람 구함
+[35m⚡LoggerPlugin [39m: MJ: 애들 다 바쁠거같긴해
+[35m⚡LoggerPlugin [39m: LSH: ㅠ
+[35m⚡LoggerPlugin [39m: MJ: 집들이에서 만나는게빠를듯
+[35m⚡LoggerPlugin [39m: 김민성: 아
+[35m⚡LoggerPlugin [39m: 김민성: 시계 색깔 진짜
+[35m⚡LoggerPlugin [39m: 김민성: 반반이네
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: 걍 죽을까
+[35m⚡LoggerPlugin [39m: 최훈정/청남의료재단: 벌크선 구입하거나 용선합니다.^^
+[35m⚡LoggerPlugin [39m: 기석주: 진짜 어려움
+[35m⚡LoggerPlugin [39m: 기석주: 지금 물어보면
+[35m⚡LoggerPlugin [39m: 기석주: 검정이라할 듯
+[35m⚡LoggerPlugin [39m: 기석주: ㅁㅊ;;;
+[35m⚡LoggerPlugin [39m: 김민성: 죽을게 그냥
+[35m⚡LoggerPlugin [39m: LSH: 뭔데뭔데
+[35m⚡LoggerPlugin [39m: LSH: 애들아
+[35m⚡LoggerPlugin [39m: LSH: 전감 소고기 살땐 무조건
+[35m⚡LoggerPlugin [39m: LSH: 동그랗게 생긴놈으로 사라
+[35m⚡LoggerPlugin [39m: LSH: 네모난건 우둔살이라 약간질김
+[35m⚡LoggerPlugin [39m: LSH:  근데 동그란건 홍두깨살이라 ㅈㄴ 부드러움 
+[35m⚡LoggerPlugin [39m: LSH: 꿀팁 나눔했다
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 박민혁: 소고기사준다고?
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: @기석주  
+[35m⚡LoggerPlugin [39m: LSH: 좀 
+[35m⚡LoggerPlugin [39m: LSH: 일좀 도와라 민성아
+[35m⚡LoggerPlugin [39m: LSH: 어? 전좀ㅊ지져 가서
+[35m⚡LoggerPlugin [39m: LSH: 놀지만말고
+[35m⚡LoggerPlugin [39m: LSH: 잡채도 좀하고
+[35m⚡LoggerPlugin [39m: LSH: 애들아
+[35m⚡LoggerPlugin [39m: LSH:  혹시 소고기전 지지니?
+[35m⚡LoggerPlugin [39m: 김민성: 병@신아
+[35m⚡LoggerPlugin [39m: 김민성: 나 수원이야
+[35m⚡LoggerPlugin [39m: LSH: 아맞다 
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ~
+[35m⚡LoggerPlugin [39m: 김민성: @박민혁 가서 전 부치라~ 매형~
+[35m⚡LoggerPlugin [39m: LSH: 소원아 
+[35m⚡LoggerPlugin [39m: LSH: 소고기전 전감응
+[35m⚡LoggerPlugin [39m: LSH: 무조건 동그란걸로 사야해
+[35m⚡LoggerPlugin [39m: LSH: 알겠지,,,? 
+[35m⚡LoggerPlugin [39m: LSH: 네모난건 우둔살이라 좀 질겨 근데 동그란건 홍두깨살이라 부드러움
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 기석주: 으악
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+[35m⚡LoggerPlugin [39m: 정주환: 추석 당일에 올라갈 수도...
+[35m⚡LoggerPlugin [39m: 정주환: 육전 안 지졌는데 먹고 싶어요
+[35m⚡LoggerPlugin [39m: 황소원: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 참고할게 ㅎㅎ
+[35m⚡LoggerPlugin [39m: 황소원: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 황소원: 나랑 오빠야
+[35m⚡LoggerPlugin [39m: 황소원: 오빠한테인사해
+[35m⚡LoggerPlugin [39m: LSH: 재연이형 오랜만,,, ㅎㅇㅎㅇ
+[35m⚡LoggerPlugin [39m: LSH: 재연이형
+[35m⚡LoggerPlugin [39m: LSH: 홀쭉해진거봐 ㅜㅜ
+[35m⚡LoggerPlugin [39m: LSH: 오늘 책임지고 고기좀 많이먹여라 소원아
+[35m⚡LoggerPlugin [39m: 황소원: 알았어^^…
+[35m⚡LoggerPlugin [39m: LSH: ㅎㅎ,,,
+[35m⚡LoggerPlugin [39m: MJ: 난 안지져~
+[35m⚡LoggerPlugin [39m: 기요미: dxgi device hung 오류뜨는거
+[35m⚡LoggerPlugin [39m: 기요미: 혹시 해결방법 아는사람
+[35m⚡LoggerPlugin [39m: 기요미: 이거때문에 에이펙스를 못하고있어...
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 포맷하셈
+[35m⚡LoggerPlugin [39m: 기요미: 한지 얼마 안됐어
+[35m⚡LoggerPlugin [39m: 기요미: 윈도우11
+[35m⚡LoggerPlugin [39m: 기요미: 운지해
+[35m⚡LoggerPlugin [39m: 케이미넴: 그게문제가 아닐텐데?ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 윈10보다 11이 훨씬좋음
+[35m⚡LoggerPlugin [39m: LSH: 
+- jeljel.lumagbas@gmail.com
+[35m⚡LoggerPlugin [39m: 박민혁: @김민성 
+[35m⚡LoggerPlugin [39m: 박민혁: 몇시도착?
+[35m⚡LoggerPlugin [39m: LSH: 12시20분도착
+[35m⚡LoggerPlugin [39m: LSH: 은아니고 11시 1분도착이네 
+[35m⚡LoggerPlugin [39m: 황소원: 승학아 즐추 ㅎㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 너도 즐추~~~~~
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 위컴알: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 소원아 오늘 재오빵 바쁘시데?
+[35m⚡LoggerPlugin [39m: LSH: 오랜만에 황씨가문 배그 한사바리 조지고싶은데
+[35m⚡LoggerPlugin [39m: 황소원: ㅋㅋㅋㅋ ㅠㅠㅠ 원래 안그러는데
+[35m⚡LoggerPlugin [39m: 황소원: 쬠바쁨 
+[35m⚡LoggerPlugin [39m: 황소원: 여수와서 노는중이메
+[35m⚡LoggerPlugin [39m: LSH: 아 ㅜㅠ
+[35m⚡LoggerPlugin [39m: LSH: 이번 연휴눈 길다,,,
+[35m⚡LoggerPlugin [39m: LSH: 울집와서 잡채도 좀먹고 전도 좀먹어
+[35m⚡LoggerPlugin [39m: 황소원: 진짜 먹고싶다 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 오늘ㄱ?
+[35m⚡LoggerPlugin [39m: 김민성: @박민혁 
+[35m⚡LoggerPlugin [39m: 김민성: @박민혁 
+[35m⚡LoggerPlugin [39m: 김민성: [나를 멘션] @나얌 
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 기석주: 😭
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 스바아아아아
+[35m⚡LoggerPlugin [39m: 김민성: 흐흐
+[35m⚡LoggerPlugin [39m: 기석주: 오늘 광주 늦게 와
+[35m⚡LoggerPlugin [39m: 김민성: 샵검색: #야,야
+[35m⚡LoggerPlugin [39m: 박민혁: ㅎㅇㅎㅇ
+[35m⚡LoggerPlugin [39m: 김민성: ㅎㅇㅎㅇ
+[35m⚡LoggerPlugin [39m: 박민혁: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박민혁: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋ패작 아잉교
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 쑈! 끝은 없는거야
+[35m⚡LoggerPlugin [39m: 기석주: 오잉?
+[35m⚡LoggerPlugin [39m: 기석주: 아아
+[35m⚡LoggerPlugin [39m: 김민성: 아아?
+[35m⚡LoggerPlugin [39m: 기석주: 인터넷 와이라노
+[35m⚡LoggerPlugin [39m: 김민성: 아아
+[35m⚡LoggerPlugin [39m: 기석주: 집 자랑 좀 드가자
+[35m⚡LoggerPlugin [39m: 김민성: 롸져댓
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 김지희랑 차에서 노가리 까는중
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: 술ㄱ?
+[35m⚡LoggerPlugin [39m: 기석주: ㄱㄱㄱㄱㄱ
+[35m⚡LoggerPlugin [39m: 조.련.사: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 위컴알: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: ㄱㄱㄱㄱ
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+[35m⚡LoggerPlugin [39m: LSH: ㄹㅇ
+[35m⚡LoggerPlugin [39m: LSH: 개잡종
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 황소원: 헐 개귀여워
+[35m⚡LoggerPlugin [39m: 황소원: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 황소원: 나두여기똥강아지있어
+[35m⚡LoggerPlugin [39m: LSH: 왕
+[35m⚡LoggerPlugin [39m: LSH: 저건 진짜
+[35m⚡LoggerPlugin [39m: LSH: 똥깡아지다
+[35m⚡LoggerPlugin [39m: LSH: 근데 저놈은ㅊ진짜 개잡종
+[35m⚡LoggerPlugin [39m: LSH: 저거 몸통은 웰시코기던데
+[35m⚡LoggerPlugin [39m: LSH: 너무귀여운디?
+[35m⚡LoggerPlugin [39m: LSH: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 외할머니댁 ㄹㅇ 동물농장이다,,,
+[35m⚡LoggerPlugin [39m: LSH: 모르는 강아지랑 모르능 고양인데 그냥 맨날 오길래 밥준데
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 아니 얘는 그냥 짬스터인데?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 개뚱ㅋ둥해
+[35m⚡LoggerPlugin [39m: LSH: 강아지밥통에서 밥 뺏어먹더라 ㅋㅋㅋㅋ 개웃김 ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 벌은 유전인가 외할아버지도 벌들어와서 벌키우시네 ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 사진 3장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 올해 분봉이 많이나서 8개나 만들었데
+[35m⚡LoggerPlugin [39m: 황소원: 헐신기햐
+[35m⚡LoggerPlugin [39m: 황소원: 아니 저거만들어서 이제 모해??
+[35m⚡LoggerPlugin [39m: LSH: 가만히두면
+[35m⚡LoggerPlugin [39m: LSH: 일열심히해서
+[35m⚡LoggerPlugin [39m: LSH: 꿀 안에 잔뜩 모아놨겟디
+[35m⚡LoggerPlugin [39m: LSH: 10월 중순쯤에 꿀 따야지
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 이게 개웃김 꿀이랑 밤이랑 자동사냥임 ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 밤 익으면 저기 지붕에 떨어져서 굴러서 바닥으로 옴 ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박영호: @LSH 
+[35m⚡LoggerPlugin [39m: 박영호: ㅇㄷ
+[35m⚡LoggerPlugin [39m: LSH: 장성
+[35m⚡LoggerPlugin [39m: 박영호: 하
+[35m⚡LoggerPlugin [39m: LSH: 왜
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: 뭐하러 장성임?
+[35m⚡LoggerPlugin [39m: LSH: 외할머니댁인디?
+[35m⚡LoggerPlugin [39m: 기석주: 벌써 외가를 가?
+[35m⚡LoggerPlugin [39m: LSH: 닭잡아서 곧집감
+[35m⚡LoggerPlugin [39m: 기석주: 오오쉩
+[35m⚡LoggerPlugin [39m: 황소원: 미쳐ㅛ다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 오랜만에 사촌들이랑 어몽어스했는데
+[35m⚡LoggerPlugin [39m: 황소원: 진짜개존잼ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 하
+[35m⚡LoggerPlugin [39m: LSH: 황씨가문
+[35m⚡LoggerPlugin [39m: LSH: 귀하다
+[35m⚡LoggerPlugin [39m: 황소원: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 근데다들초보라서
+[35m⚡LoggerPlugin [39m: 황소원: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 잘키우고 다음에 같이 ㄱ
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 어몽시절
+[35m⚡LoggerPlugin [39m: LSH: 개그립다
+[35m⚡LoggerPlugin [39m: LSH: 진짜 개꿀잼이었는데
+[35m⚡LoggerPlugin [39m: 박영호: 석주 만남 방금
+[35m⚡LoggerPlugin [39m: 황소원: 야말도마
+[35m⚡LoggerPlugin [39m: 황소원: 진짜 오후9시에 시작해소
+[35m⚡LoggerPlugin [39m: 황소원: 오전 7시에 끝났었잖아
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 몇시에 옴?
+[35m⚡LoggerPlugin [39m: 황소원: 진짜 다들 시간많아서 존잼이엿는데
+[35m⚡LoggerPlugin [39m: LSH: 한 9시 10시쯤 가지않응까
+[35m⚡LoggerPlugin [39m: LSH: 근데 집가면 고모들 와있을텐데
+[35m⚡LoggerPlugin [39m: 기석주: 아하
+[35m⚡LoggerPlugin [39m: 기석주: 괜츊
+[35m⚡LoggerPlugin [39m: LSH: 그때 씹 T 감성이 진짜 너무 좋았어
+[35m⚡LoggerPlugin [39m: 박재건: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이ㅎ: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유지준: 담주 수요일 죽겟구만
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 뭐해 애들아
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+[35m⚡LoggerPlugin [39m: 기석주: 몇시발
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 몇시발
+[35m⚡LoggerPlugin [39m: 기석주: 몇시발
+[35m⚡LoggerPlugin [39m: 기석주: 언제올건데
+[35m⚡LoggerPlugin [39m: LSH: 터딘데
+[35m⚡LoggerPlugin [39m: LSH: 어딘데,;;;
+[35m⚡LoggerPlugin [39m: 김민성: ㄱ?
+[35m⚡LoggerPlugin [39m: 기석주: ㄱㄱㄱㄱㄱㄱㄱㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 집이지
+[35m⚡LoggerPlugin [39m: 기석주: 저녁먹고 술?
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 근데 나
+[35m⚡LoggerPlugin [39m: 김민성: 풋살 용병 끌려갈듯
+[35m⚡LoggerPlugin [39m: 기석주: 에엥
+[35m⚡LoggerPlugin [39m: 기석주: 어디요
+[35m⚡LoggerPlugin [39m: 기석주: 스바
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅋ가 아니라
+[35m⚡LoggerPlugin [39m: 기석주: 시발롬아
+[35m⚡LoggerPlugin [39m: 김민성: 비아중
+[35m⚡LoggerPlugin [39m: LSH: 왜 십ㅎㄹ럼아
+[35m⚡LoggerPlugin [39m: 기석주: 몇시요 스바
+[35m⚡LoggerPlugin [39m: 기석주: 축구 하루종일 합니까!!!!!
+[35m⚡LoggerPlugin [39m: 김민성: 7시
+[35m⚡LoggerPlugin [39m: 김민성: 8시쯤 끝나지 않을까
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: 나 풋살 끝나고 가능?
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 보고해라
+[35m⚡LoggerPlugin [39m: 기석주: 스발롬아~~~~~~~~~
+[35m⚡LoggerPlugin [39m: 김민성: 어디로갈까
+[35m⚡LoggerPlugin [39m: 김민성: 나 풋살용병 런침
+[35m⚡LoggerPlugin [39m: 김민성: 다행히 한명 구했대
+[35m⚡LoggerPlugin [39m: 박민혁: ㅇ???
+[35m⚡LoggerPlugin [39m: 박민혁: 민성이 전화했네
+[35m⚡LoggerPlugin [39m: 기석주: 오늘 뭐해~~
+[35m⚡LoggerPlugin [39m: 김민성: 우리둘이 ㄱ
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 박민혁: 오늘 영광에서 데이트하지
+[35m⚡LoggerPlugin [39m: 김민성: @LSH 뭐함
+[35m⚡LoggerPlugin [39m: 김민성: ㅋ.ㅋ
+[35m⚡LoggerPlugin [39m: 기석주: omg
+[35m⚡LoggerPlugin [39m: 기석주: 언제와
+[35m⚡LoggerPlugin [39m: 기석주: 안오나?
+[35m⚡LoggerPlugin [39m: 김민성: 나?
+[35m⚡LoggerPlugin [39m: 김민성: 언제 출발해
+[35m⚡LoggerPlugin [39m: 기석주: 지금 하면 묯시임?
+[35m⚡LoggerPlugin [39m: 기석주: 7시에 보려면
+[35m⚡LoggerPlugin [39m: 기석주: 지금 출발 맞음???
+[35m⚡LoggerPlugin [39m: 김민성: 오
+[35m⚡LoggerPlugin [39m: 김민성: 😮 
+[35m⚡LoggerPlugin [39m: 김민성: 너 충장로임?
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅇ근데 집 들려다오려고
+[35m⚡LoggerPlugin [39m: 기석주: 그럼 7시일듯
+[35m⚡LoggerPlugin [39m: 기석주: 7시가 빨라? 느려?
+[35m⚡LoggerPlugin [39m: 기석주: 느리면 집 안들리고
+[35m⚡LoggerPlugin [39m: 기석주: 빠르면 집 들렸다 시간 멎춰 올듯
+[35m⚡LoggerPlugin [39m: 기석주: 3분안에 결정 ㄱ
+[35m⚡LoggerPlugin [39m: 김민성: 집들려 ㄱㄱ
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅋㅇㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 시간은????
+[35m⚡LoggerPlugin [39m: 김민성: 7시반~ 8시?
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 트출발함ㅍ
+[35m⚡LoggerPlugin [39m: 기석주: ?
+[35m⚡LoggerPlugin [39m: 기석주: 김민성 바지 몇임?
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 미녁이 영광에서 몇시에 옴???
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: 나 30
+[35m⚡LoggerPlugin [39m: 김민성: 낼 온대 ㅋ.ㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 오마이
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 으디임 으디임
+[35m⚡LoggerPlugin [39m: 김민성: 곧 출발
+[35m⚡LoggerPlugin [39m: 기석주: 아니
+[35m⚡LoggerPlugin [39m: 기석주: 택시타고 옴?
+[35m⚡LoggerPlugin [39m: 김민성: 모름
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ?
+[35m⚡LoggerPlugin [39m: 김민성: 상황봐서
+[35m⚡LoggerPlugin [39m: 기석주: 7시반에 도탁할 수가 있어?
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅋ모르겠음
+[35m⚡LoggerPlugin [39m: 기석주: 뭔
+[35m⚡LoggerPlugin [39m: 김민성: 8시까지~~
+[35m⚡LoggerPlugin [39m: 기석주: 승학이같은 소리임?
+[35m⚡LoggerPlugin [39m: 김민성: ㅎㅎ
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 먼저 도착하면
+[35m⚡LoggerPlugin [39m: 기석주: 롤 한판 때리지뭐
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 기석주: 출발이요
+[35m⚡LoggerPlugin [39m: 김민성: 저도
+[35m⚡LoggerPlugin [39m: 김민성: 버스탐
+[35m⚡LoggerPlugin [39m: 김민성: 8시도착 예정 ㅎ.ㅎ
+[35m⚡LoggerPlugin [39m: 김민성: 금남로4가에서 내림되지?
+[35m⚡LoggerPlugin [39m: 기석주: 문화전당역
+[35m⚡LoggerPlugin [39m: 기석주: 이 더 가까울 듯
+[35m⚡LoggerPlugin [39m: 김민성: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 뭐먹지
+[35m⚡LoggerPlugin [39m: 김민성: 진짜
+[35m⚡LoggerPlugin [39m: 김민성: 쌈@뽕한거 없냐
+[35m⚡LoggerPlugin [39m: 김민성: 밥술
+[35m⚡LoggerPlugin [39m: 기석주: 피시방가서
+[35m⚡LoggerPlugin [39m: 기석주: 검색조지고 있어야겠다
+[35m⚡LoggerPlugin [39m: LSH: 나
+[35m⚡LoggerPlugin [39m: 기석주: 는 바로 롤
+[35m⚡LoggerPlugin [39m: LSH: 롤쳐하고잇엇는데
+[35m⚡LoggerPlugin [39m: LSH: 어디로
+[35m⚡LoggerPlugin [39m: 김민성: 오실?
+[35m⚡LoggerPlugin [39m: LSH: 가면되냐
+[35m⚡LoggerPlugin [39m: 기석주: 택시타고 와 시발럼아
+[35m⚡LoggerPlugin [39m: LSH: 근데 롤중인데
+[35m⚡LoggerPlugin [39m: 김민성: 문화전당역 ㄱㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 지도: 광주 동구 황금동 19-1
+[35m⚡LoggerPlugin [39m: LSH: 시발
+[35m⚡LoggerPlugin [39m: LSH: 탈주함
+[35m⚡LoggerPlugin [39m: LSH: ㅅㄱ
+[35m⚡LoggerPlugin [39m: 김민성: 닷지ㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 충장로 ㄱㄱㄱ
+[35m⚡LoggerPlugin [39m: 김민성: 굿
+[35m⚡LoggerPlugin [39m: LSH: 아 
+[35m⚡LoggerPlugin [39m: 기석주: ㅁㅊㄴ
+[35m⚡LoggerPlugin [39m: LSH: 좆같다
+[35m⚡LoggerPlugin [39m: LSH: 나 
+[35m⚡LoggerPlugin [39m: LSH: 실버갈거같아
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 천천히 와
+[35m⚡LoggerPlugin [39m: LSH: 롤 정신나갈거강아
+[35m⚡LoggerPlugin [39m: 김민성: 겜에
+[35m⚡LoggerPlugin [39m: 김민성: 인생걸었노?
+[35m⚡LoggerPlugin [39m: LSH: 하
+[35m⚡LoggerPlugin [39m: 기석주: 와서 민성이랑 듀오 좀 하자
+[35m⚡LoggerPlugin [39m: LSH: ㅜㅜ
+[35m⚡LoggerPlugin [39m: 기석주: 말이 심하네
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: ㄹㅇㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 게임 져서 슬퍼하는 데
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅁㅊ년~
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 올거임?
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 확실하게 말해줘라
+[35m⚡LoggerPlugin [39m: LSH: 닷지실패
+[35m⚡LoggerPlugin [39m: 김민성: ㅋ.ㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 님
+[35m⚡LoggerPlugin [39m: 김민성: 에어포스
+[35m⚡LoggerPlugin [39m: LSH: 8 30 가도됨?
+[35m⚡LoggerPlugin [39m: 김민성: 신어봄?
+[35m⚡LoggerPlugin [39m: 기석주: 노노
+[35m⚡LoggerPlugin [39m: 기석주: 지도: 광주 동구 황금동 85
+[35m⚡LoggerPlugin [39m: 김민성: 오우
+[35m⚡LoggerPlugin [39m: 김민성: 쫌따
+[35m⚡LoggerPlugin [39m: 김민성: 에비씨들려서
+[35m⚡LoggerPlugin [39m: 김민성: 사이즈만 신어봐야겠다
+[35m⚡LoggerPlugin [39m: 기석주: 굳
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 몇분 남암ㅅ노
+[35m⚡LoggerPlugin [39m: 김민성: 광주일고
+[35m⚡LoggerPlugin [39m: 김민성: 나
+[35m⚡LoggerPlugin [39m: 김민성: 문화전당역임
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 기석주: 그
+[35m⚡LoggerPlugin [39m: 기석주: 가는 중
+[35m⚡LoggerPlugin [39m: 기석주: 우체국에서 보자
+[35m⚡LoggerPlugin [39m: LSH: gd
+[35m⚡LoggerPlugin [39m: LSH: ㅎㅇ
+[35m⚡LoggerPlugin [39m: LSH: 어디로
+[35m⚡LoggerPlugin [39m: LSH: 가면되나요
+[35m⚡LoggerPlugin [39m: 김민성: 아니
+[35m⚡LoggerPlugin [39m: 김민성: 국아문이 더 가까워보이는데?
+[35m⚡LoggerPlugin [39m: 김민성: 국아문에서 내릴걸
+[35m⚡LoggerPlugin [39m: 기석주: 그게 그거임
+[35m⚡LoggerPlugin [39m: 기석주: 아니
+[35m⚡LoggerPlugin [39m: 기석주: 그람 신호에서 봐도 돼
+[35m⚡LoggerPlugin [39m: 기석주: 어디노 흐바
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 어디임?
+[35m⚡LoggerPlugin [39m: 김민성: 지도: 광주 동구 남동 185-34
+[35m⚡LoggerPlugin [39m: 기석주: 시발
+[35m⚡LoggerPlugin [39m: 기석주: 보이는거 뭔데
+[35m⚡LoggerPlugin [39m: 기석주: 말해봐 ㅅㅂ
+[35m⚡LoggerPlugin [39m: 김민성: 국아문안이야
+[35m⚡LoggerPlugin [39m: 김민성: 멀리 광주대성 보임
+[35m⚡LoggerPlugin [39m: 기석주: 아 ㅇㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 아 지도 보면 되는구나
+[35m⚡LoggerPlugin [39m: 기석주: 반대로 가는 것 같은데
+[35m⚡LoggerPlugin [39m: 기석주: 너
+[35m⚡LoggerPlugin [39m: 김민성: 아니
+[35m⚡LoggerPlugin [39m: 김민성: 님
+[35m⚡LoggerPlugin [39m: 기석주: 지도: 광주광역시 동구 문화전당로 38(광산동 113)
+[35m⚡LoggerPlugin [39m: 김민성: 통화중임?
+[35m⚡LoggerPlugin [39m: 기석주: 아ㄱㄷ
+[35m⚡LoggerPlugin [39m: 기석주: 보인다
+[35m⚡LoggerPlugin [39m: 기석주: 김민성
+[35m⚡LoggerPlugin [39m: 기석주: ㅂ~~~~ㅅ
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 유민아
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 예진이 번호 뭐였지
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 내가 귀찮아서 저장을 안해서,,,, 
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 물어볼거있는데 알랴줄수있겠니
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: @유민 
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 승학아
+[35m⚡LoggerPlugin [39m: 기석주: 하늘마당 찍고와~~
+[35m⚡LoggerPlugin [39m: LSH: 남은시간
+[35m⚡LoggerPlugin [39m: LSH: 10분 ㅣㅈㅅ혀있움
+[35m⚡LoggerPlugin [39m: 기석주: 우리 들어옴
+[35m⚡LoggerPlugin [39m: LSH: 버스트미널
+[35m⚡LoggerPlugin [39m: 기석주: 하늘마당 오면
+[35m⚡LoggerPlugin [39m: LSH: 이였네
+[35m⚡LoggerPlugin [39m: 기석주: 전화해
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #동명동 소야
+[35m⚡LoggerPlugin [39m: LSH: 신호등
+[35m⚡LoggerPlugin [39m: LSH: 앞
+[35m⚡LoggerPlugin [39m: 김민성: 사진 5장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 난 몰라 
+[35m⚡LoggerPlugin [39m: 김민성: 사진 6장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: ㅠ
+[35m⚡LoggerPlugin [39m: 유민: 아직도 연락 안대?
+[35m⚡LoggerPlugin [39m: LSH: 영호야
+[35m⚡LoggerPlugin [39m: LSH: 이새끼 여자친구생김
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박영호: 이미 인스타에서
+[35m⚡LoggerPlugin [39m: 박영호: 봄
+[35m⚡LoggerPlugin [39m: 김민성: 사진 8장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: ?
+[35m⚡LoggerPlugin [39m: LSH: 니가 어떻게아는데
+[35m⚡LoggerPlugin [39m: LSH: http://43.201.79.160/g3.php?id=WdgUmpkQMKXj&p=0
+[35m⚡LoggerPlugin [39m: LSH: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: @박영호 뭔데 아는데
+[35m⚡LoggerPlugin [39m: 김민성: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 아는척
+[35m⚡LoggerPlugin [39m: LSH: 지리네
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박영호: 머리 이쁘다
+[35m⚡LoggerPlugin [39m: LSH: 니가 어쩧게아냐고
+[35m⚡LoggerPlugin [39m: LSH: 아니 
+[35m⚡LoggerPlugin [39m: LSH: 대답해
+[35m⚡LoggerPlugin [39m: LSH: 박영호
+[35m⚡LoggerPlugin [39m: 박영호: 인스타
+[35m⚡LoggerPlugin [39m: 박영호: 댓글
+[35m⚡LoggerPlugin [39m: LSH: 아 하 
+[35m⚡LoggerPlugin [39m: LSH: 너 기석주 스토커구나?
+[35m⚡LoggerPlugin [39m: LSH: 인스타 염탐 지린다 ㄷㄷ
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 아니
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 아예 연락처가없움
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 저장을 안햌ㅅ움
+[35m⚡LoggerPlugin [39m: 유민: 카카오톡 프로필
+[35m⚡LoggerPlugin [39m: 유민: 나도 번호가 업는데
+[35m⚡LoggerPlugin [39m: 기석주: 강선민
+[35m⚡LoggerPlugin [39m: 기석주: ㅈㅇㅈ
+[35m⚡LoggerPlugin [39m: 김민성: ㅁㅊㄴ
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 메로나 잘 먹었어
+[35m⚡LoggerPlugin [39m: 기석주: 조심히 가~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 특히 이승학
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: ㄱㅅㅁ ㅈㅇㅈ ㄱㄷㅎ
+[35m⚡LoggerPlugin [39m: LSH: 레츠고~
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 고마엉
+[35m⚡LoggerPlugin [39m: 김민성: ㅁㅈㄹ
+[35m⚡LoggerPlugin [39m: 김민성: ㅈㄹㄴ
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅇㅈ ㅇㄷㅂ ㅅㅇ 
+[35m⚡LoggerPlugin [39m: LSH: 레츠고~
+[35m⚡LoggerPlugin [39m: 김민성: ㄹㅇㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 lets get em~~~
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 잘 들어갔노
+[35m⚡LoggerPlugin [39m: 기석주: 쉐끼야~~~~
+[35m⚡LoggerPlugin [39m: 김민성: 엘베~^^
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 10분정도
+[35m⚡LoggerPlugin [39m: 기석주: 남았겠다
+[35m⚡LoggerPlugin [39m: 기석주: 이승학
+[35m⚡LoggerPlugin [39m: 김민성: 사진ㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 이승학 동영상 ㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 실화임?
+[35m⚡LoggerPlugin [39m: 기석주: 다시 다운받아겠다
+[35m⚡LoggerPlugin [39m: 김민성: ㅣㄱㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 기석주: 내가 찍은 것도 있구나
+[35m⚡LoggerPlugin [39m: 기석주: 잠깐만
+[35m⚡LoggerPlugin [39m: 기석주: 엥
+[35m⚡LoggerPlugin [39m: 기석주: 풀와이파이에서 다운받아도 이러네?
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 드가자~~~~
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅂㄱㄱㅂㅂ씹
+[35m⚡LoggerPlugin [39m: 기석주: 사진 21장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 도착이요~~~~~~
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 이승학 전화안받네
+[35m⚡LoggerPlugin [39m: 기석주: 열받게~~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 기석주 픽 베스트 샷
+[35m⚡LoggerPlugin [39m: 기석주: 맨유
+[35m⚡LoggerPlugin [39m: 기석주: 10위요~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㄱㅋㅋㅋㄱㅋ siuuuuuu
+[35m⚡LoggerPlugin [39m: 기석주: siuuuu
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 몇시에 자냐~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 빨리 자라~~~~
+[35m⚡LoggerPlugin [39m: 김민성: 사진 8장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: ㅁㅊㄴ들이네~~~
+[35m⚡LoggerPlugin [39m: LSH: 킹트넘 갓스피
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+[35m⚡LoggerPlugin [39m: 김민성: 아
+[35m⚡LoggerPlugin [39m: 김민성: 대가리아퍼ㅡ
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: 기석주 win
+[35m⚡LoggerPlugin [39m: 기석주: 나도오
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 사진 보내라 10새야
+[35m⚡LoggerPlugin [39m: 기석주: 드ㅏ자
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 캬
+[35m⚡LoggerPlugin [39m: 김민성: 내 최애
+[35m⚡LoggerPlugin [39m: 김민성: 바다처럼
+[35m⚡LoggerPlugin [39m: 김민성: 야,야랑 점심시간도 좋음
+[35m⚡LoggerPlugin [39m: 기석주: 풀 스트리밍 가야지
+[35m⚡LoggerPlugin [39m: 김민성: 굿
+[35m⚡LoggerPlugin [39m: LSH: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 사진 12장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 동영상을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 존나 좋구요
+[35m⚡LoggerPlugin [39m: 김민성: 기석주
+[35m⚡LoggerPlugin [39m: 김민성: 개씹만취 컨셉임?
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 예?
+[35m⚡LoggerPlugin [39m: 김민성: 나랑 찍은거
+[35m⚡LoggerPlugin [39m: 김민성: 다 에헤라디에네
+[35m⚡LoggerPlugin [39m: 기석주: 그른가
+[35m⚡LoggerPlugin [39m: 김민성: 흐흐
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: 아직도 침대다
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 아 김지희침대 개편하다~~~  @박민혁 
+[35m⚡LoggerPlugin [39m: LSH: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 누나한테 쳐맞겠네
+[35m⚡LoggerPlugin [39m: LSH: 저 인향 탐난다
+[35m⚡LoggerPlugin [39m: 김민성: 무민
+[35m⚡LoggerPlugin [39m: 박민혁: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박민혁: 골라~~
+[35m⚡LoggerPlugin [39m: 박민혁: 헛깨파워로 간다
+[35m⚡LoggerPlugin [39m: 김민성: 하
+[35m⚡LoggerPlugin [39m: 김민성: 사랑합니다
+[35m⚡LoggerPlugin [39m: 김민성: 깨수깡ㄱㄱ
+[35m⚡LoggerPlugin [39m: 김민성: 저거 맛있는데
+[35m⚡LoggerPlugin [39m: 김민성: 이미 결제했음 ㄱㅊㄱㅊ
+[35m⚡LoggerPlugin [39m: 기석주: @박민혁 방미녁
+[35m⚡LoggerPlugin [39m: 기석주: @박민혁 나 여자친구 사귐
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㄹㅇ
+[35m⚡LoggerPlugin [39m: 기석주: 뭔 갠톡이여
+[35m⚡LoggerPlugin [39m: 기석주: 단톡이 편안하다~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 크크크크크크크크크
+[35m⚡LoggerPlugin [39m: 박민혁: 나오셈
+[35m⚡LoggerPlugin [39m: 박민혁: ????
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 넌 나가라~~~~~
+[35m⚡LoggerPlugin [39m: 박민혁: 학교사람?
+[35m⚡LoggerPlugin [39m: 기석주: 응응
+[35m⚡LoggerPlugin [39m: 기석주: 안지는 한 달인데
+[35m⚡LoggerPlugin [39m: 박민혁: 소혜랑 밥먹은 둘즁한명?
+[35m⚡LoggerPlugin [39m: 기석주: 사귄지는 얼마 안됐어
+[35m⚡LoggerPlugin [39m: 기석주: 오 맞아
+[35m⚡LoggerPlugin [39m: 박민혁: 옹ㅎ
+[35m⚡LoggerPlugin [39m: 기석주: 어제 민성이랑 승학이한테
+[35m⚡LoggerPlugin [39m: 기석주: 말했걸랑
+[35m⚡LoggerPlugin [39m: LSH: 매형이 좋네
+[35m⚡LoggerPlugin [39m: LSH: 저런것도 사주고
+[35m⚡LoggerPlugin [39m: 기석주: 스바아
+[35m⚡LoggerPlugin [39m: 기석주: 숙취야~~~
+[35m⚡LoggerPlugin [39m: 김민성: 아유
+[35m⚡LoggerPlugin [39m: 김민성: 감사합니다 헛개파워 ㅎ.ㅎ
+[35m⚡LoggerPlugin [39m: 김민성: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: ㅇ숙취가 뭐냐?
+[35m⚡LoggerPlugin [39m: LSH: ㅉㅉ 술찌들
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 기석주: 술 먹고싶다
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김민성: ㄴㅇㅈ...
+[35m⚡LoggerPlugin [39m: 김민성: 다시는
+[35m⚡LoggerPlugin [39m: 김민성: 기석주랑
+[35m⚡LoggerPlugin [39m: 김민성: 술 안마셔
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ……….
+[35m⚡LoggerPlugin [39m: 기석주: @LSH 
+[35m⚡LoggerPlugin [39m: 기석주: 해명 좀
+[35m⚡LoggerPlugin [39m: LSH: 걍 김민성이
+[35m⚡LoggerPlugin [39m: LSH: 병싱임
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 기쎅주 멕이고 안먹으면되는디
+[35m⚡LoggerPlugin [39m: 기석주: 악뮤 이찬혁
+[35m⚡LoggerPlugin [39m: LSH: ㅈㄹ ㄴ
+[35m⚡LoggerPlugin [39m: 기석주: 그니까
+[35m⚡LoggerPlugin [39m: 기석주: 악뮤 이찬혁 스타일
+[35m⚡LoggerPlugin [39m: 기석주: 어떻노
+[35m⚡LoggerPlugin [39m: LSH: 날 좋으니까 
+[35m⚡LoggerPlugin [39m: LSH: 커튼 걷어라
+[35m⚡LoggerPlugin [39m: 김민성: 와
+[35m⚡LoggerPlugin [39m: 김민성: 잘싱깄노
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 기석주의 광기에 전염되신건가
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 니네가 먼저 팔러우 했잖아아
+[35m⚡LoggerPlugin [39m: 김민성: ㅇㅈㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 근데 약간 승이
+[35m⚡LoggerPlugin [39m: 기석주: 대문자 E야
+[35m⚡LoggerPlugin [39m: 김민성: 그래보임ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 😂 
+[35m⚡LoggerPlugin [39m: 기석주: 소혜랑 밥 먹었었음
+[35m⚡LoggerPlugin [39m: 김민성: 😮 
+[35m⚡LoggerPlugin [39m: 박민혁: 이름이 승희?
+[35m⚡LoggerPlugin [39m: 박민혁: 승이?
+[35m⚡LoggerPlugin [39m: 기석주: 승이
+[35m⚡LoggerPlugin [39m: 기석주: 김승이 입니다
+[35m⚡LoggerPlugin [39m: 김민성: 캬
+[35m⚡LoggerPlugin [39m: 기석주: 지도: 전라남도 담양군 대전면 추성로 571(대전면 성산리 308-38)
+[35m⚡LoggerPlugin [39m: 기석주: 갈비 잘 먹고갑니다~
+[35m⚡LoggerPlugin [39m: 김민성: 와 씹
+[35m⚡LoggerPlugin [39m: 기석주: 와이
+[35m⚡LoggerPlugin [39m: 김민성: 맛있겠다
+ .
+[35m⚡LoggerPlugin [39m: 기석주: 꿀꿀갈비
+[35m⚡LoggerPlugin [39m: 기석주: 달달허히 맛있네
+[35m⚡LoggerPlugin [39m: 기석주: 근데
+[35m⚡LoggerPlugin [39m: 기석주: 어제 소야가 ㄹㅇ 맛있었음
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: !
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+[35m⚡LoggerPlugin [39m: 김민성: 개
+[35m⚡LoggerPlugin [39m: 김민성: 씨
+[35m⚡LoggerPlugin [39m: 김민성: 인정이요잉~
+[35m⚡LoggerPlugin [39m: LSH: 인정이요~~~
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 축구가야지
+[35m⚡LoggerPlugin [39m: 기석주: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 기석주: 성빈이 만났다했지
+[35m⚡LoggerPlugin [39m: 기석주: 존잘이네 스바
+[35m⚡LoggerPlugin [39m: 김민성: 기만하네;
+[35m⚡LoggerPlugin [39m: 박민혁: 축구 어제아니였음?
+[35m⚡LoggerPlugin [39m: 기석주: 이유냉은 어제도 헸데
+[35m⚡LoggerPlugin [39m: 김민성: 맞어
+[35m⚡LoggerPlugin [39m: 김민성: 비아중
+[35m⚡LoggerPlugin [39m: 박민혁: ㅇㅎㅇㅎ
+[35m⚡LoggerPlugin [39m: 기석주: 술 맛있냐
+[35m⚡LoggerPlugin [39m: 기석주: 민성이 스발롬아
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋ안먹는중
+[35m⚡LoggerPlugin [39m: 김민성: 오늘은 걍 빠꾸
+[35m⚡LoggerPlugin [39m: 기석주: 아니 근데 여기 이름 무ㅏ엠
+[35m⚡LoggerPlugin [39m: 기석주: 김치국수
+[35m⚡LoggerPlugin [39m: 기석주: 존나 맛도린데?
+[35m⚡LoggerPlugin [39m: 김민성: 짬뽕임
+[35m⚡LoggerPlugin [39m: 김민성: 진시황
+[35m⚡LoggerPlugin [39m: 김민성: 개씹존맛탱
+[35m⚡LoggerPlugin [39m: 김민성: 가성비 지림
+[35m⚡LoggerPlugin [39m: 기석주: 짬뽕에 소주 질ㄴ다
+[35m⚡LoggerPlugin [39m: 기석주: ㅣ지린다 기바ㅣ시발
+[35m⚡LoggerPlugin [39m: 김민성: 고추잡채,깐쇼새우,찹쌀 탕수육
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 53213, size: 12814 },
+  room: '오픈채팅봇',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 김민성: 샵검색: #colors 설
+[35m⚡LoggerPlugin [39m: 김민성: 연휴 끝나가는 느낌 @기석주 
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+1
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 53213, size: 12809 },
+  room: '오픈채팅봇',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 흰티마: 사는거 존나 재미없네
+[35m⚡LoggerPlugin [39m: 박영호: 너가 관심이 없는거임
+[35m⚡LoggerPlugin [39m: 아딱: ?
+[35m⚡LoggerPlugin [39m: 아딱: 게이ㅁ을 하는게
+[35m⚡LoggerPlugin [39m: 아딱: 어때
+[35m⚡LoggerPlugin [39m: 아딱: 매일매일 할게있으니깐 
+[35m⚡LoggerPlugin [39m: 아딱: 재밌는데난
+[35m⚡LoggerPlugin [39m: 흰티마: 하고싶어도 못 한다 씨발
+[35m⚡LoggerPlugin [39m: 조.련.사: 마누라있고
+[35m⚡LoggerPlugin [39m: 조.련.사: 집있고
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜 심심하냐아
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜 재미없냐아
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/055/0001093982?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: 70대 중년
+[35m⚡LoggerPlugin [39m: 조.련.사: 급발진주장
+[35m⚡LoggerPlugin [39m: 조.련.사: 음...끄덕끄덕;
+[35m⚡LoggerPlugin [39m: 흰티마: 엄
+[35m⚡LoggerPlugin [39m: 흰티마: 엄
+[35m⚡LoggerPlugin [39m: 흰티마: 엄
+[35m⚡LoggerPlugin [39m: 흰티마: 엄
+[35m⚡LoggerPlugin [39m: 조.련.사: 엄?
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/001/0014232339?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: 와씨
+[35m⚡LoggerPlugin [39m: 조.련.사: 우르르
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/056/0011575419?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: 미친놈들이
+[35m⚡LoggerPlugin [39m: 조.련.사: 세상 살기좋아지니
+[35m⚡LoggerPlugin [39m: 조.련.사: 여기저기나오노
+[35m⚡LoggerPlugin [39m: LSH: 민성아
+[35m⚡LoggerPlugin [39m: LSH: 첨단 맛집 추천점
+[35m⚡LoggerPlugin [39m: 기석주: 시발
+[35m⚡LoggerPlugin [39m: 기석주: 돌려내
+[35m⚡LoggerPlugin [39m: 기석주: 내 연휴 내 주말
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 장르?
+[35m⚡LoggerPlugin [39m: 김민성: 아니 종류
+[35m⚡LoggerPlugin [39m: 흐엉: 왜 재미가없딘
+[35m⚡LoggerPlugin [39m: 기석주: 첨단 그냥
+[35m⚡LoggerPlugin [39m: 흐엉: 애가업ㄱ어거
+[35m⚡LoggerPlugin [39m: 흐엉: 그래
+[35m⚡LoggerPlugin [39m: 기석주: 새로 생긴데서
+[35m⚡LoggerPlugin [39m: 흐엉: 애를 빨리 낳아
+[35m⚡LoggerPlugin [39m: 흐엉: 하루하루가 행복해
+[35m⚡LoggerPlugin [39m: 기석주: 아무데나 들어가면 됨
+[35m⚡LoggerPlugin [39m: 흐엉: 나처럼
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅇㅈ
+[35m⚡LoggerPlugin [39m: 기석주: 새로 생겨서 많이 못가봄…..
+[35m⚡LoggerPlugin [39m: LSH: ㄴㅋ
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 근데 근본은 1동이긴해
+[35m⚡LoggerPlugin [39m: 기석주: 부딪히면서 익힐 수 밖에 없다
+[35m⚡LoggerPlugin [39m: 기석주: 시바 올라갑니자~~~
+[35m⚡LoggerPlugin [39m: 김민성: 아
+[35m⚡LoggerPlugin [39m: 김민성: 차
+[35m⚡LoggerPlugin [39m: 김민성: 존내게막혀
+[35m⚡LoggerPlugin [39m: 김민성: 역시
+[35m⚡LoggerPlugin [39m: 김민성: 고속도로위는
+[35m⚡LoggerPlugin [39m: 김민성: 오아이스가 짱이다
+[35m⚡LoggerPlugin [39m: 김민성: 모르면 외워 @기석주 
+[35m⚡LoggerPlugin [39m: 기석주: 가는 중?
+[35m⚡LoggerPlugin [39m: 김민성: 밤고속도로는 Oasis
+[35m⚡LoggerPlugin [39m: 김민성: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 김민성: 3시에 버스탔는데
+[35m⚡LoggerPlugin [39m: 기석주: 가면 간다고
+[35m⚡LoggerPlugin [39m: 김민성: 아직도 경기도 못뚫음
+[35m⚡LoggerPlugin [39m: 기석주: 연락을 해야~~~지
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅎ
+[35m⚡LoggerPlugin [39m: 기석주: 에바네
+[35m⚡LoggerPlugin [39m: 김민성: 하 배터리 30퍼
+[35m⚡LoggerPlugin [39m: 기석주: 근데 버스는 빠르던데
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 기석주: 전용도로로 가니까
+[35m⚡LoggerPlugin [39m: 김민성: 지도: 충남 천안시 동남구 풍세면 보성리 267
+[35m⚡LoggerPlugin [39m: 김민성: 그거있어도 의미없던데
+[35m⚡LoggerPlugin [39m: 김민성: 띄엄띄엄 있어서
+[35m⚡LoggerPlugin [39m: 기석주: 아하
+[35m⚡LoggerPlugin [39m: 기석주: 근데 올때는 기차였음?
+[35m⚡LoggerPlugin [39m: 김민성: ㅇㅇ승학이가 뚫어준거
+[35m⚡LoggerPlugin [39m: 기석주: 사진 2장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 근데 다른 노래도
+[35m⚡LoggerPlugin [39m: 기석주: 이런 느낌같기도하거
+[35m⚡LoggerPlugin [39m: 기석주: 근데 그 다섯 좋더라
+[35m⚡LoggerPlugin [39m: 기석주: 진짜 혁오 느낌이라는거 알겠더라
+[35m⚡LoggerPlugin [39m: 김민성: 라이브로 들으면
+[35m⚡LoggerPlugin [39m: LSH: 아니 민성아
+[35m⚡LoggerPlugin [39m: 김민성: 개지림
+[35m⚡LoggerPlugin [39m: LSH: 갈때도
+[35m⚡LoggerPlugin [39m: LSH: 해준다니까
+[35m⚡LoggerPlugin [39m: 기석주: 살짝 보급형 혁오인줄
+[35m⚡LoggerPlugin [39m: LSH: 왜 거절해 ㅠ
+[35m⚡LoggerPlugin [39m: 김민성: 전대축제에서 다섯 라이브듣고
+[35m⚡LoggerPlugin [39m: 김민성: 와
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 기석주: 그런거구나
+[35m⚡LoggerPlugin [39m: LSH: 아니 근데 니들믿고
+[35m⚡LoggerPlugin [39m: 김민성: 눙물나올뻔
+[35m⚡LoggerPlugin [39m: LSH: 아무도없는
+[35m⚡LoggerPlugin [39m: LSH: 새로생긴거같은데
+[35m⚡LoggerPlugin [39m: LSH: 왔어
+[35m⚡LoggerPlugin [39m: 김민성: 이름 뭐임
+[35m⚡LoggerPlugin [39m: 기석주: 좋아
+[35m⚡LoggerPlugin [39m: LSH: 굽소인가
+[35m⚡LoggerPlugin [39m: LSH: 이름모르겟어
+[35m⚡LoggerPlugin [39m: LSH: 맙소(
+[35m⚡LoggerPlugin [39m: LSH: 맵소?
+[35m⚡LoggerPlugin [39m: LSH: 막소?
+[35m⚡LoggerPlugin [39m: 기석주: 굽소
+[35m⚡LoggerPlugin [39m: 김민성: 🤔 
+[35m⚡LoggerPlugin [39m: 김민성: 맛있겠지 뭐
+[35m⚡LoggerPlugin [39m: 기석주: 엮던 걱 같느눋
+[35m⚡LoggerPlugin [39m: 기석주: 같는 데
+[35m⚡LoggerPlugin [39m: LSH: 지도: 광주광역시 광산구 임방울대로826번길 60-2(월계동 882-5)
+[35m⚡LoggerPlugin [39m: LSH: 더멕소
+[35m⚡LoggerPlugin [39m: 흰티마: 저새끼는 내가 애 있는줄도 모르네
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #더멕소
+[35m⚡LoggerPlugin [39m: LSH: ㅈㄹ ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 아니 너가 잘못침 듯
+[35m⚡LoggerPlugin [39m: 기석주: 안나와
+[35m⚡LoggerPlugin [39m: 기석주: 아 역시
+[35m⚡LoggerPlugin [39m: 기석주: 노래는 김민성이 맞다
+[35m⚡LoggerPlugin [39m: 기석주: 시발!!!!!!
+[35m⚡LoggerPlugin [39m: LSH: [네이버 지도]
+더맥소 첨단점
+광주 광산구 임방울대로826번길 60-2
+https://naver.me/FQRhx5kK
+[35m⚡LoggerPlugin [39m: 기석주: 대형스크린 합격
+[35m⚡LoggerPlugin [39m: 기석주: 민진이랑 갔어?
+[35m⚡LoggerPlugin [39m: LSH: 아니 여자친구랑
+[35m⚡LoggerPlugin [39m: LSH: ㅠㅠ
+[35m⚡LoggerPlugin [39m: LSH: 하 호
+[35m⚡LoggerPlugin [39m: 기석주: 그 누나????
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 기석주: 어우 저 병신
+[35m⚡LoggerPlugin [39m: 기석주: 말 ㅈ같이 하는건 알아줘야함
+[35m⚡LoggerPlugin [39m: 김민성: 어허~
+[35m⚡LoggerPlugin [39m: 기석주: 차단 박고
+[35m⚡LoggerPlugin [39m: 기석주: 나가겠습니다~~~
+[35m⚡LoggerPlugin [39m: 김민성: 흐흐
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: ㅁㅊ놈인가^
+[35m⚡LoggerPlugin [39m: 기석주: 승학아
+[35m⚡LoggerPlugin [39m: 기석주: 축하한다!
+[35m⚡LoggerPlugin [39m: 김민성: 우리 함께 실시간으로 음악을 골라 들어봐요.
+
+https://spotify.link/YJHhd1vczDb
+[35m⚡LoggerPlugin [39m: 황소원: 전달: 전달: 제목없음
+https://m.blog.naver.com/jlsdb/223224576148
+
+
+안녕하세요 어머니~ 예인이 추석 비디오 정말 멋지더군요 ㅠㅠ 비디오는 블로그에 올려놨으니 좋아요와 댓글 부탁드립니다. 이 비디오를 친구와 가족과 공유해 주시고 좋아요 댓글도 많으면 많을수록 예인이에게 상품이 주어질수있는 기회가 있으니 꼭 공유해주세요!! 행복한 추석 보내세요! :)
+[35m⚡LoggerPlugin [39m: 김민성: 오 이게 뭐임
+[35m⚡LoggerPlugin [39m: 김민성: 잼
+[35m⚡LoggerPlugin [39m: 기석주: 얼라라
+[35m⚡LoggerPlugin [39m: 황소원: 여기에 좋아요랑 선플좀 ㅎㅎ
+[35m⚡LoggerPlugin [39m: 기석주: 스포티파이가 없네요….?
+[35m⚡LoggerPlugin [39m: 김민성: 너 뭐씀?
+[35m⚡LoggerPlugin [39m: 김민성: 노래
+[35m⚡LoggerPlugin [39m: LSH: 이게뭔데
+[35m⚡LoggerPlugin [39m: 기석주: 애플뮤직 습니다
+[35m⚡LoggerPlugin [39m: 김민성: 애플뮤직
+[35m⚡LoggerPlugin [39m: 김민성: 개
+[35m⚡LoggerPlugin [39m: 김민성: 창룔아잉교?
+[35m⚡LoggerPlugin [39m: 김민성: 아닌가
+[35m⚡LoggerPlugin [39m: 기석주: 잘 쓰명 좋는 데
+[35m⚡LoggerPlugin [39m: 김민성: 다희가 맨날 욕하던데
+[35m⚡LoggerPlugin [39m: 기석주: 나는 살짝 다양하게 못씀
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 가사가 안나오는게 단점이고
+[35m⚡LoggerPlugin [39m: 김민성: 후..
+[35m⚡LoggerPlugin [39m: 기석주: 그 외국 라디오? 들을 수 일는 게 좋아
+[35m⚡LoggerPlugin [39m: 기석주: 근데 멜론처럼 막힌 노래 없는 게 장점이고
+[35m⚡LoggerPlugin [39m: 김민성: 😮 
+[35m⚡LoggerPlugin [39m: 기석주: 저번에 봤던게
+[35m⚡LoggerPlugin [39m: 기석주: 빌리아일리시가 DJ인 라디오 들을 수 있는 느낌이었는 데
+[35m⚡LoggerPlugin [39m: 기석주: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 근데 좀 듣는데
+[35m⚡LoggerPlugin [39m: 김민성: 그건 쫌 부럽네
+[35m⚡LoggerPlugin [39m: 기석주: 영어가 귀에 안들어와서 못들음
+[35m⚡LoggerPlugin [39m: 기석주: 그냥 소음임 ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ개손해 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김민성: 카더가든임?
+[35m⚡LoggerPlugin [39m: 김민성: 듣고있는 노래
+[35m⚡LoggerPlugin [39m: 기석주: 얍얍
+[35m⚡LoggerPlugin [39m: 김민성: 오
+[35m⚡LoggerPlugin [39m: 김민성: ㅋㅋㅋㅋㅋㅋ소음 ㅇㅈㄹ
+[35m⚡LoggerPlugin [39m: 기석주: 나 카더가든 좋아함
+[35m⚡LoggerPlugin [39m: 김민성: 나도
+[35m⚡LoggerPlugin [39m: 기석주: 이번에 하모니도
+[35m⚡LoggerPlugin [39m: 김민성: 난 라이브로 들음 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: 야무지게 들음
+[35m⚡LoggerPlugin [39m: 김민성: 카더가든 지리는게
+[35m⚡LoggerPlugin [39m: 김민성: 이색기
+[35m⚡LoggerPlugin [39m: 기석주: 하아~~~~~~~10년~~~~~~
+[35m⚡LoggerPlugin [39m: 김민성: 인디발라드도
+[35m⚡LoggerPlugin [39m: 김민성: 잘하는데
+[35m⚡LoggerPlugin [39m: 김민성: 락도 잘함
+[35m⚡LoggerPlugin [39m: 기석주: 약간 락사운즈
+[35m⚡LoggerPlugin [39m: 김민성: 미친놈임
+[35m⚡LoggerPlugin [39m: 기석주: 알지알지
+[35m⚡LoggerPlugin [39m: 김민성: 샹@너메것
+[35m⚡LoggerPlugin [39m: 기석주: 약간 담배 존나 핀 목소리로 부르는 게
+[35m⚡LoggerPlugin [39m: 기석주: 약간 매력적이야
+[35m⚡LoggerPlugin [39m: 김민성: 오
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김민성: 부쉬윅?
+[35m⚡LoggerPlugin [39m: 김민성: 그거
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 황소원: 빨리해줘
+[35m⚡LoggerPlugin [39m: 김민성: 라이브들었는데
+[35m⚡LoggerPlugin [39m: 기석주: 부쉬윅 좋지
+[35m⚡LoggerPlugin [39m: 김민성: 진짜 쌌다 베이베
+[35m⚡LoggerPlugin [39m: 기석주: 와……..
+[35m⚡LoggerPlugin [39m: 기석주: 십년
+[35m⚡LoggerPlugin [39m: 김민성: 락버전
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 김민성: 흐흐
+[35m⚡LoggerPlugin [39m: 기석주: 욕 그만해야되는 데
+[35m⚡LoggerPlugin [39m: 김민성: 아
+[35m⚡LoggerPlugin [39m: 김민성: 욕 그만할게
+[35m⚡LoggerPlugin [39m: 김민성: 근데
+[35m⚡LoggerPlugin [39m: 김민성: 노래 얘기만 나오면
+[35m⚡LoggerPlugin [39m: 기석주: 왜왜
+[35m⚡LoggerPlugin [39m: 김민성: 멈추지 못해
+[35m⚡LoggerPlugin [39m: 기석주: 욕 왜 안하노
+[35m⚡LoggerPlugin [39m: 기석주: 시발럼아~~~~~~~~
+[35m⚡LoggerPlugin [39m: 김민성: 이쁜말 써야지~^
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋᄏᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ ᄏᄏᄏ
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 김민성: 10련
+[35m⚡LoggerPlugin [39m: LSH: 미안해
+[35m⚡LoggerPlugin [39m: LSH: 세발럼아
+[35m⚡LoggerPlugin [39m: LSH: 여자친구였음 좋겠다였어,,,
+[35m⚡LoggerPlugin [39m: LSH: 중학교 친구랑 왔움,,,
+[35m⚡LoggerPlugin [39m: LSH: 선플은 모르겠고
+[35m⚡LoggerPlugin [39m: LSH: 좋아요는
+[35m⚡LoggerPlugin [39m: LSH:  눌렀엉
+[35m⚡LoggerPlugin [39m: LSH: 사촌동생이야? 
+[35m⚡LoggerPlugin [39m: LSH: 아님 삼촌이 운영하시는 학원이니,,,?
+[35m⚡LoggerPlugin [39m: 흐엉: 미앙해
+[35m⚡LoggerPlugin [39m: 흐엉: ㅜㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 그런거 까지 알아야해?
+[35m⚡LoggerPlugin [39m: 흰티마: 아니 몰라도됨
+[35m⚡LoggerPlugin [39m: 흰티마: 내가 뒤지든 말든 니 알빠노
+[35m⚡LoggerPlugin [39m: 흐엉: 미안,,,
+[35m⚡LoggerPlugin [39m: 흐엉: 장난이야,,
+[35m⚡LoggerPlugin [39m: 흐엉: 애기 몇살이야?
+[35m⚡LoggerPlugin [39m: 황소원: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아니 조카얔ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 위컴알: 1
+[35m⚡LoggerPlugin [39m: LSH: 좀이따 선플까지 달러간다
+[35m⚡LoggerPlugin [39m: 흐엉: ㅜ
+[35m⚡LoggerPlugin [39m: 기석주: @김민성  도착했노
+[35m⚡LoggerPlugin [39m: 김민성: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 기석주: 이겼네 ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: 김민성 그브 시발~~~~~~~~~~~~~~
+[35m⚡LoggerPlugin [39m: 기석주: 존나 그립네
+[35m⚡LoggerPlugin [39m: 김민성: 7 3 2 ㅈㅈ
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 케이미넴: lsh.keiminem.com
+[35m⚡LoggerPlugin [39m: 케이미넴: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,358.5
+[ 'Ri', 'bT', 'FO', 'iM' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: @말썽쟁이 네오  
+[35m⚡LoggerPlugin [39m: 케이미넴: 흐엉 나와바
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ??
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 케이미넴: 서버작업할껀데
+[35m⚡LoggerPlugin [39m: 케이미넴: 좀 대규모가 될거라서
+[35m⚡LoggerPlugin [39m: 케이미넴: 서버 백업할래?
+[35m⚡LoggerPlugin [39m: 케이미넴: 아마 날아갈 가능성이큰데 뭐 다시 구축하는데 어려운거없으면
+[35m⚡LoggerPlugin [39m: 케이미넴: 걍 하고
+[35m⚡LoggerPlugin [39m: 케이미넴: 그럼 걍 한다?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 나 밖이라서 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 백업좀해줄수있음???
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 어차피 파일 몇개안되긴함
+[35m⚡LoggerPlugin [39m: 케이미넴: 난 가상화파일 통째로 백업밖에안됨 
+[35m⚡LoggerPlugin [39m: 케이미넴: 용량안크면 뭐 금방되것지
+[35m⚡LoggerPlugin [39m: 케이미넴: 뭐지 
+[35m⚡LoggerPlugin [39m: 케이미넴: 용량 꽤나큰데?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 리눅스가 쫌 클걸,,,?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 그냥 파일만
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: scp로 백업해둬되는데,,
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,358.5
+error: Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+[35m⚡LoggerPlugin [39m: 케이미넴: 큰일이군
+[35m⚡LoggerPlugin [39m: 케이미넴: 마이그레이션이 안되네?
+[35m⚡LoggerPlugin [39m: LSH: 애들아 ㅁㅎ행
+[35m⚡LoggerPlugin [39m: 김민성: 카페가려공
+[35m⚡LoggerPlugin [39m: LSH: 누구랑? 누구랑? 누구랑?
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: 공부하러 혼자가지
+[35m⚡LoggerPlugin [39m: 김민성: 누구랑가
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: q vz
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 이것도 권한있음?
+[35m⚡LoggerPlugin [39m: LSH: 아하,,,
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 이색기 말 뭐같이 하네 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 영숙: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 영숙: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 영숙: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 영숙: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 영숙: 사진찍는 것이  금지라서 용학이랑은 못찍고 부대 밖에서 위치만 찍음
+[35m⚡LoggerPlugin [39m: 영숙: 어제 용학이 만나고 오면서 
+[35m⚡LoggerPlugin [39m: 영숙: 용학이 부대는 제1570부대 701대대 임 (파주 1 사단 7전차대대 1중대)
+[35m⚡LoggerPlugin [39m: 기석주: 아니
+[35m⚡LoggerPlugin [39m: 기석주: 그 정도는 아님 ㅁㅊㄴ아
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김민성: 😢 
+[35m⚡LoggerPlugin [39m: 김민성: 저녁 뭐 묵지
+[35m⚡LoggerPlugin [39m: LSH: 왜 나는 안데려감???????
+[35m⚡LoggerPlugin [39m: LSH: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 기석주: 파스타 쳐무라
+[35m⚡LoggerPlugin [39m: 기석주: 민성이가 뭐같다한거면
+[35m⚡LoggerPlugin [39m: LSH: 김치찌개나 처먹어
+[35m⚡LoggerPlugin [39m: 기석주: 맡긴해
+[35m⚡LoggerPlugin [39m: 기석주: 그거 좋다
+[35m⚡LoggerPlugin [39m: 김민성: 🤔
+[35m⚡LoggerPlugin [39m: 영숙: 절에 갔가다 절에서 용학이 있는곳이랑 1시간 거리라고 
+해서 갔다왔지. 
+[35m⚡LoggerPlugin [39m: LSH: 고생했네
+[35m⚡LoggerPlugin [39m: 영숙: 응. 너도 쉬여라. 엄마도 쉴께 
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이지영: 21일 집들이 가능한데 다들 시간 있어여
+[35m⚡LoggerPlugin [39m: LSH: 난 좋앙
+[35m⚡LoggerPlugin [39m: MJ: 될거같은뎀
+[35m⚡LoggerPlugin [39m: 정주환: 저는 50대 50이요...
+[35m⚡LoggerPlugin [39m: 정주환: 저 빼고 하실래요?
+[35m⚡LoggerPlugin [39m: LSH: 50을 100으로 만들어줘
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: MJ: 왜 50인데
+[35m⚡LoggerPlugin [39m: 이지영: 와
+[35m⚡LoggerPlugin [39m: 이지영: 시간 만등어
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 업ㄱ음
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: vz가
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 뭐하는 회산데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 종목코드로 검색해야해
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,360.0
+error: Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: muplie: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 본스: 와 방인원이...309명...많이 나갔네요
+[35m⚡LoggerPlugin [39m: 정주환: 먼저 잡혀있던 행사인데
+[35m⚡LoggerPlugin [39m: 정주환: 아마 접대용 고학번이 좀 부족할 거 같아서리
+[35m⚡LoggerPlugin [39m: 이지영: 걍 와
+[35m⚡LoggerPlugin [39m: 이지영: 너가 무슨 고학년이야
+[35m⚡LoggerPlugin [39m: 이지영: 빼고 와
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅈ
+[35m⚡LoggerPlugin [39m: MJ: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 정주환: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이: 이번주 17층ㄱㄱ
+[35m⚡LoggerPlugin [39m: LSH: 웃지마
+[35m⚡LoggerPlugin [39m: LSH: 진지해
+[35m⚡LoggerPlugin [39m: 정주환: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 이지영: ㄴㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 아 나스닥만 되는구나
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 버라이즌 인데
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 많이 내렸더라구
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 뉴욕증시 상장이라 안뜨는듯
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 언제
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 상장했어?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 저거 업뎃이 올 6월기준이라
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 그이후 상장했으면 안뜨긴함 근데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 뉴욕증시상장도 떠 그전은
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 내가 자동 업뎃 코드를짜야하는데 
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 요즘 넘바빠서 국장코드도 못짯다
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q VZ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q amd
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q amd',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AMD' ]
+  }
+]
+AMD
+1,360.0
+error: Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 아 도메인 서버 터져서 안되는듯
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오:  낼 고쳐드림
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 다음 짱깨가 먹은건 이미 예전부터임
+[35m⚡LoggerPlugin [39m: 조.련.사: 댓글조작
+[35m⚡LoggerPlugin [39m: 조.련.사: 만진당이랑 같이 하자너
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㄱㅅ
+[35m⚡LoggerPlugin [39m: muplie: https://v.daum.net/v/20231004050501409
+[35m⚡LoggerPlugin [39m: 드리고-A: 【 모닝 드.리.핑 】
+2023년 10월 04일
+
+- 상세 정보는 아래링크 클릭 -
+https://dreago.kr/briefm.html?date=20231004
+[35m⚡LoggerPlugin [39m: 김민성: 내 연휴 돌려내
+[35m⚡LoggerPlugin [39m: 김민성: 연휴 어디감? @박민혁 
+[35m⚡LoggerPlugin [39m: 박용규: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박용규: 사진 14장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유지준: 두렵다
+[35m⚡LoggerPlugin [39m: 유지준: 갭하락으로 15층바로 꽂겠지..
+[35m⚡LoggerPlugin [39m: LSH: 소유ㅓㄴ아 오늘 한싹 상장일이야 
+[35m⚡LoggerPlugin [39m: LSH: 아 청약 안했나
+[35m⚡LoggerPlugin [39m: LSH: 한싹 공모청약 하신분?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 한싹
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 10/4 한국 증시: 달러-원 환율과 금리
+미래에셋증권 디지털리서치팀 김석환(02-3774-6049)
+
+MSCI 한국 지수 ETF는 1.01%, MSCI 신흥 지수 ETF는 1.32% 하락. NDF 달러/원 환율 1개월물은 1359.37원으로 이를 반영한 달러/원 환율은 9원 상승 출발 예상. Eurex KOSPI200 선물은 0.27% 하락. KOSPI는 0.5%~0.8% 내외 하락 출발할 것으로 예상. 
+
+긴 연휴를 마치고 열리는 국내 증시는 9월 수출 경기 개선 및 美 연방정부 폐쇄 모면 등 긍정적 이슈에도 불구하고 연준의 긴축 장기화 우려에 따른 장기채 금리 상승과 달러화 강세가 주식시장 투자심리를 불안정하게 만들 것으로 예상. 특히 주요국 장기채 금리가 수년래 최고 수준을 기록하고 있는 상황에서 국내 국고채 금리 상승 압력을 키울 것으로 전망. 또한 달러/원 환율은 지난 해 11월 중순이후 최고인 1360원대에 근접할 것으로 예상되는 점은 증시 외국인 수급에 부담이 될 가능
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (/home/ubuntu/remote/node_modules/request/request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 한싹
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 황소원: 안함 ㄹ
+[35m⚡LoggerPlugin [39m: LSH: 한싹
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '한싹',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '한싹' ]
+  }
+]
+[ '한싹' ]

@@ -1,0 +1,745 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+hello world
+[35m⚡LoggerPlugin [39m: LSH: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+hello world
+[35m⚡LoggerPlugin [39m: LSH: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,324.0
+[ 'My', '7M', 'EG', '9k' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: LSH: @여환준  
+[35m⚡LoggerPlugin [39m: LSH: 미국 주식 검색시 차트아래  환율 추가 환율 명령어 추가 해놨습니다
+[35m⚡LoggerPlugin [39m: .: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '.',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,324.0
+[ '3F', '0Y', 'Zn', '00' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: .: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+hello world
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 번호 줘
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+hello world
+[35m⚡LoggerPlugin [39m: 여환준: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.51￥
+중국 CNY 환율: 181.57￥
+hello world
+[35m⚡LoggerPlugin [39m: 여환준: 나이스
+[35m⚡LoggerPlugin [39m: 여환준: 👍🏻
+[35m⚡LoggerPlugin [39m: .: 백만원 입금 부탁드려요 
+[35m⚡LoggerPlugin [39m: 여환준: 💵
+[35m⚡LoggerPlugin [39m: 여환준: 우선 세보시고 부족하면 더넣겠습니다
+[35m⚡LoggerPlugin [39m: 유민: 환전 해야되는데
+[35m⚡LoggerPlugin [39m: 유민: 나 일본가 
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 사은품사와
+[35m⚡LoggerPlugin [39m: 흐엉: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+hello world
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'bM', 'tU', 'Bd', 'D8' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'jc', 'NF', 'Pw', 'PL' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 카카오배크
+[35m⚡LoggerPlugin [39m: 흐엉: 카카오뱅크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '카카오뱅크',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '카카오뱅크' ]
+  }
+]
+[ '카카오뱅크' ]
+1
+[ 'DO', 'Jz', 'QT', 'tP' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ 'z1', 'w9', '5R', 'wk' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 팜스토리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '팜스토리',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '팜스토리' ]
+  }
+]
+[ '팜스토리' ]
+1
+[ 'dc', 'e0', 'KO', 'Ak' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 야발
+[35m⚡LoggerPlugin [39m: 흐엉: 씨발
+[35m⚡LoggerPlugin [39m: 흐엉: 신성델타테크
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '신성델타테크',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '신성델타테크' ]
+  }
+]
+[ '신성델타테크' ]
+1
+[ '9x', 'X9', 'uj', 'bG' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+hello world
+[35m⚡LoggerPlugin [39m: 흐엉: q 믕
+[35m⚡LoggerPlugin [39m: 흐엉: q amd
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'q amd',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AMD' ]
+  }
+]
+AMD
+1,324.0
+[ 'fE', 'Pd', '1T', 'Nq' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,324.0
+[ 'v9', 'Hs', 'W6', 'r4' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 흐엉: q tsla
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'q tsla',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'TSLA' ]
+  }
+]
+TSLA
+1,324.0
+[ 'lP', 'zk', 'kw', '9V' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 흐엉: q nvda
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'q nvda',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'NVDA' ]
+  }
+]
+NVDA
+1,324.0
+[ 'EY', 'Mj', '7U', 'U4' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: LSH: 환율
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+미국 USD 환율: 1,324.00$
+일본 JPY  환율: 906.07￥
+중국 CNY 환율: 181.49￥
+hello world
+[35m⚡LoggerPlugin [39m: 아딱: 네이버
+[35m⚡LoggerPlugin [39m: 아딱: Naver
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: 'Naver',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'NAVER' ]
+  }
+]
+[ 'NAVER' ]
+1
+[ 'jX', 'an', 'cx', 'zg' ]
+[35m⚡LoggerPlugin [39m: 아딱: Naver 시외
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: 'Naver 시외',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'NAVER', '시외' ]
+  }
+]
+[ 'NAVER', '시외' ]
+krx
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀 시외
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: '두산퓨얼셀 시외',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀', '시외' ]
+  }
+]
+[ '두산퓨얼셀', '시외' ]
+krx
+[35m⚡LoggerPlugin [39m: 유민: 사은품이 맞아..? 
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: ?????
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 기념품
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 코딩오류,,,
+[35m⚡LoggerPlugin [39m: 흰티마: Photo
+[35m⚡LoggerPlugin [39m: 흰티마: 40억 찍었던 새기
+[35m⚡LoggerPlugin [39m: 흰티마: 개좆망ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 40억찍을때 안팔았다는거?
+[35m⚡LoggerPlugin [39m: 흰티마: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 대체 뭘로 40억?
+[35m⚡LoggerPlugin [39m: 흰티마: 몰라
+[35m⚡LoggerPlugin [39m: 흰티마: 주식도 하고 코인도 하고
+[35m⚡LoggerPlugin [39m: 흰티마: 재작년엔가 아파트 매슈 괜찮겠냐고 나한테 물어보더만 안 샀음
+[35m⚡LoggerPlugin [39m: 흰티마: 그리고 저거 다 꼬라박았나봄
+[35m⚡LoggerPlugin [39m: 흰티마: ㅋ
+[35m⚡LoggerPlugin [39m: 흰티마: 할튼ㅋ
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋ ,,,
+[35m⚡LoggerPlugin [39m: 유민: 공항으로 마중나와
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 내일 여수ㄱ?
+[35m⚡LoggerPlugin [39m: 김민성: 부산ㄱ?
+[35m⚡LoggerPlugin [39m: 기석주: 아니
+[35m⚡LoggerPlugin [39m: 기석주: 빠뜨리신거 없으십니까?
+[35m⚡LoggerPlugin [39m: 김민성: ???
+[35m⚡LoggerPlugin [39m: 기석주: 내일 미녁이랑 점심 먹기로 했는 데
+[35m⚡LoggerPlugin [39m: 기석주: ㄱ?
+[35m⚡LoggerPlugin [39m: 김민성: ㄹㅇ?
+[35m⚡LoggerPlugin [39m: 기석주: 미녁이 뷰산 다음 쥬래잖아
+[35m⚡LoggerPlugin [39m: 기석주: 이승학같은 새끼야
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 
+[35m⚡LoggerPlugin [39m: 기석주: @김민성 빨리 봐줘
+[35m⚡LoggerPlugin [39m: 기석주: 빨리 @김민성 
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: 뭔데
+[35m⚡LoggerPlugin [39m: 기석주: 요거 봐줘
+[35m⚡LoggerPlugin [39m: 김민성: 에바지
+[35m⚡LoggerPlugin [39m: 김민성: 씨밤바
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 기석주: 기분이 좋아지냐 왜 ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: 욕하면 원래 기분 좋아지니
+[35m⚡LoggerPlugin [39m: 기석주: 뭔
+[35m⚡LoggerPlugin [39m: 기석주: Photo
+[35m⚡LoggerPlugin [39m: 기석주: 83만명이나 봤네
+[35m⚡LoggerPlugin [39m: 김민성: 저거 나도 봤음
+[35m⚡LoggerPlugin [39m: 기석주: 아하
+[35m⚡LoggerPlugin [39m: 김민성: 아 나 그냥
+[35m⚡LoggerPlugin [39m: 김민성: 혼자 배낭여행감
+[35m⚡LoggerPlugin [39m: 김민성: ㅂㅂㅂ
+[35m⚡LoggerPlugin [39m: 김민성: 자유를 찾아 떠날게
+[35m⚡LoggerPlugin [39m: 기석주: 기대가 됩니다
+[35m⚡LoggerPlugin [39m: 김민성: 머리짜름?
+[35m⚡LoggerPlugin [39m: 기석주: 두근두근
+[35m⚡LoggerPlugin [39m: 기석주:         두근두근
+[35m⚡LoggerPlugin [39m: 김민성: 머리짦?
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅇㅇ
+[35m⚡LoggerPlugin [39m: 김민성: 무친련아
+[35m⚡LoggerPlugin [39m: 김민성: 사진
+[35m⚡LoggerPlugin [39m: 김민성: 찍어
+[35m⚡LoggerPlugin [39m: 기석주: 커트 3만원.
+[35m⚡LoggerPlugin [39m: 김민성: 안보내고
+[35m⚡LoggerPlugin [39m: 김민성: 뭐쳐하냐~
+[35m⚡LoggerPlugin [39m: 기석주: 아닙니다 무스 ㄴ사진입니까
+[35m⚡LoggerPlugin [39m: 김민성: 아
+[35m⚡LoggerPlugin [39m: 김민성: 사진
+[35m⚡LoggerPlugin [39m: 김민성: 쳐
+[35m⚡LoggerPlugin [39m: 김민성: 안보내고 뭐하냐
+[35m⚡LoggerPlugin [39m: 김민성: 진짜
+[35m⚡LoggerPlugin [39m: 김민성: 기석주 감다죽ㅡ
+[35m⚡LoggerPlugin [39m: 기석주: 내일 보내드리겠습니다
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ~~~~~~~~~~~~?
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅈ~
+[35m⚡LoggerPlugin [39m: 김민성: 샵검색: #사진 찍어 보내줘
+[35m⚡LoggerPlugin [39m: 김민성: 내일 너네 민혁이랑
+[35m⚡LoggerPlugin [39m: 김민성: 점심뭐먹음
+[35m⚡LoggerPlugin [39m: 기석주: 안정함
+[35m⚡LoggerPlugin [39m: 기석주: 무친
+[35m⚡LoggerPlugin [39m: 기석주: 옿늘
+[35m⚡LoggerPlugin [39m: 기석주: 도미노
+[35m⚡LoggerPlugin [39m: 기석주: 페페로니
+[35m⚡LoggerPlugin [39m: 기석주: 먹었는 데
+[35m⚡LoggerPlugin [39m: 기석주: 맛있더라
+[35m⚡LoggerPlugin [39m: 기석주: 이런 걸 누가 먹나했는 데 
+[35m⚡LoggerPlugin [39m: 김민성: ㄹㅇ?
+[35m⚡LoggerPlugin [39m: 기석주: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 김민성: 미피페퍼로니 vs 도미페퍼로니
+[35m⚡LoggerPlugin [39m: 기석주: 시발
+[35m⚡LoggerPlugin [39m: 기석주: 미피 먹는 새끼들은
+[35m⚡LoggerPlugin [39m: 기석주: 아직도 안뒤졌냐?
+[35m⚡LoggerPlugin [39m: 김민성: ?
+[35m⚡LoggerPlugin [39m: 김민성: 찌발
+[35m⚡LoggerPlugin [39m: 김민성: 맞짱뜨자 걍
+[35m⚡LoggerPlugin [39m: 기석주: 미스터 피자 씹
+[35m⚡LoggerPlugin [39m: 기석주: 아니다
+[35m⚡LoggerPlugin [39m: 김민성: 후...
+[35m⚡LoggerPlugin [39m: 김민성: 🍕 
+[35m⚡LoggerPlugin [39m: 김민성: 🖕 
+[35m⚡LoggerPlugin [39m: 기석주: 김민성 내일 어디안간다에
+[35m⚡LoggerPlugin [39m: 기석주: 내 머리카락 검
+[35m⚡LoggerPlugin [39m: 김민성: ㅠ
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'Fx', 'S0', 'jl', 'A7' ]
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: 웅
+[35m⚡LoggerPlugin [39m: 박영호: https://youtube.com/shorts/L9a1SwrTlzA?si=eNcDQXFJ_9eQhJyJ
+[35m⚡LoggerPlugin [39m: 박영호: 이거 여자친구한테 보냈다가 삐짐
+[35m⚡LoggerPlugin [39m: 박영호: 시발
+[35m⚡LoggerPlugin [39m: LSH: 저는
+[35m⚡LoggerPlugin [39m: LSH: 아이폰이 더싸서 써요
+[35m⚡LoggerPlugin [39m: 박영호: 지플립 솔직히
+[35m⚡LoggerPlugin [39m: 박영호: 이쁘지않냐
+[35m⚡LoggerPlugin [39m: LSH: 이쁜
+[35m⚡LoggerPlugin [39m: LSH: 쓰레기
+[35m⚡LoggerPlugin [39m: 박영호: https://youtube.com/shorts/xln6CQMPG4E?si=iMaw2GzTEr85MfKb
+[35m⚡LoggerPlugin [39m: 기석주: 맞는말
+[35m⚡LoggerPlugin [39m: 기석주: 지플립 그래도 젤 예쁜것 갗아
+[35m⚡LoggerPlugin [39m: 박영호: Photo
+[35m⚡LoggerPlugin [39m: 기석주: 삼성 중에
+[35m⚡LoggerPlugin [39m: 박영호: 짙짜
+[35m⚡LoggerPlugin [39m: 박영호: 소름돋는다
+[35m⚡LoggerPlugin [39m: 박영호: 승학아
+[35m⚡LoggerPlugin [39m: 박영호: ㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 하 
+[35m⚡LoggerPlugin [39m: LSH: 내일 목포 ㄱ
+[35m⚡LoggerPlugin [39m: 기석주: 활용도는
+[35m⚡LoggerPlugin [39m: 박영호: 긍데 안이쁘다고 개뭐라하길래
+[35m⚡LoggerPlugin [39m: 기석주: 삼성이 더 좋잦ㅎ아
+[35m⚡LoggerPlugin [39m: LSH: 준비해라 박영호 기석주
+[35m⚡LoggerPlugin [39m: LSH: 둘다 비슷해 
+[35m⚡LoggerPlugin [39m: LSH: 활용도는
+[35m⚡LoggerPlugin [39m: 박영호: 내가 계속 
+[35m⚡LoggerPlugin [39m: 박영호: 아니 시바
+[35m⚡LoggerPlugin [39m: 기석주: 삼페가 너무 편해
+[35m⚡LoggerPlugin [39m: LSH: 잡다한거 삼성이 더좋은데
+[35m⚡LoggerPlugin [39m: LSH: 진짜 신박한 기능은
+[35m⚡LoggerPlugin [39m: 박영호: 나는 아이폰 너무 이쁘다 이러는데
+[35m⚡LoggerPlugin [39m: 기석주: 감성은 애플이지만
+[35m⚡LoggerPlugin [39m: LSH: 아이폰 단축어가 
+[35m⚡LoggerPlugin [39m: LSH: 진짜 개지림
+[35m⚡LoggerPlugin [39m: 기석주: 그건 좀 간듯
+[35m⚡LoggerPlugin [39m: 박영호: 삼성 내려치기하고 귀닫고 눈닫고 안예쁘다하니까
+[35m⚡LoggerPlugin [39m: 기석주: 그런건 맞지
+[35m⚡LoggerPlugin [39m: 기석주: 뭐씀
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: LSH: 컴터키고
+[35m⚡LoggerPlugin [39m: LSH: 문열고
+[35m⚡LoggerPlugin [39m: 박영호: 저거 보내니까 삐짐
+[35m⚡LoggerPlugin [39m: LSH: 티비니고
+[35m⚡LoggerPlugin [39m: 기석주: 우와
+[35m⚡LoggerPlugin [39m: 기석주: 지니어승학
+[35m⚡LoggerPlugin [39m: LSH: 아니그래서
+[35m⚡LoggerPlugin [39m: LSH: 내일 목표가냐고 박영허
+[35m⚡LoggerPlugin [39m: 박영호: 공감하라고
+[35m⚡LoggerPlugin [39m: 박영호: 씨발 티새끼야
+[35m⚡LoggerPlugin [39m: 박영호: 사실 전에도
+[35m⚡LoggerPlugin [39m: 박영호: 삼성 애플로 싸웠음
+[35m⚡LoggerPlugin [39m: LSH: 병신임?
+[35m⚡LoggerPlugin [39m: LSH: 그딴걱로
+[35m⚡LoggerPlugin [39m: 박영호: 아니
+[35m⚡LoggerPlugin [39m: LSH: 왜 싸움?
+[35m⚡LoggerPlugin [39m: 박영호: 그 
+[35m⚡LoggerPlugin [39m: LSH: 둘다 N이냐?
+[35m⚡LoggerPlugin [39m: 박영호: 맥북 에어나 삼성 노ㅊ트북이나
+[35m⚡LoggerPlugin [39m: 기석주: 예전엔 그럴만한데
+[35m⚡LoggerPlugin [39m: 박영호: 가격 차이 넚잖아
+[35m⚡LoggerPlugin [39m: LSH: 맥북에어랑 
+[35m⚡LoggerPlugin [39m: LSH: 삼성이랑
+[35m⚡LoggerPlugin [39m: LSH: 용도가 
+[35m⚡LoggerPlugin [39m: LSH: 댜른데
+[35m⚡LoggerPlugin [39m: 박영호: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 뭘 그딴걸로
+[35m⚡LoggerPlugin [39m: LSH: 사우냐
+[35m⚡LoggerPlugin [39m: 박영호: 어니
+[35m⚡LoggerPlugin [39m: LSH: 어휴 초딩들
+[35m⚡LoggerPlugin [39m: 박영호: 그래서 다 이야기하고
+[35m⚡LoggerPlugin [39m: LSH: 그래서 내일 가냐고 
+[35m⚡LoggerPlugin [39m: 박영호: 그랬는데
+[35m⚡LoggerPlugin [39m: LSH: 박영호
+[35m⚡LoggerPlugin [39m: 박영호: 시발 맥북 사놓ㄱㅎ
+[35m⚡LoggerPlugin [39m: 박영호: 자기는 에어팟 아이폰 맥북 있다
+[35m⚡LoggerPlugin [39m: LSH: 맥북이 갖고싶다잖아
+[35m⚡LoggerPlugin [39m: 박영호: 아이패드만 사면
+[35m⚡LoggerPlugin [39m: 박영호: 되겠다
+[35m⚡LoggerPlugin [39m: 박영호: 이러는거
+[35m⚡LoggerPlugin [39m: 박영호: 정털려서
+[35m⚡LoggerPlugin [39m: 박영호: 허영심 많은 사람 싫다고
+[35m⚡LoggerPlugin [39m: LSH: 헤어져 그럼
+[35m⚡LoggerPlugin [39m: 박영호: 개지랄했음
+[35m⚡LoggerPlugin [39m: 박영호: 근데 
+[35m⚡LoggerPlugin [39m: 박영호: 또 저러는데
+[35m⚡LoggerPlugin [39m: 박영호: 하
+[35m⚡LoggerPlugin [39m: LSH: 헤어져. 
+[35m⚡LoggerPlugin [39m: LSH: 그래서 내일 목포거냐고
+[35m⚡LoggerPlugin [39m: 박영호: 조만간일듯 진짜로
+[35m⚡LoggerPlugin [39m: 기석주: ㅅㅂ
+[35m⚡LoggerPlugin [39m: 기석주: 그게 왜 허영심이냐 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 기석주: ㅈㄴ웃기네
+[35m⚡LoggerPlugin [39m: LSH: 허영심은
+[35m⚡LoggerPlugin [39m: LSH: 맞긴하ㅣㅣ지
+[35m⚡LoggerPlugin [39m: LSH: 근데 
+[35m⚡LoggerPlugin [39m: LSH: 시발 구찌 샤넬도아니고
+[35m⚡LoggerPlugin [39m: LSH: 그냥 애플인데
+[35m⚡LoggerPlugin [39m: 박영호: 패드가 왜 필요한데?
+[35m⚡LoggerPlugin [39m: LSH: 그걸로 
+[35m⚡LoggerPlugin [39m: 박영호: 시발
+[35m⚡LoggerPlugin [39m: LSH: 정털리는게
+[35m⚡LoggerPlugin [39m: LSH: 이해가안되네
+[35m⚡LoggerPlugin [39m: 기석주: 아니 맞긴한데
+[35m⚡LoggerPlugin [39m: LSH: 갖고싶으면
+[35m⚡LoggerPlugin [39m: LSH: 사는거지
+[35m⚡LoggerPlugin [39m: LSH: 너 옷 갖고싶으면
+[35m⚡LoggerPlugin [39m: LSH: 사는거아님?
+[35m⚡LoggerPlugin [39m: 기석주: 싸울 때는 안썻을 것 같은 단어
+[35m⚡LoggerPlugin [39m: 박영호: 마즘
+[35m⚡LoggerPlugin [39m: 박영호: 갑자기
+[35m⚡LoggerPlugin [39m: 기석주: 앱등이가 약간
+[35m⚡LoggerPlugin [39m: 박영호: 이승학때매 더화나는게
+[35m⚡LoggerPlugin [39m: 박영호: 있네
+[35m⚡LoggerPlugin [39m: 기석주: 선이라고 해야하나
+[35m⚡LoggerPlugin [39m: LSH: 그래서 내일
+[35m⚡LoggerPlugin [39m: LSH: 목포 가냐고 
+[35m⚡LoggerPlugin [39m: 기석주: k5계약하고 오면
+[35m⚡LoggerPlugin [39m: 기석주: 가자
+[35m⚡LoggerPlugin [39m: LSH: 시발,,,,,
+[35m⚡LoggerPlugin [39m: LSH: 그건 내년,,,
+[35m⚡LoggerPlugin [39m: LSH: 계약만 하면됨?
+[35m⚡LoggerPlugin [39m: LSH: 계약금 만원 걸고올게
+[35m⚡LoggerPlugin [39m: 기석주: 근데 애플은 너무 비싸서 ㅅ뭔가 마음이 아파
+[35m⚡LoggerPlugin [39m: 박영호: 문제는 애플제품을 다 삼으로써 자신이 대단한 사람이 된것처럼 헹동한다는거잖아
+[35m⚡LoggerPlugin [39m: 기석주: 그거 10만원이래
+[35m⚡LoggerPlugin [39m: LSH: 아직 안했잖아
+[35m⚡LoggerPlugin [39m: 박영호: 했으니까
+[35m⚡LoggerPlugin [39m: LSH: 그냥 와!! 이제 패드만있으면
+[35m⚡LoggerPlugin [39m: 기석주: 우리가 모를 것 같은 부분
+[35m⚡LoggerPlugin [39m: 박영호: 내가 지랄했지
+[35m⚡LoggerPlugin [39m: LSH: 애플 생태계 끝이다
+[35m⚡LoggerPlugin [39m: LSH: 이런느낌이지
+[35m⚡LoggerPlugin [39m: 박영호: 아니 삼성 내려치기
+[35m⚡LoggerPlugin [39m: 박영호: 하는데
+[35m⚡LoggerPlugin [39m: LSH: 삼성
+[35m⚡LoggerPlugin [39m: 기석주: 듣다보니
+[35m⚡LoggerPlugin [39m: LSH: 병신맞음
+[35m⚡LoggerPlugin [39m: 기석주: 싸울만 했네
+[35m⚡LoggerPlugin [39m: LSH: 시총만 벌써 100배차이
+[35m⚡LoggerPlugin [39m: 박영호: 시밯 삼성전자
+[35m⚡LoggerPlugin [39m: 박영호: 들어가지도 못하는제
+[35m⚡LoggerPlugin [39m: 기석주: 미국이잖아
+[35m⚡LoggerPlugin [39m: 박영호: 애플은 핸드폰이 아니라 반도체 설계를 존나 잘해서
+[35m⚡LoggerPlugin [39m: 박영호: 이길수가 없음
+[35m⚡LoggerPlugin [39m: LSH: 반도체설계가 곧 핸드폰이지
+[35m⚡LoggerPlugin [39m: 박영호: 내가 시발 사람들
+[35m⚡LoggerPlugin [39m: 박영호: 머리 짧은게 유행이여서
+[35m⚡LoggerPlugin [39m: 박영호: 길렀는데
+[35m⚡LoggerPlugin [39m: 박영호: 저딴거 보는데
+[35m⚡LoggerPlugin [39m: LSH: 근데 요즘
+[35m⚡LoggerPlugin [39m: LSH: 머리 기는게
+[35m⚡LoggerPlugin [39m: LSH: 유행아님?
+[35m⚡LoggerPlugin [39m: 박영호: 화가 나겠냐 안나겠냐
+[35m⚡LoggerPlugin [39m: 박영호: 그래서
+[35m⚡LoggerPlugin [39m: 기석주: 아 나 머리 자름
+[35m⚡LoggerPlugin [39m: LSH: 예베군가면 시발 여자가
+[35m⚡LoggerPlugin [39m: LSH: 존나많아
+[35m⚡LoggerPlugin [39m: 박영호: 짤랐음
+[35m⚡LoggerPlugin [39m: LSH: 아하
+[35m⚡LoggerPlugin [39m: 박영호: 병신새끼여
+[35m⚡LoggerPlugin [39m: LSH: 몰랏지
+[35m⚡LoggerPlugin [39m: LSH: 그건
+[35m⚡LoggerPlugin [39m: LSH: 욕하지마 ㅜ
+[35m⚡LoggerPlugin [39m: LSH: 그래서 내일 목퍼감?
+[35m⚡LoggerPlugin [39m: 박영호: 쌓였던 화
+[35m⚡LoggerPlugin [39m: 박영호: 풀이
+[35m⚡LoggerPlugin [39m: 박영호: 하
+[35m⚡LoggerPlugin [39m: 기석주: 계약하고 오기 
+[35m⚡LoggerPlugin [39m: LSH: 근데 10만우ㅜㄴ은
+[35m⚡LoggerPlugin [39m: LSH: 좀 아깝다
+[35m⚡LoggerPlugin [39m: LSH: 뭔가 뭔차사야될지
+[35m⚡LoggerPlugin [39m: LSH: ㄹㅇ 모르겠음
+[35m⚡LoggerPlugin [39m: 기석주: 살거아닌가
+[35m⚡LoggerPlugin [39m: 기석주: 아하
+[35m⚡LoggerPlugin [39m: LSH: 원랜 예전엔 막연히
+[35m⚡LoggerPlugin [39m: 기석주: 같이 그거하긴 해야겠다
+[35m⚡LoggerPlugin [39m: LSH: 케빠 이쁘니까 사야지! 
+[35m⚡LoggerPlugin [39m: LSH: 핶는데
+[35m⚡LoggerPlugin [39m: LSH: 진짜 살라고보니까 존나고민됨
+[35m⚡LoggerPlugin [39m: 기석주: 뭐라하더라 차 타보는걸
+[35m⚡LoggerPlugin [39m: LSH: 기석주말대로 
+[35m⚡LoggerPlugin [39m: LSH: 시승
+[35m⚡LoggerPlugin [39m: 기석주: 아 시승
+[35m⚡LoggerPlugin [39m: LSH: 스포티지도 괜찮은거같거,,,
+[35m⚡LoggerPlugin [39m: 기석주: 같이 가줄게
+[35m⚡LoggerPlugin [39m: LSH: 뭔가 내가 타기엔
+[35m⚡LoggerPlugin [39m: LSH: 트랙스같은 시유브이기 
+[35m⚡LoggerPlugin [39m: LSH: 오히랴 편할거갘기더히고
+[35m⚡LoggerPlugin [39m: 박영호: 하아ㅏㅏㅏ아ㅏㅏ
+[35m⚡LoggerPlugin [39m: 기석주: 근데
+[35m⚡LoggerPlugin [39m: 기석주: 어울리는건 스포티지일지도
+[35m⚡LoggerPlugin [39m: 박영호: 목포 너무 멀어 
+[35m⚡LoggerPlugin [39m: 기석주: 이승학 케이파이브 타몀
+[35m⚡LoggerPlugin [39m: 기석주: 좀 빡셀 것 같아
+[35m⚡LoggerPlugin [39m: 박영호: 근데 높은차가
+[35m⚡LoggerPlugin [39m: 박영호: 운전하기 편하잖아
+[35m⚡LoggerPlugin [39m: 기석주: 케이파이브 타면 너무 세보일 것 겉아
+[35m⚡LoggerPlugin [39m: 기석주: 아니 차가 문젠가
+[35m⚡LoggerPlugin [39m: 기석주: 너네들한테 과학5호기 증거들 보니까
+[35m⚡LoggerPlugin [39m: 기석주: 그렇게 돼버렸네
+[35m⚡LoggerPlugin [39m: LSH: 요즘
+[35m⚡LoggerPlugin [39m: LSH: 카니발이 개지리는듯
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 카니발 연비도 생각보다 존나좋음
+[35m⚡LoggerPlugin [39m: LSH: 풀주유하면
+[35m⚡LoggerPlugin [39m: 기석주: 12-15아님?
+[35m⚡LoggerPlugin [39m: LSH: 거의 900이상타던데
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅇㅇ
+[35m⚡LoggerPlugin [39m: LSH: 고속도로 17 18까지나온데
+[35m⚡LoggerPlugin [39m: 기석주: 큰거치고 좋은거지
+[35m⚡LoggerPlugin [39m: 기석주: 굳이긴해
+[35m⚡LoggerPlugin [39m: 기석주: 큰거치고는 존나 좋다그러더라
+[35m⚡LoggerPlugin [39m: LSH: 그래서 내일 목포가자고
+[35m⚡LoggerPlugin [39m: LSH: 시발
+[35m⚡LoggerPlugin [39m: LSH: 안가?
+[35m⚡LoggerPlugin [39m: LSH: 못가?
+[35m⚡LoggerPlugin [39m: 기석주: 영호 서울이잖아
+[35m⚡LoggerPlugin [39m: LSH: 시발새끼
+[35m⚡LoggerPlugin [39m: LSH: 근데 디엠은
+[35m⚡LoggerPlugin [39m: LSH: 왜 보낸거야
+[35m⚡LoggerPlugin [39m: LSH: 설레게
+[35m⚡LoggerPlugin [39m: 기석주: ㅋㅋㅋㅋㅋㅋㅋ뭐라했는 데
+[35m⚡LoggerPlugin [39m: LSH: 이번주 주말 
+[35m⚡LoggerPlugin [39m: LSH: 목포 꼭 가야하는 이유
+[35m⚡LoggerPlugin [39m: 기석주: 아
+[35m⚡LoggerPlugin [39m: 박영호: 왔다갔다
+[35m⚡LoggerPlugin [39m: LSH: 혼자서 내일 
+[35m⚡LoggerPlugin [39m: 박영호: 10만원임
+[35m⚡LoggerPlugin [39m: 박영호: 시바
+[35m⚡LoggerPlugin [39m: LSH: 뭐입고가지
+[35m⚡LoggerPlugin [39m: LSH: 고밍했네,,,
+[35m⚡LoggerPlugin [39m: LSH: 하
+[35m⚡LoggerPlugin [39m: 기석주: Emoticon
+[35m⚡LoggerPlugin [39m: LSH: 오늘의 운세나 만들어야지
+[35m⚡LoggerPlugin [39m: LSH: 에휴 시발
+[35m⚡LoggerPlugin [39m: LSH: 좋다말았네,,,
+[35m⚡LoggerPlugin [39m: LSH: 기석주 좆같은데 내일 저녁이나 먹을래,,,?
+[35m⚡LoggerPlugin [39m: 기석주: 또 귀찮다고 안나올거잖아
+[35m⚡LoggerPlugin [39m: 박영호: Emoticon
+[35m⚡LoggerPlugin [39m: 기석주: 시발련아
+[35m⚡LoggerPlugin [39m: LSH: 미안하다,,,
+[35m⚡LoggerPlugin [39m: 기석주: 일요일에 저녁 먹자
+[35m⚡LoggerPlugin [39m: LSH: 내가 그때 생각이 짧앗어,,,
+[35m⚡LoggerPlugin [39m: 기석주: 나 일요일날 축구보고싶으니까
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅋ
+[35m⚡LoggerPlugin [39m: LSH: 좋다
+[35m⚡LoggerPlugin [39m: 기석주: 일곱시반 시작이야
+[35m⚡LoggerPlugin [39m: 기석주: 광주 대 수원
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #kbo
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #kbo
+[35m⚡LoggerPlugin [39m: 기석주: 일요일 야구도 광주네
+[35m⚡LoggerPlugin [39m: 기석주: 나는 축구가 좋은데
+[35m⚡LoggerPlugin [39m: 기석주: 너는 야구가 좋으면 야구보자
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #k리그
+[35m⚡LoggerPlugin [39m: LSH: 케이리그보자공?
+[35m⚡LoggerPlugin [39m: LSH: 나 케이리그 한번도 직관해본적없긴해 
+[35m⚡LoggerPlugin [39m: LSH: ㄱㄱ하자
+[35m⚡LoggerPlugin [39m: 기석주: 고고
+[35m⚡LoggerPlugin [39m: 기석주: 은근 재밌어
+[35m⚡LoggerPlugin [39m: 기석주: 박영호 근데
+[35m⚡LoggerPlugin [39m: 기석주: 아니다
+[35m⚡LoggerPlugin [39m: 기석주: 시발
+[35m⚡LoggerPlugin [39m: 기석주: 왜 잠이 안오는거지
+[35m⚡LoggerPlugin [39m: LSH: 너 도 일해
+[35m⚡LoggerPlugin [39m: 기석주: 으아악
+[35m⚡LoggerPlugin [39m: 기석주: 너는 근데
+[35m⚡LoggerPlugin [39m: 기석주: 생활패턴 존나 궁금하네
+[35m⚡LoggerPlugin [39m: 기석주: 일하면 일하고 나자마자
+[35m⚡LoggerPlugin [39m: 기석주: 집와서 밥먹고 잤잖아
+[35m⚡LoggerPlugin [39m: 기석주: 새벽에 일어나서 몇시에 자고 몇시에 일어나서 출근하는거지…

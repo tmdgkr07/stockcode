@@ -1,0 +1,746 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 8월 10일 일본으로 가는 항공권 검색해줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Wed, 21 Jun 2023 05:32:53 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '4052',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149969',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '12ms',
+    'x-request-id': '07a9e63aebdcd533da564bfa51459f60',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7da9df869be7c180-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 376
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"}],"functions":[{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 376,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 46,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 376\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 376,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7TkkUSQNfvLQJGgAdk7fxvvGtW8nF',
+    object: 'chat.completion',
+    created: 1687325570,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 83, completion_tokens: 30, total_tokens: 113 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'websearch',
+    arguments: '{\n  "search_txt": "8월 10일 일본 항공권"\n}'
+  }
+}
+8월 10일 일본 항공권
+8월 10일 일본 항공권
+https://openapi.naver.com/v1/search/webkr.json?query=8%EC%9B%94%2010%EC%9D%BC%20%EC%9D%BC%EB%B3%B8%20%ED%95%AD%EA%B3%B5%EA%B6%8C
+{
+  lastBuildDate: 'Wed, 21 Jun 2023 14:32:54 +0900',
+  total: 85284003,
+  start: 1,
+  display: 10,
+  items: [
+    {
+      title: '2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html',
+      description: '오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>...'
+    },
+    {
+      title: '“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제',
+      link: 'https://www.mk.co.kr/news/society/10736729',
+      description: '<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>...'
+    },
+    {
+      title: '<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)',
+      link: 'https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0',
+      description: '7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편...'
+    },
+    {
+      title: '이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스',
+      link: 'http://www.newsworks.co.kr/news/articleView.html?idxno=362591',
+      description: '<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오...'
+    },
+    {
+      title: '2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html',
+      description: '오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160...'
+    },
+    {
+      title: '2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html',
+      description: '도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472...'
+    },
+    {
+      title: '<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보',
+      link: 'https://www.joongang.co.kr/article/25076919',
+      description: '오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>...'
+    },
+    {
+      title: '<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights',
+      description: '후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한'
+    },
+    {
+      title: '아고다',
+      link: 'https://www.agoda.com/ko-kr/',
+      description: '예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심'
+    },
+    {
+      title: '[<b>일본</b> 유심] 택배수령 / 3-<b>10일</b> 매일 1/2GB 데이터 무제한 :: 나다운 진짜 여행',
+      link: 'https://www.myrealtrip.com/offers/60649',
+      description: '미만으로 남은 경우에는 본 상품이 아닌 eSIM 혹은 공항수령 유심 상품을 구매하시기를 추천해드려요. ⭐4일 무제한 / 5일 무제한 상품은 <b>일본</b>시간 AM 01:00 이후에 유심을 삽입해야 정상적으로 이용이 가능합니다.'
+    }
+  ]
+}
+response_content
+{
+  lastBuildDate: 'Wed, 21 Jun 2023 14:32:54 +0900',
+  total: 85284003,
+  start: 1,
+  display: 10,
+  items: [
+    {
+      title: '2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html',
+      description: '오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>...'
+    },
+    {
+      title: '“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제',
+      link: 'https://www.mk.co.kr/news/society/10736729',
+      description: '<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>...'
+    },
+    {
+      title: '<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)',
+      link: 'https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0',
+      description: '7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편...'
+    },
+    {
+      title: '이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스',
+      link: 'http://www.newsworks.co.kr/news/articleView.html?idxno=362591',
+      description: '<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오...'
+    },
+    {
+      title: '2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html',
+      description: '오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160...'
+    },
+    {
+      title: '2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html',
+      description: '도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472...'
+    },
+    {
+      title: '<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보',
+      link: 'https://www.joongang.co.kr/article/25076919',
+      description: '오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>...'
+    },
+    {
+      title: '<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너',
+      link: 'https://www.skyscanner.co.kr/flights',
+      description: '후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한'
+    },
+    {
+      title: '아고다',
+      link: 'https://www.agoda.com/ko-kr/',
+      description: '예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심'
+    },
+    {
+      title: '[<b>일본</b> 유심] 택배수령 / 3-<b>10일</b> 매일 1/2GB 데이터 무제한 :: 나다운 진짜 여행',
+      link: 'https://www.myrealtrip.com/offers/60649',
+      description: '미만으로 남은 경우에는 본 상품이 아닌 eSIM 혹은 공항수령 유심 상품을 구매하시기를 추천해드려요. ⭐4일 무제한 / 5일 무제한 상품은 <b>일본</b>시간 AM 01:00 이후에 유심을 삽입해야 정상적으로 이용이 가능합니다.'
+    }
+  ]
+}
+[
+  { role: 'user', content: ' 8월 10일 일본으로 가는 항공권 검색해줘' },
+  {
+    role: 'assistant',
+    content: null,
+    function_call: {
+      name: 'websearch',
+      arguments: '{\n  "search_txt": "8월 10일 일본 항공권"\n}'
+    }
+  },
+  [ { role: 'function', name: 'websearch', content: [Object] } ]
+]
+Error chatgpt api: Error: Request failed with status code 400
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 5593
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"},{"role":"assistant","content":null,"function_call":{"name":"websearch","arguments":"{\\n  \\"search_txt\\": \\"8월 10일 일본 항공권\\"\\n}"}},[{"role":"function","name":"websearch","content":{"lastBuildDate":"Wed, 21 Jun 2023 14:32:54 +0900","total":85284003,"start":1,"display":10,"items":[{"title":"2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html","description":"오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>..."},{"title":"“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제","link":"https://www.mk.co.kr/news/society/10736729","description":"<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>..."},{"title":"<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)","link":"https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0","description":"7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편..."},{"title":"이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스","link":"http://www.newsworks.co.kr/news/articleView.html?idxno=362591","description":"<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오..."},{"title":"2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html","description":"오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160..."},{"title":"2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html","description":"도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472..."},{"title":"<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보","link":"https://www.joongang.co.kr/article/25076919","description":"오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>..."},{"title":"<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights","description":"후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한"},{"title":"아고다","link":"https://www.agoda.com/ko-kr/","description":"예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심"},{"title":"[<b>일본</b> 유심] 택배수령 / 3-<b>10일</b> 매일 1/2GB 데이터 무제한 :: 나다운 진짜 여행","link":"https://www.myrealtrip.com/offers/60649","description":"미만으로 남은 경우에는 본 상품이 아닌 eSIM 혹은 공항수령 유심 상품을 구매하시기를 추천해드려요. ⭐4일 무제한 / 5일 무제한 상품은 <b>일본</b>시간 AM 01:00 이후에 유심을 삽입해야 정상적으로 이용이 가능합니다."}]}}]]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 5593,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 144,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 5593\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 400,
+      statusMessage: 'Bad Request',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 34,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 5593,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 400,
+    statusText: 'Bad Request',
+    headers: {
+      date: 'Wed, 21 Jun 2023 05:32:54 GMT',
+      'content-type': 'application/json',
+      'content-length': '5548',
+      connection: 'close',
+      'access-control-allow-origin': '*',
+      'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+      'openai-processing-ms': '4',
+      'openai-version': '2020-10-01',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'x-ratelimit-limit-requests': '60',
+      'x-ratelimit-remaining-requests': '59',
+      'x-ratelimit-reset-requests': '1s',
+      'x-request-id': 'cb53555d0e6368d024b796152e310650',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7da9dfa72d1500cf-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"},{"role":"assistant","content":null,"function_call":{"name":"websearch","arguments":"{\\n  \\"search_txt\\": \\"8월 10일 일본 항공권\\"\\n}"}},[{"role":"function","name":"websearch","content":{"lastBuildDate":"Wed, 21 Jun 2023 14:32:54 +0900","total":85284003,"start":1,"display":10,"items":[{"title":"2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html","description":"오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>..."},{"title":"“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제","link":"https://www.mk.co.kr/news/society/10736729","description":"<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>..."},{"title":"<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)","link":"https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0","description":"7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편..."},{"title":"이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스","link":"http://www.newsworks.co.kr/news/articleView.html?idxno=362591","description":"<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오..."},{"title":"2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html","description":"오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160..."},{"title":"2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html","description":"도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472..."},{"title":"<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보","link":"https://www.joongang.co.kr/article/25076919","description":"오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>..."},{"title":"<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights","description":"후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한"},{"title":"아고다","link":"https://www.agoda.com/ko-kr/","description":"예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심"},{"title":"[<b>일본</b> 유심] 택배수령 / 3-<b>10일</b> 매일 1/2GB 데이터 무제한 :: 나다운 진짜 여행","link":"https://www.myrealtrip.com/offers/60649","description":"미만으로 남은 경우에는 본 상품이 아닌 eSIM 혹은 공항수령 유심 상품을 구매하시기를 추천해드려요. ⭐4일 무제한 / 5일 무제한 상품은 <b>일본</b>시간 AM 01:00 이후에 유심을 삽입해야 정상적으로 이용이 가능합니다."}]}}]]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 5593,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 5593\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world

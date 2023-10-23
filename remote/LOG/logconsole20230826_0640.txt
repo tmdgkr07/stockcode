@@ -1,0 +1,5 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980739남
+[35m⚡LoggerPlugin [39m: 김영철: 초가삼간 다 태워라 아주
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730남

@@ -1,0 +1,1069 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,355.0
+[ 'jP', 'MJ', '09', 'Fh' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 주소안살렸군
+[35m⚡LoggerPlugin [39m: 케이미넴: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,355.0
+[ 'aT', 'sb', 'A6', 'Lk' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '4v', 'Vb', 'Zc', '6s' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: q mss
+[35m⚡LoggerPlugin [39m: 케이미넴: msft
+[35m⚡LoggerPlugin [39m: 케이미넴: q msft
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q msft',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'MSFT' ]
+  }
+]
+MSFT
+1,355.0
+[ 'FZ', 'zX', 'bG', 'tN' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: 삼성물산
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: '삼성물산',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성물산' ]
+  }
+]
+[ '삼성물산' ]
+1
+[ 'U8', 'ID', 'eG', 'Kc' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 엘지생건
+[35m⚡LoggerPlugin [39m: 케이미넴: lg생건
+[35m⚡LoggerPlugin [39m: 케이미넴: 왜 안나오냐
+[35m⚡LoggerPlugin [39m: 케이미넴: lg생활건강
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'lg생활건강',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'LG생활건강' ]
+  }
+]
+[ 'LG생활건강' ]
+1
+[ 'dc', 'I3', 'SG', 'iU' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 051900
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: '051900',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '051900' ]
+  }
+]
+1
+error:123 Error: socket hang up
+    at connResetException (node:internal/errors:717:14)
+    at Socket.socketOnEnd (node:_http_client:526:23)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'ECONNRESET'
+}
+[35m⚡LoggerPlugin [39m: 케이미넴: 코드는 안되는구만
+[35m⚡LoggerPlugin [39m: 윤수: 단풍나무 간식 걸렸네🍁 맥도날드부터 불닭까지! 공짜간식 받아가실 분?
+[35m⚡LoggerPlugin [39m: 윤수: 간식이라도 챙겨가셔요...
+[35m⚡LoggerPlugin [39m: 윤수: 흠발롬
+[35m⚡LoggerPlugin [39m: 드리고-A: 충격! 이런 종목들이 보호예수해제 종목이라니!
+
+10월 보호예수해제 종목 총정리
+
+보유종목중에 10월에 보호예수해제 종목이 있는지 확인해보세요
+
+#보호예수해제
+ 
+https://dreago.kr/unlock.html?date=202310
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 011200
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: '011200',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '011200' ]
+  }
+]
+1
+error:123 Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+[35m⚡LoggerPlugin [39m: K: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'K',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+[35m⚡LoggerPlugin [39m: 박재건: 나스닥
+[35m⚡LoggerPlugin [39m: 드리고-A: 【 지수 정보 】
+
+━━━━━━━━━━━━━━━
+♣ 해 외 지 수
+
+🇺🇸 다우존스, 23:10(장중)
+32,953.72p / ▽48.66p (-0.15%)
+
+🇺🇸 S&P 500, 23:10(장중)
+4,228.94p / ▽0.51p (-0.01%)
+
+🇺🇸 나스닥종합지수, 23:09(장중)
+13,075.93p / ▲16.46p (+0.13%)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+[35m⚡LoggerPlugin [39m: 유지준: 미국 짐 지하실 가는구나
+[35m⚡LoggerPlugin [39m: 유지준: 내일 큰일이네
+[35m⚡LoggerPlugin [39m: 김완규: 나스닥
+[35m⚡LoggerPlugin [39m: 드리고-A: 【 지수 정보 】
+
+━━━━━━━━━━━━━━━
+♣ 해 외 지 수
+
+🇺🇸 다우존스, 23:40(장중)
+32,972.08p / ▽30.30p (-0.09%)
+
+🇺🇸 S&P 500, 23:40(장중)
+4,236.55p / ▲7.10p (+0.17%)
+
+🇺🇸 나스닥종합지수, 23:40(장중)
+13,137.00p / ▲77.53p (+0.59%)​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+[35m⚡LoggerPlugin [39m: 김완규: 선물
+[35m⚡LoggerPlugin [39m: 드리고-A: 【 실시간 선물 정보 】
+
+🇺🇸 US 30, 23:40(장중)
+32,960.90p / ▽41.5p (-0.13%)
+
+🇺🇸 US 500, 23:40(장중)
+4,236.80p / ▲7.3p (+0.17%)
+
+🇺🇸 US Tech 100, 23:39(장중)
+14,668.60p / ▲103.0p (+0.71%)
+
+🇺🇸 US 2000, 23:40(장중)
+1,708.80p / ▽18.4p (-1.06%)
+
+🇺🇸 S&P 500 VIX, 23:40(장중)
+19.23p / ▽0.43p (-2.17%)
+월물 : 2023년 1월​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​
+[35m⚡LoggerPlugin [39m: 김완규: 올
+[35m⚡LoggerPlugin [39m: 케이미넴: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,356.0
+error: Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,356.0
+[ 'QV', '3F', 'Hd', 'ww' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: 011200
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: '011200',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '011200' ]
+  }
+]
+1
+error:123 Error: socket hang up
+    at connResetException (node:internal/errors:717:14)
+    at Socket.socketOnEnd (node:_http_client:526:23)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'ECONNRESET'
+}
+[35m⚡LoggerPlugin [39m: 케이미넴: q aaql
+[35m⚡LoggerPlugin [39m: 케이미넴: 종목코드 에러나면 먹통되네 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 드리고-A: 【 모닝 드.리.핑 】
+2023년 10월 05일
+
+- 상세 정보는 아래링크 클릭 -
+https://dreago.kr/briefm.html?date=20231005
+[35m⚡LoggerPlugin [39m: 박남혁: 아따 부지런하네
+[35m⚡LoggerPlugin [39m: 김주식 (jusik kim): 뭐가요?
+[35m⚡LoggerPlugin [39m: 박남혁: 드라고가요 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 윤수: 혹시 공기계 싸게 파는곳 아시는분 계신가요
+[35m⚡LoggerPlugin [39m: 박용규: 사진 30장을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 허지은: 9시 대기타자
+[35m⚡LoggerPlugin [39m: 여환준: 재건스  생일축하해
+[35m⚡LoggerPlugin [39m: 여환준: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박재건: 감사합니다형님
+[35m⚡LoggerPlugin [39m: 조영우: 어이어이 축하한다구
+[35m⚡LoggerPlugin [39m: 조영우: 맛있는거 먹고
+[35m⚡LoggerPlugin [39m: 조영우: 데이트도 하셈
+[35m⚡LoggerPlugin [39m: 박재건: 감사합니다형님 
+[35m⚡LoggerPlugin [39m: 조영우: 재건 지금 여친있나?
+[35m⚡LoggerPlugin [39m: 박재건: 네네
+[35m⚡LoggerPlugin [39m: 박재건: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박민철: 오~재건 생일 축하해🎉
+[35m⚡LoggerPlugin [39m: 박재건: 감사합니다형님
+[35m⚡LoggerPlugin [39m: 허지은: 일어낫니
+[35m⚡LoggerPlugin [39m: 조영우: 여친도 있고
+[35m⚡LoggerPlugin [39m: 조영우: 성공한 인생이다
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 조영우: 주식은 망했지만말이야
+[35m⚡LoggerPlugin [39m: 박재건: 그게크네여형님..
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 꼬라지를
+[35m⚡LoggerPlugin [39m: 박재건: 보니
+[35m⚡LoggerPlugin [39m: 박재건: 오늘도
+[35m⚡LoggerPlugin [39m: 박재건: 틀렸습니다
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 53213, size: 12814 },
+  room: '오픈채팅봇',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+undefined
+아마 중복떄문에 ? 
+undefined
+[35m⚡LoggerPlugin [39m: 황소원: ㅣ히히치킨값벌었강
+[35m⚡LoggerPlugin [39m: 조영우: 조졌으
+[35m⚡LoggerPlugin [39m: 조영우: 깔끔히 포기하고 일 하자구
+[35m⚡LoggerPlugin [39m: 박재건: 그래야겠습니다
+[35m⚡LoggerPlugin [39m: 박재건: 오늘엄청춥던데 다들 조심하셔여
+[35m⚡LoggerPlugin [39m: 허지은: 얼마에 팔았니 ㅠㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 허지은: 나 실패 ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 허지은: 저점매도함
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 두산로보틱스
+[35m⚡LoggerPlugin [39m: 박재건: 오늘 이었구나
+[35m⚡LoggerPlugin [39m: 김가비: 오 재건생일임? ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 생일축
+[35m⚡LoggerPlugin [39m: 김가비: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조영우: 선물도 안주냐 주리야
+[35m⚡LoggerPlugin [39m: 여환준: 두산 로보 파세유
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '여환준',
+      content: '두산 로보 파세유',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산', '로보', '파세유' ]
+  }
+]
+[ '두산', '로보', '파세유' ]
+1
+[35m⚡LoggerPlugin [39m: 여환준: 130%
+[35m⚡LoggerPlugin [39m: 박재건: ㄳㄳ
+[35m⚡LoggerPlugin [39m: 박민철: 59500에 매도 완
+[35m⚡LoggerPlugin [39m: 조영우: Goood
+[35m⚡LoggerPlugin [39m: 김가비: 두산언제 들어갔어요 형님ㅠ엉엉
+[35m⚡LoggerPlugin [39m: 박재건: 친구들도 다 두산로보틱스
+[35m⚡LoggerPlugin [39m: 박재건: 팔았다네여
+[35m⚡LoggerPlugin [39m: 박재건: 공모주였잖냐..
+[35m⚡LoggerPlugin [39m: 조영우: 오케이~
+[35m⚡LoggerPlugin [39m: 조영우: 그럼 주리빼고 다들 잘 먹은거죠?
+[35m⚡LoggerPlugin [39m: 김가비: 옥ㆍ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박민철: 한주밖에 없지만 치킨값 벌었네잉ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 나도죠
+[35m⚡LoggerPlugin [39m: 김가비: 나도나도
+[35m⚡LoggerPlugin [39m: 박재건: 제여친도 7만원벌었다네여 
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 차 시계 목걸이 팔아
+[35m⚡LoggerPlugin [39m: 여환준: 푼돈에 신경쓰지말구
+[35m⚡LoggerPlugin [39m: 여환준: 오늘은 치킨이닭
+[35m⚡LoggerPlugin [39m: 조영우: 저는 열무비빔밥에 삼겹살~
+[35m⚡LoggerPlugin [39m: 김가비: 목걸이는 팔았고
+[35m⚡LoggerPlugin [39m: 김가비: 차는 드럽게안팔리네
+[35m⚡LoggerPlugin [39m: 박재건: 사치부리는것만
+[35m⚡LoggerPlugin [39m: 박재건: 다팔아도
+[35m⚡LoggerPlugin [39m: 조영우: 목걸이 얼마나 후려쳤냐
+[35m⚡LoggerPlugin [39m: 박재건: 시드꽤되지않냐/
+[35m⚡LoggerPlugin [39m: 조영우: 지금 전세계적으로
+[35m⚡LoggerPlugin [39m: 박재건: 그걸로 재투자해라
+[35m⚡LoggerPlugin [39m: 조영우: 다이아가 진짜 개똥값인데
+[35m⚡LoggerPlugin [39m: 조영우: 다미아니 50퍼만 받았어도 선방인데
+[35m⚡LoggerPlugin [39m: 박재건: 곧 김주리: 아냐 난 훨씬많이받았지
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 자기위안 드립 100%
+[35m⚡LoggerPlugin [39m: 조영우: 다이아 언젠간 거품 빠질줄알았다
+[35m⚡LoggerPlugin [39m: 조영우: 애초에 금이랑 비교불가인건데
+[35m⚡LoggerPlugin [39m: 조영우: 드비어스 마케팅빨로 오래 해먹었네ㅉ
+[35m⚡LoggerPlugin [39m: 박재건: 다이아 뭔가 글킨하져
+[35m⚡LoggerPlugin [39m: 박재건: 아 
+[35m⚡LoggerPlugin [39m: 박재건: 그래도 오늘내일만하면
+[35m⚡LoggerPlugin [39m: 박재건: 또쉬니
+[35m⚡LoggerPlugin [39m: 조영우: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조영우: 또 3일쉬네
+[35m⚡LoggerPlugin [39m: 조영우: 개꿀이다
+[35m⚡LoggerPlugin [39m: 여환준: 다이아가뭐  돌덩이지
+[35m⚡LoggerPlugin [39m: 조영우: 토욜 처남 결혼식인데
+[35m⚡LoggerPlugin [39m: 조영우: 내일 장모님 우리집에서 와서 주무신다네
+[35m⚡LoggerPlugin [39m: 조영우: 결혼 이후 이정도 위기는 없었는데
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 오 
+[35m⚡LoggerPlugin [39m: 김가비: 결혼 이후에 뵌적없어 ?
+[35m⚡LoggerPlugin [39m: 조영우: 뭔소리야ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 명절인데
+[35m⚡LoggerPlugin [39m: 조영우: 밖에서 뵙는거랑 같냐구ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 아하 
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 추석때 안뵘??
+[35m⚡LoggerPlugin [39m: 조영우: 아씨
+[35m⚡LoggerPlugin [39m: 김가비: 그니까
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 나 그럼 집에서 팬티만 입고 있을수가없잖아
+[35m⚡LoggerPlugin [39m: 김가비: 추석 설떄
+[35m⚡LoggerPlugin [39m: 김가비: 아아
+[35m⚡LoggerPlugin [39m: 김가비: 집에서
+[35m⚡LoggerPlugin [39m: 김가비: 주무신다고
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 샤워하고 
+[35m⚡LoggerPlugin [39m: 조영우: 그래 이새캬!!!!!!!!!!!!!!!!!!
+[35m⚡LoggerPlugin [39m: 김가비: 돌아다니는거 
+[35m⚡LoggerPlugin [39m: 김가비: 국룰인데
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 그럼샤워하고 
+[35m⚡LoggerPlugin [39m: 여환준: 1박이겠져??
+[35m⚡LoggerPlugin [39m: 김가비: 습기 저는데 옷입어야겠네 ?
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ으
+[35m⚡LoggerPlugin [39m: 김가비: 으으으
+[35m⚡LoggerPlugin [39m: 김가비: 으으
+[35m⚡LoggerPlugin [39m: 조영우: 그쵸 1박이져
+[35m⚡LoggerPlugin [39m: 김가비: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조영우: 샤워하고 정장입고 나와야될판
+[35m⚡LoggerPlugin [39m: 김가비: 와 
+[35m⚡LoggerPlugin [39m: 김가비: 듣기만해도 
+[35m⚡LoggerPlugin [39m: 김가비: 개소름이다 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 그렇게소름은
+[35m⚡LoggerPlugin [39m: 박재건: 아닌데?
+[35m⚡LoggerPlugin [39m: 박재건: 오버 ㄴㄴ
+[35m⚡LoggerPlugin [39m: 조영우: 개오바하는거보소
+[35m⚡LoggerPlugin [39m: 조영우: 호들갑장인ㅉㅉ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 오바좀 해봤어
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 그래도 주리가 참 리액션이 좋아
+[35m⚡LoggerPlugin [39m: 유지준: 어제랑 같은패턴
+[35m⚡LoggerPlugin [39m: 조영우: 문제는 지 내킬때만 좋고
+[35m⚡LoggerPlugin [39m: 박재건: 감정없는 리액션 탑 
+[35m⚡LoggerPlugin [39m: 유지준: 오전에 양봉 잠깐 보여주고
+[35m⚡LoggerPlugin [39m: 박재건: 승학아 여기나얌이
+[35m⚡LoggerPlugin [39m: 박재건: 안되냐이젠
+[35m⚡LoggerPlugin [39m: 박재건: @LSH  
+[35m⚡LoggerPlugin [39m: 유지준: 내리 눌러서 -4,5% 마감시키기
+[35m⚡LoggerPlugin [39m: 여환준: 볼거없어서 넌괜찮음
+[35m⚡LoggerPlugin [39m: 박재건: 매번똑같은데여뭐 
+[35m⚡LoggerPlugin [39m: 여환준: 영으형  이무기 걸리겠네
+[35m⚡LoggerPlugin [39m: 박재건: 사실상 10시 전후로 음봉시작
+[35m⚡LoggerPlugin [39m: 박남혁: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박남혁',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '9Y', '50', 'fb', 'ob' ]
+[35m⚡LoggerPlugin [39m: 김가비: 장모님 이틀 주무셔라 얍
+[35m⚡LoggerPlugin [39m: 조영우: 꽁꽁 싸매야죠
+[35m⚡LoggerPlugin [39m: 조영우: 아놔 그냥 호텔이라도 잡아드리고싶은데
+[35m⚡LoggerPlugin [39m: 조영우: 기분 나빠하실까봐 차마 안되겠네
+[35m⚡LoggerPlugin [39m: 여환준: 차라리 다같이 호텔로??
+[35m⚡LoggerPlugin [39m: 여환준: 호캉스 가서 좋은거드시죠??
+[35m⚡LoggerPlugin [39m: 조영우: 명분이 없다아입니까 명분이
+[35m⚡LoggerPlugin [39m: 김가비: 코로나
+[35m⚡LoggerPlugin [39m: 김가비: 걸려
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 호캉스 가시죠! -> 집놔두고 왜? -> ....?
+[35m⚡LoggerPlugin [39m: 조영우: 할말없어짐
+[35m⚡LoggerPlugin [39m: 박재건: 그건그렇네여
+[35m⚡LoggerPlugin [39m: 여환준: 음….   단수 단전 호재 없나요 ㅠ
+[35m⚡LoggerPlugin [39m: 여환준: 이건 도와드려야돼
+[35m⚡LoggerPlugin [39m: 여환준: 주리야 어차피
+할일없을텐데 다녀와
+[35m⚡LoggerPlugin [39m: 조영우: 운명을 받아들여야죠
+[35m⚡LoggerPlugin [39m: 조영우: 휴
+[35m⚡LoggerPlugin [39m: 유지준: 음전
+[35m⚡LoggerPlugin [39m: 유지준: 신보에서 아직도 던지는가보네
+[35m⚡LoggerPlugin [39m: 허지은: 뭐여 승학이 어디감!
+[35m⚡LoggerPlugin [39m: LSH: 잘파셨어용
+[35m⚡LoggerPlugin [39m: 허지은: 승학이 팔았지?
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Oe', 'yT', 'R7', 'dJ' ]
+[35m⚡LoggerPlugin [39m: 허지은: 와 이거 크다잉
+[35m⚡LoggerPlugin [39m: LSH: 전 한주
+[35m⚡LoggerPlugin [39m: 허지은: 넌 한주여?
+[35m⚡LoggerPlugin [39m: 허지은: 왜 한주지
+[35m⚡LoggerPlugin [39m: 김동환: 재건형 생축!!!!
+[35m⚡LoggerPlugin [39m: 김동환: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 아 한주
+[35m⚡LoggerPlugin [39m: LSH: 팔고 나머지 두주
+[35m⚡LoggerPlugin [39m: LSH: 나둿어용
+[35m⚡LoggerPlugin [39m: LSH: 굳
+[35m⚡LoggerPlugin [39m: 김동환: 결혼식 4일남았넹
+[35m⚡LoggerPlugin [39m: 허지은: 어어 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ멋있다
+[35m⚡LoggerPlugin [39m: 허지은: 그거 오르나보군!
+[35m⚡LoggerPlugin [39m: LSH: 애들아
+[35m⚡LoggerPlugin [39m: LSH: 두산로보틱스 팔아~~~
+[35m⚡LoggerPlugin [39m: 김가비: 기분이어떠세요ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김동환: 빨리 지나가기만 바라고 있습니다 ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 두산로보틱스 팔아라
+[35m⚡LoggerPlugin [39m: LSH: @용성 
+[35m⚡LoggerPlugin [39m: 제원: 애들아
+[35m⚡LoggerPlugin [39m: 제원: 나 케빠 아니면 케팔 살건데
+[35m⚡LoggerPlugin [39m: 용성: 우왕
+[35m⚡LoggerPlugin [39m: 제원: 케빠 이번 3주차에
+[35m⚡LoggerPlugin [39m: 제원: 페리 되는데
+[35m⚡LoggerPlugin [39m: 제원: 어캐 생각함유
+[35m⚡LoggerPlugin [39m: 제원: 예븐것 같기도 하고 아닌것 같기도 하고
+[35m⚡LoggerPlugin [39m: LSH: 난 페리전이
+[35m⚡LoggerPlugin [39m: LSH: 더이쁜듯
+[35m⚡LoggerPlugin [39m: 제원: 나도 좀 그런 늒미인데
+[35m⚡LoggerPlugin [39m: 제원: 느낌인데
+[35m⚡LoggerPlugin [39m: 용성: 페리전이 더이쁘긴한데
+[35m⚡LoggerPlugin [39m: LSH: 스폰지밥같음
+[35m⚡LoggerPlugin [39m: 제원: 실내까지 페리 돼서
+[35m⚡LoggerPlugin [39m: 용성: 페리한 케파나
+[35m⚡LoggerPlugin [39m: 용성: 케팔이나 
+[35m⚡LoggerPlugin [39m: 용성: 디자인은 걍 거서 거같은디
+[35m⚡LoggerPlugin [39m: LSH: 실내도
+[35m⚡LoggerPlugin [39m: LSH: 거기서거기같음
+[35m⚡LoggerPlugin [39m: 박재건: 감사합니다형님
+[35m⚡LoggerPlugin [39m: 용성: 근데 케팔 내장
+[35m⚡LoggerPlugin [39m: 용성: 좀
+[35m⚡LoggerPlugin [39m: 용성: 올드하지안나
+[35m⚡LoggerPlugin [39m: LSH: 목이 너무너무너무 야픈데
+[35m⚡LoggerPlugin [39m: LSH: 코로난가 
+[35m⚡LoggerPlugin [39m: 허지은: 난 장염걸려서 난린데 넌 코로나니......독감일수도 요즘 난리임
+[35m⚡LoggerPlugin [39m: LSH: 뉴나6만원쯤에 팔앗으면
+[35m⚡LoggerPlugin [39m: LSH: 잘팦앗네
+[35m⚡LoggerPlugin [39m: 박재건: 오되는군
+[35m⚡LoggerPlugin [39m: 박재건: 두산로보스틱스
+[35m⚡LoggerPlugin [39m: 박재건: 두산로보틱스
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박재건',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'w5', 'Gv', 'Bx', 'Tn' ]
+[35m⚡LoggerPlugin [39m: 김가비: 흥아해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '흥아해운',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '흥아해운' ]
+  }
+]
+[ '흥아해운' ]
+1
+[ '6c', 'Ml', 'na', '6h' ]
+[35m⚡LoggerPlugin [39m: 김가비: 미스터블루
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '미스터블루',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '미스터블루' ]
+  }
+]
+[ '미스터블루' ]
+1
+[ '2S', 'th', 'd3', 'H4' ]
+[35m⚡LoggerPlugin [39m: 김가비: 팝스토리
+[35m⚡LoggerPlugin [39m: 박재건: 오늘도 장안좋네
+[35m⚡LoggerPlugin [39m: 김가비: 팜스토리
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '팜스토리',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '팜스토리' ]
+  }
+]
+[ '팜스토리' ]
+1
+[ 'd8', 'xa', 'Gn', '9T' ]
+[35m⚡LoggerPlugin [39m: 김가비: 한일사료
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '김가비',
+      content: '한일사료',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '한일사료' ]
+  }
+]
+[ '한일사료' ]
+1
+[ '24', 'sq', 'uT', 'Tv' ]
+[35m⚡LoggerPlugin [39m: 김가비: 아씨
+[35m⚡LoggerPlugin [39m: 김가비: 진짜
+[35m⚡LoggerPlugin [39m: 박재건: 코스피
+코스피
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '172.17.0.2', family: 'IPv4', port: 53213, size: 13482 },
+  room: '박재건',
+  content: '코스피',
+  sender: { name: '박재건', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: false
+}
+코스피
+[ '코스피' ]
+[ 'Io', 'bZ', 'TC', 'xH' ]
+index
+[35m⚡LoggerPlugin [39m: LSH: 아 신규상장 업뎃하는게
+[35m⚡LoggerPlugin [39m: LSH: 고장났나봐요 ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 와
+[35m⚡LoggerPlugin [39m: LSH: 황서원
+[35m⚡LoggerPlugin [39m: LSH: 안봐도 
+[35m⚡LoggerPlugin [39m: MJ: 헉
+[35m⚡LoggerPlugin [39m: LSH: 개잘팔앗겟네
+[35m⚡LoggerPlugin [39m: LSH: 65000원종도에
+[35m⚡LoggerPlugin [39m: LSH: 팔앗겠네
+[35m⚡LoggerPlugin [39m: 허지은: 어어
+[35m⚡LoggerPlugin [39m: 황소원: 어케알았냐
+[35m⚡LoggerPlugin [39m: 허지은: 어케 알았니 저점매도를 잘 알아들었네
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 그정도면 쨩잘팔앗네
+[35m⚡LoggerPlugin [39m: 황소원: 67000원까지 가는거보고 심장철ㄹㅇ했는데
+[35m⚡LoggerPlugin [39m: 허지은: 아닌데 ㅠㅠㅠ막 68이랬는데
+[35m⚡LoggerPlugin [39m: 황소원: 더안오르더라
+[35m⚡LoggerPlugin [39m: LSH: 67200
+[35m⚡LoggerPlugin [39m: 허지은: 고민하는순간 내려가쁨
+[35m⚡LoggerPlugin [39m: LSH: 까지밖에 안올랏어용
+[35m⚡LoggerPlugin [39m: 허지은: 아 그래?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: LSH: 척보면 척이지
+[35m⚡LoggerPlugin [39m: LSH: 넹
+[35m⚡LoggerPlugin [39m: LSH: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: LSH: 얘가 젤 잘팔앗움
+[35m⚡LoggerPlugin [39m: LSH: 역시 
+[35m⚡LoggerPlugin [39m: LSH: 경험응 무시못하네
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ역시 
+[35m⚡LoggerPlugin [39m: LSH: 야 그럼 치킨값이아니라
+[35m⚡LoggerPlugin [39m: LSH: 족보세트인디?
+[35m⚡LoggerPlugin [39m: 허지은: 아니진짜 다들 대단하다
+[35m⚡LoggerPlugin [39m: LSH: 아침에 다시잠들어버린게 
+[35m⚡LoggerPlugin [39m: LSH: 5만원이나 버렷네 ㅜ
+[35m⚡LoggerPlugin [39m: 황소원: 족보세 ㅡ ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 개웃갸
+[35m⚡LoggerPlugin [39m: 황소원: 신나 ㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: LSH: 하 
+[35m⚡LoggerPlugin [39m: LSH: 세주있엇는데
+[35m⚡LoggerPlugin [39m: LSH: 다 51500에 팔앗어
+[35m⚡LoggerPlugin [39m: LSH: 어침에 다시잠들어서 ㅡㅡ
+[35m⚡LoggerPlugin [39m: LSH: 개짜증나
+[35m⚡LoggerPlugin [39m: LSH: 진짜
+[35m⚡LoggerPlugin [39m: LSH: 오맘원손해봄
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: ?
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,349.1
+[ 'Kt', 'uR', 'rs', 'MP' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: 코드로 검색하면 에러뜨더라
+[35m⚡LoggerPlugin [39m: 케이미넴: 011200
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: '011200',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '011200' ]
+  }
+]
+1
+error:123 Error: socket hang up
+    at connResetException (node:internal/errors:717:14)
+    at Socket.socketOnEnd (node:_http_client:526:23)
+    at Socket.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  code: 'ECONNRESET'
+}
+[35m⚡LoggerPlugin [39m: 케이미넴: 이제 안될거임ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 맛탱이감
+[35m⚡LoggerPlugin [39m: 케이미넴: Q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'Q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,349.1
+error: Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 허지은: 아 잠든거여? 어쩐지 연락이없더니
+[35m⚡LoggerPlugin [39m: 케이미넴: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '케이미넴',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+1,349.0
+error: Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 케이미넴: 봐바
+[35m⚡LoggerPlugin [39m: LSH: 아 목아파앙아ㅏ 하다가잠듬
+[35m⚡LoggerPlugin [39m: LSH: 아니 근데 누나
+[35m⚡LoggerPlugin [39m: 허지은: 병원가라
+[35m⚡LoggerPlugin [39m: LSH: 장염맞아요?
+[35m⚡LoggerPlugin [39m: LSH: 어제 
+[35m⚡LoggerPlugin [39m: LSH: 뉴스보니까
+[35m⚡LoggerPlugin [39m: LSH: 광주 기업 도시락업체
+[35m⚡LoggerPlugin [39m: LSH: 난리났던데
+[35m⚡LoggerPlugin [39m: 허지은: 아 우린아니야
+[35m⚡LoggerPlugin [39m: 허지은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 허지은: 우리회사아님
+[35m⚡LoggerPlugin [39m: LSH: 샵검색: #광주 식중독
+[35m⚡LoggerPlugin [39m: LSH: 아니면 말공
+[35m⚡LoggerPlugin [39m: LSH: ㅎㅎ
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 숫자로 검색하면
+[35m⚡LoggerPlugin [39m: 허지은: 근데 저기 어디지...........
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 고장난다니까 왜 고장내고
+[35m⚡LoggerPlugin [39m: 허지은: 궁금하다 우리 거기도 그쪽인데
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 고잔날거임 하는거지,,,
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: 5분있음 다시 괜찬ㄹ아짐,,,
+[35m⚡LoggerPlugin [39m: 말썽쟁이 네오: q amd
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '말썽쟁이 네오',
+      content: 'q amd',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AMD' ]
+  }
+]
+AMD
+1,348.6
+error: Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+nasdaq
+[35m⚡LoggerPlugin [39m: 하리보: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '하리보',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+[35m⚡LoggerPlugin [39m: 제원: 케팔 내부 
+[35m⚡LoggerPlugin [39m: 제원: ?
+[35m⚡LoggerPlugin [39m: 제원: 걍 뭐 요즘 차 같을걸
+[35m⚡LoggerPlugin [39m: 조영우: 이러다가
+[35m⚡LoggerPlugin [39m: 조영우: 사료 퍼먹게 생겼다
+[35m⚡LoggerPlugin [39m: 제원: 근데 케빠 이번에 커브드 디스플레이
+[35m⚡LoggerPlugin [39m: 제원: 그건 좀 땡기는데
+[35m⚡LoggerPlugin [39m: LSH: 고장 잘나
+[35m⚡LoggerPlugin [39m: LSH: 지영이 생각해보니까
+[35m⚡LoggerPlugin [39m: LSH: 영국이면 자고있겠네,,, 큰일이다
+[35m⚡LoggerPlugin [39m: 현우: 역겁다
+[35m⚡LoggerPlugin [39m: 제원: 아 근데 페리는 진짜 잘 모르겠네
+[35m⚡LoggerPlugin [39m: 제원: 근데 그렇다고 전 모델 사자니
+[35m⚡LoggerPlugin [39m: 제원: 손해 보는것 같고
+[35m⚡LoggerPlugin [39m: LSH: 그럼걍
+[35m⚡LoggerPlugin [39m: LSH: 페리되고사
+[35m⚡LoggerPlugin [39m: LSH: 근데 페리전 재고떨이
+[35m⚡LoggerPlugin [39m: LSH: 500할인을 한다면?
+[35m⚡LoggerPlugin [39m: 제원: 신차 살거야
+[35m⚡LoggerPlugin [39m: 제원: 근디
+[35m⚡LoggerPlugin [39m: 제원: 신차도 재고떨이 할인 함?
+[35m⚡LoggerPlugin [39m: LSH: ㅇㅇ
+[35m⚡LoggerPlugin [39m: LSH: 그때 케빠
+[35m⚡LoggerPlugin [39m: LSH: 기아로고 변경 전모델
+[35m⚡LoggerPlugin [39m: LSH: 거의 할인 1000가까이
+[35m⚡LoggerPlugin [39m: LSH: 들어갓음
+[35m⚡LoggerPlugin [39m: 제원: 근데 케빠 신차
+[35m⚡LoggerPlugin [39m: 제원: 아니 페리
+[35m⚡LoggerPlugin [39m: 제원: 뒷태 진짜
+[35m⚡LoggerPlugin [39m: LSH: 풀옵 2300이었나
+[35m⚡LoggerPlugin [39m: 제원: 에바긴 하다
+[35m⚡LoggerPlugin [39m: 제원: 무슨 메기 에디션도 아니고
+[35m⚡LoggerPlugin [39m: 제원: 싀발..
+[35m⚡LoggerPlugin [39m: 제원: 왜 저렇게 만든건지 이해가 안 되네
+[35m⚡LoggerPlugin [39m: 박남혁: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '박남혁',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: connect ECONNREFUSED 59.23.5.113:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '59.23.5.113',
+  port: 3000
+}
+[35m⚡LoggerPlugin [39m: 박남혁: ov
+[35m⚡LoggerPlugin [39m: 제원: 어캐 생각함 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 제원: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박남혁: 호우
+[35m⚡LoggerPlugin [39m: 박남혁: 음전
+[35m⚡LoggerPlugin [39m: 이ㅎ: 흠전
+[35m⚡LoggerPlugin [39m: LSH: 그랜져랑 lf쏘나타가
+[35m⚡LoggerPlugin [39m: LSH: 섞였노
+[35m⚡LoggerPlugin [39m: LSH: 스포티지도 보인다
+[35m⚡LoggerPlugin [39m: 제원: 아니 요즘 초딩도
+[35m⚡LoggerPlugin [39m: 제원: 저렇게 아이라인 안 내린다고
+[35m⚡LoggerPlugin [39m: LSH: 근데 실물이랑
+[35m⚡LoggerPlugin [39m: 제원: 뭔 메기 에디션도 아니고
+[35m⚡LoggerPlugin [39m: LSH: 느낌 ㅈㄴ다르니까
+[35m⚡LoggerPlugin [39m: LSH: 가서 보고
+[35m⚡LoggerPlugin [39m: LSH: ㄱㄱ
+[35m⚡LoggerPlugin [39m: 제원: 일단 존버가 맞지?
+[35m⚡LoggerPlugin [39m: 제원: 나 담주에 시승 가는데
+[35m⚡LoggerPlugin [39m: LSH: 보고정해
+[35m⚡LoggerPlugin [39m: 제원: 3째주에
+[35m⚡LoggerPlugin [39m: 제원: 나온다는데
+[35m⚡LoggerPlugin [39m: 제원: 일단 대기좀 해봐야겠다

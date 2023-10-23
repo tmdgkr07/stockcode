@@ -1,0 +1,17 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: hmm
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[35m⚡LoggerPlugin [39m: LSH: ㅂ aapl
+TypeError: nasdaq_name.find is not a function
+    at Server.<anonymous> (/home/ubuntu/remote/remote.js:487:35)
+    at Server.emit (/home/ubuntu/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/home/ubuntu/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)
+아마 중복떄문에 ? 
+TypeError: nasdaq_name.find is not a function
+    at Server.<anonymous> (/home/ubuntu/remote/remote.js:487:35)
+    at Server.emit (/home/ubuntu/remote/node_modules/eventemitter3/index.js:202:33)
+    at Socket.<anonymous> (/home/ubuntu/remote/node_modules/@remote-kakao/core/dist/server.js:50:30)
+    at Socket.emit (node:events:513:28)
+    at UDP.onMessage [as onmessage] (node:dgram:933:8)

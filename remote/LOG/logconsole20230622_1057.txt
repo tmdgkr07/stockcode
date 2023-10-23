@@ -1,0 +1,1327 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 종합부동산세에 대한 뉴스를 읽고 2023년에 바뀌는 종합부동산세 내용에 대해서 알려줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Thu, 22 Jun 2023 01:57:40 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '1471',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149954',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '18ms',
+    'x-request-id': 'b9fff6575baadd2e0dca288366f5011b',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7db0e1b3efd1c082-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 939
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 종합부동산세에 대한 뉴스를 읽고 2023년에 바뀌는 종합부동산세 내용에 대해서 알려줘"}],"functions":[{"name":"get_current_weather","description":"Get the current weather in a given location","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"},"unit":{"type":"string","enum":["celsius","fahrenheit"]}},"required":["location"]}},{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}},{"name":"news","description":"뉴스를 검색합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 939,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 88,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 939\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 939,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7U3rmh8EeKWavHEtEYBkepJe8fVm6',
+    object: 'chat.completion',
+    created: 1687399058,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 189, completion_tokens: 29, total_tokens: 218 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'news',
+    arguments: '{\n  "search_txt": "종합부동산세 2023년 변경"\n}'
+  }
+}
+종합부동산세 2023년 변경
+https://openapi.naver.com/v1/search/news.json?query=%EC%A2%85%ED%95%A9%EB%B6%80%EB%8F%99%EC%82%B0%EC%84%B8%202023%EB%85%84%20%EB%B3%80%EA%B2%BD&display=100&sort=sim
+{
+	"lastBuildDate":"Thu, 22 Jun 2023 10:57:40 +0900",
+	"total":540,
+	"start":1,
+	"display":100,
+	"items":[
+		{
+			"title":"다주택자 양도세 중과 배제 1년 연장…일시적 2주택자 양도 기한 3년으로 완화...",
+			"originallink":"https:\/\/www.khan.co.kr\/economy\/economy-general\/article\/202306212211005",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/032\/0003231397?sid=101",
+			"description":"<b>2023년<\/b> 1월1일 이후 증여분부터는 증여일로부터 10년 이내에 양도할 때 증여자의 최초 취득가액을 적용한 과세로 적용기간을 확대해 양도세 회피 방지를 강화했습니다. Q. <b>종합부동산세<\/b>에 대한 개정 규정 중에서... ",
+			"pubDate":"Wed, 21 Jun 2023 22:17:00 +0900"
+		},
+		{
+			"title":"[절세톡톡] 주택분 재산세 내는 오피스텔, 이것 때문에 종부세 폭탄",
+			"originallink":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=43185",
+			"link":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=43185",
+			"description":"<b>2023년<\/b>부터 시행되는 <b>종합부동산세<\/b>의 세율은 &apos;2주택이하(일반세율)&apos;와 &apos;3주택 이상(과세표준 12억 초과시... 관할구청에서 주택분재산세를 건축물분재산세로 <b>변경<\/b>해주면 모두 해결이 됩니다. 오피스텔이 공실이면 당연히... ",
+			"pubDate":"Thu, 22 Jun 2023 08:10:00 +0900"
+		},
+		{
+			"title":"2주택ㆍ다주택자 세금 부담 낮아진다...<b>2023년 변경<\/b>된 <b>부동산 세<\/b>금 제도",
+			"originallink":"https:\/\/www.ajunews.com\/view\/20230519110408262",
+			"link":"https:\/\/www.ajunews.com\/view\/20230519110408262",
+			"description":"아주경제가 지난 3월 시행규칙 개정사항을 반영한 <b>2023년<\/b> 달라진 <b>부동산 세<\/b>금 제도를 정리했다. ◇ 취득세... ◇종부세 기본공제액 9억으로 상향…다주택자 중과도 폐지 올 6월부터 <b>종합부동산세<\/b> 기본공제금액이... ",
+			"pubDate":"Fri, 19 May 2023 11:56:00 +0900"
+		},
+		{
+			"title":"<b>종합부동산세<\/b> 완화, 타당하기만 할까",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2023050311042942593",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004882787?sid=101",
+			"description":"부동산과 관련된 대표적 세금은 종부세(<b>종합부동산세<\/b>), 재산세, 양도소득세다. 2022년부터 종부세, 법인세 등... <b>2023년<\/b> 3월 22일 국토부 공시가 공개 자료를 보면 역대 최대 아파트 공시가격 하락률을 기록했다. 18.6% 하락은... ",
+			"pubDate":"Wed, 03 May 2023 11:17:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 알아둘 세제 변화",
+			"originallink":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199581",
+			"link":"https:\/\/www.ccdailynews.com\/news\/articleView.html?idxno=2199581",
+			"description":"<b>2023년<\/b> 알아둘 세제 변화에는 어떤 것이 있을까? 우선 부동산 시장 안정화를 위한 <b>종합 부동산 세<\/b>제가... 이상으로 <b>변경<\/b>됐다. 가업승계 관련해서도 원활한 가업승계를 위해 대상기업을 매출액 4천억 미만 중견기업에서... ",
+			"pubDate":"Wed, 19 Apr 2023 17:58:00 +0900"
+		},
+		{
+			"title":"[황지환의 稅톡] 올해 바뀌는 <b>종합부동산세<\/b>의 모든 것",
+			"originallink":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2023022012554763003891d139ac_30",
+			"link":"http:\/\/www.beyondpost.co.kr\/view.php?ud=2023022012554763003891d139ac_30",
+			"description":"<b>2023년 변경<\/b>되는 세법을 정리해 보았습니다. 많은 분들이 궁금해하시는 <b>종합부동산세<\/b> 관련된 개정사항을 중심으로 살펴보겠습니다. 첫째, <b>종합부동산세<\/b> 기본공제금이 상향됩니다. 1주택자는 기본공제금이 11억원에서... ",
+			"pubDate":"Mon, 20 Feb 2023 12:58:00 +0900"
+		},
+		{
+			"title":"공시가격 하락에 <b>부동산세<\/b> 감소… &quot;집값 자극 가능성 낮아&quot;",
+			"originallink":"http:\/\/moneys.mt.co.kr\/news\/mwView.php?no=2023032217321495897",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/417\/0000906072?sid=101",
+			"description":"지난해 대비 전국 평균 18.61% 하락하면서 보유세(재산세·<b>종합부동산세<\/b>) 부담은 대폭 줄어들 전망이다.... 이번에 발표된 공동주택 공시가격은 한국부동산원이 지난해 말 기준으로 산정한 시세에 <b>2023년<\/b> 공시가격... ",
+			"pubDate":"Thu, 23 Mar 2023 06:30:00 +0900"
+		},
+		{
+			"title":"LH, <b>종합부동산세<\/b> 감면액 136억원 모두 서민주거안정에 재투자한다",
+			"originallink":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12681",
+			"link":"http:\/\/www.public25.com\/news\/articleView.html?idxno=12681",
+			"description":"연합뉴스 한국토지주택공사(LH)는 정부의 <b>종합부동산세<\/b> 감면으로 예상되는 136억원의 절세액을 임대료... 여기에 <b>2023년<\/b>과 2024년 2년간 지원액 1208억원으로 더하면 모두 2162억원을 지원하게 된다. 이한준 LH 사장은... ",
+			"pubDate":"Thu, 02 Feb 2023 10:38:00 +0900"
+		},
+		{
+			"title":"[칼럼] <b>2023년<\/b> <b>부동산세<\/b>제 이렇게 달라집니다",
+			"originallink":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=198426",
+			"link":"http:\/\/www.goodkyung.com\/news\/articleView.html?idxno=198426",
+			"description":"저물고 <b>2023년<\/b> 새해가 밝았다. 세제분야도 다이나믹한 일들이 많았는데 올해도 역시 다양한 내용들이 <b>변경<\/b>... <b>종합부동산세<\/b>가 과세되는 기준일인 <b>2023년<\/b> 6월1일부터 기본공제금액이 1주택자는 11억원에서 12억원으로... ",
+			"pubDate":"Wed, 25 Jan 2023 06:02:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 바뀌는 것들…‘만 나이’ 적용, 영유아 양육수당, 소비기한 등 제도 ...",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01239846632564096",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005397374?sid=102",
+			"description":"<b>2023년<\/b> 계묘년 새해에는 6월 28일부터 전 국민이 ‘만(滿) 나이’를 적용받게 된다. 이외 0세 영유아 양육수당, 최저임금 9620원, <b>종합부동산세<\/b> 기본공제액 9억원으로 상향 등 바뀌는 부분을 정리했다. ‘만 나이 통일’... ",
+			"pubDate":"Sat, 31 Dec 2022 09:39:00 +0900"
+		},
+		{
+			"title":"[전문가 기고] <b>2023년 변경<\/b>되는 부동산정책",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=976955",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=976955",
+			"description":"다주택자들을 힘들게 했던 <b>종합부동산세<\/b>도 대폭 완화된다. 1주택자 과세표준 기준을 11억원에서... 국회 통과과정에서 일부 내용이 <b>변경<\/b>될 수는 있지만 <b>2023년<\/b> 많은 부동산정책이 바뀌고 금리변화 등 변수에 따라... ",
+			"pubDate":"Tue, 03 Jan 2023 11:14:00 +0900"
+		},
+		{
+			"title":"[퍼즐] <b>2023년<\/b> 내 집 마련 계획있다면 반드시 알아둘 것",
+			"originallink":"https:\/\/www.joongang.co.kr\/article\/25135287",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/025\/0003254856?sid=101",
+			"description":"부동산 트렌드 NOW(7) <b>2023년<\/b> 달라지는 부동산 제도의 핵심은 거래부담을 줄여 매물이 출현할 수 있도록 함과... (3) 세제 개편 및 기타 제도 <b>변경 종합부동산세<\/b> <b>종합부동산세<\/b> 기본공제금액이 12억으로 상향되고... ",
+			"pubDate":"Sat, 21 Jan 2023 10:00:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b>부터 달라지는 것들…근로·자녀장려금 10% 수준 인상",
+			"originallink":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=39142",
+			"link":"https:\/\/www.ibuan.com\/news\/articleView.html?idxno=39142",
+			"description":"정부는 지난 3일 <b>2023년<\/b>부터 달라지는 249건의 법과 제도를 발표했다. 이번 정책 변화는 코로나19와... ▲ <b>종합부동산세<\/b> 세율 인하 <b>종합부동산세<\/b> 세 부담 적정화를 위해 주택분 <b>종합부동산세<\/b> 세율을 2주택 과표 12억원... ",
+			"pubDate":"Fri, 13 Jan 2023 11:50:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 달라진 부동산 청약·세제[복덕방기자들]",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=03056966635477064",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005405135?sid=101",
+			"description":"적용했으나, <b>2023년<\/b> 증여분부터는 시가인정액으로 취득가액이 매겨진다. 시가인정액은 취득일 전 6개월부터... <b>종합부동산세<\/b> 세부담 상한율도 일원화된다. 주택 수에 따라 다르게 적용해왔던 세부담 상한율이 150%로... ",
+			"pubDate":"Thu, 12 Jan 2023 16:40:00 +0900"
+		},
+		{
+			"title":"[아유경제_헤드라인] <b>2023년<\/b> 계묘년 달라지는 부동산 제도 &apos;알아보기&apos;",
+			"originallink":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75544",
+			"link":"http:\/\/www.areyou.co.kr\/news\/articleView.html?idxno=75544",
+			"description":"<b>2023년<\/b> 부동산 제도가 어떻게 달라지는지에 시장의 눈과 귀가 모이고 있다. 윤석열 정부의 부동산 정책은... <b>종합부동산세<\/b>(이하 종부세) 기본공제금액이 6억 원에서 9억 원으로 상향 조정됨에 따라 세부담이 대폭... ",
+			"pubDate":"Tue, 17 Jan 2023 18:14:00 +0900"
+		},
+		{
+			"title":"&apos;만 나이&apos;로 통일·2주택자 종부세 중과 폐지…<b>2023년<\/b> 달라지는 것",
+			"originallink":"http:\/\/news.mt.co.kr\/mtview.php?no=2022123014480169338",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/008\/0004834925?sid=101",
+			"description":"소득세·법인세·<b>종합부동산세<\/b> 등의 부담이 완화된다. 2주택자는 종부세 중과세율을 더 이상 적용받지... <b>2023년<\/b> 변하는 주요 제도를 분야별로 정리했다. ◇행정·고용·보건복지 ○만(滿) 나이 시행 : 2022년 12월 27일... ",
+			"pubDate":"Sat, 31 Dec 2022 06:30:00 +0900"
+		},
+		{
+			"title":"구재이 세무사, &apos;<b>2023년<\/b> 달라지는 세금제도&apos; 총정리 ①",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=475071&class=7&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002294263?sid=101",
+			"description":"구재이 세무사가 &apos;2022개정세법&apos;을 중심으로 <b>2023년<\/b> 시행되거나 변동되는 국세와 지방세의 주요 세법... ❍ (국세기본법) 정부의 부과 고지로 종부세 납부한 경우도 경정청구 가능 : <b>종합부동산세<\/b>는 합산배제 신고를... ",
+			"pubDate":"Tue, 03 Jan 2023 11:01:00 +0900"
+		},
+		{
+			"title":"[신년기획] &apos;만 나이 통일&apos;부터 &apos;소비기한 표시&apos;까지 <b>2023년<\/b> 달라지는 제도",
+			"originallink":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=137925",
+			"link":"http:\/\/www.ngonews.kr\/news\/articleView.html?idxno=137925",
+			"description":"유통기한 도입 이후 38년 만에 소비기한으로 표시 <b>변경<\/b> &apos;유통기한&apos;이 도입 이후 38년 만에 &apos;소비기한&apos;으로... <b>종합부동산세<\/b> 기본공제 공시가 인상···생애 최초 주택 구입자 취득세 면제 <b>2023년<\/b>에 <b>종합부동산세<\/b>(이하... ",
+			"pubDate":"Sat, 31 Dec 2022 19:32:00 +0900"
+		},
+		{
+			"title":"[<b>2023년<\/b> 세법시행령] 매출 5000억 미만 &apos;중견기업&apos;, 최대주주 할증과세 안 한...",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=476328&class=7&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002295452?sid=101",
+			"description":"한편, <b>종합부동산세<\/b>법 시행령 개정을 통해 종부세 합산배제 사원용 주택의 가액요건은 종전 공시가격 3억원... 연부연납 <b>변경<\/b> 허가, 연부연납가산금의 가산율 ■ 가업 승계 시 상속세 납부유예 신청 및 허가 절차 등 신설... ",
+			"pubDate":"Wed, 18 Jan 2023 15:04:00 +0900"
+		},
+		{
+			"title":"[기고] <b>2023년<\/b> 부동산정책 어떻게 바뀌나",
+			"originallink":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1646022",
+			"link":"http:\/\/www.shinailbo.co.kr\/news\/articleView.html?idxno=1646022",
+			"description":"다주택자들을 힘들게 했던 <b>종합부동산세<\/b>도 대폭 완화된다. 1주택자 과세표준 기준이 11억원에서... 국회 통과 과정에서 일부 내용이 <b>변경<\/b>될 수는 있지만 <b>2023년<\/b> 많은 부동산정책이 바뀌고 금리 변화 등 변수에 따라... ",
+			"pubDate":"Thu, 05 Jan 2023 10:46:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 부동산 규제 이렇게 풀린다… 재건축 안전진단 완화·세금 감면이 핵심",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10600439",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005072496?sid=004",
+			"description":"<b>2023년<\/b>에는 고정금리 정책금융상품인 보금자리론을 기존 6억원 이하 주택에서 9억원 이하 주택까지 확대 운영할 방침이다. 대출 한도도 최대 3억6000만원에서 5억원으로 늘어난다. <b>종합부동산세<\/b>의 경우 국회에서 관련법... ",
+			"pubDate":"Tue, 10 Jan 2023 11:01:00 +0900"
+		},
+		{
+			"title":"올해부터 차선 밟고 주행하면 벌점...&apos;<b>2023년<\/b>부터 이렇게 달라집니다&apos; 책자 발...",
+			"originallink":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=668039",
+			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=668039",
+			"description":"기획재정부는 올해부터 달라지는 제도와 법규사항 등을 알기 쉽게 정리한 &apos;<b>2023년<\/b>부터 이렇게 달라집니다... <b>종합부동산세<\/b> 세 부담 적정화를 위해 주택분 <b>종합부동산세<\/b> 세율 인하및 기본 공제금액 상향된다. 2월에는... ",
+			"pubDate":"Thu, 05 Jan 2023 15:34:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b>에는 무엇이 변할까?",
+			"originallink":"http:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=3377",
+			"link":"http:\/\/www.newswhoplus.com\/news\/articleView.html?idxno=3377",
+			"description":"<b>종합부동산세<\/b> 이른바 종부세 기본공제금액이 6억 원에서 9억 원으로 상향된다. 즉 보유 주택의 합이 9억 원... 기한으로 <b>변경<\/b>한 것이다. 가령 영·유아용 이유식은 그동안 30일이었는데 <b>2023년<\/b>에는 46일 된다. 빵의... ",
+			"pubDate":"Sat, 31 Dec 2022 17:18:00 +0900"
+		},
+		{
+			"title":"“대출·세금·청약 등 손질”…<b>2023년<\/b> 달라지는 부동산 제도는?",
+			"originallink":"https:\/\/www.dailian.co.kr\/news\/view\/1184486\/?sc=Naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/119\/0002667887?sid=101",
+			"description":"계도기간이 종료되는 <b>2023년<\/b> 6월1일부터는 신고 기한 내 신고하지 않거나, 거짓 신고할 경우 100만원 이하의 과태료가 부과될 수 있으니 주의해야 한다. ▲ <b>종합부동산세<\/b> 기본공제금액 상향 종부세 기본공제금액이... ",
+			"pubDate":"Sun, 18 Dec 2022 05:05:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 달라지는 &apos;부동산 제도&apos;",
+			"originallink":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=737203",
+			"link":"http:\/\/www.dtnews24.com\/news\/articleView.html?idxno=737203",
+			"description":"계도기간이 종료되는 <b>2023년<\/b> 6월 1일부터는 신고 기한 내 신고하지 않거나, 거짓 신고할 경우 100만원 이하의 과태료가 부과될 수 있으니 주의해야 한다. ▲ <b>종합부동산세<\/b> 기본공제금액 상향 종부세 기본공제금액이 6억... ",
+			"pubDate":"Thu, 15 Dec 2022 10:46:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 달라지는 부동산 제도는?",
+			"originallink":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=953344",
+			"link":"http:\/\/www.ggilbo.com\/news\/articleView.html?idxno=953344",
+			"description":"<b>2023년<\/b> 연말정산 분부터 총 급여 5500만 원 이하(<b>종합<\/b>소득금액 4500만 원 이하)인 무주택 근로자 및... 이밖에도 6월부터 ▲주택임대차 신고제도 계도기간 종료 ▲<b>종합부동산세<\/b> 기본공제금액 상향 ▲2주택자 <b>종합부동산세<\/b>... ",
+			"pubDate":"Wed, 28 Dec 2022 16:00:00 +0900"
+		},
+		{
+			"title":"기재부, &quot;<b>2023년<\/b>부터 이렇게 달라집니다&quot; 책자 발간... 36개 정부기관 249건 ...",
+			"originallink":"https:\/\/idsn.co.kr\/news\/view\/1065598786143177",
+			"link":"https:\/\/idsn.co.kr\/news\/view\/1065598786143177",
+			"description":"▲소비기한 표시제 본격 시행 예시 (사진=기획재정부) 정부가 <b>2023년<\/b>부터 달라지는 제도와 법규사항 등을... 또한 종부세 세 부담 적정화를 위해 주택분 <b>종합부동산세<\/b> 세율 인하및 기본 공제금액 상향된다.2월에는... ",
+			"pubDate":"Thu, 05 Jan 2023 17:32:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 새해 달라지는 것들",
+			"originallink":"http:\/\/www.newstof.com\/news\/articleView.html?idxno=12936",
+			"link":"http:\/\/www.newstof.com\/news\/articleView.html?idxno=12936",
+			"description":"<b>2023년<\/b>에는 &apos;나이세는 법&apos;과 &apos;소비기한&apos; 등 꼭 알아두어야 할 &apos;<b>변경<\/b>사항&apos;들이 적지 않습니다. 뉴스톱이... 이미지 출처: 픽사베이 ■ 종부세 인하, 소득세 경감 <b>종합부동산세<\/b> 기본공제액이 기존 6억 원에서 9억 원으로... ",
+			"pubDate":"Mon, 02 Jan 2023 18:20:00 +0900"
+		},
+		{
+			"title":"[원단 칼럼] 희망의 <b>2023년<\/b>, 세제와 세정의 변화를 기대한다",
+			"originallink":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=41003",
+			"link":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=41003",
+			"description":"<b>2023년<\/b>도 예산안이 통과되었는데, 세입예산안 부수법안으로 지정된 소득세법, 법인세법, <b>종합부동산세<\/b>법 등... 2024년 4월 10일에 실시될 예정인 제22대 국회의원 선거결과에 따라 여소야대의 정치적 지형이 <b>변경<\/b>될 수도... ",
+			"pubDate":"Sun, 01 Jan 2023 09:28:00 +0900"
+		},
+		{
+			"title":"구재이 세무사, &apos;<b>2023년<\/b> 달라지는 세금제도&apos; 총정리 ②",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=475072&class=7&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002294264?sid=101",
+			"description":"및 <b>종합부동산세<\/b>의 법정기일이 임차인의 확정일자보다 늦은 것이 확인되면 배분예정액에 한해서... 연장하되, <b>2023년<\/b>부터는 모든 대기업이 아니라 「독점규제 및 공정거래에 관한 법률」 에 따른... ",
+			"pubDate":"Tue, 03 Jan 2023 11:02:00 +0900"
+		},
+		{
+			"title":"다주택자 숨통 트인다…<b>2023년<\/b> 달라지는 <b>부동산 세<\/b>금 제도",
+			"originallink":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/12\/26\/2022122600538.html",
+			"link":"https:\/\/realty.chosun.com\/site\/data\/html_dir\/2022\/12\/26\/2022122600538.html",
+			"description":"땅집고가 <b>2023년<\/b> 새해 달라지는 주요 부동산 제도를 분야별로 살펴본다. 첫번째로 <b>부동산 세<\/b>제 개편에 따른 제도 변화를 알아봤다. ■ 종부세 기본공제 ‘6억→9억’…다주택자 취득세 중과세 완화 추진 <b>종합부동산세<\/b>... ",
+			"pubDate":"Mon, 26 Dec 2022 11:32:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 달라지는 부동산 제도…<b>부동산 세<\/b>제 변화 &apos;확연&apos;",
+			"originallink":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=525858",
+			"link":"https:\/\/www.cstimes.com\/news\/articleView.html?idxno=525858",
+			"description":"컨슈머타임스=장용준 기자 | <b>2023년<\/b> 계묘년에는 침체된 부동산 시장을 활성화시키기 위한 <b>부동산 세<\/b>제의... <b>종합부동산세<\/b> 기본공제금액도 기존 6억원에서 9억원으로 올라간다. 보유한 주택 공시가격 합산액이 9억원... ",
+			"pubDate":"Tue, 03 Jan 2023 13:02:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 새해, 알아두면 쓸모있는 것들",
+			"originallink":"http:\/\/www.joygm.com\/news\/articleView.html?idxno=201228",
+			"link":"http:\/\/www.joygm.com\/news\/articleView.html?idxno=201228",
+			"description":"광명지역신문&gt; <b>2023년<\/b> 새해가 밝았습니다. 올해부터 신설되거나 달라지는 제도는 무엇일까요. 알아두면... 6월부터 <b>종합부동산세<\/b> 공제금액이 6억원에서 9억원으로 <b>변경<\/b>되어 보유 주택의 공시가격 합산액이 9억원... ",
+			"pubDate":"Sun, 01 Jan 2023 11:54:00 +0900"
+		},
+		{
+			"title":"&quot;알고 갑시다&quot; <b>2023년<\/b> 새해 달라지는 것들",
+			"originallink":"http:\/\/www.jibs.co.kr\/news\/articles\/articlesDetail\/27548?feed=na",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/661\/0000018165?sid=103",
+			"description":"<b>2023년<\/b> 새해 달라지는 것들을 간략하게 핵심만 뽑아 정리해봤습니다. 제주에만 적용되는 분야는 [제주]... 7%)로 <b>종합부동산세<\/b>(종부세)를 냅니다. 3주택 이상 다주택자도 과세표준(과표) 12억 원 이하는 중과 대상에서... ",
+			"pubDate":"Fri, 30 Dec 2022 11:43:00 +0900"
+		},
+		{
+			"title":"미리 보는 <b>2023년<\/b> 세법개정안, 금투세 ‘갑론을박’에 종부세 인하도 ‘오리무...",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10556743",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0005055582?sid=004",
+			"description":"<b>2023년<\/b>이 한 달 앞으로 다가왔다. 세금은 물론 투자환경에 큰 영향을 끼치는 세제개편안을 다시 꺼내볼... 다주택자의 <b>종합부동산세<\/b>가 많이 낮아질 것으로 예상된다. <b>종합부동산세<\/b> 계산 시 다주택자란 조정대상지역의... ",
+			"pubDate":"Mon, 05 Dec 2022 16:35:00 +0900"
+		},
+		{
+			"title":"[<b>2023년<\/b> 부동산 제도] 증여세·취득세 부담 늘어난다…종부세는 완화",
+			"originallink":"https:\/\/biz.sbs.co.kr\/article_hub\/20000093852?division=NAVER",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/374\/0000314546?sid=101",
+			"description":"<b>2023년<\/b> 새해에는 <b>부동산 세<\/b>금 변화가 이뤄집니다. 부동산R114는 내년부터 달라지는 부동산 제도를 정리해 15일 발표했습니다. 우선 1월에는 부동산 취득세 과세표준이 실거래가로 <b>변경<\/b>됩니다. 개인이 유상으로 부동산을... ",
+			"pubDate":"Thu, 15 Dec 2022 11:26:00 +0900"
+		},
+		{
+			"title":"&apos;대출·청약&apos; <b>2023년<\/b> 달라지는 부동산 제도는?",
+			"originallink":"http:\/\/www.mediapen.com\/news\/view\/779361",
+			"link":"http:\/\/www.mediapen.com\/news\/view\/779361",
+			"description":"주택임대차 신고제도 계도기간은 <b>2023년<\/b> 5월 말에 종료된다. 6월 1일부터는 신고 기한 내 신고하지 않거나 거짓 신고할 경우 100만원 이하의 과태료가 부과될 수 있다. 또한 6월부터 <b>종합부동산세<\/b> 기본공제금액이... ",
+			"pubDate":"Mon, 19 Dec 2022 13:44:00 +0900"
+		},
+		{
+			"title":"[전문] <b>2023년<\/b> 예산안 합의문…정부안 대비 4.6조 감액·법인세 전구간 1%p↓",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20221222000930",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20221222000930",
+			"description":"7) 용산공원조성사업은 &apos;용산공원조성 및 위해성저감사업&apos;으로 명칭을 <b>변경<\/b> 후 추진한다. 2. <b>2023년<\/b>도... 3) <b>종합부동산세<\/b>, 공제금액을 9억원(1세대 1주택자는 12억원)으로 하고, 세율은 조정대상지역 여부와 무관하게... ",
+			"pubDate":"Thu, 22 Dec 2022 17:45:00 +0900"
+		},
+		{
+			"title":"‘638.7조’ 尹 첫 예산안, 성탄 전날 국회 문턱 넘었다 (<b>종합<\/b>)",
+			"originallink":"http:\/\/www.edaily.co.kr\/news\/newspath.asp?newsid=01102086632561800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/018\/0005393354?sid=100",
+			"description":"인하하고 <b>종합부동산세<\/b> 기준이 완화되는 등 세제 개편도 이뤄졌다. 24일 새벽 국회 본회의에서 <b>2023년<\/b>도... 명칭을 <b>변경<\/b>해 예산이 반영됐다. 아울러 행정안전부 경찰국과 법무부 인사정보관리단 등 이른바 ‘시행령... ",
+			"pubDate":"Sat, 24 Dec 2022 01:50:00 +0900"
+		},
+		{
+			"title":"장수군, <b>2023년<\/b> 개별주택 특성조사 실시",
+			"originallink":"http:\/\/www.domin.co.kr\/news\/articleView.html?idxno=1402685",
+			"link":"http:\/\/www.domin.co.kr\/news\/articleView.html?idxno=1402685",
+			"description":"장수군청 장수군은 <b>2023년<\/b>도 개별주택가격산정을 위해 12월 16일까지 관내 단독· 다가구·복합용도 주택 등... 조용호 재무과장은 &quot;공시된 개별주택가격은 지방세인 취득세, 재산세(주택)의 과표와 국세인 <b>종합부동산세<\/b>... ",
+			"pubDate":"Thu, 10 Nov 2022 20:11:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b> 본예산의 빈틈… 기재부에 던진 세가지 질문",
+			"originallink":"https:\/\/www.thescoop.co.kr\/news\/articleView.html?idxno=55482",
+			"link":"https:\/\/www.thescoop.co.kr\/news\/articleView.html?idxno=55482",
+			"description":"# 지난 8월 30일 기획재정부는 <b>2023년<\/b> 예산안을 발표했다. 내년 한해 예산의 방향성을 국민에게 공개한... <b>종합부동산세<\/b> 감소에 따라 종부세를 재원으로 하는 부동산교부세가 줄어든 거다. 자! <b>종합<\/b>해보자. 감액된... ",
+			"pubDate":"Mon, 03 Oct 2022 09:26:00 +0900"
+		},
+		{
+			"title":"조정대상지역 해제 전 경매 낙찰 받은 주택, 2년 거주해야 양도세 비과세[도와...",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29QSTUNRSC",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004200141?sid=101",
+			"description":"그래서 공용부분 체납관리비에 대한 실무적 <b>변경<\/b>이 될 수도 있을 것으로 보인다. 대법원 판례를 참고로... 그리고 2024년에 적용될 세제 개편안이 <b>2023년<\/b> 7월에 나올 예정인데, 올해 세제 개편안에서는 <b>종합부동산세<\/b>의... ",
+			"pubDate":"Sat, 10 Jun 2023 06:01:00 +0900"
+		},
+		{
+			"title":"시행령 정치, 윤석열 정부의 시행령 전수조사 해보니",
+			"originallink":"https:\/\/www.sisain.co.kr\/news\/articleView.html?idxno=50369",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/308\/0000032760?sid=100",
+			"description":"결과(<b>2023년<\/b> 5월10일 오후 7시 기준), 윤석열 정부는 총 1042건(2022년 5월10일~<b>2023년<\/b> 5월10일)으로 확인됐다. 문재인... <b>종합부동산세<\/b>법 시행령도 고쳐 주택분 종부세 공정시장가액비율을 100%에서 60%로 낮췄다. 일시적 2주택 등... ",
+			"pubDate":"Wed, 31 May 2023 07:09:00 +0900"
+		},
+		{
+			"title":"과세표준이 5억원인 중소기업의 법인세는 얼마",
+			"originallink":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=29216",
+			"link":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=29216",
+			"description":"<b>변경<\/b>된 세율은 <b>2023년<\/b> 귀속분 <b>종합부동산세<\/b>부터 적용될 예정이다. 특수관계자에게 증여받은 자산을 5년내 양도시 양도차익을 계산할 때, 증여 당시의 증여가액이 아닌 증여자의 취득 당시의 취득가액을 적용... ",
+			"pubDate":"Thu, 01 Sep 2022 09:02:00 +0900"
+		},
+		{
+			"title":"정부·지자체 컨설팅 나선 감사원… “329건 접수·처리로 적극행정 지원”",
+			"originallink":"http:\/\/www.segye.com\/content\/html\/2023\/05\/25\/20230525512620.html?OutUrl=naver",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/022\/0003816404?sid=100",
+			"description":"기초단체·공공기관도 신청 가능 “<b>2023년<\/b> 중 ‘찾아가는 컨설팅’ 실시해 공직사회 적극행정 수행 지원할 것” #1. 국세청은 상속 주택 세법해석 <b>변경<\/b>에 따라 2019∼2021년 귀속 <b>종합부동산세<\/b> 직권 환급이 가능한지 고민에... ",
+			"pubDate":"Thu, 25 May 2023 14:03:00 +0900"
+		},
+		{
+			"title":"’고물가·저성장’ 복합위기, 13兆 감세로 응급처방…14년 만에 최대 세제지...",
+			"originallink":"https:\/\/biz.chosun.com\/policy\/policy_sub\/2022\/07\/21\/GXCO4FAHUNHILKYYIXFUYBN45U\/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/366\/0000829098?sid=101",
+			"description":"금융투자소득세 도입은 2년 유예해 <b>2023년<\/b>이 아닌 2025년부터 시행하도록 한다. 인플레이션으로 인한 증시... 적용하던 <b>종합부동산세<\/b>는 주택 수 대신 ‘집 값’을 기준으로 세금을 부과하는 방식으로 <b>변경<\/b>된다. 주택... ",
+			"pubDate":"Thu, 21 Jul 2022 16:01:00 +0900"
+		},
+		{
+			"title":"구리시, &apos;주거용 오피스텔&apos; 현황신고 기간 운영",
+			"originallink":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2731470",
+			"link":"https:\/\/www.gukjenews.com\/news\/articleView.html?idxno=2731470",
+			"description":"구리시는 <b>2023년<\/b> 정기분 재산세 부과에 앞서 6월 1일부터 6월 15일까지 주거용 오피스텔 과세대상 변동 신고... 주거용으로 <b>변경<\/b>할 경우, 재산세 절세 효과는 있지만 타 세금과 관련된 유의사항(양도소득세, <b>종합부동산세<\/b>에... ",
+			"pubDate":"Wed, 31 May 2023 18:54:00 +0900"
+		},
+		{
+			"title":"대선 앞두고 꼼수?…다급한 민주당, <b>부동산세<\/b> 완화대책 쏟아냈다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=1147700&year=2021",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004896527?sid=154",
+			"description":"재산세·<b>종합부동산세<\/b> 등 산정에 올해 공시가격 적용과 세금 상한선 및 공정시장가액비율 조정을... 내년엔 종부세와 재산세가 줄어들겠지만 <b>2023년<\/b>에는 2년간 상승한 공시가격이 한꺼번에 반영되면 올해보다 더 큰 세... ",
+			"pubDate":"Mon, 20 Dec 2021 17:52:00 +0900"
+		},
+		{
+			"title":"구리시, 주거용 오피스텔 현황신고 기간 운영",
+			"originallink":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=401124",
+			"link":"https:\/\/www.kmaeil.com\/news\/articleView.html?idxno=401124",
+			"description":"구리시는 <b>2023년<\/b> 정기분 재산세 부과에 앞서 6월 1일부터 6월 15일까지 주거용 오피스텔 과세대상 변동 신고... 주거용으로 <b>변경<\/b>할 경우, 재산세 절세 효과는 있지만 타 세금과 관련된 유의사항(양도소득세, <b>종합부동산세<\/b>에... ",
+			"pubDate":"Wed, 31 May 2023 18:06:00 +0900"
+		},
+		{
+			"title":"[이번 주 국회에서는] &apos;후쿠시마 오염수 방류 관련 현안질의&apos; 등 4개 상임(특...",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=231451",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=231451",
+			"description":"주제로 &apos;<b>2023년<\/b> 한반도 난청포럼&apos;을 개최한다. 지난주 신규 공개된 국민동의청원 8건 지난주 공개된 청원... 지방세법, <b>종합부동산세<\/b>법상 근거에 따른 주택수 제외에 관한 청원 △청소년보호법 개정에 관한 청원... ",
+			"pubDate":"Mon, 05 Jun 2023 13:38:00 +0900"
+		},
+		{
+			"title":"구리시, 6월 1일 기준 &apos;주거용 오피스텔 현황&apos; 신고 기간 운영",
+			"originallink":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1018135",
+			"link":"http:\/\/www.m-i.kr\/news\/articleView.html?idxno=1018135",
+			"description":"매일일보 = 김동환 기자  |  구리시가 <b>2023년<\/b> 정기분 재산세 부과에 앞서 6월 1일부터 6월 15일까지 주거용... 주거용으로 <b>변경<\/b>할 경우, 재산세 절세 효과는 있지만 타 세금과 관련된 유의사항(양도소득세, <b>종합부동산세<\/b>에... ",
+			"pubDate":"Wed, 31 May 2023 16:08:00 +0900"
+		},
+		{
+			"title":"[전문가칼럼] <b>2023년<\/b> 취득세 개정 예정, 증여는 2022년까지 서둘러야",
+			"originallink":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=113661",
+			"link":"https:\/\/www.tfmedia.co.kr\/news\/article.html?no=113661",
+			"description":"다만, 대국민 홍보기간, 신고납부시기 <b>변경<\/b> 및 시가자료 구축 등을 고려하여 <b>2023년<\/b>부터 시행할 예정이라고... 취득세뿐만 아니라 재산세와 <b>종합부동산세<\/b>의 과세표준이 이 공시지가를 통해서 이루어지므로 최근 5년간... ",
+			"pubDate":"Mon, 18 Oct 2021 07:22:00 +0900"
+		},
+		{
+			"title":"구리시, 주거용 오피스텔 변동 신고 기간 운영",
+			"originallink":"https:\/\/www.viva100.com\/main\/view.php?key=20230601010000060",
+			"link":"https:\/\/www.viva100.com\/main\/view.php?key=20230601010000060",
+			"description":"구리시, 주거용 오피스텔 변동 신고 기간 운영 구리시는 <b>2023년<\/b> 정기분 재산세 부과에 앞서 6월 1일부터 6월... 주거용으로 <b>변경<\/b>할 경우, 재산세 절세 효과는 있지만 타 세금과 관련된 유의사항(양도소득세, <b>종합부동산세<\/b>에... ",
+			"pubDate":"Thu, 01 Jun 2023 09:22:00 +0900"
+		},
+		{
+			"title":"부동산 대란 임시방편? 오피스텔 건축기준 일부 완화..생활숙박시설 용도<b>변경<\/b>...",
+			"originallink":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=54792",
+			"link":"http:\/\/www.dailypop.kr\/news\/articleView.html?idxno=54792",
+			"description":"<b>2023년<\/b> 10월 14일까지 생활숙박시설 건축물 용도를 오피스텔로 <b>변경<\/b>하는 경우 오피스텔 건축기준 일부를... 간주되어, <b>종합부동산세<\/b>, 취득세, 양도세 등 각종 세금에 영향을 미치는 가운데 생활숙박시설의 용도 <b>변경<\/b>을... ",
+			"pubDate":"Fri, 15 Oct 2021 10:06:00 +0900"
+		},
+		{
+			"title":"구리시, 15일까지 주거용 오피스텔 과세 변동 신고기간",
+			"originallink":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288638515981",
+			"link":"https:\/\/www.siminilbo.co.kr\/news\/newsview.php?ncode=1160288638515981",
+			"description":"경기 구리시는 <b>2023년<\/b> 정기분 재산세 부과에 앞서 이달 1~15일 주거용 오피스텔 과세대상 변동 신고 기간을... 주거용으로 <b>변경<\/b>할 경우 재산세 절세 효과는 있지만 타 세금과 관련된 유의사항(양도소득세·<b>종합부동산세<\/b>에... ",
+			"pubDate":"Thu, 01 Jun 2023 16:42:00 +0900"
+		},
+		{
+			"title":"[단독] <b>2023년<\/b>까지 다주택 안팔면 양도세 폭탄 맞는다",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?no=743013&year=2021",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004832223?sid=101",
+			"description":"개편안 ◆ <b>2023년<\/b>부터는 다주택자가 주택을 처분하고 1주택자가 되는 시점부터 보유·거주 기간을 기산해... 앞서 민주당은 <b>종합부동산세<\/b> 과세 대상을 현행 공시가격 9억원 초과에서 주택가액 상위 2%로 <b>변경<\/b>하는 법안을... ",
+			"pubDate":"Sun, 01 Aug 2021 17:54:00 +0900"
+		},
+		{
+			"title":"민주당, <b>2023년<\/b>부터 장기보유공제서 &apos;다주택기간&apos; 제외한다",
+			"originallink":"https:\/\/hankookilbo.com\/News\/Read\/A2021080118560004622?did=NA",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/469\/0000621130?sid=100",
+			"description":"<b>종합부동산세<\/b>와 양도세 완화 결정에 대해 당 안팎에서 &apos;부자감세&apos;라는 지적이 제기되자, 장기보유특별공제 기산일을 <b>변경<\/b>해 다주택자의 양도세 부담을 강화하는 내용이 법안 발의 과정에서 추가된 것이다. 민주당... ",
+			"pubDate":"Sun, 01 Aug 2021 21:00:00 +0900"
+		},
+		{
+			"title":"<b>2023년<\/b>부터 장기보유공제서 다주택 기간 제외",
+			"originallink":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=340475",
+			"link":"http:\/\/www.dkilbo.com\/news\/articleView.html?idxno=340475",
+			"description":"지난달 발의된 &apos;<b>종합부동산세<\/b>법 일부개정법률안&apos;에 이어 소득세법까지 개정안을 발의하며 민주당은... 시점으로 <b>변경<\/b>한다. 법안이 통과되면 시행예정인 오는 <b>2023년<\/b> 1월부터 사실상 다주택자에게 1주택 보유를 강제해... ",
+			"pubDate":"Mon, 02 Aug 2021 21:00:00 +0900"
+		},
+		{
+			"title":"與, 다주택자 향해 “집 팔 기회 드리겠다”...<b>2023년<\/b>부터 장기보유공제서 ‘...",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20210802000047",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0001869235?sid=100",
+			"description":"지난달 발의된 ‘<b>종합부동산세<\/b>법 일부개정법률안’에 이어 소득세법까지 개정안을 발의하며 민주당은... 시점으로 <b>변경<\/b>한다. 법안이 통과되면 오는 <b>2023년<\/b> 1월부터 시행될 예정으로, 사실상 다주택자에게 1주택 보유를... ",
+			"pubDate":"Mon, 02 Aug 2021 07:35:00 +0900"
+		},
+		{
+			"title":"(사)서울이코노미포럼 송인석 대표 &apos;윤 정부 개혁입법&apos; 토론회 주제 발표",
+			"originallink":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=58827",
+			"link":"http:\/\/www.newsfc.co.kr\/news\/articleView.html?idxno=58827",
+			"description":"규제지역에서 주택담보대출이 불가했던 다주택자들도 LTV 30%까지 대출을 허용한다고 밝혔다 <b>2023년<\/b> 1월에는... <b>종합부동산세<\/b>가 합리적으로 작동할 수 있도록 주택 가격을 과세 기준으로, 세율은 &quot;단일 누진세율&quot;로 <b>변경<\/b>하... ",
+			"pubDate":"Sun, 04 Jun 2023 22:48:00 +0900"
+		},
+		{
+			"title":"[2020년 세법개정안]⑥ <b>2023년<\/b> &apos;금융투자소득&apos; 과세 도입…증권거래세 내년 인...",
+			"originallink":"http:\/\/www.joseilbo.com\/news\/news_read.php?uid=402571&class=7&grp=",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/123\/0002227446?sid=101",
+			"description":"주식시장 활성화를 위해 증권거래세가 당장 내년부터 인하되고, <b>2023년<\/b>부터는 &apos;금융투자소득&apos; 과세 체계가... 조세 회피 방지를 위해 <b>종합부동산세<\/b>는 납세의무자가 수탁자에서 위탁자로 <b>변경<\/b>돼 신탁한 부동산이 위탁자의... ",
+			"pubDate":"Wed, 22 Jul 2020 14:08:00 +0900"
+		},
+		{
+			"title":"서울 역세권 주택공급 &apos;뚜렷&apos;…다주택 세부담 수천만원↑(<b>종합<\/b>)",
+			"originallink":"https:\/\/www.news1.kr\/articles\/?4184578",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/421\/0005114607?sid=101",
+			"description":"올해 고가 주택을 여러채 소유한 다주택자는 <b>종합부동산세<\/b> 부담이 수천만원 늘어나는 경우도 있겠다.... 이 관계자는 &quot;미니 재건축을 통해 현재 5800여가구 주택을 <b>2023년<\/b>까지 1만가구로 확대 공급할 것으로 기대한다&quot;며... ",
+			"pubDate":"Mon, 18 Jan 2021 16:15:00 +0900"
+		},
+		{
+			"title":"[2020 세법개정] 내년부터 증권거래세 0.02%P 인하…<b>2023년<\/b>엔 0.1%P로 확대",
+			"originallink":"https:\/\/www.etoday.co.kr\/news\/view\/1920676",
+			"link":"https:\/\/www.etoday.co.kr\/news\/view\/1920676",
+			"description":"<b>2023년<\/b>에는 0.08%P를 추가로 인하해 총 0.1%P의 증권거래세가 줄어든다. 기획재정부는 22일 발표한 &apos;2020년... 또한 납세의무자를 수탁자에서 위탁자로 <b>변경<\/b>해 신탁한 부동산을 위탁자의 다른 재산과 합산해 <b>종합부동산세<\/b>를... ",
+			"pubDate":"Wed, 22 Jul 2020 14:03:00 +0900"
+		},
+		{
+			"title":"조응천, 은마아파트 보유 중에 &apos;종부세 완화&apos; 발의",
+			"originallink":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=289389",
+			"link":"http:\/\/www.goodmorningcc.com\/news\/articleView.html?idxno=289389",
+			"description":"이후 2021년 4월 20일 김병욱 의원(경기도 성남시 분당구 을)이 대표 발의한 &apos;<b>종합부동산세<\/b>법 일부개정법률안... 2022년 3월 재산공개에서 이 금액이 유지되다가 <b>2023년<\/b> 3월 재산공개에서 6억 3,000만 원으로 증액됐다. 이에... ",
+			"pubDate":"Sun, 21 May 2023 17:04:00 +0900"
+		},
+		{
+			"title":"국회, &apos;주택임대차 특별조치법안&apos; 등 81건의 법률안 제•개정 추진",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229818",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229818",
+			"description":"<b>종합부동산세<\/b>법 일부개정법률안(2일, 박상혁 의원 등 16인 발의) 현행법 제8조제2항은 민간임대주택... 동법은 최초 제정된 이래 다섯 차례 한시법으로 재입법 됐고, 오는 <b>2023년<\/b> 10월 중 법률의 효력이 상실될 예정이다.... ",
+			"pubDate":"Mon, 08 May 2023 11:48:00 +0900"
+		},
+		{
+			"title":"더불어민주당, 종부세법 개정안 당론으로 발의…세수 <b>2023년<\/b>까지 6조 더 걷혀",
+			"originallink":"http:\/\/news.mk.co.kr\/newsRead.php?year=2018&no=626896",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/009\/0004230967?sid=100",
+			"description":"더불어민주당이 9·13 부동산 대책 후속 조치로 <b>종합부동산세<\/b>법 개정안을 당론으로 발의했다. 민주당은 8일... 비용추계서에 따르면, 세수는 <b>2023년<\/b>까지 총 6조611억원 늘어날 전망이다. 내년에는 분납대상자 및 기간... ",
+			"pubDate":"Mon, 08 Oct 2018 16:05:00 +0900"
+		},
+		{
+			"title":"尹 정부 부동산 정책 1년, &apos;부자 감세&apos;와 &apos;대출 규제 완화&apos;만 빛났다[윤석열 ...",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023050919081599411?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002285233?sid=101",
+			"description":"구체적으로 윤석열 정부는 재산세 적용 기준연도를 2022년에서 2021년으로 <b>변경<\/b>하고 <b>종합부동산세<\/b> 역시 2021년... 최 소장은 &quot;윤석열 정부는 코로나19 이후 물가 폭등에도 불구하고 <b>2023년<\/b> 주거급여 기준임대료를 1급지(서울)... ",
+			"pubDate":"Tue, 09 May 2023 19:29:00 +0900"
+		},
+		{
+			"title":"[이번 주 국회에서는] 국회 외통위 등 5개 상임(특)위 개최",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229887",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229887",
+			"description":"동 결의안에 따르면, 대한민국 국회는 <b>2023년<\/b> 4월 26일 대한민국 윤석열 대통령과 미합중국 조셉 R. 바이든... 발의) ▲<b>종합부동산세<\/b>법 일부개정법률안(2일, 박상혁 의원 등 16인 발의) ▲도시철도법 일부개정법률안(2일... ",
+			"pubDate":"Mon, 08 May 2023 14:56:00 +0900"
+		},
+		{
+			"title":"[尹정부 1년] 집값 떨어졌지만 연착륙 성과...국회 막혀 공급·제도 아직도 &apos;...",
+			"originallink":"http:\/\/www.newspim.com\/news\/view\/20230510000656",
+			"link":"http:\/\/www.newspim.com\/news\/view\/20230510000656",
+			"description":"<b>종합부동산세<\/b>(종부세)는 주택분 종부세 공정시장가액비율을 100%에서 60%로 낮추고 일시적 2주택 등 주택 수... 지난해 12월 21일에는 &apos;<b>2023년<\/b> 경제정책방향&apos;을 통해 폐지됐던 중소형(전용면적 85m² 이하) 아파트를... ",
+			"pubDate":"Wed, 10 May 2023 16:20:00 +0900"
+		},
+		{
+			"title":"[윤석열미터 1년] 공정시장가액비율 조정을 통해 부동산공시가격을 2020년 수...",
+			"originallink":"https:\/\/www.newstof.com\/news\/articleView.html?idxno=20543",
+			"link":"https:\/\/www.newstof.com\/news\/articleView.html?idxno=20543",
+			"description":"공시가격은 보유세(재산세·<b>종합부동산세<\/b>)를 산정하는 기준이다. 공시가격이 낮아지면 보유세 부담도... 2022년 11월 23년 행정안전부는 <b>2023년<\/b> 공시가격 산정 시 적용될 현실화율이 &apos;공시가격 현실화 계획&apos; 수립 이전인... ",
+			"pubDate":"Wed, 03 May 2023 10:42:00 +0900"
+		},
+		{
+			"title":"생활형 숙박시설 ‘잠 못 이루는 밤’ [경제칼럼]",
+			"originallink":"https:\/\/www.mk.co.kr\/article\/10723629",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/024\/0000081836?sid=110",
+			"description":"본질은 비주택이니 주택법이 아닌 건축법을 따르면서 <b>종합부동산세<\/b> 등 다주택자 규제가 적용되지 않는 것이... 취하면서 <b>2023년<\/b> 10월까지 유예 기간을 뒀다. 규제 강화를 두고 말들이 많자 정부는 기존 생활형 숙박시설을... ",
+			"pubDate":"Sat, 06 May 2023 19:43:00 +0900"
+		},
+		{
+			"title":"공동주택 공시가격 내렸는데 주택시장 영향은",
+			"originallink":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=30419",
+			"link":"https:\/\/www.junggi.co.kr\/article\/articleView.html?no=30419",
+			"description":"국토교통부가 <b>2023년<\/b> 1월1일 기준 공동주택 공시가격(안)을 지난 3월22일 공개했다. 총 1486만호(아파트... 다만 올해 <b>종합부동산세<\/b> 공정시장가액비율 <b>변경<\/b> 유무는 좀 더 지켜볼 필요가 있다. 정부가 시행령을 통해 60∼100... ",
+			"pubDate":"Wed, 03 May 2023 18:02:00 +0900"
+		},
+		{
+			"title":"[통일로에서] 우리 경제에 몰려오는 &apos;퍼펙트 스톰&apos;, 기재부의 대책은?",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229672",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=229672",
+			"description":"추계하였고, <b>2023년<\/b> 세입예산안 발표 시 7월까지의 세수실적·진도비 등 분석을 토대로 2022년 총국세 및... 법인세와 <b>종합부동산세<\/b>법 개정에 따른 향후 5년간 누적 감세액이 20조원이 될 것으로 예상된다. 조특법 개정으로... ",
+			"pubDate":"Wed, 03 May 2023 15:34:00 +0900"
+		},
+		{
+			"title":"[절세톡톡] 법인이 주택임대사업자등록으로 취득세중과 피할 수 있을까?",
+			"originallink":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=42443",
+			"link":"https:\/\/www.sejungilbo.com\/news\/articleView.html?idxno=42443",
+			"description":"법인의 <b>종합부동산세<\/b>는 기본공제액이 적용되지 않습니다. <b>2023년<\/b>부터 법인의 경우에는 (조정대상지역 여부에 불구하고) 2주택 이하를 소유한 경우 2.7%, 3주택 이상을 소유한 경우 5.0%로 세율이 <b>변경<\/b>되었습니다.... ",
+			"pubDate":"Mon, 24 Apr 2023 08:00:00 +0900"
+		},
+		{
+			"title":"국회, &apos;경기북부특별자치도 설치 특별법안&apos; 등 181건의 법률안 제•개정 추진",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228736",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228736",
+			"description":"&apos;<b>종합부동산세<\/b>법 개정안&apos;, &apos;인구감소지역 지원 특별법법 개정안&apos; 및 &apos;조세특례제한법 개정안&apos;은 1세대 1주택... 발의) <b>2023년<\/b> 대한민국 정부는 강제동원 문제의 최종 해법으로 일본 정부 및 전범기업의 사죄나 배상 없이... ",
+			"pubDate":"Mon, 17 Apr 2023 11:38:00 +0900"
+		},
+		{
+			"title":"소득 20억 세금이 韓은 8억대, 美는 6억대… 이래도 부자 세금 올려야 하나 [...",
+			"originallink":"https:\/\/www.chosun.com\/economy\/money\/2023\/04\/18\/IIJ7ACO3VVHE7OGK4OKLKAZFSY\/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/023\/0003758405?sid=101",
+			"description":"<b>2023년<\/b> 기준으로는 우리의 <b>종합부동산세<\/b>와 유사한 자산세로 <b>변경<\/b> 부과하고 있는데, 세율은 한국의 절반도 안 된다. 부유세는 ‘부(富)의 불평등 해소’라는 명분에서 만들어진 세금이다. 하지만 제도 자체에 큰 맹점이... ",
+			"pubDate":"Tue, 18 Apr 2023 07:01:00 +0900"
+		},
+		{
+			"title":"여수경실련, &quot;생활형숙박시설의 논란 근본원인 되짚어봐야&quot;",
+			"originallink":"http:\/\/www.netongs.com\/news\/articleView.html?idxno=314225",
+			"link":"http:\/\/www.netongs.com\/news\/articleView.html?idxno=314225",
+			"description":"없고, <b>종합부동산세<\/b>. 양도세중과 대상도 아니고, 전매가 가능, 대출 LTV 규제가 없고, 주택 수에 포함되지... 동법의 적용을 2년간(<b>2023년<\/b> 10월 14일까지) 유예하고, 특정요건 충족 시에 오피스텔로 용도<b>변경<\/b> 완화 규정을... ",
+			"pubDate":"Mon, 24 Apr 2023 18:18:00 +0900"
+		},
+		{
+			"title":"아파트 공시가 18.63%↓…역대 가장 큰폭 하락",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230427010007007",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230427010007007",
+			"description":"부동산 보유세 부과의 기준이 되는 공시가격이 이같이 하락함에 따라 재산세와 <b>종합부동산세<\/b> 등 1가구... 연합뉴스 아파트 공시가 ㅁㅇㅇㅁ 국토부가 <b>2023년<\/b> 공동주택 가격을 결정 공시했다. 의견제출 건수는... ",
+			"pubDate":"Thu, 27 Apr 2023 10:52:00 +0900"
+		},
+		{
+			"title":"[이슈분석] 공시가 급락…‘마래푸’ 집주인 종부세 안 낸다",
+			"originallink":"https:\/\/www.ekn.kr\/web\/view.php?key=20230427010007225",
+			"link":"https:\/\/www.ekn.kr\/web\/view.php?key=20230427010007225",
+			"description":"그간 <b>종합부동산세<\/b> 대상이었던 서울 강북 지역 1주택자들은 과세 대상에서 대거 제외될 것으로 예상되고 있다. ◇ 공시가 ‘역대 최대 하락’ 현실화 27일 국토교통부에 따르면 <b>2023년<\/b> 공동주택(아파트·연립... ",
+			"pubDate":"Thu, 27 Apr 2023 15:12:00 +0900"
+		},
+		{
+			"title":"아파트 공시가 급락에.. 보유세, 최대 30%까지 떨어질 듯",
+			"originallink":"http:\/\/www.jibs.co.kr\/news\/articles\/articlesDetail\/30244?feed=na",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/661\/0000024146?sid=101",
+			"description":"오늘(27일) 국토교통부는, <b>2023년<\/b> 공동주택(아파트·연립·다세대주택) 공시가격 안에 대해 지난 25일... 이에 따라 올해 서울 <b>종합부동산세<\/b> 대상 주택도 감소할 것으로 내다보고 있습니다. 이번 공시가격 하락과... ",
+			"pubDate":"Thu, 27 Apr 2023 10:07:00 +0900"
+		},
+		{
+			"title":"올해 공동주택 공시가격, 전년比 18.6%↓...하락폭 역대 최대",
+			"originallink":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=950922",
+			"link":"https:\/\/daily.hankooki.com\/news\/articleView.html?idxno=950922",
+			"description":"27일 국토교통부는 <b>2023년<\/b> 공동주택 공시가격안을 28일 이같이 확정 공시한다고 밝혔다. 전국 공동주택... 부동산 보유세 부과 기준인 공시가격이 하락함에 따라 재산세와 <b>종합부동산세<\/b> 등 1가구 1주택자... ",
+			"pubDate":"Thu, 27 Apr 2023 09:12:00 +0900"
+		},
+		{
+			"title":"부산 공동주택 공시가격 변동률 -18.05%...전국 최대 수정폭",
+			"originallink":"http:\/\/www.kookje.co.kr\/news2011\/asp\/newsbody.asp?code=0200&key=20230427.99099008467",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/658\/0000039383?sid=101",
+			"description":"재산세와 <b>종합부동산세<\/b> 등 1가구 1주택자의 보유세는 20% 이상 줄어 2020년 수준 아래로 떨어질 전망이다. 27일 국토교통부는 중앙부동산가격공시위원회 심의·의결을 거친 뒤 <b>2023년<\/b> 공동주택 공시가격을... ",
+			"pubDate":"Thu, 27 Apr 2023 06:50:00 +0900"
+		},
+		{
+			"title":"울산시 개별주택 공시가격 4.2% 하락…14년 만에 하락세",
+			"originallink":"https:\/\/www.sedaily.com\/NewsView\/29OGBZMZGX",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/011\/0004183611?sid=102",
+			"description":"울산시는 <b>2023년<\/b> 1월 1일 기준 개별주택가격을 오는 4월 28일 결정·공시하고, 5월 30일까지 이의신청을... 개별주택가격은 주택에 대한 각종 조세(재산세, <b>종합부동산세<\/b> 등)와 부담금의 부과기준이나 건강보험료 산정... ",
+			"pubDate":"Wed, 26 Apr 2023 15:21:00 +0900"
+		},
+		{
+			"title":"울산시 개별주택 공시가격 지난해보다 4.2% 하락",
+			"originallink":"https:\/\/www.cnbnews.com\/news\/article.html?no=598865",
+			"link":"https:\/\/www.cnbnews.com\/news\/article.html?no=598865",
+			"description":"울산시는 <b>2023년<\/b> 1월 1일 기준 개별주택가격을 오는 28일 결정·공시하고, 5월 30일까지 이의신청을... 개별주택가격은 주택에 대한 각종 조세(재산세, <b>종합부동산세<\/b> 등)와 부담금의 부과기준이나 건강보험료 산정... ",
+			"pubDate":"Wed, 26 Apr 2023 14:22:00 +0900"
+		},
+		{
+			"title":"울산시 개별주택 공시가격, 지난해보다 4.2% 하락",
+			"originallink":"http:\/\/www.metroseoul.co.kr\/article\/20230426500134",
+			"link":"http:\/\/www.metroseoul.co.kr\/article\/20230426500134",
+			"description":"울산시는 <b>2023년<\/b> 1월 1일 기준 개별주택가격을 오는 28일 결정·공시하고, 5월 30일까지 이의신청을... 한편 개별주택가격은 주택에 대한 각종 조세(재산세, <b>종합부동산세<\/b> 등)와 부담금의 부과 기준이나 건강보험료 산정... ",
+			"pubDate":"Wed, 26 Apr 2023 14:18:00 +0900"
+		},
+		{
+			"title":"울산시 개별주택 공시가격 결정·공시... 지난해보다 4.2% 하락",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1657214",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1657214",
+			"description":"울산시는 <b>2023년<\/b> 1월 1일 기준 개별주택가격을 오는 4월 28일 결정·공시하고, 5월 30일까지 이의신청을... 한편, 개별주택가격은 주택에 대한 각종 조세(재산세, <b>종합부동산세<\/b> 등)와 부담금의 부과기준이나... ",
+			"pubDate":"Wed, 26 Apr 2023 12:30:00 +0900"
+		},
+		{
+			"title":"가장 싼 집이 ‘69만원’… 울산시 개별주택 공시가격 작년보다 4.2% 하락",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023042608554126918",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005250727?sid=102",
+			"description":"울산시는 <b>2023년<\/b> 1월 1일 기준 개별주택가격을 오는 4월 28일 결정·공시하고, 5월 30일까지 이의신청을... 개별주택가격은 주택에 대한 각종 조세(재산세, <b>종합부동산세<\/b> 등)와 부담금의 부과기준이나 건강보험료 산정... ",
+			"pubDate":"Wed, 26 Apr 2023 08:57:00 +0900"
+		},
+		{
+			"title":"[이번 주 국회에서는] 국회 정무위 등 12개 상임위 개최",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228771",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228771",
+			"description":"발의) ▲<b>종합부동산세<\/b>법 일부개정법률안(10일, 최형두 의원 등 11인 발의) ▲조세특례제한법... 국회예산정책처(처장 조의섭)는 20일 오전 10시에 의정관 505호(화상회의)에서 &apos;<b>2023년<\/b> 및 이후에 대한 경제전망, <b>2023년<\/b>도... ",
+			"pubDate":"Mon, 17 Apr 2023 13:48:00 +0900"
+		},
+		{
+			"title":"장제원에서 심상정까지…팔 걷은 국회, 전세사기 멈출 수 있을까?[국회 다니는...",
+			"originallink":"https:\/\/www.pressian.com\/pages\/articles\/2023042315381412862?utm_source=naver&utm_medium=search",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/002\/0002283517?sid=100",
+			"description":"임차인이 당황해서 사정을 알아보니, 이미 이 집에 안분(按分)해 부과된 <b>종합부동산세<\/b>(종부세) 1500만 원을... ① 임대인 우위의 정보 비대칭(<b>2023년<\/b>까지도 임차인은 임대인의 납세 내역 및 변제 능력을 제대로 알 수가... ",
+			"pubDate":"Mon, 24 Apr 2023 07:39:00 +0900"
+		},
+		{
+			"title":"국회, &apos;720만 경계선지능인 지원 법률안&apos; 등 130건의 법률안 제•개정 추진",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228398",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228398",
+			"description":"<b>2023년<\/b> 3월 현재, 시행령은 우선변제 받을 보증금 중 일정액의 범위를 서울 5,500만원, 과밀억제권역 등 4... <b>종합부동산세<\/b>법 일부개정법률안(3일, 최형두 의원 등 11인 발의) &apos;지역소멸&apos;은 더 이상 방치해서는 안 될 국가적... ",
+			"pubDate":"Mon, 10 Apr 2023 11:20:00 +0900"
+		},
+		{
+			"title":"&quot;주택정책 규제 권한 지자체 이양해야&quot; 대구시, 미분양 해소대책 정부에 건의",
+			"originallink":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=954894",
+			"link":"http:\/\/www.kbmaeil.com\/news\/articleView.html?idxno=954894",
+			"description":"<b>2023년<\/b> 2월 말 현재 대구지역 미분양 물량은 1만3천987호로 전국 미분양 물량(75,438호)의 18.5%를 차지하고 있다.... 활성화, <b>종합부동산세<\/b> 과세기준 완화·폐지, 대출금 상환방식 <b>변경<\/b>, 정책금리 지원, DSR... ",
+			"pubDate":"Tue, 04 Apr 2023 20:36:00 +0900"
+		},
+		{
+			"title":"미분양 늘어나는 대구시, “조정지역 지정·해제 권한 지방 넘겨달라” 건의",
+			"originallink":"https:\/\/view.asiae.co.kr\/article\/2023040414404857646",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/277\/0005240871?sid=102",
+			"description":"<b>2023년<\/b> 2월 말 현재 미분양 물량은 1만3987호로 전국 미분양 물량(7만 5438호)의 18.5％를 차지하고 있으며, <b>2023년<\/b>... 마련, <b>종합부동산세<\/b> 과세 기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간 부활), 주택 수요에 대한... ",
+			"pubDate":"Tue, 04 Apr 2023 15:05:00 +0900"
+		},
+		{
+			"title":"&quot;주택정책 규제 권한 지자체에 이양하라&quot;",
+			"originallink":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=415989",
+			"link":"https:\/\/www.idaegu.co.kr\/news\/articleView.html?idxno=415989",
+			"description":"5%를 차지하고 있으며, <b>2023년<\/b> 입주예정 물량 또한 3만 6천 여 호로 예측됨에 따라 미분양 주택 증가세는... 매입임대사업, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간 부활), 주택 수요에 대한... ",
+			"pubDate":"Tue, 04 Apr 2023 21:24:00 +0900"
+		},
+		{
+			"title":"[이번 주 국회에서는] 3일~5일 대정부 질의, 외통위 등 5개 상임위 개최",
+			"originallink":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228121",
+			"link":"https:\/\/www.straightnews.co.kr\/news\/articleView.html?idxno=228121",
+			"description":"일본 문부과학성은 <b>2023년<\/b> 3월 28일 &apos;교과용 도서 검정 조사심의회 총회&apos;를 개최해 초등학교 교과서 149종의... 발의) ▲<b>종합부동산세<\/b>법 일부개정법률안(대안)(29일, 윤영석 기획재정위원장 제출, 30일 본회의 의결)... ",
+			"pubDate":"Mon, 03 Apr 2023 14:34:00 +0900"
+		},
+		{
+			"title":"대구시, 미분양 주택 해소 대책 중앙정부에 건의",
+			"originallink":"http:\/\/www.breaknews.com\/957366",
+			"link":"http:\/\/www.breaknews.com\/957366",
+			"description":"대구시의 <b>2023년<\/b> 2월 말 현재 미분양 물량은 13,987호로 전국 미분양 물량의 18.5%를... 마련, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간... ",
+			"pubDate":"Tue, 04 Apr 2023 15:44:00 +0900"
+		},
+		{
+			"title":"대구시, 미분양 주택시장 연착륙과 안정화 위해 &quot;권한 지방이양 해야&quot;",
+			"originallink":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1651089",
+			"link":"http:\/\/www.enewstoday.co.kr\/news\/articleView.html?idxno=1651089",
+			"description":"청약위축지역 지정 활성화, <b>종합부동산세<\/b> 과세 기준 완화, 대출금 거치기간 부활, 총부채원리금 상환비율(DSR) 환화등도 건의 됐다. <b>2023년<\/b> 2월 말 현재 미분양 물량은 1만3987호로 전국 미분양 물량(7만5438호)의 18.5%를... ",
+			"pubDate":"Tue, 04 Apr 2023 16:18:00 +0900"
+		},
+		{
+			"title":"대구시, 정부에 전국 최다 미분양 주택 대책 마련 건의",
+			"originallink":"http:\/\/www.newsis.com\/view\/?id=NISX20230404_0002253484&cID=10810&pID=10800",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/003\/0011783065?sid=102",
+			"description":"활성화, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, DSR(총부채원리금상환비율) 완화 등이다. <b>2023년<\/b> 2월 말 현재... <b>2023년<\/b> 2월 주택도시보증공사(HUG)에서 지정요건 <b>변경<\/b> 후 중구, 남구, 수성구가 미분양관리지역으로 재지정... ",
+			"pubDate":"Tue, 04 Apr 2023 14:35:00 +0900"
+		},
+		{
+			"title":"대구시 “주택정책 규제권한 지자체에 넘겨 달라”",
+			"originallink":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=420530&part_idx=7",
+			"link":"http:\/\/www.ksmnews.co.kr\/default\/index_view_page.php?idx=420530&part_idx=7",
+			"description":"지난 2월 말 현재 미분양 물량은 1만 3987호로, 전국 미분양 물량의 18.5%를 차지하고 있으며, <b>2023년<\/b> 입주예정... 마련, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간 부활), 주택 수요에 대한... ",
+			"pubDate":"Tue, 04 Apr 2023 22:04:00 +0900"
+		},
+		{
+			"title":"미분양 전국 1위 대구 &quot;주택정책 규제권한 지자체 이양 건의&quot;",
+			"originallink":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128263",
+			"link":"http:\/\/www.kyongbuk.co.kr\/news\/articleView.html?idxno=2128263",
+			"description":"<b>2023년<\/b> 2월 전국 미분양 주택 현황. 국토교통부. 대구시는 미분양 주택 증가와 급격한 금리인상 및 인플레이션... 마련, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간 부활), 주택 수요에 대한... ",
+			"pubDate":"Tue, 04 Apr 2023 15:24:00 +0900"
+		},
+		{
+			"title":"대구시, 미분양 주택 해소 대책 정부에 건의",
+			"originallink":"http:\/\/news.heraldcorp.com\/view.php?ud=20230405000073",
+			"link":"https:\/\/n.news.naver.com\/mnews\/article\/016\/0002125997?sid=102",
+			"description":"마련, <b>종합부동산세<\/b> 과세기준 완화 또는 폐지, 대출금 상환방식 <b>변경<\/b>(거치기간 부활), 주택 수요에 대한... 5%를 차지하고 있으며 <b>2023년<\/b> 입주예정 물량은 3만6000여가구에 달하고 있다. 권오환 대구시 도시주택국장은... ",
+			"pubDate":"Wed, 05 Apr 2023 08:29:00 +0900"
+		}
+	]
+}
+Error chatgpt api: Error: Request failed with status code 400
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 71410
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 종합부동산세에 대한 뉴스를 읽고 2023년에 바뀌는 종합부동산세 내용에 대해서 알려줘"},{"role":"assistant","content":null,"function_call":{"name":"news","arguments":"{\\n  \\"search_txt\\": \\"종합부동산세 2023년 변경\\"\\n}"}},{"role":"function","name":"news","content":"{\\n\\t\\"lastBuildDate\\":\\"Thu, 22 Jun 2023 10:57:40 +0900\\",\\n\\t\\"total\\":540,\\n\\t\\"start\\":1,\\n\\t\\"display\\":100,\\n\\t\\"items\\":[\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"다주택자 양도세 중과 배제 1년 연장…일시적 2주택자 양도 기한 3년으로 완화...\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.khan.co.kr\\\\/economy\\\\/economy-general\\\\/article\\\\/202306212211005\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/032\\\\/0003231397?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 1월1일 이후 증여분부터는 증여일로부터 10년 이내에 양도할 때 증여자의 최초 취득가액을 적용한 과세로 적용기간을 확대해 양도세 회피 방지를 강화했습니다. Q. <b>종합부동산세<\\\\/b>에 대한 개정 규정 중에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 21 Jun 2023 22:17:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[절세톡톡] 주택분 재산세 내는 오피스텔, 이것 때문에 종부세 폭탄\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.sejungilbo.com\\\\/news\\\\/articleView.html?idxno=43185\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.sejungilbo.com\\\\/news\\\\/articleView.html?idxno=43185\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b>부터 시행되는 <b>종합부동산세<\\\\/b>의 세율은 &apos;2주택이하(일반세율)&apos;와 &apos;3주택 이상(과세표준 12억 초과시... 관할구청에서 주택분재산세를 건축물분재산세로 <b>변경<\\\\/b>해주면 모두 해결이 됩니다. 오피스텔이 공실이면 당연히... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 22 Jun 2023 08:10:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"2주택ㆍ다주택자 세금 부담 낮아진다...<b>2023년 변경<\\\\/b>된 <b>부동산 세<\\\\/b>금 제도\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ajunews.com\\\\/view\\\\/20230519110408262\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ajunews.com\\\\/view\\\\/20230519110408262\\",\\n\\t\\t\\t\\"description\\":\\"아주경제가 지난 3월 시행규칙 개정사항을 반영한 <b>2023년<\\\\/b> 달라진 <b>부동산 세<\\\\/b>금 제도를 정리했다. ◇ 취득세... ◇종부세 기본공제액 9억으로 상향…다주택자 중과도 폐지 올 6월부터 <b>종합부동산세<\\\\/b> 기본공제금액이... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Fri, 19 May 2023 11:56:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>종합부동산세<\\\\/b> 완화, 타당하기만 할까\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/news.mt.co.kr\\\\/mtview.php?no=2023050311042942593\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/008\\\\/0004882787?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"부동산과 관련된 대표적 세금은 종부세(<b>종합부동산세<\\\\/b>), 재산세, 양도소득세다. 2022년부터 종부세, 법인세 등... <b>2023년<\\\\/b> 3월 22일 국토부 공시가 공개 자료를 보면 역대 최대 아파트 공시가격 하락률을 기록했다. 18.6% 하락은... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 03 May 2023 11:17:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 알아둘 세제 변화\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ccdailynews.com\\\\/news\\\\/articleView.html?idxno=2199581\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ccdailynews.com\\\\/news\\\\/articleView.html?idxno=2199581\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 알아둘 세제 변화에는 어떤 것이 있을까? 우선 부동산 시장 안정화를 위한 <b>종합 부동산 세<\\\\/b>제가... 이상으로 <b>변경<\\\\/b>됐다. 가업승계 관련해서도 원활한 가업승계를 위해 대상기업을 매출액 4천억 미만 중견기업에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 19 Apr 2023 17:58:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[황지환의 稅톡] 올해 바뀌는 <b>종합부동산세<\\\\/b>의 모든 것\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.beyondpost.co.kr\\\\/view.php?ud=2023022012554763003891d139ac_30\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.beyondpost.co.kr\\\\/view.php?ud=2023022012554763003891d139ac_30\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년 변경<\\\\/b>되는 세법을 정리해 보았습니다. 많은 분들이 궁금해하시는 <b>종합부동산세<\\\\/b> 관련된 개정사항을 중심으로 살펴보겠습니다. 첫째, <b>종합부동산세<\\\\/b> 기본공제금이 상향됩니다. 1주택자는 기본공제금이 11억원에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Mon, 20 Feb 2023 12:58:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"공시가격 하락에 <b>부동산세<\\\\/b> 감소… &quot;집값 자극 가능성 낮아&quot;\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/moneys.mt.co.kr\\\\/news\\\\/mwView.php?no=2023032217321495897\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/417\\\\/0000906072?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"지난해 대비 전국 평균 18.61% 하락하면서 보유세(재산세·<b>종합부동산세<\\\\/b>) 부담은 대폭 줄어들 전망이다.... 이번에 발표된 공동주택 공시가격은 한국부동산원이 지난해 말 기준으로 산정한 시세에 <b>2023년<\\\\/b> 공시가격... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 23 Mar 2023 06:30:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"LH, <b>종합부동산세<\\\\/b> 감면액 136억원 모두 서민주거안정에 재투자한다\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.public25.com\\\\/news\\\\/articleView.html?idxno=12681\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.public25.com\\\\/news\\\\/articleView.html?idxno=12681\\",\\n\\t\\t\\t\\"description\\":\\"연합뉴스 한국토지주택공사(LH)는 정부의 <b>종합부동산세<\\\\/b> 감면으로 예상되는 136억원의 절세액을 임대료... 여기에 <b>2023년<\\\\/b>과 2024년 2년간 지원액 1208억원으로 더하면 모두 2162억원을 지원하게 된다. 이한준 LH 사장은... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 02 Feb 2023 10:38:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[칼럼] <b>2023년<\\\\/b> <b>부동산세<\\\\/b>제 이렇게 달라집니다\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.goodkyung.com\\\\/news\\\\/articleView.html?idxno=198426\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.goodkyung.com\\\\/news\\\\/articleView.html?idxno=198426\\",\\n\\t\\t\\t\\"description\\":\\"저물고 <b>2023년<\\\\/b> 새해가 밝았다. 세제분야도 다이나믹한 일들이 많았는데 올해도 역시 다양한 내용들이 <b>변경<\\\\/b>... <b>종합부동산세<\\\\/b>가 과세되는 기준일인 <b>2023년<\\\\/b> 6월1일부터 기본공제금액이 1주택자는 11억원에서 12억원으로... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 25 Jan 2023 06:02:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 바뀌는 것들…‘만 나이’ 적용, 영유아 양육수당, 소비기한 등 제도 ...\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.edaily.co.kr\\\\/news\\\\/newspath.asp?newsid=01239846632564096\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/018\\\\/0005397374?sid=102\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 계묘년 새해에는 6월 28일부터 전 국민이 ‘만(滿) 나이’를 적용받게 된다. 이외 0세 영유아 양육수당, 최저임금 9620원, <b>종합부동산세<\\\\/b> 기본공제액 9억원으로 상향 등 바뀌는 부분을 정리했다. ‘만 나이 통일’... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 09:39:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[전문가 기고] <b>2023년 변경<\\\\/b>되는 부동산정책\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.m-i.kr\\\\/news\\\\/articleView.html?idxno=976955\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.m-i.kr\\\\/news\\\\/articleView.html?idxno=976955\\",\\n\\t\\t\\t\\"description\\":\\"다주택자들을 힘들게 했던 <b>종합부동산세<\\\\/b>도 대폭 완화된다. 1주택자 과세표준 기준을 11억원에서... 국회 통과과정에서 일부 내용이 <b>변경<\\\\/b>될 수는 있지만 <b>2023년<\\\\/b> 많은 부동산정책이 바뀌고 금리변화 등 변수에 따라... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 03 Jan 2023 11:14:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[퍼즐] <b>2023년<\\\\/b> 내 집 마련 계획있다면 반드시 알아둘 것\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.joongang.co.kr\\\\/article\\\\/25135287\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/025\\\\/0003254856?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"부동산 트렌드 NOW(7) <b>2023년<\\\\/b> 달라지는 부동산 제도의 핵심은 거래부담을 줄여 매물이 출현할 수 있도록 함과... (3) 세제 개편 및 기타 제도 <b>변경 종합부동산세<\\\\/b> <b>종합부동산세<\\\\/b> 기본공제금액이 12억으로 상향되고... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 21 Jan 2023 10:00:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b>부터 달라지는 것들…근로·자녀장려금 10% 수준 인상\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ibuan.com\\\\/news\\\\/articleView.html?idxno=39142\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ibuan.com\\\\/news\\\\/articleView.html?idxno=39142\\",\\n\\t\\t\\t\\"description\\":\\"정부는 지난 3일 <b>2023년<\\\\/b>부터 달라지는 249건의 법과 제도를 발표했다. 이번 정책 변화는 코로나19와... ▲ <b>종합부동산세<\\\\/b> 세율 인하 <b>종합부동산세<\\\\/b> 세 부담 적정화를 위해 주택분 <b>종합부동산세<\\\\/b> 세율을 2주택 과표 12억원... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Fri, 13 Jan 2023 11:50:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 달라진 부동산 청약·세제[복덕방기자들]\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.edaily.co.kr\\\\/news\\\\/newspath.asp?newsid=03056966635477064\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/018\\\\/0005405135?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"적용했으나, <b>2023년<\\\\/b> 증여분부터는 시가인정액으로 취득가액이 매겨진다. 시가인정액은 취득일 전 6개월부터... <b>종합부동산세<\\\\/b> 세부담 상한율도 일원화된다. 주택 수에 따라 다르게 적용해왔던 세부담 상한율이 150%로... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 12 Jan 2023 16:40:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[아유경제_헤드라인] <b>2023년<\\\\/b> 계묘년 달라지는 부동산 제도 &apos;알아보기&apos;\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.areyou.co.kr\\\\/news\\\\/articleView.html?idxno=75544\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.areyou.co.kr\\\\/news\\\\/articleView.html?idxno=75544\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 부동산 제도가 어떻게 달라지는지에 시장의 눈과 귀가 모이고 있다. 윤석열 정부의 부동산 정책은... <b>종합부동산세<\\\\/b>(이하 종부세) 기본공제금액이 6억 원에서 9억 원으로 상향 조정됨에 따라 세부담이 대폭... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 17 Jan 2023 18:14:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"&apos;만 나이&apos;로 통일·2주택자 종부세 중과 폐지…<b>2023년<\\\\/b> 달라지는 것\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/news.mt.co.kr\\\\/mtview.php?no=2022123014480169338\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/008\\\\/0004834925?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"소득세·법인세·<b>종합부동산세<\\\\/b> 등의 부담이 완화된다. 2주택자는 종부세 중과세율을 더 이상 적용받지... <b>2023년<\\\\/b> 변하는 주요 제도를 분야별로 정리했다. ◇행정·고용·보건복지 ○만(滿) 나이 시행 : 2022년 12월 27일... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 06:30:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"구재이 세무사, &apos;<b>2023년<\\\\/b> 달라지는 세금제도&apos; 총정리 ①\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.joseilbo.com\\\\/news\\\\/news_read.php?uid=475071&class=7&grp=\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/123\\\\/0002294263?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"구재이 세무사가 &apos;2022개정세법&apos;을 중심으로 <b>2023년<\\\\/b> 시행되거나 변동되는 국세와 지방세의 주요 세법... ❍ (국세기본법) 정부의 부과 고지로 종부세 납부한 경우도 경정청구 가능 : <b>종합부동산세<\\\\/b>는 합산배제 신고를... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 03 Jan 2023 11:01:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[신년기획] &apos;만 나이 통일&apos;부터 &apos;소비기한 표시&apos;까지 <b>2023년<\\\\/b> 달라지는 제도\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.ngonews.kr\\\\/news\\\\/articleView.html?idxno=137925\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.ngonews.kr\\\\/news\\\\/articleView.html?idxno=137925\\",\\n\\t\\t\\t\\"description\\":\\"유통기한 도입 이후 38년 만에 소비기한으로 표시 <b>변경<\\\\/b> &apos;유통기한&apos;이 도입 이후 38년 만에 &apos;소비기한&apos;으로... <b>종합부동산세<\\\\/b> 기본공제 공시가 인상···생애 최초 주택 구입자 취득세 면제 <b>2023년<\\\\/b>에 <b>종합부동산세<\\\\/b>(이하... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 19:32:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[<b>2023년<\\\\/b> 세법시행령] 매출 5000억 미만 &apos;중견기업&apos;, 최대주주 할증과세 안 한...\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.joseilbo.com\\\\/news\\\\/news_read.php?uid=476328&class=7&grp=\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/123\\\\/0002295452?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"한편, <b>종합부동산세<\\\\/b>법 시행령 개정을 통해 종부세 합산배제 사원용 주택의 가액요건은 종전 공시가격 3억원... 연부연납 <b>변경<\\\\/b> 허가, 연부연납가산금의 가산율 ■ 가업 승계 시 상속세 납부유예 신청 및 허가 절차 등 신설... \\",\\n\\t\\t\\t'... 40924 more characters,
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 71410,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 160,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 71410\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 400,
+      statusMessage: 'Bad Request',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 40,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 71410,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 400,
+    statusText: 'Bad Request',
+    headers: {
+      date: 'Thu, 22 Jun 2023 01:57:42 GMT',
+      'content-type': 'application/json',
+      'content-length': '282',
+      connection: 'close',
+      'access-control-allow-origin': '*',
+      'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+      'openai-processing-ms': '92',
+      'openai-version': '2020-10-01',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'x-ratelimit-limit-requests': '60',
+      'x-ratelimit-limit-tokens': '150000',
+      'x-ratelimit-remaining-requests': '59',
+      'x-ratelimit-remaining-tokens': '145904',
+      'x-ratelimit-reset-requests': '1s',
+      'x-ratelimit-reset-tokens': '1.638s',
+      'x-request-id': 'b593d9580ca8bcfd3b44e82579a4de8b',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7db0e1c1c9a5c064-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 종합부동산세에 대한 뉴스를 읽고 2023년에 바뀌는 종합부동산세 내용에 대해서 알려줘"},{"role":"assistant","content":null,"function_call":{"name":"news","arguments":"{\\n  \\"search_txt\\": \\"종합부동산세 2023년 변경\\"\\n}"}},{"role":"function","name":"news","content":"{\\n\\t\\"lastBuildDate\\":\\"Thu, 22 Jun 2023 10:57:40 +0900\\",\\n\\t\\"total\\":540,\\n\\t\\"start\\":1,\\n\\t\\"display\\":100,\\n\\t\\"items\\":[\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"다주택자 양도세 중과 배제 1년 연장…일시적 2주택자 양도 기한 3년으로 완화...\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.khan.co.kr\\\\/economy\\\\/economy-general\\\\/article\\\\/202306212211005\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/032\\\\/0003231397?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 1월1일 이후 증여분부터는 증여일로부터 10년 이내에 양도할 때 증여자의 최초 취득가액을 적용한 과세로 적용기간을 확대해 양도세 회피 방지를 강화했습니다. Q. <b>종합부동산세<\\\\/b>에 대한 개정 규정 중에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 21 Jun 2023 22:17:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[절세톡톡] 주택분 재산세 내는 오피스텔, 이것 때문에 종부세 폭탄\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.sejungilbo.com\\\\/news\\\\/articleView.html?idxno=43185\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.sejungilbo.com\\\\/news\\\\/articleView.html?idxno=43185\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b>부터 시행되는 <b>종합부동산세<\\\\/b>의 세율은 &apos;2주택이하(일반세율)&apos;와 &apos;3주택 이상(과세표준 12억 초과시... 관할구청에서 주택분재산세를 건축물분재산세로 <b>변경<\\\\/b>해주면 모두 해결이 됩니다. 오피스텔이 공실이면 당연히... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 22 Jun 2023 08:10:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"2주택ㆍ다주택자 세금 부담 낮아진다...<b>2023년 변경<\\\\/b>된 <b>부동산 세<\\\\/b>금 제도\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ajunews.com\\\\/view\\\\/20230519110408262\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ajunews.com\\\\/view\\\\/20230519110408262\\",\\n\\t\\t\\t\\"description\\":\\"아주경제가 지난 3월 시행규칙 개정사항을 반영한 <b>2023년<\\\\/b> 달라진 <b>부동산 세<\\\\/b>금 제도를 정리했다. ◇ 취득세... ◇종부세 기본공제액 9억으로 상향…다주택자 중과도 폐지 올 6월부터 <b>종합부동산세<\\\\/b> 기본공제금액이... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Fri, 19 May 2023 11:56:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>종합부동산세<\\\\/b> 완화, 타당하기만 할까\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/news.mt.co.kr\\\\/mtview.php?no=2023050311042942593\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/008\\\\/0004882787?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"부동산과 관련된 대표적 세금은 종부세(<b>종합부동산세<\\\\/b>), 재산세, 양도소득세다. 2022년부터 종부세, 법인세 등... <b>2023년<\\\\/b> 3월 22일 국토부 공시가 공개 자료를 보면 역대 최대 아파트 공시가격 하락률을 기록했다. 18.6% 하락은... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 03 May 2023 11:17:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 알아둘 세제 변화\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ccdailynews.com\\\\/news\\\\/articleView.html?idxno=2199581\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ccdailynews.com\\\\/news\\\\/articleView.html?idxno=2199581\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 알아둘 세제 변화에는 어떤 것이 있을까? 우선 부동산 시장 안정화를 위한 <b>종합 부동산 세<\\\\/b>제가... 이상으로 <b>변경<\\\\/b>됐다. 가업승계 관련해서도 원활한 가업승계를 위해 대상기업을 매출액 4천억 미만 중견기업에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 19 Apr 2023 17:58:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[황지환의 稅톡] 올해 바뀌는 <b>종합부동산세<\\\\/b>의 모든 것\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.beyondpost.co.kr\\\\/view.php?ud=2023022012554763003891d139ac_30\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.beyondpost.co.kr\\\\/view.php?ud=2023022012554763003891d139ac_30\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년 변경<\\\\/b>되는 세법을 정리해 보았습니다. 많은 분들이 궁금해하시는 <b>종합부동산세<\\\\/b> 관련된 개정사항을 중심으로 살펴보겠습니다. 첫째, <b>종합부동산세<\\\\/b> 기본공제금이 상향됩니다. 1주택자는 기본공제금이 11억원에서... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Mon, 20 Feb 2023 12:58:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"공시가격 하락에 <b>부동산세<\\\\/b> 감소… &quot;집값 자극 가능성 낮아&quot;\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/moneys.mt.co.kr\\\\/news\\\\/mwView.php?no=2023032217321495897\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/417\\\\/0000906072?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"지난해 대비 전국 평균 18.61% 하락하면서 보유세(재산세·<b>종합부동산세<\\\\/b>) 부담은 대폭 줄어들 전망이다.... 이번에 발표된 공동주택 공시가격은 한국부동산원이 지난해 말 기준으로 산정한 시세에 <b>2023년<\\\\/b> 공시가격... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 23 Mar 2023 06:30:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"LH, <b>종합부동산세<\\\\/b> 감면액 136억원 모두 서민주거안정에 재투자한다\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.public25.com\\\\/news\\\\/articleView.html?idxno=12681\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.public25.com\\\\/news\\\\/articleView.html?idxno=12681\\",\\n\\t\\t\\t\\"description\\":\\"연합뉴스 한국토지주택공사(LH)는 정부의 <b>종합부동산세<\\\\/b> 감면으로 예상되는 136억원의 절세액을 임대료... 여기에 <b>2023년<\\\\/b>과 2024년 2년간 지원액 1208억원으로 더하면 모두 2162억원을 지원하게 된다. 이한준 LH 사장은... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 02 Feb 2023 10:38:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[칼럼] <b>2023년<\\\\/b> <b>부동산세<\\\\/b>제 이렇게 달라집니다\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.goodkyung.com\\\\/news\\\\/articleView.html?idxno=198426\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.goodkyung.com\\\\/news\\\\/articleView.html?idxno=198426\\",\\n\\t\\t\\t\\"description\\":\\"저물고 <b>2023년<\\\\/b> 새해가 밝았다. 세제분야도 다이나믹한 일들이 많았는데 올해도 역시 다양한 내용들이 <b>변경<\\\\/b>... <b>종합부동산세<\\\\/b>가 과세되는 기준일인 <b>2023년<\\\\/b> 6월1일부터 기본공제금액이 1주택자는 11억원에서 12억원으로... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Wed, 25 Jan 2023 06:02:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 바뀌는 것들…‘만 나이’ 적용, 영유아 양육수당, 소비기한 등 제도 ...\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.edaily.co.kr\\\\/news\\\\/newspath.asp?newsid=01239846632564096\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/018\\\\/0005397374?sid=102\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 계묘년 새해에는 6월 28일부터 전 국민이 ‘만(滿) 나이’를 적용받게 된다. 이외 0세 영유아 양육수당, 최저임금 9620원, <b>종합부동산세<\\\\/b> 기본공제액 9억원으로 상향 등 바뀌는 부분을 정리했다. ‘만 나이 통일’... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 09:39:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[전문가 기고] <b>2023년 변경<\\\\/b>되는 부동산정책\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.m-i.kr\\\\/news\\\\/articleView.html?idxno=976955\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.m-i.kr\\\\/news\\\\/articleView.html?idxno=976955\\",\\n\\t\\t\\t\\"description\\":\\"다주택자들을 힘들게 했던 <b>종합부동산세<\\\\/b>도 대폭 완화된다. 1주택자 과세표준 기준을 11억원에서... 국회 통과과정에서 일부 내용이 <b>변경<\\\\/b>될 수는 있지만 <b>2023년<\\\\/b> 많은 부동산정책이 바뀌고 금리변화 등 변수에 따라... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 03 Jan 2023 11:14:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[퍼즐] <b>2023년<\\\\/b> 내 집 마련 계획있다면 반드시 알아둘 것\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.joongang.co.kr\\\\/article\\\\/25135287\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/025\\\\/0003254856?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"부동산 트렌드 NOW(7) <b>2023년<\\\\/b> 달라지는 부동산 제도의 핵심은 거래부담을 줄여 매물이 출현할 수 있도록 함과... (3) 세제 개편 및 기타 제도 <b>변경 종합부동산세<\\\\/b> <b>종합부동산세<\\\\/b> 기본공제금액이 12억으로 상향되고... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 21 Jan 2023 10:00:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b>부터 달라지는 것들…근로·자녀장려금 10% 수준 인상\\",\\n\\t\\t\\t\\"originallink\\":\\"https:\\\\/\\\\/www.ibuan.com\\\\/news\\\\/articleView.html?idxno=39142\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/www.ibuan.com\\\\/news\\\\/articleView.html?idxno=39142\\",\\n\\t\\t\\t\\"description\\":\\"정부는 지난 3일 <b>2023년<\\\\/b>부터 달라지는 249건의 법과 제도를 발표했다. 이번 정책 변화는 코로나19와... ▲ <b>종합부동산세<\\\\/b> 세율 인하 <b>종합부동산세<\\\\/b> 세 부담 적정화를 위해 주택분 <b>종합부동산세<\\\\/b> 세율을 2주택 과표 12억원... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Fri, 13 Jan 2023 11:50:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"<b>2023년<\\\\/b> 달라진 부동산 청약·세제[복덕방기자들]\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.edaily.co.kr\\\\/news\\\\/newspath.asp?newsid=03056966635477064\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/018\\\\/0005405135?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"적용했으나, <b>2023년<\\\\/b> 증여분부터는 시가인정액으로 취득가액이 매겨진다. 시가인정액은 취득일 전 6개월부터... <b>종합부동산세<\\\\/b> 세부담 상한율도 일원화된다. 주택 수에 따라 다르게 적용해왔던 세부담 상한율이 150%로... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Thu, 12 Jan 2023 16:40:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[아유경제_헤드라인] <b>2023년<\\\\/b> 계묘년 달라지는 부동산 제도 &apos;알아보기&apos;\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.areyou.co.kr\\\\/news\\\\/articleView.html?idxno=75544\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.areyou.co.kr\\\\/news\\\\/articleView.html?idxno=75544\\",\\n\\t\\t\\t\\"description\\":\\"<b>2023년<\\\\/b> 부동산 제도가 어떻게 달라지는지에 시장의 눈과 귀가 모이고 있다. 윤석열 정부의 부동산 정책은... <b>종합부동산세<\\\\/b>(이하 종부세) 기본공제금액이 6억 원에서 9억 원으로 상향 조정됨에 따라 세부담이 대폭... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 17 Jan 2023 18:14:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"&apos;만 나이&apos;로 통일·2주택자 종부세 중과 폐지…<b>2023년<\\\\/b> 달라지는 것\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/news.mt.co.kr\\\\/mtview.php?no=2022123014480169338\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/008\\\\/0004834925?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"소득세·법인세·<b>종합부동산세<\\\\/b> 등의 부담이 완화된다. 2주택자는 종부세 중과세율을 더 이상 적용받지... <b>2023년<\\\\/b> 변하는 주요 제도를 분야별로 정리했다. ◇행정·고용·보건복지 ○만(滿) 나이 시행 : 2022년 12월 27일... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 06:30:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"구재이 세무사, &apos;<b>2023년<\\\\/b> 달라지는 세금제도&apos; 총정리 ①\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.joseilbo.com\\\\/news\\\\/news_read.php?uid=475071&class=7&grp=\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/123\\\\/0002294263?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"구재이 세무사가 &apos;2022개정세법&apos;을 중심으로 <b>2023년<\\\\/b> 시행되거나 변동되는 국세와 지방세의 주요 세법... ❍ (국세기본법) 정부의 부과 고지로 종부세 납부한 경우도 경정청구 가능 : <b>종합부동산세<\\\\/b>는 합산배제 신고를... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Tue, 03 Jan 2023 11:01:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[신년기획] &apos;만 나이 통일&apos;부터 &apos;소비기한 표시&apos;까지 <b>2023년<\\\\/b> 달라지는 제도\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.ngonews.kr\\\\/news\\\\/articleView.html?idxno=137925\\",\\n\\t\\t\\t\\"link\\":\\"http:\\\\/\\\\/www.ngonews.kr\\\\/news\\\\/articleView.html?idxno=137925\\",\\n\\t\\t\\t\\"description\\":\\"유통기한 도입 이후 38년 만에 소비기한으로 표시 <b>변경<\\\\/b> &apos;유통기한&apos;이 도입 이후 38년 만에 &apos;소비기한&apos;으로... <b>종합부동산세<\\\\/b> 기본공제 공시가 인상···생애 최초 주택 구입자 취득세 면제 <b>2023년<\\\\/b>에 <b>종합부동산세<\\\\/b>(이하... \\",\\n\\t\\t\\t\\"pubDate\\":\\"Sat, 31 Dec 2022 19:32:00 +0900\\"\\n\\t\\t},\\n\\t\\t{\\n\\t\\t\\t\\"title\\":\\"[<b>2023년<\\\\/b> 세법시행령] 매출 5000억 미만 &apos;중견기업&apos;, 최대주주 할증과세 안 한...\\",\\n\\t\\t\\t\\"originallink\\":\\"http:\\\\/\\\\/www.joseilbo.com\\\\/news\\\\/news_read.php?uid=476328&class=7&grp=\\",\\n\\t\\t\\t\\"link\\":\\"https:\\\\/\\\\/n.news.naver.com\\\\/mnews\\\\/article\\\\/123\\\\/0002295452?sid=101\\",\\n\\t\\t\\t\\"description\\":\\"한편, <b>종합부동산세<\\\\/b>법 시행령 개정을 통해 종부세 합산배제 사원용 주택의 가액요건은 종전 공시가격 3억원... 연부연납 <b>변경<\\\\/b> 허가, 연부연납가산금의 가산율 ■ 가업 승계 시 상속세 납부유예 신청 및 허가 절차 등 신설... \\",\\n\\t\\t\\t'... 40924 more characters,
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 71410,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 71410\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world

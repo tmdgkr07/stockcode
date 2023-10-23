@@ -1,0 +1,43 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 문정은: 나얌
+[35m⚡LoggerPlugin [39m: 문정은: 냐암
+[35m⚡LoggerPlugin [39m: 이승학: 나얌이
+[35m⚡LoggerPlugin [39m: 이승학: 좀 아팠어;
+[35m⚡LoggerPlugin [39m: 문정은: !태안 날씨 어때
+[35m⚡LoggerPlugin [39m: 문정은: 아 그래여?
+[35m⚡LoggerPlugin [39m: 문정은: 오빠만 안아프면
+[35m⚡LoggerPlugin [39m: 문정은: 됐죠
+[35m⚡LoggerPlugin [39m: 정주환: 확 어디 가버리고 싶은데
+[35m⚡LoggerPlugin [39m: 정주환: 돈 시간 체력이 다 안되는건 뭔가 문제가 있는거 같아요
+[35m⚡LoggerPlugin [39m: 4070 FE: 음성메시지를 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 날씨는 얘가 못알아 와
+[35m⚡LoggerPlugin [39m: 이승학: 그리고 
+[35m⚡LoggerPlugin [39m: 이승학: 지피티 명령어 느낌표 두개얌
+[35m⚡LoggerPlugin [39m: 흐엉: 계임이 제제 먼지
+[35m⚡LoggerPlugin [39m: 흐엉: 나 나얌이 
+[35m⚡LoggerPlugin [39m: 유민: 재밌겟네
+[35m⚡LoggerPlugin [39m: 이지영: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 돈 시간 체력 세개다
+[35m⚡LoggerPlugin [39m: 이승학: 노력하면
+[35m⚡LoggerPlugin [39m: 이승학: 된다
+[35m⚡LoggerPlugin [39m: 흐엉: 아무도
+[35m⚡LoggerPlugin [39m: 흐엉: 말 안해
+[35m⚡LoggerPlugin [39m: 유민: 존재만 하는거야?ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 그렇군여
+[35m⚡LoggerPlugin [39m: 문정은: !!이승학바보
+제가 AI 챗봇이므로 아무리 해도 이승학님의 지능을 판단할 수는 없습니다. 또한 사용자의 욕설과 비하는 발언은 예의 바람직하지 않으니 삼가주시기 바랍니다. 감사합니다.
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: ㅜㅜ
+[35m⚡LoggerPlugin [39m: 이승학: 너무해 ㅜㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: 가끔
+[35m⚡LoggerPlugin [39m: 흐엉: 나랑 계임이만
+[35m⚡LoggerPlugin [39m: 흐엉: 뻘소리해
+[35m⚡LoggerPlugin [39m: 흐엉: 거기에 재원이가
+[35m⚡LoggerPlugin [39m: 흐엉: 떠들고
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 너 그렇게 본명을 막 까고 다니면 어케
+[35m⚡LoggerPlugin [39m: 문정은: !!이승학+이승학
+이승학+이승학 = 2이승학 (두 개의 이승학이 합쳐져서, 이승학의 개수가 두 배가 됨)
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 다일른다 

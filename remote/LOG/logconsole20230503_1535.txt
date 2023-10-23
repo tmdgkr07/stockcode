@@ -1,0 +1,80 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 넹,,
+[35m⚡LoggerPlugin [39m: 이승학: 다끝났어요 근데
+[35m⚡LoggerPlugin [39m: 이승학: 하,,
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+3
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 49686, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'hh', 'ft', 'jx', '0m' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'qn', '2B', 'Wg', 'Qj' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Xn', 'hO', 'AP', 'O2' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'L2', 'Li', 'HF', 'vy' ]
+코스피
+[ '코스피', '' ]
+index
+[ '9w', 'Nw', 'F3', 'WX' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'vn', 'P2', 'ja', 'Pl' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'IL', 'VR', 'P4', 'sv' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'si', 'd9', 'YN', 'gD' ]
+코스피
+[ '코스피', '' ]
+index
+[ '8W', 'H5', 'zB', '01' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'fu', '6W', 'Bo', 'mQ' ]
+[35m⚡LoggerPlugin [39m: 문정은: 어머
+[35m⚡LoggerPlugin [39m: 문정은: 어디까지 가니..
+[35m⚡LoggerPlugin [39m: 이승학: 그럴수도있지

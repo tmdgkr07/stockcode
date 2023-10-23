@@ -1,0 +1,116 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: h
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ '4r', '6y', 'F8', 'HK' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'k3', 'q2', 'd3', 'wF' ]
+[35m⚡LoggerPlugin [39m: LSH: !ping
+[35m⚡LoggerPlugin [39m: LSH: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'TD', 'Ks', 'bF', 'KK' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'u9', 'br', '2H', 'BJ' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'D5', 'lN', 'uF', 'iA' ]
+[35m⚡LoggerPlugin [39m: LSH: ㅎㅇ
+
+[35m⚡LoggerPlugin [39m: LSH: ㅎㅇ
+[35m⚡LoggerPlugin [39m: LSH: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'LSH',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'WG', 'gH', 'l8', 'Mf' ]
+[35m⚡LoggerPlugin [39m: LSH: 1
+[35m⚡LoggerPlugin [39m: LSH: 누가 켰나봐용

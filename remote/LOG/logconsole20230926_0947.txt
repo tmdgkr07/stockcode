@@ -1,0 +1,14 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/mnews/article/023/0003789935
+[35m⚡LoggerPlugin [39m: 아딱: Photo
+[35m⚡LoggerPlugin [39m: 아딱: 이상민의원 몸도안좋은데
+[35m⚡LoggerPlugin [39m: 아딱: 진짜 개불쌍하다
+[35m⚡LoggerPlugin [39m: 조.련.사: 저럴땐
+[35m⚡LoggerPlugin [39m: 조.련.사: 감사합니다
+[35m⚡LoggerPlugin [39m: 조.련.사: 하고
+[35m⚡LoggerPlugin [39m: 조.련.사: 세로로읽어보세요 딱 이러면
+[35m⚡LoggerPlugin [39m: 조.련.사: 그냥 씹으면됨
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 그러면 보낸놈이 더 안달볶달임
+[35m⚡LoggerPlugin [39m: 불나게 일하는 네오: q int
+Status: 409

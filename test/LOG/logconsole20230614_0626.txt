@@ -1,0 +1,912 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 조영우: 아 맞다
+[35m⚡LoggerPlugin [39m: 조영우: 민방위 인강 들어야되는데
+[35m⚡LoggerPlugin [39m: 박재건: 저도 저저번주인가
+[35m⚡LoggerPlugin [39m: 박재건: 민방위다녀왔어여 
+[35m⚡LoggerPlugin [39m: 박재건: 누락했나
+[35m⚡LoggerPlugin [39m: 박재건: 원래
+[35m⚡LoggerPlugin [39m: 박재건: 3년차인데
+[35m⚡LoggerPlugin [39m: 여환준: 맞네
+[35m⚡LoggerPlugin [39m: 박재건: 2년차로되어있던데
+[35m⚡LoggerPlugin [39m: 여환준: 후
+[35m⚡LoggerPlugin [39m: 조영우: 민방위 갔다고?
+[35m⚡LoggerPlugin [39m: 조영우: 인강 아니라?
+[35m⚡LoggerPlugin [39m: 박재건: 네
+[35m⚡LoggerPlugin [39m: 박재건: 2년차까지는
+[35m⚡LoggerPlugin [39m: 박재건: 구청으로
+[35m⚡LoggerPlugin [39m: 박재건: 오라고해가지고
+[35m⚡LoggerPlugin [39m: 조영우: 오…….
+[35m⚡LoggerPlugin [39m: 박재건: 가니까 핵전쟁교육 
+[35m⚡LoggerPlugin [39m: 박재건: 화생방교육
+[35m⚡LoggerPlugin [39m: 박재건: cpr 
+[35m⚡LoggerPlugin [39m: 박재건: 연습시키던데여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 난 코로나랑 겹쳐서
+[35m⚡LoggerPlugin [39m: 김가비: 나얌 쟤 로봇맞아???
+[35m⚡LoggerPlugin [39m: 조영우: 한 번도 못 가봄ㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 주리잡으러온 ai임
+[35m⚡LoggerPlugin [39m: 조영우: 미래에서 온 거임
+[35m⚡LoggerPlugin [39m: 박재건: 나얌= 승학이가 설치해놓은 거 , 근데 승학이도 이걸로대화
+[35m⚡LoggerPlugin [39m: 조영우: 웨얼 이즈 주리코너
+[35m⚡LoggerPlugin [39m: 박재건: ㅇㅋ??
+[35m⚡LoggerPlugin [39m: 박재건: 이해좀하자
+[35m⚡LoggerPlugin [39m: 박재건: 주리야
+[35m⚡LoggerPlugin [39m: 박재건: 인어공주야?? 인간들말소통이안되네 
+[35m⚡LoggerPlugin [39m: 조영우: 주리공주
+[35m⚡LoggerPlugin [39m: 조영우: 주리 틀고싶네
+[35m⚡LoggerPlugin [39m: 김가비: 아니기계따위가 민방위???
+[35m⚡LoggerPlugin [39m: 박재건: 에휴
+[35m⚡LoggerPlugin [39m: 박재건: 승학이는 예비군이라고 ..
+[35m⚡LoggerPlugin [39m: 조영우: 진짜 한숨 나온다
+[35m⚡LoggerPlugin [39m: 박재건: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 박재건: 갑자기 남친불쌍하네
+[35m⚡LoggerPlugin [39m: 조영우: 국방의 의무를 다한 현역 및 예비역 장병들을 존중해줘라 주리야
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 가비에게 너무 큰문제같습니다형님
+[35m⚡LoggerPlugin [39m: 박재건: 가비에게존중??..
+[35m⚡LoggerPlugin [39m: 박재건: 흠
+[35m⚡LoggerPlugin [39m: 여환준: 주리남친 미필은
+아니지?
+[35m⚡LoggerPlugin [39m: 박재건: 미필느낌인데
+[35m⚡LoggerPlugin [39m: 박재건: 아니면 주리를
+[35m⚡LoggerPlugin [39m: 박재건: 만날이유가
+[35m⚡LoggerPlugin [39m: 박재건: ..
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 살짝 뭐랄까
+[35m⚡LoggerPlugin [39m: 조영우: 모 아니면 도 느낌이긴했어
+[35m⚡LoggerPlugin [39m: 조영우: 특전사 아님 공익
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 저 진짜
+[35m⚡LoggerPlugin [39m: 김가비: 미필만 만나다가
+[35m⚡LoggerPlugin [39m: 김가비: 처음 군대다녀온애
+[35m⚡LoggerPlugin [39m: 김가비: 만나니까
+[35m⚡LoggerPlugin [39m: 김가비: 너무남자여서 적응안되요ㅠㅠ
+[35m⚡LoggerPlugin [39m: 박재건: ;;
+[35m⚡LoggerPlugin [39m: 박재건: 매번 미필만
+[35m⚡LoggerPlugin [39m: 박재건: 만났다는것도신기하네
+[35m⚡LoggerPlugin [39m: 김가비: 쫌머랄까 감성이 모잘라
+[35m⚡LoggerPlugin [39m: 박재건: 20살이후에 연애가 없는거아님?
+[35m⚡LoggerPlugin [39m: 김가비: ㅡㅡ아니거든
+[35m⚡LoggerPlugin [39m: 박재건: 스무살떄 군대안간
+[35m⚡LoggerPlugin [39m: 박재건: 미필만나고
+[35m⚡LoggerPlugin [39m: 박재건: 그뒤로는
+[35m⚡LoggerPlugin [39m: 김가비: 이상하게 다 미필만 만났더라고ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 합리적인 분석이야
+[35m⚡LoggerPlugin [39m: 박재건: 군대갔다온다고 
+[35m⚡LoggerPlugin [39m: 박재건: 감성이
+[35m⚡LoggerPlugin [39m: 조영우: 20대초에는 미필 만났겠지
+[35m⚡LoggerPlugin [39m: 박재건: 뒤쳐지진않지
+[35m⚡LoggerPlugin [39m: 박재건: 사람나름임
+[35m⚡LoggerPlugin [39m: 조영우: 근데 20대 중반 이후로 연애가 없잖아
+[35m⚡LoggerPlugin [39m: 박재건: 글킨하져
+[35m⚡LoggerPlugin [39m: 김가비: 아놔 있었다고ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 그래 새캬
+[35m⚡LoggerPlugin [39m: 김가비: 연애 간간히했다고ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 나 봐바
+[35m⚡LoggerPlugin [39m: 조영우: 최전방 갔다왔는데
+[35m⚡LoggerPlugin [39m: 박재건: 꿈에서라도 많이했겠지머
+[35m⚡LoggerPlugin [39m: 조영우: 얼마나 감수성이 풍부해
+[35m⚡LoggerPlugin [39m: 박재건: 가비야 나도 전방 포병부대출신이야
+[35m⚡LoggerPlugin [39m: 박재건: 감수성 많ㄷ가
+[35m⚡LoggerPlugin [39m: 박재건: 근데
+[35m⚡LoggerPlugin [39m: 박재건: 어떤점에서
+[35m⚡LoggerPlugin [39m: 박재건: 감수성이
+[35m⚡LoggerPlugin [39m: 박재건: 없다는거냐
+[35m⚡LoggerPlugin [39m: 박재건: 남친이
+[35m⚡LoggerPlugin [39m: 박재건: 왜 짭차고 다니냐고 놀림?
+[35m⚡LoggerPlugin [39m: 박재건: 후레감성 인정못해주고?
+[35m⚡LoggerPlugin [39m: 여환준: 고라니 사랑나누는 소리
+ 못들어봤으면 말도말아
+[35m⚡LoggerPlugin [39m: 여환준: 워!!!!!
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: ㅠㅠㅠㅠㅠ나짭없어 이자식아 !!!!!!!!!!!!
+[35m⚡LoggerPlugin [39m: 조영우: 코는 짭이잖아
+[35m⚡LoggerPlugin [39m: 김가비:  음 너무 현실주의샤
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 그 엠비티아시
+[35m⚡LoggerPlugin [39m: 김가비: 엠비티아이???
+[35m⚡LoggerPlugin [39m: 조영우: 턱도 짭이고 새캬
+[35m⚡LoggerPlugin [39m: 김가비: 그게  완전 정반대더만
+[35m⚡LoggerPlugin [39m: 김가비: 턱안깍았어!!!!
+[35m⚡LoggerPlugin [39m: 김가비: 내꺼야!!!
+[35m⚡LoggerPlugin [39m: 조영우: 근데 시술을 했잖아
+[35m⚡LoggerPlugin [39m: 김가비: 그건맞아
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: ㅇ빠른인정 ㄱ
+[35m⚡LoggerPlugin [39m: 김가비: ㅡㅡ
+[35m⚡LoggerPlugin [39m: 김가비: ㅗ
+[35m⚡LoggerPlugin [39m: 조영우: 현실적인게 좋은거여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 그래도
+[35m⚡LoggerPlugin [39m: 박재건: 사주는맞는다며
+[35m⚡LoggerPlugin [39m: 박재건: MBTI랑 사주 둘중
+[35m⚡LoggerPlugin [39m: 박재건: 하나만해라
+[35m⚡LoggerPlugin [39m: 조영우: 나는
+[35m⚡LoggerPlugin [39m: 조영우: estp야
+[35m⚡LoggerPlugin [39m: 박재건: 전 ESFJ
+[35m⚡LoggerPlugin [39m: 박재건: 가비는 ENFP 아니냐?
+[35m⚡LoggerPlugin [39m: 박재건: 안봐도알것같은데
+[35m⚡LoggerPlugin [39m: 김가비: 나
+[35m⚡LoggerPlugin [39m: 김가비: Infj
+[35m⚡LoggerPlugin [39m: 김가비: 인제
+[35m⚡LoggerPlugin [39m: 김가비: 인데
+[35m⚡LoggerPlugin [39m: 박재건: 구라치지마
+[35m⚡LoggerPlugin [39m: 박재건: 니가무슨J야
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋ진짜야
+[35m⚡LoggerPlugin [39m: 김가비: 색햐
+[35m⚡LoggerPlugin [39m: 김가비: 아놔
+[35m⚡LoggerPlugin [39m: 박재건: 형들이 봐준다고 구라를
+[35m⚡LoggerPlugin [39m: 조영우: j가 먼데?
+[35m⚡LoggerPlugin [39m: 박재건: 거의밥먹듯이
+[35m⚡LoggerPlugin [39m: 박재건: 치네
+[35m⚡LoggerPlugin [39m: 박재건: P:즉흥적 J:계획적
+[35m⚡LoggerPlugin [39m: 조영우: ㅈㄹ하네 니가 무슨 j야
+[35m⚡LoggerPlugin [39m: 김가비: 아니 진짜라니까ㅋㅋㄱㄱ
+[35m⚡LoggerPlugin [39m: 김가비: 하
+[35m⚡LoggerPlugin [39m: 조영우: 넌 진짜 무조건 p다
+[35m⚡LoggerPlugin [39m: 박재건: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 조영우: 그냥 p도 아니고
+[35m⚡LoggerPlugin [39m: 박재건: J는얼어죽을
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 존나 대문자 P야
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋp나고싶어?
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: ㅋㅋㅋㅋㅋ 언제적 개드립이냐
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 그래픽카드는 이제 사실상 엔비디아가 
+독주인가요?
+[35m⚡LoggerPlugin [39m: 여환준: 이제라도 엔비디아 사야하나 ㅡㅡㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 여환준: 환율 개떨어지네
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 49361, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'n5', '4Y', 'xQ', 'JT' ]
+index
+undefined
+아마 중복떄문에 ? 
+undefined
+코스닥
+[ '코스닥', '' ]
+[ 'yP', 'do', '7W', 'O1' ]
+index
+[35m⚡LoggerPlugin [39m: 조영우: 아 여행가고싶다
+[35m⚡LoggerPlugin [39m: 조영우: 와 엔화도 개빠졌네 진짜
+[35m⚡LoggerPlugin [39m: 조영우: 지금 좀 사놔야겠네요
+[35m⚡LoggerPlugin [39m: 아딱: 부활했구나
+[35m⚡LoggerPlugin [39m: 아딱: 냠태식이
+[35m⚡LoggerPlugin [39m: 아딱: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '4U', 'Ck', 'gm', 'SZ' ]
+[35m⚡LoggerPlugin [39m: 아딱: 이수화학
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '이수화학',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '이수화학' ]
+  }
+]
+[ '이수화학' ]
+1
+[ 'G6', '1s', 'Pl', 'Vl' ]
+[35m⚡LoggerPlugin [39m: 아딱: 이수화학
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '이수화학',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '이수화학' ]
+  }
+]
+[ '이수화학' ]
+1
+[ 'nX', 'BB', 'bq', 'd2' ]
+[35m⚡LoggerPlugin [39m: 아딱: 두산퓨얼셀
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '두산퓨얼셀',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '두산퓨얼셀' ]
+  }
+]
+[ '두산퓨얼셀' ]
+1
+[ 'Wd', 'bs', '2Y', '43' ]
+[35m⚡LoggerPlugin [39m: 아딱: 개잡주년
+[35m⚡LoggerPlugin [39m: 박재건: 다들 일본여행 엄청
+[35m⚡LoggerPlugin [39m: 박재건: 가던데여 요즘
+[35m⚡LoggerPlugin [39m: 조영우: 나도 올해 두 번 갔는데
+[35m⚡LoggerPlugin [39m: 조영우: 2월에 또 갈껴
+[35m⚡LoggerPlugin [39m: 조영우: 개꿀이라니까 진짜ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 가까운게 최고야
+[35m⚡LoggerPlugin [39m: 박재건: 그렇긴해여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 잭언
+[35m⚡LoggerPlugin [39m: 조영우: 너 해외여행 한 번도 안가봤다고하지않았냐
+[35m⚡LoggerPlugin [39m: 조영우: 너 맞나?
+[35m⚡LoggerPlugin [39m: 박재건: 네
+[35m⚡LoggerPlugin [39m: 박재건: 맞아여
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 이제많이갈려구여
+[35m⚡LoggerPlugin [39m: 여환준: 한번가면 
+[35m⚡LoggerPlugin [39m: 여환준: 오라오라병걸려서
+[35m⚡LoggerPlugin [39m: 여환준: 자주자주 나갔다와
+[35m⚡LoggerPlugin [39m: 김가비: ㄴㄴ더빠져
+[35m⚡LoggerPlugin [39m: 조영우: 900언더로 간다고?
+[35m⚡LoggerPlugin [39m: 김가비: 나도일본가볼까
+[35m⚡LoggerPlugin [39m: 김가비: 응 일본더빠져
+[35m⚡LoggerPlugin [39m: 박재건: 가비가 저점이라고할때 
+[35m⚡LoggerPlugin [39m: 김가비: 내가 작년부터
+[35m⚡LoggerPlugin [39m: 김가비: 엔치기하는애들
+[35m⚡LoggerPlugin [39m: 박재건: 믿는건 ㄴ
+[35m⚡LoggerPlugin [39m: 조영우: 가라니까 진짜
+[35m⚡LoggerPlugin [39m: 김가비: 다 ㅂㅅ이라고했자나
+[35m⚡LoggerPlugin [39m: 조영우: 내가 진짜 해외여행 많이 가본편인데
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 일본만한데가 없다ㄹㅇ
+[35m⚡LoggerPlugin [39m: 김가비: 그래?
+[35m⚡LoggerPlugin [39m: 김가비: 일본가야딩
+[35m⚡LoggerPlugin [39m: 김가비: 룰루
+[35m⚡LoggerPlugin [39m: 김가비: 근데
+[35m⚡LoggerPlugin [39m: 김가비: 차없어도괜츈아?
+[35m⚡LoggerPlugin [39m: 조영우: 오키나와 아니면 다 괜춘
+[35m⚡LoggerPlugin [39m: 김가비: 오키나와?  그따구로말하니까
+[35m⚡LoggerPlugin [39m: 김가비: 오키나와부터 가고싶네
+[35m⚡LoggerPlugin [39m: 김가비: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋ갔다와라 새캬
+[35m⚡LoggerPlugin [39m: 조영우: 너 스킨스쿠버 자격증 있냐
+[35m⚡LoggerPlugin [39m: 박재건: 있을리가없을것같아여
+[35m⚡LoggerPlugin [39m: 조영우: 하긴
+[35m⚡LoggerPlugin [39m: 조영우: 상상이 안간다ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조영우: 물에 집어던지면
+[35m⚡LoggerPlugin [39m: 조영우: 걍 그대로 가라앉을듯
+[35m⚡LoggerPlugin [39m: 박재건: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 박재건: 오늘도 흠발새기는
+[35m⚡LoggerPlugin [39m: 박재건: 내리박을
+[35m⚡LoggerPlugin [39m: 박재건: 준비중이네여
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅈ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋ내리박
+[35m⚡LoggerPlugin [39m: 여환준: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 주리 컴터 이래?
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박민철: 나도 ESFJ
+[35m⚡LoggerPlugin [39m: 김가비: ........이거 난데..
+[35m⚡LoggerPlugin [39m: 박민철: P맞구만 뭐~
+[35m⚡LoggerPlugin [39m: 김가비: 진짜 제이인데 ㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 김가비: 힝
+[35m⚡LoggerPlugin [39m: 박민철: 8%J 92%P
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 다시 해놔야겟네 ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 아오 어제 너무 달렸네 진짜
+[35m⚡LoggerPlugin [39m: 조영우: 힘들다ㅠㅠ
+[35m⚡LoggerPlugin [39m: 조영우: 반차 써야겠군
+[35m⚡LoggerPlugin [39m: 용성: 날짜가
+[35m⚡LoggerPlugin [39m: 용성: 옛날꺼자나
+[35m⚡LoggerPlugin [39m: 용성: 23,3,3
+[35m⚡LoggerPlugin [39m: 김가비: 어제 술 ?
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 간만에 미친듯이 달렸네
+[35m⚡LoggerPlugin [39m: 김가비: 잘했네잉ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 원래 한번 그렇게 
+[35m⚡LoggerPlugin [39m: 김가비: 고삐 풀릴정도로 먹어줘야지 
+[35m⚡LoggerPlugin [39m: 김가비: 또 안먹고싶지 
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 글게
+[35m⚡LoggerPlugin [39m: 조영우: 한 일주일은
+[35m⚡LoggerPlugin [39m: 조영우: 술생각 안날듯
+[35m⚡LoggerPlugin [39m: 기석주: 나얌 이즈랄
+[35m⚡LoggerPlugin [39m: 기석주: 이.승.학. 이걸 견뎌낸 미친놈
+[35m⚡LoggerPlugin [39m: 여환준: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 아니 코스피 상장호ㅔ사에서
+[35m⚡LoggerPlugin [39m: 여환준: 이게웬 개짓거린지
+[35m⚡LoggerPlugin [39m: 여환준: 영수증 붙이고 자빠졌네
+[35m⚡LoggerPlugin [39m: 박민철: ㅋㅋㅋ 사무실에 서류가 사라져야 되는데 서류업무 하고 있으니
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 경리한테 토스하세여
+[35m⚡LoggerPlugin [39m: 김가비: 포스코
+[35m⚡LoggerPlugin [39m: 김가비: 이엔씨
+[35m⚡LoggerPlugin [39m: 김가비: 포스코이앤씨
+[35m⚡LoggerPlugin [39m: 김가비: 주식없네
+[35m⚡LoggerPlugin [39m: 조영우: 왜 없는지 알아?
+[35m⚡LoggerPlugin [39m: 김가비: 모를께
+[35m⚡LoggerPlugin [39m: 조영우: ㅇㅋ 잘 생각했다
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 포스코 7월달에 
+[35m⚡LoggerPlugin [39m: 김가비: 리튬 공장 완공이라던데 
+[35m⚡LoggerPlugin [39m: 김가비: 내년 6월급
+[35m⚡LoggerPlugin [39m: 김가비: 한번 들어가려고 검색햇는데
+[35m⚡LoggerPlugin [39m: 김가비: 주식이없어 
+[35m⚡LoggerPlugin [39m: 김가비: 찌댕
+[35m⚡LoggerPlugin [39m: 박재건: 너한테만
+[35m⚡LoggerPlugin [39m: 박재건: 안보이는거야
+[35m⚡LoggerPlugin [39m: 김가비: 어딧어
+[35m⚡LoggerPlugin [39m: 조영우: 미녀한테만 보인다더라
+[35m⚡LoggerPlugin [39m: 김가비: 보인다
+[35m⚡LoggerPlugin [39m: 김가비: 아 여기있엇네~
+[35m⚡LoggerPlugin [39m: 조영우: 넌 장님이야
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 아니앀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ이렇게까지 할일이야?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 다들 빨리 보유 종목이나 말해봐 
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 아 뻘하게 웃기네ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 오늘또 영우형이 짱나게 하넼ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003769517?sid=100
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003769622?sid=100
+[35m⚡LoggerPlugin [39m: 조.련.사: 개같은몰락
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/469/0000744387?sid=104
+[35m⚡LoggerPlugin [39m: 조.련.사: 븅신들 ㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 혹시모름 북한과 접선을 위한....
+[35m⚡LoggerPlugin [39m: 여환준: 보유종목 말하면 -50% 될거같아 주리야
+[35m⚡LoggerPlugin [39m: 한승연: 너 게임 감정적으로 하네
+[35m⚡LoggerPlugin [39m: 아딱: https://n.news.naver.com/mnews/ranking/article/469/0000744395?ntype=RANKING
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 오
+[35m⚡LoggerPlugin [39m: 박재건: 이강인
+[35m⚡LoggerPlugin [39m: 박재건: PSG 가는것같네요
+[35m⚡LoggerPlugin [39m: 박재건: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 조영우: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조영우: 나 이제 퇴근하는데
+[35m⚡LoggerPlugin [39m: 조영우: 집에 가서 플스로 피파 조질거임
+[35m⚡LoggerPlugin [39m: 조영우: psg 키워야지
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: ㄷㄷ PSG 유니폼
+[35m⚡LoggerPlugin [39m: 박재건: 이강인가면
+[35m⚡LoggerPlugin [39m: 박재건: 바로구매
+[35m⚡LoggerPlugin [39m: 흰티마: 운지운지척~!
+[35m⚡LoggerPlugin [39m: 흰티마: 운지운지척~!
+[35m⚡LoggerPlugin [39m: 케이미넴: 아.
+[35m⚡LoggerPlugin [39m: 케이미넴: 전기쟁이들
+[35m⚡LoggerPlugin [39m: 케이미넴: 왜 건물지으면서 랜선 똑바로 안까냐
+[35m⚡LoggerPlugin [39m: 케이미넴: 종나 귀찮게하네
+[35m⚡LoggerPlugin [39m: 조.련.사: 자살엔딩
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱 카우방 단서다
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 음메에
+[35m⚡LoggerPlugin [39m: ys: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/005/0001615904
+[35m⚡LoggerPlugin [39m: 조.련.사: 뉴스가져왔따
+[35m⚡LoggerPlugin [39m: 조.련.사: 동일산업 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '동일산업 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '동일산업', 'ㅇㅂ' ]
+  }
+]
+[ '동일산업', 'ㅇㅂ' ]
+1
+[ 'Gr', 'Tn', 'rv', '9d' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 동일금속 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '동일금속 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '동일금속', 'ㅇㅂ' ]
+  }
+]
+[ '동일금속', 'ㅇㅂ' ]
+1
+[ 't2', '5V', 'Fe', 'Tc' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 만호제강 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '만호제강 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '만호제강', 'ㅇㅂ' ]
+  }
+]
+[ '만호제강', 'ㅇㅂ' ]
+1
+[ 'oh', 'sb', 'FX', '2E' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 대한방직 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '대한방직 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '대한방직', 'ㅇㅂ' ]
+  }
+]
+[ '대한방직', 'ㅇㅂ' ]
+1
+[ 'YN', 'Zh', 'oX', 'RG' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 방림 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '방림 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '방림', 'ㅇㅂ' ]
+  }
+]
+[ '방림', 'ㅇㅂ' ]
+1
+[ 'Z2', 'vO', 'mQ', 'tA' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 동일산업 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '동일산업 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '동일산업', '주봉' ]
+  }
+]
+[ '동일산업', '주봉' ]
+1
+[ 'V5', 'Mn', 'w7', 'yA' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 동일금속 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '동일금속 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '동일금속', '주봉' ]
+  }
+]
+[ '동일금속', '주봉' ]
+1
+[ 'VE', 'H2', 'zl', 'Zk' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 만호제강 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '만호제강 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '만호제강', '주봉' ]
+  }
+]
+[ '만호제강', '주봉' ]
+1
+[ 'br', 'qC', '2Z', 'EY' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 대한방직 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '대한방직 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '대한방직', '주봉' ]
+  }
+]
+[ '대한방직', '주봉' ]
+1
+[ 'og', 'gC', 'qa', 'ig' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 방림 주봉
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '방림 주봉',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '방림', '주봉' ]
+  }
+]
+[ '방림', '주봉' ]
+1
+[ 'gk', 'CB', 'vT', 'rL' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/article/029/0002806524
+[35m⚡LoggerPlugin [39m: 조.련.사: 잊혀지고 싶다던새끼
+[35m⚡LoggerPlugin [39m: 박민철: PSG가 어디? 파리생제르망?
+[35m⚡LoggerPlugin [39m: 박재건: 네 형님
+[35m⚡LoggerPlugin [39m: 박민철: 오호 거기 음바페, 메시, 네이마르 있지 않나?
+[35m⚡LoggerPlugin [39m: 조.련.사: https://www.smarttoday.co.kr/news/articleView.html?idxno=30991
+[35m⚡LoggerPlugin [39m: 박재건: 네 근데메시는떠났고
+[35m⚡LoggerPlugin [39m: 박민철: 아 보따리 쌌구나
+[35m⚡LoggerPlugin [39m: 조영우: 메시 미국 갔습니다
+[35m⚡LoggerPlugin [39m: 여환준: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 여환준: 이거 기껏 다했는데
+[35m⚡LoggerPlugin [39m: 여환준: 갑자시 하지말랍니다
+[35m⚡LoggerPlugin [39m: 여환준: 와열받네
+[35m⚡LoggerPlugin [39m: 박재건: ㄷㄷㄷ..
+[35m⚡LoggerPlugin [39m: 박재건: 제일열받는상황
+[35m⚡LoggerPlugin [39m: 조영우: ㅠㅠㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: https://n.news.naver.com/mnews/article/023/0003769658?sid=103
+[35m⚡LoggerPlugin [39m: 조.련.사: 굿
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+3
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 61980, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'Fo', 'RX', 'fc', 'fC' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'Xd', 'Fw', 'Bz', 'cz' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'VP', 'Ex', 'ni', 'Aj' ]
+index
+undefined
+아마 중복떄문에 ? 
+undefined
+코스닥
+[ '코스닥', '' ]
+[ 'VG', 'hJ', '8b', 'GJ' ]
+index
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'jm', 'Kh', 'zX', '2P' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 아우
+[35m⚡LoggerPlugin [39m: 김가비: @조영우  
+[35m⚡LoggerPlugin [39m: 김가비: 영우형
+[35m⚡LoggerPlugin [39m: 김가비: 여기 잠오는 약있어 ?
+[35m⚡LoggerPlugin [39m: 김가비: 왜케 잠이와
+[35m⚡LoggerPlugin [39m: 용성: 위메이드
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '위메이드',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '위메이드' ]
+  }
+]
+[ '위메이드' ]
+1
+[ 'qF', 'fP', 'Nq', '6B' ]
+[35m⚡LoggerPlugin [39m: 용성: 엔씨소프트
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '엔씨소프트',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '엔씨소프트' ]
+  }
+]
+[ '엔씨소프트' ]
+1
+[ 'Hk', 'IU', 'lb', 'gR' ]
+[35m⚡LoggerPlugin [39m: 용성: 오메시발
+[35m⚡LoggerPlugin [39m: 여환준: 주리 임신이야??
+[35m⚡LoggerPlugin [39m: 김가비: 아니 약만 먹으면
+[35m⚡LoggerPlugin [39m: 김가비: 잠이 쏟아져요 
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 코데날 빼고먹자니
+[35m⚡LoggerPlugin [39m: 여환준: 담배를 끊어
+[35m⚡LoggerPlugin [39m: 김가비: 담배는 사랑이죠 
+[35m⚡LoggerPlugin [39m: 김가비: 나지금
+[35m⚡LoggerPlugin [39m: 김가비: 목소리가 안나온다니까
+[35m⚡LoggerPlugin [39m: 김가비: 찢어질것같고
+[35m⚡LoggerPlugin [39m: 김가비: 편도 붓고
+[35m⚡LoggerPlugin [39m: 김가비: 기침 콧물 나오구 
+[35m⚡LoggerPlugin [39m: 김가비: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 여환준: 휴
+[35m⚡LoggerPlugin [39m: 여환준: 남친 행복하겠다
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 얼굴에 대고
+[35m⚡LoggerPlugin [39m: 김가비: 재채기한번 해줘야지
+[35m⚡LoggerPlugin [39m: 박재건: 독감인것같은데
+[35m⚡LoggerPlugin [39m: 박재건: 걍 역먹고
+[35m⚡LoggerPlugin [39m: 박재건: 약먹고
+[35m⚡LoggerPlugin [39m: 박재건: 자는게
+[35m⚡LoggerPlugin [39m: 박재건: 나을듯
+[35m⚡LoggerPlugin [39m: 김가비: 독감 아니야 
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 열은 없끄든ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  
+[35m⚡LoggerPlugin [39m: 조.련.사: 더불어 쑈당 신작나옴
+[35m⚡LoggerPlugin [39m: 조.련.사: https://www.youtube.com/watch?v=n4xhIhng4pc
+[35m⚡LoggerPlugin [39m: 조.련.사: https://www.ytn.co.kr/_ln/0101_202306141343012193
+[35m⚡LoggerPlugin [39m: 조.련.사: 혹시나 했는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 역시나임
+[35m⚡LoggerPlugin [39m: 박재건: 그럼 걍 약먹고자라
+[35m⚡LoggerPlugin [39m: 조.련.사: https://m.dcinside.com/board/dcbest/145251
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: @아딱 
+[35m⚡LoggerPlugin [39m: 아딱: 오홍
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐임?
+[35m⚡LoggerPlugin [39m: 조.련.사: 스위치?
+[35m⚡LoggerPlugin [39m: 조.련.사: PSP?
+[35m⚡LoggerPlugin [39m: 아딱: 저게먼스위치여
+[35m⚡LoggerPlugin [39m: 아딱: 아수스
+[35m⚡LoggerPlugin [39m: 아딱: ASUS에서 출시한
+[35m⚡LoggerPlugin [39m: 아딱: 게이밍 노트북이자나
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 샵검색: #Rog Ally
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 노트북?
+[35m⚡LoggerPlugin [39m: 조.련.사: 크네
+[35m⚡LoggerPlugin [39m: 조.련.사: 저거로
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭘 할수있음?
+[35m⚡LoggerPlugin [39m: 아딱: 스팀
+[35m⚡LoggerPlugin [39m: 아딱: 사양 별로안타는
+[35m⚡LoggerPlugin [39m: 아딱: 젇만한게임
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딲이 꼬추만한게임
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄸ
+[35m⚡LoggerPlugin [39m: 아딱: 그건
+[35m⚡LoggerPlugin [39m: 아딱: 4090 sli해도
+[35m⚡LoggerPlugin [39m: 아딱: 안돼
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱
+[35m⚡LoggerPlugin [39m: 조.련.사: 십련
+[35m⚡LoggerPlugin [39m: 조.련.사: 하드코어
+[35m⚡LoggerPlugin [39m: 조.련.사: 또사망했냐?
+[35m⚡LoggerPlugin [39m: 조.련.사: 또사망 기원 2일차
+[35m⚡LoggerPlugin [39m: 아딱: 42레벨임
+[35m⚡LoggerPlugin [39m: 조.련.사: 하루도안했노
+[35m⚡LoggerPlugin [39m: 조.련.사: 하루면 50찍던데
+[35m⚡LoggerPlugin [39m: 아딱: 졸려
+[35m⚡LoggerPlugin [39m: 아딱: 사냥
+[35m⚡LoggerPlugin [39m: 조.련.사: 곰해라 곰
+[35m⚡LoggerPlugin [39m: 조.련.사: 난 지금
+[35m⚡LoggerPlugin [39m: 조.련.사: 골드수급도 힘들고
+[35m⚡LoggerPlugin [39m: 조.련.사: 원하는 옵션도 안나오고
+[35m⚡LoggerPlugin [39m: 조.련.사: 야발
+[35m⚡LoggerPlugin [39m: 조.련.사: 그 뭐냐 던전
+[35m⚡LoggerPlugin [39m: 조.련.사: 솔플전용 꿀던전 근처가면 렉걸리고
+[35m⚡LoggerPlugin [39m: 조.련.사: 서버 밀리고
+[35m⚡LoggerPlugin [39m: 조.련.사: 개같은 던전들만 돌고
+[35m⚡LoggerPlugin [39m: 조.련.사: 어제 용사런 한번해보려고 파티갔는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 미친 바바 네크새끼들
+[35m⚡LoggerPlugin [39m: 조.련.사: 오지게 속도빨라서
+[35m⚡LoggerPlugin [39m: 조.련.사: 눈치보임
+[35m⚡LoggerPlugin [39m: 조.련.사: 다돌았다는 신호 11치더니
+[35m⚡LoggerPlugin [39m: 조.련.사: 난 다돌지도 않았는데 그냥나감
+[35m⚡LoggerPlugin [39m: 조.련.사: 눈치보고 나도 그냥 나감
+[35m⚡LoggerPlugin [39m: 조.련.사: 버스탐 ㅋ
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 사양높아도가능
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 1060정도됨
+[35m⚡LoggerPlugin [39m: 조.련.사: 패드 지원게임만
+[35m⚡LoggerPlugin [39m: 조.련.사: 가능할듯~?
+[35m⚡LoggerPlugin [39m: 조.련.사: 록맨 이런거 하면되겠다
+[35m⚡LoggerPlugin [39m: 조.련.사: 화면 터치임?
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 가능
+[35m⚡LoggerPlugin [39m: 김가비: 일본 10일 살기 가능 ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 비싸겠노
+[35m⚡LoggerPlugin [39m: 조.련.사: 애플 비전프로보단 싸겠지만
+[35m⚡LoggerPlugin [39m: 조.련.사: 난 아직도 애플쉑 스펙 공개한거 
+[35m⚡LoggerPlugin [39m: 조.련.사: 설마 싶은
+[35m⚡LoggerPlugin [39m: 조.련.사: 데
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 100만원임
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 99.9
+[35m⚡LoggerPlugin [39m: 조.련.사: 눈깔 앞에 4k를 어테 달았노
+[35m⚡LoggerPlugin [39m: 조.련.사: 스위치 생각하면 비싸긴하네
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 이거근데 좀 걸러들어야함
+[35m⚡LoggerPlugin [39m: 조.련.사: 레티나 디스플레이마냥
+[35m⚡LoggerPlugin [39m: 조.련.사: 4k급 디스플레입니노
+[35m⚡LoggerPlugin [39m: 조.련.사: 이지랄할듯
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 걔랑은 하드자체가다른거니까..
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: ㄴㄴ이게
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 우리가아는 해상력개념이랑은 좀 다름
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 어느위치에서 삧을쐈을때
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 어느정도해상력이된다
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 프로젝션방식이면 그거대로 측정방식다르고
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 그래서 구글글래스때나
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 그 아류작들도
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 나름 뭐 눈앞에서봤을때 4k 8k드립쳤던거고
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 실제로나와야알음
+[35m⚡LoggerPlugin [39m: 조.련.사: 일단
+[35m⚡LoggerPlugin [39m: 조.련.사: 눈깔앞에
+[35m⚡LoggerPlugin [39m: 조.련.사: 3840 x 2160
+[35m⚡LoggerPlugin [39m: 조.련.사: 픽셀을
+[35m⚡LoggerPlugin [39m: 조.련.사: 깔수있는지부터 의문
+[35m⚡LoggerPlugin [39m: 조.련.사: 1픽셀이
+[35m⚡LoggerPlugin [39m: 조.련.사: 기존 TV대비
+[35m⚡LoggerPlugin [39m: 조.련.사: 몇배로 작은거여
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄸ
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 걍 마케팅성발언일수있는부분이라걸러들으라는소리임
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 마케팅성 발언으로
+[35m⚡LoggerPlugin [39m: 조.련.사: 정작 나왔을땐~
+[35m⚡LoggerPlugin [39m: 조.련.사: 레티나~ 눈깔인식못하니 이건 4k입니다
+[35m⚡LoggerPlugin [39m: 박재건: 약먹고자라
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래도 뭐다? 애플이라 잘팔림
+[35m⚡LoggerPlugin [39m: 조.련.사: 똥에 사과 모양 붙여도 팔릴듯
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋ아휴가 10일 어디쓰지
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박재건: 남친이랑
+[35m⚡LoggerPlugin [39m: 박재건: 보내셈
+[35m⚡LoggerPlugin [39m: 케이미넴: 30에 또 따임
+[35m⚡LoggerPlugin [39m: 김가비: 남친 일해
+[35m⚡LoggerPlugin [39m: 여환준: 너도일좀해
+[35m⚡LoggerPlugin [39m: 여환준: 우리회사와서 영수증이라도 붙여
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋ우리회사에서도
+[35m⚡LoggerPlugin [39m: 김가비: 일을안하는데
+[35m⚡LoggerPlugin [39m: 김가비: 그럼시급 3000원이라도줘여
+[35m⚡LoggerPlugin [39m: 김가비: 영수증붙힐께유
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 9900KS: 저녁 고기집 ㅊㅊ바람
+[35m⚡LoggerPlugin [39m: 케이미넴: 갈비살 좋다
+[35m⚡LoggerPlugin [39m: 엄텔: 하 번아웃
+[35m⚡LoggerPlugin [39m: 9900KS: 갈비상좋지
+[35m⚡LoggerPlugin [39m: 9900KS: [네이버 지도]
+까사생갈비
+서울 강남구 봉은사로2길 23
+https://naver.me/5cAu80iK
+[35m⚡LoggerPlugin [39m: 익익: 영천영화
+[35m⚡LoggerPlugin [39m: 케이미넴: 내일 서울출장간다?
+[35m⚡LoggerPlugin [39m: 케이미넴: 논현에 물고기자리 아직있나
+[35m⚡LoggerPlugin [39m: 케이미넴: 맛집인데
+[35m⚡LoggerPlugin [39m: 이지영: 왜 다들 요즘에 톡안함
+[35m⚡LoggerPlugin [39m: 이지영: 심심하게
+[35m⚡LoggerPlugin [39m: 정주환: 과제 덜끝나서 정신 없어요....
+[35m⚡LoggerPlugin [39m: 이지영: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이지영: 개슬프네 나도 요즘에 야근해
+[35m⚡LoggerPlugin [39m: hmj: 난 회식이라..

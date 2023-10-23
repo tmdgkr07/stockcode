@@ -1,0 +1,1359 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 8월 10일 일본으로 가는 항공권 검색해줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Wed, 21 Jun 2023 09:14:17 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '2580',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149969',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '12ms',
+    'x-request-id': 'd9b6373a45312cd1e8c1ffcd302a82b2',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7dab23df5adfc073-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 682
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"}],"functions":[{"name":"get_current_weather","description":"Get the current weather in a given location","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"},"unit":{"type":"string","enum":["celsius","fahrenheit"]}},"required":["location"]}},{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 682,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 40,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 682\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 682,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7ToClvRiAU3eLMYU0McwRKB85Hnaw',
+    object: 'chat.completion',
+    created: 1687338855,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 134, completion_tokens: 30, total_tokens: 164 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'websearch',
+    arguments: '{\n  "search_txt": "8월 10일 일본 항공권"\n}'
+  }
+}
+8월 10일 일본 항공권
+8월 10일 일본 항공권
+https://openapi.naver.com/v1/search/webkr.json?query=8%EC%9B%94%2010%EC%9D%BC%20%EC%9D%BC%EB%B3%B8%20%ED%95%AD%EA%B3%B5%EA%B6%8C
+[
+  {
+    title: '2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너',
+    link: 'https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html',
+    description: '오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>...'
+  },
+  {
+    title: '“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제',
+    link: 'https://www.mk.co.kr/news/society/10736729',
+    description: '<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>...'
+  },
+  {
+    title: '<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)',
+    link: 'https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0',
+    description: '7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편...'
+  },
+  {
+    title: '이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스',
+    link: 'http://www.newsworks.co.kr/news/articleView.html?idxno=362591',
+    description: '<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오...'
+  },
+  {
+    title: '2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너',
+    link: 'https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html',
+    description: '오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160...'
+  },
+  {
+    title: '2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너',
+    link: 'https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html',
+    description: '도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472...'
+  },
+  {
+    title: '<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보',
+    link: 'https://www.joongang.co.kr/article/25076919',
+    description: '오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>...'
+  },
+  {
+    title: '<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너',
+    link: 'https://www.skyscanner.co.kr/flights',
+    description: '후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한'
+  },
+  {
+    title: '아고다',
+    link: 'https://www.agoda.com/ko-kr/',
+    description: '예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심'
+  },
+  {
+    title: '<b>항공권</b> 예매 - 티웨이<b>항공</b> | twayair',
+    link: 'https://www.twayair.com/app/booking/searchItinerary',
+    description: ''
+  }
+]
+response_content232
+[
+  { role: 'user', content: ' 8월 10일 일본으로 가는 항공권 검색해줘' },
+  {
+    role: 'assistant',
+    content: null,
+    function_call: {
+      name: 'websearch',
+      arguments: '{\n  "search_txt": "8월 10일 일본 항공권"\n}'
+    }
+  },
+  {
+    role: 'function',
+    name: 'websearch',
+    content: {
+      lastBuildDate: 'Wed, 21 Jun 2023 18:14:17 +0900',
+      total: 85402304,
+      start: 1,
+      display: 10,
+      items: [Array]
+    }
+  }
+]
+Error chatgpt api: Error: Request failed with status code 400
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 5265
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"},{"role":"assistant","content":null,"function_call":{"name":"websearch","arguments":"{\\n  \\"search_txt\\": \\"8월 10일 일본 항공권\\"\\n}"}},{"role":"function","name":"websearch","content":{"lastBuildDate":"Wed, 21 Jun 2023 18:14:17 +0900","total":85402304,"start":1,"display":10,"items":[{"title":"2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html","description":"오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>..."},{"title":"“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제","link":"https://www.mk.co.kr/news/society/10736729","description":"<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>..."},{"title":"<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)","link":"https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0","description":"7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편..."},{"title":"이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스","link":"http://www.newsworks.co.kr/news/articleView.html?idxno=362591","description":"<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오..."},{"title":"2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html","description":"오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160..."},{"title":"2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html","description":"도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472..."},{"title":"<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보","link":"https://www.joongang.co.kr/article/25076919","description":"오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>..."},{"title":"<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights","description":"후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한"},{"title":"아고다","link":"https://www.agoda.com/ko-kr/","description":"예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심"},{"title":"<b>항공권</b> 예매 - 티웨이<b>항공</b> | twayair","link":"https://www.twayair.com/app/booking/searchItinerary","description":""}]}}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 5265,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 126,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 5265\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 400,
+      statusMessage: 'Bad Request',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 34,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 5265,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 400,
+    statusText: 'Bad Request',
+    headers: {
+      date: 'Wed, 21 Jun 2023 09:14:18 GMT',
+      'content-type': 'application/json',
+      'content-length': '5174',
+      connection: 'close',
+      'access-control-allow-origin': '*',
+      'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+      'openai-processing-ms': '3',
+      'openai-version': '2020-10-01',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'x-ratelimit-limit-requests': '60',
+      'x-ratelimit-remaining-requests': '59',
+      'x-ratelimit-reset-requests': '1s',
+      'x-request-id': 'c48d710415e2bed5662dafb1ada877dc',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7dab23f68e7fc171-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"},{"role":"assistant","content":null,"function_call":{"name":"websearch","arguments":"{\\n  \\"search_txt\\": \\"8월 10일 일본 항공권\\"\\n}"}},{"role":"function","name":"websearch","content":{"lastBuildDate":"Wed, 21 Jun 2023 18:14:17 +0900","total":85402304,"start":1,"display":10,"items":[{"title":"2023 <b>일본 항공권</b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/jp/cheap-flights-to-japan.html","description":"오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권</b> 직항 1월 <b>10일</b> (수) Peach의... 최저가 ₩103,549 <b>8월</b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10</b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본</b> 직항편 취항 <b>항공</b>... <b>일본</b>..."},{"title":"“<b>일본</b>여행 더 가겠네”…돌연 급락한 <b>항공권</b>, 왕복에 단돈 <b>10</b>만원 - 매일경제","link":"https://www.mk.co.kr/news/society/10736729","description":"<b>일본</b> 오사카 성 전경 [사진출처 = <b>일본</b>관광청] <b>일본</b>을 포함해 동남아... ‘0원 <b>항공권</b>’에 이어 <b>10</b>만원 땡처리 <b>항공권</b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공</b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10</b>..."},{"title":"<b>일본 항공권</b> | 실시간 최저가 <b>항공권</b> 예약 52,237원~ - 카약(KAYAK)","link":"https://www.kayak.co.kr/%ED%95%AD%EA%B3%B5%EA%B6%8C/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0/%EC%9D%BC%EB%B3%B8-JP0","description":"7 아시아나<b>항공</b> <b>8</b>.2 제주<b>항공</b> 7.7 <b>일본</b>행 저가 <b>항공권</b>을 예약하세요 최신 왕복 <b>항공권</b> 특가 상품 7/12 수 직항 제주<b>항공</b> 1시간 25분 ICN-FUK 7/19 수 직항 제주<b>항공</b> 1시간 35분 FUK-ICN 110,845원 검색 7/12 수 직항... <b>일본</b>행 <b>항공</b>편..."},{"title":"이스타<b>항공</b>, 6~<b>8월</b> <b>일본항공권</b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스","link":"http://www.newsworks.co.kr/news/articleView.html?idxno=362591","description":"<b>항공</b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권</b>을 대상으로 이스타<b>항공</b>이 27일 오전 <b>10</b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본</b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월</b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오..."},{"title":"2023 오사카 <b>항공권</b> 왕복 특가 최저가 ₩154,875부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/osaa/cheap-flights-to-osaka.html","description":"오사카행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩174,417 7월 최저가 ₩181,522 <b>8월</b> 최저가 ₩204,098 9월 최저가 ₩183,288 <b>10</b>월 최저가 ₩212,114 11월 최저가 ₩160..."},{"title":"2023 도쿄 <b>항공권</b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights-to/tyoa/cheap-flights-to-tokyo.html","description":"도쿄행 <b>항공권</b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월</b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10</b>월 최저가 ₩232,675 11월 최저가 ₩231,472..."},{"title":"<b>8월</b> <b>일본</b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보","link":"https://www.joongang.co.kr/article/25076919","description":"오는 <b>10일</b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본</b> 전체 관광객 중 한국인의 비중은 <b>10</b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공</b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 / <b>10</b>..."},{"title":"<b>항공권</b> 특가 및 땡처리 <b>항공권</b> 검색 | 스카이스캐너","link":"https://www.skyscanner.co.kr/flights","description":"후쿠오카 <b>8월</b> 31일 (목) 제주<b>항공</b>의 PUS - FUK <b>항공권</b> 직항 9월 5일 (화) 제주<b>항공</b>의 FUK - PUS <b>항공권</b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권</b> 직항 7월 <b>10일</b> (월) Shandong Airlines의 TAO - ICN <b>항공권</b> 직항... 한"},{"title":"아고다","link":"https://www.agoda.com/ko-kr/","description":"예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공</b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심"},{"title":"<b>항공권</b> 예매 - 티웨이<b>항공</b> | twayair","link":"https://www.twayair.com/app/booking/searchItinerary","description":""}]}}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 5265,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 5265\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 내일 서울 날씨알려줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Wed, 21 Jun 2023 09:14:51 GMT',
+    'content-type': 'application/json',
+    'content-length': '545',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '1969',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149975',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '10ms',
+    'x-request-id': '295f7d469fbc73c92e83626a19c277fd',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7dab24b8ad880284-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 658
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 내일 서울 날씨알려줘"}],"functions":[{"name":"get_current_weather","description":"Get the current weather in a given location","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"},"unit":{"type":"string","enum":["celsius","fahrenheit"]}},"required":["location"]}},{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 658,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 537,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 658\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 658,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7ToDJpu2Ak4ot3G6VxNccdTujhFC5',
+    object: 'chat.completion',
+    created: 1687338889,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 126, completion_tokens: 17, total_tokens: 143 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'get_current_weather',
+    arguments: '{\n  "location": "Seoul"\n}'
+  }
+}
+{"location":"Seoul","temperature":"72","unit":"fahrenheit","forecast":["sunny","windy"]}
+[
+  { role: 'user', content: ' 내일 서울 날씨알려줘' },
+  {
+    role: 'assistant',
+    content: null,
+    function_call: {
+      name: 'get_current_weather',
+      arguments: '{\n  "location": "Seoul"\n}'
+    }
+  },
+  {
+    role: 'function',
+    name: 'get_current_weather',
+    content: '{"location":"Seoul","temperature":"72","unit":"fahrenheit","forecast":["sunny","windy"]}'
+  }
+]
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Wed, 21 Jun 2023 09:14:54 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '2312',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149951',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '19ms',
+    'x-request-id': '080dac60d1b587a91505f83fb2db16bd',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7dab24c83cf9a7bf-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.3.0',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 399
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 내일 서울 날씨알려줘"},{"role":"assistant","content":null,"function_call":{"name":"get_current_weather","arguments":"{\\n  \\"location\\": \\"Seoul\\"\\n}"}},{"role":"function","name":"get_current_weather","content":"{\\"location\\":\\"Seoul\\",\\"temperature\\":\\"72\\",\\"unit\\":\\"fahrenheit\\",\\"forecast\\":[\\"sunny\\",\\"windy\\"]}"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 399,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 584,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.3.0\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 399\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 399,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7ToDLSMuPBLjRkHZDiR0OleDgvJoQ',
+    object: 'chat.completion',
+    created: 1687338891,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 72, completion_tokens: 38, total_tokens: 110 }
+  }
+}
+내일 서울의 날씨는 맑고 바람이 강할 것으로 예상됩니다. 온도는 72°F입니다.
+hello world
+[35m⚡LoggerPlugin [39m: 여환준: 그럼 이번모임 아난티여?
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김가비: 아니 가족여행이라구요 ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 우린 가족 아니야?
+[35m⚡LoggerPlugin [39m: 여환준: 남이였노?
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 그럼
+[35m⚡LoggerPlugin [39m: 박재건: 가비뺴고
+[35m⚡LoggerPlugin [39m: 박재건: 강행가시나여형님들
+[35m⚡LoggerPlugin [39m: 여환준: 민철아 올수있노?
+[35m⚡LoggerPlugin [39m: 여환준: 기왕이면 다모일때 모여야
+동환햄 발바닥 구경도좀 하고
+[35m⚡LoggerPlugin [39m: 김가비: 아 그러네
+[35m⚡LoggerPlugin [39m: 김가비: 동환이형 발바닥 때려야되는거야 ?
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 김동환: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박민철: 발바닥 근육 좀 키워 놓으세요 아플겁니다ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 저는 좋음
+[35m⚡LoggerPlugin [39m: 박민철: ㅋㅋ 아직 확답은 못하겠어유
+[35m⚡LoggerPlugin [39m: 김동환: 승학이 보고싶은뎅
+[35m⚡LoggerPlugin [39m: 박재건: ㅇㅈ
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 58272, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ '3W', 'DP', 'M5', 'J4' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'VD', 'De', 'Ww', 'wF' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'IF', 'x7', 'oW', 'bE' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ '9u', 'By', 'fI', 'Vi' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'nX', 'cM', 'Dn', 'ls' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'aI', '3z', 'Fz', 'HK' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'YM', 'w7', 'Fh', 'Cw' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ '9j', 'ov', 'Aq', 'BI' ]
+index
+코스피
+[ '코스피', '' ]
+[ '3y', 'rl', 'Mk', 'Bh' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'g5', 'am', 'CC', 'ei' ]
+index
+[35m⚡LoggerPlugin [39m: 용성: 위메이드
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '위메이드',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '위메이드' ]
+  }
+]
+[ '위메이드' ]
+1
+[ '96', 'LJ', 'aL', '9Q' ]
+[35m⚡LoggerPlugin [39m: 문정은: 오빠 하윙
+[35m⚡LoggerPlugin [39m: 문정은: 옵하!
+[35m⚡LoggerPlugin [39m: 문정은: 저 벌써 퇴근하고 싶은데
+[35m⚡LoggerPlugin [39m: 문정은: 정상인가여

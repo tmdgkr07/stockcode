@@ -1,0 +1,330 @@
+2023-10-23 19:40:16.896 [info] Log level: Info
+2023-10-23 19:40:16.897 [info] Validating found git in: "git"
+2023-10-23 19:40:16.898 [info] Using git "2.34.1" from "git"
+2023-10-23 19:40:17.040 [info] > git rev-parse --show-toplevel [122ms]
+2023-10-23 19:40:17.040 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.104 [info] > git rev-parse --show-toplevel [41ms]
+2023-10-23 19:40:17.105 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.152 [info] > git rev-parse --show-toplevel [14ms]
+2023-10-23 19:40:17.154 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.192 [info] > git rev-parse --show-toplevel [7ms]
+2023-10-23 19:40:17.192 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.216 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-23 19:40:17.216 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.239 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-23 19:40:17.239 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.259 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 19:40:17.259 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.276 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 19:40:17.276 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.299 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-23 19:40:17.300 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.317 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 19:40:17.317 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.335 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 19:40:17.335 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:40:17.353 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 19:40:17.353 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 19:41:06.931 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 19:41:06.939 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-23 19:41:06.956 [info] Open repository: /home/ubuntu/stock_code/stockcode
+2023-10-23 19:41:06.967 [info] > git config --get commit.template [2ms]
+2023-10-23 19:41:06.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-23 19:41:06.984 [info] > git status -z -uall [2ms]
+2023-10-23 19:41:07.005 [info] > git config --get commit.template [2ms]
+2023-10-23 19:41:07.014 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-23 19:41:07.022 [info] > git status -z -uall [2ms]
+2023-10-23 20:27:26.294 [info] > git config --get commit.template [14ms]
+2023-10-23 20:27:26.296 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-10-23 20:27:26.305 [info] > git status -z -uall [3ms]
+2023-10-23 20:27:35.978 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:27:35.979 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:27:41.675 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 20:27:45.286 [info] > git show --textconv :kosdaq.py [12ms]
+2023-10-23 20:27:45.288 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/kosdaq.py [4ms]
+2023-10-23 20:27:45.299 [info] > git cat-file -s 87100e5cd3c8f24f9970f1fe42db3d3296a3b6ca [3ms]
+2023-10-23 20:27:45.821 [info] > git show --textconv :koreaconvert.py [10ms]
+2023-10-23 20:27:45.822 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [2ms]
+2023-10-23 20:27:45.832 [info] > git cat-file -s 8e1575141084f06cfa8bf952436ee32e3a8cbc61 [3ms]
+2023-10-23 20:27:48.229 [info] > git show --textconv :test.py [19ms]
+2023-10-23 20:27:48.233 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/test.py [6ms]
+2023-10-23 20:27:48.251 [info] > git cat-file -s cbee2591c895c8ccef911703c8fdba5bf8e65372 [3ms]
+2023-10-23 20:28:23.109 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 20:28:23.110 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:28:35.361 [info] > git show --textconv :test.py [9ms]
+2023-10-23 20:28:35.364 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/test.py [4ms]
+2023-10-23 20:28:35.373 [info] > git cat-file -s cbee2591c895c8ccef911703c8fdba5bf8e65372 [2ms]
+2023-10-23 20:28:40.788 [info] > git show --textconv :oversea.py [15ms]
+2023-10-23 20:28:40.795 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/oversea.py [9ms]
+2023-10-23 20:28:40.806 [info] > git cat-file -s 86f1c6a445ad83126bc0fbb47e2734063b29da06 [3ms]
+2023-10-23 20:28:41.698 [info] > git show --textconv :main.py [9ms]
+2023-10-23 20:28:41.701 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [4ms]
+2023-10-23 20:28:41.710 [info] > git cat-file -s ffa2ed293c421306ccb9f927e00c166e3de7dfe8 [2ms]
+2023-10-23 20:29:47.420 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:29:47.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:29:53.468 [info] > git log --oneline --cherry master...master@{upstream} -- [2ms]
+2023-10-23 20:29:54.289 [info] > git pull --tags origin master [812ms]
+2023-10-23 20:29:54.289 [info] From https://github.com/tmdgkr07/stockcode
+ * branch            master     -> FETCH_HEAD
+   1e123ea..13f33bb  master     -> origin/master
+2023-10-23 20:29:54.309 [info] > git config --get commit.template [9ms]
+2023-10-23 20:29:54.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-10-23 20:29:54.322 [info] > git status -z -uall [4ms]
+2023-10-23 20:29:55.487 [info] > git config --get commit.template [10ms]
+2023-10-23 20:29:55.488 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-10-23 20:29:55.498 [info] > git status -z -uall [2ms]
+2023-10-23 20:29:55.586 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [2ms]
+2023-10-23 20:29:55.597 [info] > git cat-file -s 17b08cbd149cedefb86fc40f9f61d23158d30969 [1ms]
+2023-10-23 20:29:55.619 [info] > git show --textconv :main.py [4ms]
+2023-10-23 20:30:08.642 [info] > git config --get commit.template [9ms]
+2023-10-23 20:30:08.642 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-10-23 20:30:08.652 [info] > git status -z -uall [2ms]
+2023-10-23 20:30:14.825 [info] > git add -A -- . [4ms]
+2023-10-23 20:30:15.186 [info] > git show --textconv :.git/COMMIT_EDITMSG [8ms]
+2023-10-23 20:30:15.187 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/.git/COMMIT_EDITMSG [2ms]
+2023-10-23 20:30:15.489 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 20:30:16.035 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/.git/COMMIT_EDITMSG [2ms]
+2023-10-23 20:30:16.055 [info] > git show --textconv :.git/COMMIT_EDITMSG [2ms]
+2023-10-23 20:30:22.958 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 20:30:26.528 [info] > git show --textconv :kospi.py [10ms]
+2023-10-23 20:30:26.533 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/kospi.py [7ms]
+2023-10-23 20:30:26.547 [info] > git cat-file -s 33bfcee8fb1bf6f3bb219ca80613ec48ca5d6980 [4ms]
+2023-10-23 20:30:27.299 [info] > git show --textconv :main.py [10ms]
+2023-10-23 20:30:27.300 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [2ms]
+2023-10-23 20:30:27.309 [info] > git cat-file -s 6906c4ec2c3057839a448843940d260539da3451 [2ms]
+2023-10-23 20:30:37.333 [info] > git show --textconv :koreaconvert.py [9ms]
+2023-10-23 20:30:37.335 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [3ms]
+2023-10-23 20:30:37.345 [info] > git cat-file -s d348cd101135e11f7e3be764acd6508b2599317b [3ms]
+2023-10-23 20:30:39.606 [info] > git show --textconv :overseaconvert.py [9ms]
+2023-10-23 20:30:39.608 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/overseaconvert.py [3ms]
+2023-10-23 20:30:39.617 [info] > git cat-file -s cbee2591c895c8ccef911703c8fdba5bf8e65372 [2ms]
+2023-10-23 20:30:43.250 [info] > git show --textconv :main.py [9ms]
+2023-10-23 20:30:43.252 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [3ms]
+2023-10-23 20:30:43.262 [info] > git cat-file -s 6906c4ec2c3057839a448843940d260539da3451 [2ms]
+2023-10-23 20:30:53.570 [info] > git show --textconv HEAD:main.py [12ms]
+2023-10-23 20:30:53.571 [info] > git ls-tree -l HEAD -- /home/ubuntu/stock_code/stockcode/main.py [4ms]
+2023-10-23 20:31:02.573 [info] > git show --textconv :main.py [9ms]
+2023-10-23 20:31:02.574 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [3ms]
+2023-10-23 20:31:02.583 [info] > git cat-file -s 6906c4ec2c3057839a448843940d260539da3451 [1ms]
+2023-10-23 20:32:02.047 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 20:33:23.275 [info] > git show --textconv :kospi.py [9ms]
+2023-10-23 20:33:23.276 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/kospi.py [3ms]
+2023-10-23 20:33:23.286 [info] > git cat-file -s 33bfcee8fb1bf6f3bb219ca80613ec48ca5d6980 [2ms]
+2023-10-23 20:36:04.728 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 20:36:11.170 [info] > git show --textconv :overseaconvert.py [8ms]
+2023-10-23 20:36:11.172 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/overseaconvert.py [2ms]
+2023-10-23 20:36:11.180 [info] > git cat-file -s cbee2591c895c8ccef911703c8fdba5bf8e65372 [1ms]
+2023-10-23 20:36:23.494 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 20:36:23.494 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:36:36.805 [info] > git -c user.useConfigOnly=true commit --quiet [381971ms]
+2023-10-23 20:36:36.805 [info] fatal: could not read commit message: No such file or directory
+2023-10-23 20:36:36.827 [warning] ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/HEAD'
+2023-10-23 20:36:36.842 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/config'
+2023-10-23 20:36:40.420 [warning] ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/HEAD'
+2023-10-23 20:36:40.436 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/config'
+2023-10-23 20:36:40.455 [warning] ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/HEAD'
+2023-10-23 20:36:40.470 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/ubuntu/stock_code/stockcode/.git/config'
+2023-10-23 20:37:29.271 [info] > git rev-parse --show-toplevel [21ms]
+2023-10-23 20:37:29.272 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:37:40.426 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:37:40.426 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:41:30.764 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:41:30.764 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:41:31.648 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:41:31.649 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:41:58.393 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:41:58.393 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:03.330 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:42:03.330 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:11.595 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-23 20:42:11.595 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:12.280 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:42:12.280 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:26.988 [info] > git rev-parse --show-toplevel [14ms]
+2023-10-23 20:42:26.989 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:30.350 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 20:42:30.350 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:44.650 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:42:44.650 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:45.314 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:42:45.314 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:42:48.795 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:42:48.795 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:43:37.212 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 20:43:37.212 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:43:40.365 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:43:40.365 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:43:40.893 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:43:40.893 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:44:09.776 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 20:44:09.776 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:44:47.681 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:44:47.681 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:44:50.284 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 20:44:50.284 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:51:51.507 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:51:51.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:52:39.349 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-23 20:52:39.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:55:29.909 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-23 20:55:29.909 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:57:03.193 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-23 20:57:03.193 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:57:34.061 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-23 20:57:34.061 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:57:34.435 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-23 20:57:34.436 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 20:59:58.548 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 20:59:58.548 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:00:06.968 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:00:06.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:00:20.815 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:00:20.815 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:00:27.942 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 21:00:27.942 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:00:51.190 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-23 21:00:51.190 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:00:52.369 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:00:52.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:01:31.877 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:01:31.877 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:02:08.541 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-23 21:02:08.542 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:02:09.576 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:02:09.576 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:02:20.444 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:02:20.445 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:02:44.051 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-23 21:02:44.051 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:02:58.793 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-23 21:02:58.794 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:04:54.152 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:04:54.153 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:07:05.883 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-23 21:07:05.883 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:03.087 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 21:09:03.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:07.554 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 21:09:07.554 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:08.629 [info] > git rev-parse --show-toplevel [9ms]
+2023-10-23 21:09:08.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:13.420 [info] > git rev-parse --show-toplevel [53ms]
+2023-10-23 21:09:13.420 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:15.717 [info] > git rev-parse --show-toplevel [62ms]
+2023-10-23 21:09:15.719 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:09:17.538 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:09:17.539 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:16:39.249 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 21:16:39.249 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:16:44.650 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:16:44.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:16:46.608 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:16:46.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:17:10.953 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-23 21:17:10.953 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:17:18.610 [info] > git rev-parse --show-toplevel [11ms]
+2023-10-23 21:17:18.611 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:17:21.254 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:17:21.254 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:17:22.182 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-23 21:17:22.183 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:20:59.845 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:20:59.845 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:21:11.173 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-23 21:21:11.173 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:21:26.325 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:21:26.325 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:21:28.759 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-23 21:21:28.759 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:21:30.477 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-23 21:21:30.477 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:22:38.507 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:22:38.507 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:22:40.121 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:22:40.122 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:22:59.243 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:22:59.243 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:23:00.644 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-23 21:23:00.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:23:04.322 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:23:04.323 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:23:04.945 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-23 21:23:04.945 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-23 21:23:37.108 [info] > git init -b main [13ms]
+2023-10-23 21:23:37.703 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-23 21:23:37.713 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-23 21:23:37.724 [info] Open repository: /home/ubuntu
+2023-10-23 21:23:37.748 [info] > git config --get commit.template [12ms]
+2023-10-23 21:23:37.749 [info] No remotes found in the git config file.
+2023-10-23 21:23:37.749 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-23 21:23:38.113 [info] > git show --textconv :stock_code/stockcode/koreaconvert.py [24ms]
+2023-10-23 21:23:38.116 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [5ms]
+2023-10-23 21:23:38.227 [info] > git status -z -uall [469ms] (cancelled)
+2023-10-23 21:23:38.349 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:23:56.297 [info] No remotes found in the git config file.
+2023-10-23 21:23:56.301 [info] > git config --get commit.template [28ms]
+2023-10-23 21:23:56.307 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2023-10-23 21:23:58.030 [info] > git status -z -uall [1708ms] (cancelled)
+2023-10-23 21:23:58.733 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-23 21:24:05.409 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:24:11.191 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:24:12.041 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:24:22.146 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z -n874 -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [3ms]
+2023-10-23 21:24:22.147 [info] fatal: your current branch 'main' does not have any commits yet
+2023-10-23 21:24:29.305 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:24:47.208 [info] > git show --textconv :remote/remote.js [10ms]
+2023-10-23 21:24:47.209 [info] > git ls-files --stage -- /home/ubuntu/remote/remote.js [2ms]
+2023-10-23 21:25:02.938 [info] > git show --textconv :stock_code/stockcode/koreaconvert.py [12ms]
+2023-10-23 21:25:02.941 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [5ms]
+2023-10-23 21:25:03.893 [info] > git show --textconv :stock_code/stockcode/main.py [12ms]
+2023-10-23 21:25:03.896 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/main.py [4ms]
+2023-10-23 21:25:04.685 [info] > git show --textconv :stock_code/stockcode/koreaconvert.py [10ms]
+2023-10-23 21:25:04.687 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/koreaconvert.py [3ms]
+2023-10-23 21:25:28.358 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:26:17.654 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:26:18.801 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:26:22.779 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:26:41.782 [info] > git show --textconv :stock_code/stockcode/exceltojson.py [10ms]
+2023-10-23 21:26:41.785 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/exceltojson.py [4ms]
+2023-10-23 21:26:51.108 [info] > git show --textconv :stock_code/stockcode/overseaconvert.py [12ms]
+2023-10-23 21:26:51.109 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/overseaconvert.py [5ms]
+2023-10-23 21:26:51.517 [info] > git show --textconv :stock_code/stockcode/oversea.py [13ms]
+2023-10-23 21:26:51.518 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/oversea.py [2ms]
+2023-10-23 21:26:57.131 [info] > git show --textconv :stock_code/stockcode/overseaconvert.py [11ms]
+2023-10-23 21:26:57.132 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/overseaconvert.py [3ms]
+2023-10-23 21:27:05.507 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:27:10.593 [info] > git check-ignore -v -z --stdin [1ms]
+2023-10-23 21:27:15.592 [info] > git config --get commit.template [11ms]
+2023-10-23 21:27:15.593 [info] No remotes found in the git config file.
+2023-10-23 21:27:15.593 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-23 21:27:17.241 [info] > git status -z -uall [1638ms] (cancelled)
+2023-10-23 21:27:28.602 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-10-23 21:27:37.373 [info] > git checkout -q -b backup --no-track HEAD [2ms]
+2023-10-23 21:27:37.373 [info] fatal: 'HEAD' is not a commit and a branch 'backup' cannot be created from it
+2023-10-23 21:27:37.398 [info] No remotes found in the git config file.
+2023-10-23 21:27:37.400 [info] > git config --get commit.template [16ms]
+2023-10-23 21:27:37.401 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2023-10-23 21:27:37.754 [info] > git status -z -uall [343ms] (cancelled)
+2023-10-23 21:27:52.164 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-23 21:27:54.920 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:27:55.736 [info] > git check-ignore -v -z --stdin [5ms]
+2023-10-23 21:27:56.630 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:27:57.375 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:27:58.392 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:28:00.165 [info] > git check-ignore -v -z --stdin [2ms]
+2023-10-23 21:28:02.068 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-23 21:28:04.077 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-10-23 21:28:05.907 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-10-23 21:28:07.376 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-10-23 21:28:44.470 [info] > git remote add origin https://github.com/tmdgkr07/ubuntu.git [5ms]
+2023-10-23 21:28:44.495 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-10-23 21:28:44.496 [info] > git config --get commit.template [14ms]
+2023-10-23 21:28:46.288 [info] > git status -z -uall [1782ms] (cancelled)
+2023-10-23 21:28:46.293 [info] > git push -u origin main [1248ms]
+2023-10-23 21:28:46.295 [info] error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/tmdgkr07/ubuntu.git'
+2023-10-23 21:28:46.408 [info] > git config --get commit.template [32ms]
+2023-10-23 21:28:46.448 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2023-10-23 21:28:48.034 [info] > git status -z -uall [1571ms] (cancelled)
+2023-10-23 21:28:48.122 [info] > git ls-files --stage -- /home/ubuntu/stock_code/stockcode/overseaconvert.py [4ms]
+2023-10-23 21:28:48.707 [info] > git show --textconv :stock_code/stockcode/overseaconvert.py [2ms]

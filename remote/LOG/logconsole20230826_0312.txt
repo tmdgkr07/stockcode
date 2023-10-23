@@ -1,0 +1,13 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730남
+usd_error:  TypeError [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    at new NodeError (node:internal/errors:399:5)
+    at new ClientRequest (node:_http_client:184:13)
+    at Object.request (node:https:360:10)
+    at Request.start (/home/ubuntu/remote/node_modules/request/request.js:751:32)
+    at Request.end (/home/ubuntu/remote/node_modules/request/request.js:1505:10)
+    at end (/home/ubuntu/remote/node_modules/request/request.js:564:14)
+    at Immediate._onImmediate (/home/ubuntu/remote/node_modules/request/request.js:578:7)
+    at process.processImmediate (node:internal/timers:476:21) {
+  code: 'ERR_UNESCAPED_CHARACTERS'
+}

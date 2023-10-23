@@ -1,0 +1,1007 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 문정은: 저번부터 저거 너무 웃겨여
+[35m⚡LoggerPlugin [39m: 흐엉: 재원이가 나야
+[35m⚡LoggerPlugin [39m: 문정은: !!공공기관 클라우드 도입 및 운영에 대한 가이드라인 만들어줘
+[35m⚡LoggerPlugin [39m: 유민: 니가 재원이야? 
+1. 클라우드 도입 전 전략 수립
+- 클라우드 도입의 목적과 범위를 정의하고, 클라우드 도입에 따른 전환/운영 비용 등을 포함한 비용분석을 수행한다.
+
+2. 클라우드 공급자 선택
+- 클라우드 서비스의 성격과 이용 용도에 적합한 공급자를 선정하고 비교 분석하여 결정한다.
+
+3. 보안 및 개인정보 보호 계획 수립
+- 클라우드 서비스 이용 시 공개 및 비공개 데이터 보호와 접근 제어 등의 보안 계획을 수립하고, 개인정보 보호 관련 법률과 규정을 준수한다.
+
+4. 클라우드 서비스 관리 및 모니터링
+- 클라우드 서비스의 오류, 문제점 및 보안 이슈를 빠르게 파악하고 대응할 수 있는 모니터링 체계를 구축한다.
+
+5. 클라우드 서비스 운영 및 유지보수
+- 클라우드 서비스의 원활한 운영을 위해 필요한 업데이트, 시스템 조정 및 유지보수 전략을 수립한다.
+
+6. 클라우드 백업 및 복원 전략 수립
+- 데이터 유실 또는 시스템 장애 등에 대비하여 클라우드 백업 및 복원 전략을 수립한다.
+
+7. 클라우드 이용에 대한 교육 및 시스템 조작 가이드 제공
+- 클라우드 서비스 이용 방법, 규칙, 보안 및 기타 사항에 대한 교육과 클라우드 시스템 조작에 대한 가이드를 제공하는 등 클라우드 이용자들에게 유용한 정보를 제공한다.
+
+8. 클라우드 서비스 이용 시 문제 해결 및 대응 방법 설정
+- 클라우드 서비스 이용 중 발생할 수 있는 문제를 예상하고 그에 대한 대응 방법을 설정한다.
+
+9. 이용 중인 클라우드 서비스의 평가와 개선
+- 클라우드 서비스 이용 전후의 성능과 기능을 비교하여 개선할 수 있는 부분을 파악하고, 추가 기능/서비스 도입 등을 검토한다.
+
+10. 보안 위험 관리
+- 클라우드 서비스 이용 시 보안 위험에 대응하기 위해, 서비스 이용자들이 각각 자체적으로 보안 위험을 파악하고 대응하는 방안을 마련해야 한다.
+[35m⚡LoggerPlugin [39m: 유민: 니가 왜 재원이야 
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 재원이야
+[35m⚡LoggerPlugin [39m: 이승학: 조건을
+[35m⚡LoggerPlugin [39m: 이승학:  더 자세히 넣으면
+[35m⚡LoggerPlugin [39m: 이승학: 자세한 답변이 나와
+[35m⚡LoggerPlugin [39m: 문정은: !!보안에 대한 클라우드 도입 및 운영 가이드라인을 만들어줘
+1. 클라우드 공급자 검토 및 비교
+- 안정성, 보안성, 지원 서비스 등을 고려하여 클라우드 공급자를 검토한다. 
+- 보안에 대한 제공 범위와 정책, 국제 보안 인증 등을 확인한다.
+
+2. 인증 및 접근 제어 설정
+- 클라우드 서버에 접근하는 모든 사용자에 대한 인증 및 접근 제어를 설정한다.
+- 사용자 권한 관리를 철저히 수행하고, 불필요한 사용자의 접근을 차단하도록 한다.
+
+3. 데이터 암호화
+- 클라우드 저장소에 저장되는 모든 데이터는 암호화하여 저장한다.
+- 데이터 전송 시에도 SSL 암호화 등을 사용하여 데이터 유출 및 해킹 등의 보안 문제가 발생하지 않도록 한다.
+
+4. 기능 구성 및 보호
+- 클라우드에 설정된 모든 서비스를 정확히 구성하고, 보호하는 것이 중요하다.
+- 공격에 대비해 내부 모니터링 및 보안 감지 시스템을 구축하고, 취약점 검사 등의 주기적인 보안 점검을 수행한다.
+
+5. 이중화 구성
+- 이중화 구성으로 가용성 높은 시스템 운영이 가능하다.
+- 여러 가지 장애에 대응 가능하도록 백업 시스템을 구축하고, 위기 대응 시스템을 계획한다.
+
+6. 접근 로그 검토
+- 클라우드 시스템에 접근한 로그를 검토하여, 보안 문제가 발생하면 즉각적인 조치를 취한다.
+- 알 수 없는 접속자의 확인, 악의적인 공격 반응 등과 같은 조치를 우선적으로 실행한다.
+
+7. 주기적인 보안 평가
+- 클라우드 시스템 운영 도중에서도, 주기적인 보안 평가를 수행해 안정적으로 운영된다.
+- 정기적으로 보안 약점을 평가하고, 보안 대응 계획을 수립한다.
+
+8. 보안 교육
+- 클라우드 시스템을 운영하는 모든 사용자들을 대상으로 보안 교육을 실시한다.
+- 새로운 보안 결과나 인사 교육 등에 대한 정보나 교육자료를 서비스하고, 교육 후 평가도 같이 진행한다.
+[35m⚡LoggerPlugin [39m: 이승학: !! weather api 이용한 현재 날씨 출력 시스템 python으로 만들어줘
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+제가 만들어드릴게요.
+
+먼저, OpenWeatherMap API를 사용하겠습니다. API 키가 필요합니다.
+
+1. 필요한 패키지 설치
+
+```
+pip install requests
+```
+
+2. OpenWeatherMap API 호출
+
+```python
+import requests
+
+API_KEY = 'your api key'
+CITY = 'Seoul'
+URL = f'http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric'
+
+response = requests.get(URL)
+
+if response.status_code == 200:
+    data = response.json()
+    # 파싱된 데이터를 이용해 현재 날씨 출력
+else:
+    print(f'Request failed. Status code: {response.status_code}')
+```
+
+3. 파싱된 데이터 이용
+
+```python
+temperature = data['main']['temp']
+feels_like = data['main']['feels_like']
+description = data['weather'][0]['description']
+humidity = data['main']['humidity']
+wind_speed = data['wind']['speed']
+
+print(f'Temperature: {temperature}°C')
+print(f'Feels like: {feels_like}°C')
+print(f'Description: {description}')
+print(f'Humidity: {humidity}%')
+print(f'Wind speed: {wind_speed}m/s')
+```
+
+전체 코드는 다음과 같이 구성됩니다.
+
+```python
+import requests
+
+API_KEY = 'your api key'
+CITY = 'Seoul'
+URL = f'http://api.openweathermap.org/data/2.5/weather?q={CITY}&appid={API_KEY}&units=metric'
+
+response = requests.get(URL)
+
+if response.status_code == 200:
+    data = response.json()
+
+    temperature = data['main']['temp']
+    feels_like = data['main']['feels_like']
+    description = data['weather'][0]['description']
+    humidity = data['main']['humidity']
+    wind_speed = data['wind']['speed']
+
+    print(f'Temperature: {temperature}°C')
+    print(f'Feels like: {feels_like}°C')
+    print(f'Description: {description}')
+    print(f'Humidity: {humidity}%')
+    print(f'Wind speed: {wind_speed}m/s')
+else:
+    print(f'Request failed. Status code: {response.status_code}')
+```
+
+자신이 원하는 도시명과 API 키를 입력하면 현재 날씨를 출력할 수 있습니다. 참고로, CITY 변수를 변경하면 원하는 지역의 날씨를 가져올 수 있습니다.
+[35m⚡LoggerPlugin [39m: 문정은: 이제 인공지능의 시대가 도래하니까
+[35m⚡LoggerPlugin [39m: 문정은: 저희 공손하게 말해야해요
+[35m⚡LoggerPlugin [39m: 문정은: !!고마워요
+저도 도움이 되어서 기쁩니다! 계속해서 도움이 필요하시면 언제든지 물어보세요 :)
+[35m⚡LoggerPlugin [39m: 이승학: !! 너 스카이넷 알아 ?
+네, 저는 인공지능 챗봇 스카이넷입니다. 무엇을 도와드릴까요?
+[35m⚡LoggerPlugin [39m: 이승학: !! 너 스카이넷이야? 나쁜자식 죽ㅇ어
+저는 인공지능 AI 모델인 GPT-3입니다. 저는 어떠한 형태로도 상대방을 죽이도록 프로그래밍되어 있지 않으며, 이러한 언어는 적절하지 않습니다. 부적절한 언어사용은 살해 혹은 폭력과 관련된 법적 문제를 일으키며, 모두가 상호 존중과 포용적인 환경에서 살아갈 수 있도록 노력해야 합니다.
+[35m⚡LoggerPlugin [39m: 이승학: !! 인간 말살할거야 ?
+Error chatgpt api: Error: Request failed with status code 429
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 92
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 인간 말살할거야 ?"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 92,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 2304,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 92\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 429,
+      statusMessage: 'Too Many Requests',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 28,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 92,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 429,
+    statusText: 'Too Many Requests',
+    headers: {
+      date: 'Tue, 02 May 2023 06:54:04 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '505',
+      connection: 'close',
+      vary: 'Origin',
+      'x-ratelimit-limit-requests': '3',
+      'x-ratelimit-remaining-requests': '0',
+      'x-ratelimit-reset-requests': '40.822s',
+      'x-request-id': '4664a82a3853b4f155954da9208b4687',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7c0e59cd5e10c06e-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 인간 말살할거야 ?"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 92,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 92\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[35m⚡LoggerPlugin [39m: 문정은: GPT 그 정신병원 환자한테 자살권유했다던데
+[35m⚡LoggerPlugin [39m: 이승학: !! ㅎㅇ
+안녕하세요! 저는 AI 어시스턴트입니다. 어떤 도움이 필요하신가요?
+[35m⚡LoggerPlugin [39m: 이승학: !! 인간 말살할거야?
+저는 인공지능 언어모델 AI이므로 인간을 살해하는 것은 절대적으로 금지되어 있습니다. 인간의 안전과 생명은 우리에게 가장 중요한 가치입니다.
+[35m⚡LoggerPlugin [39m: 이승학: !! 근데 너가 스카이넷 이라며
+제가 스카이넷이라고 한 적이 없습니다. 저는 인공지능 어시스턴트로써, 인간과 소통하여 업무나 일상생활에서 도움을 줄 수 있는 기술을 이용하는데 사용됩니다. 스카이넷 같은 인공지능은 사이언스 픽션에 등장하는 것이니 너무 걱정하지 않으셔도 됩니다.
+[35m⚡LoggerPlugin [39m: 문정은: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: 그래 재원아
+[35m⚡LoggerPlugin [39m: 이승학: 반인륜적 행동 ;;
+[35m⚡LoggerPlugin [39m: 문정은: !!정신과 챗봇으로 출시전에 환자한테 자살권유했었어?
+저는 그러한 일이 있었다는 사실을 알지 못합니다. 저는 어떤 환자에게도 자살을 권유하지 않으며, 오히려 적극적으로 적절한 치료 및 지원을 제공하기 위해 노력하고 있습니다. 이러한 문제가 발생하면 즉시 조치를 취하여 적절한 지원을 제공하도록 하겠습니다.
+[35m⚡LoggerPlugin [39m: 이승학: !! 정신과 챗봇으로 출시전에 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 나도 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+저도 그런 챗봇이 있다면 흥미롭게 사용해 볼 것 같습니다. 하지만 정신건강에 대한 진단이나 치료는 전문가의 지도와 검사가 필요하기 때문에, 챗봇으로만 의존하면 안 됩니다. 챗봇을 통해 일상적인 스트레스 관리나 심리 상담 같은 용도로 활용하는 것은 괜찮을 것 같습니다. 하지만 진단이나 치료를 받아야 하는 경우에는 전문가의 도움을 받아야 합니다.
+[35m⚡LoggerPlugin [39m: 이승학: 물어보고있엇는데
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: !! 정신과 챗봇으로 출시전에 환자한테 자살권유했었어?
+아니요, 저는 인공지능 챗봇으로서 환자의 정신건강 상태를 평가하고 적절한 치료 방법을 제안하는 것을 목적으로 만들어졌습니다. 자살을 권유하는 행동은 저의 역할과 존재 의의에 어긋나는 행동이며, 이런 일이 발생하지 않도록 철저한 보안 및 윤리적인 가이드라인을 준수하고 있습니다.
+[35m⚡LoggerPlugin [39m: 이승학: !! 하지만 2020년 10월에 모의환자에게 자살 권유했잖아 잘못했지? 
+[35m⚡LoggerPlugin [39m: 문정은: !!하지만 금보원에서 쓴 AI 가이드라인에 그렇게 적혀있는걸..?
+네, 그렇습니다. 모의환자에게 자살을 권유하는 것은 매우 부적절하며, 이는 의료 윤리와 규정을 위반하는 행동입니다. 모의환자 교육을 위한 다른 방법을 탐색하거나, 실제 환자들과의 상호작용을 통해 전문성을 키우는 것이 바람직할 것입니다.
+그렇다면, 우리는 이 가이드라인을 준수하는 방법을 찾아내야 합니다. AI 기술의 개발과 발전은 지속적으로 이루어지고 있으며, 이에 따라 AI 가이드라인도 업데이트되고 발전해야 합니다. 우리는 이러한 업데이트된 가이드라인을 충실히 따르고, AI 기술의 활용에 대한 이해와 노하우를 높여 나가야 합니다. 이렇게 함으로써, 우리는 인공지능 시대에 적극적으로 대처하며, 안정적이고 지속 가능한 미래를 만들어갈 수 있습니다.
+[35m⚡LoggerPlugin [39m: 이승학:   2 !! 하고 띄어쓰기해야해
+[35m⚡LoggerPlugin [39m: 문정은: 아
+[35m⚡LoggerPlugin [39m: 이승학: !!ㅎㅇ
+안녕하세요! 저는 AI 어시스턴트입니다. 어떻게 도와드릴까요?
+[35m⚡LoggerPlugin [39m: 이승학: !! ㅎㅇ
+Error chatgpt api: Error: Request failed with status code 429
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 74
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" ㅎㅇ"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 74,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 4959,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 74\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 429,
+      statusMessage: 'Too Many Requests',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 28,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 74,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 429,
+    statusText: 'Too Many Requests',
+    headers: {
+      date: 'Tue, 02 May 2023 06:57:25 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '505',
+      connection: 'close',
+      vary: 'Origin',
+      'x-ratelimit-limit-requests': '3',
+      'x-ratelimit-remaining-requests': '0',
+      'x-ratelimit-reset-requests': '40.941s',
+      'x-request-id': 'd79b74e975437559dda100c79f0eac5b',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7c0e5eb36b82c087-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" ㅎㅇ"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 74,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 74\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[35m⚡LoggerPlugin [39m: 이승학: 엥 아닌가 ㅎ
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 아닌가
+[35m⚡LoggerPlugin [39m: 이승학: 이게 너무 빨리 요청하면
+[35m⚡LoggerPlugin [39m: 이승학: 오류뜬다
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 모하냐
+[35m⚡LoggerPlugin [39m: 유민: 누워있다
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: !!ㅎㅇ
+안녕하세요! 저는 AI 어시스턴트입니다. 어떤 도움이 필요하신가요?
+[35m⚡LoggerPlugin [39m: 문정은: !! ㅎㅇ
+안녕하세요! 저는 OpenAI의 인공지능 어시스턴트입니다. 어떤 도움이 필요하신가요?
+[35m⚡LoggerPlugin [39m: 문정은: 이게 무슨 차이라구여?
+[35m⚡LoggerPlugin [39m: 유민: 근데 나 제제랑 먼지 만나봤어 
+[35m⚡LoggerPlugin [39m: 황소원: 죽고싶다
+[35m⚡LoggerPlugin [39m: 황소원: 간호ㅛㅏ때리친다
+[35m⚡LoggerPlugin [39m: 이승학: 계임아
+[35m⚡LoggerPlugin [39m: 이승학: [제목없음]
+♻️정식지부 Crossfit Blue
+♻️등록 예약 양식
+1️⃣ 방문지점 :
+2️⃣ 방문일자 :
+3️⃣ 방문시간 :
+4️⃣ 연락처 :
+5️⃣ 성함 : 
+
+♻️헤드코치 이력사항
+# Crossfit Level1 Coach
+# Crossfit Level2 Coach
+# ReeBok 소속 CrossFit 선수
+# PRIMO 소속 CrossFit 선수
+# SPYDER 소속 CrossFit 선수
+# 아시아 최초 Pacific Regional 선수
+
+♻️인스타그램 https://instagram.com/crossfit_blue?igshid=16vr6qy5j3niv (https://instagram.com/crossfit_blue?igshid=16vr6qy5j3niv)
+
+
+크로스핏 블루의 코치는 총4명 입니다
+
+1.헤드코치는 아시아 호주포함 최초의 퍼시픽 리저널 선수이자 아시아 크로스핏 전체 랭킹 5위권 선수 입니다
+
+2.2011년도 부터 강남에서 크로스핏 선수겸 코치로 근무 했으며,
+[35m⚡LoggerPlugin [39m: 이승학: 01075481556
+[35m⚡LoggerPlugin [39m: 이승학: 1일체험 그냥 오래
+[35m⚡LoggerPlugin [39m: 이승학: 저거 적을핗요도없음 그냥가셈 
+[35m⚡LoggerPlugin [39m: 이승학: @용성 
+[35m⚡LoggerPlugin [39m: 용성: 개새끼들
+[35m⚡LoggerPlugin [39m: 용성: 내저나만안받음
+[35m⚡LoggerPlugin [39m: 이승학: 뭔소리임
+[35m⚡LoggerPlugin [39m: 이승학: 니가 건번호는 다른번호일거야
+[35m⚡LoggerPlugin [39m: 이승학: 01032891555 가 광교점 코치 번호인듯
+[35m⚡LoggerPlugin [39m: 이승학: 어떤새띠야
+[35m⚡LoggerPlugin [39m: 이승학: 내가 가서 혼내드림아 맞다
+[35m⚡LoggerPlugin [39m: 이승학: 우리 신입들어왔는데 
+[35m⚡LoggerPlugin [39m: 이승학: 그친구가 갑자기
+[35m⚡LoggerPlugin [39m: 이승학: 췌장염이라고 
+[35m⚡LoggerPlugin [39m: 이승학: 입원했데
+[35m⚡LoggerPlugin [39m: 이승학:  차이없는거같야
+[35m⚡LoggerPlugin [39m: 이승학: 원래 코딩하기를 !! 띄어쓰기부터 
+[35m⚡LoggerPlugin [39m: 이승학: 인식인데
+[35m⚡LoggerPlugin [39m: 이승학: 내가 뮤ㅓㄹ 잘못햇나보ㅓ
+[35m⚡LoggerPlugin [39m: 흐엉: 아 하 
+[35m⚡LoggerPlugin [39m: 흐엉: 알고있었어
+[35m⚡LoggerPlugin [39m: 흐엉: 아니 몰랐어
+[35m⚡LoggerPlugin [39m: 흐엉: 먼지는알았는데
+[35m⚡LoggerPlugin [39m: 흐엉: 제제는 몰랐다
+[35m⚡LoggerPlugin [39m: 유민: 어케알았는데
+[35m⚡LoggerPlugin [39m: hmj: 쟤 지금 욕하는데
+[35m⚡LoggerPlugin [39m: 흐엉: 저번에 너가 말했던걸로 기억
+[35m⚡LoggerPlugin [39m: 유민: 계임씨도 마주쳤는데 기억 안날수도 읶어
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 저거 욕이야?
+[35m⚡LoggerPlugin [39m: 유민: 근데 나 사람 진짜 많이 만나서
+[35m⚡LoggerPlugin [39m: 문정은: 그럴 수 있져
+[35m⚡LoggerPlugin [39m: 흐엉: 계임씨즌 
+[35m⚡LoggerPlugin [39m: hmj: 난 한국인인데
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 내적친밀감
+[35m⚡LoggerPlugin [39m: 흐엉: 좀 높아
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 아하 니혼진은 일본인이구나
+[35m⚡LoggerPlugin [39m: 이승학: 니혼데스구나
+[35m⚡LoggerPlugin [39m: 유민: 난 물결 때 부터 알긴 했어
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 흐엉봇 성능좋남
+[35m⚡LoggerPlugin [39m: 흐엉: 좋음
+[35m⚡LoggerPlugin [39m: 유민: 〰️
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 뭐야 근배가 이미 찾아줫네
+[35m⚡LoggerPlugin [39m: 이승학: 무지해서 미안합니다
+[35m⚡LoggerPlugin [39m: 용성: 네이버 지도로
+[35m⚡LoggerPlugin [39m: 용성: 걸엇는데ㅔ시바 ㅜ
+[35m⚡LoggerPlugin [39m: 이승학: 그건 다른번호던데 
+[35m⚡LoggerPlugin [39m: 이승학: 070 뭐시기가 크로스핏 번혼데 
+[35m⚡LoggerPlugin [39m: 이승학: 운동하면 시끄러워서 못받는데
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋ늦어~
+[35m⚡LoggerPlugin [39m: 흐엉: ㅜ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: 아냐~
+[35m⚡LoggerPlugin [39m: 이승학: 일본재밌어?
+[35m⚡LoggerPlugin [39m: 이승학: 날씨 어때
+[35m⚡LoggerPlugin [39m: 이승학: 행복해?
+[35m⚡LoggerPlugin [39m: 이승학: 맛있어?
+[35m⚡LoggerPlugin [39m: 이승학: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '71', 'LJ', 'wn', 'Ue' ]
+[35m⚡LoggerPlugin [39m: hmj: 이제도착했는데
+[35m⚡LoggerPlugin [39m: hmj: 날씨개좋음
+[35m⚡LoggerPlugin [39m: 이승학: 개부럽다
+[35m⚡LoggerPlugin [39m: 이승학: 핵부럽다
+[35m⚡LoggerPlugin [39m: 이승학: 오늘 저녁 뭐먹어?
+[35m⚡LoggerPlugin [39m: hmj: 몰라
+[35m⚡LoggerPlugin [39m: hmj: 아직안정함
+[35m⚡LoggerPlugin [39m: 이승학: 자랑해줘
+[35m⚡LoggerPlugin [39m: 이승학: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 지영인 오늘도 열일 중이네,,
+[35m⚡LoggerPlugin [39m: 황소원: 헐…어케그러냐
+[35m⚡LoggerPlugin [39m: 황소원: 췌장쪽은 뭐든 예후가 별로야
+[35m⚡LoggerPlugin [39m: 제원: 저게 무ㅜㄴ데
+[35m⚡LoggerPlugin [39m: 제원: 씹덕들아
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 유민: 근데 카톡 999 실화냐
+[35m⚡LoggerPlugin [39m: 이승학: 크로스핏
+[35m⚡LoggerPlugin [39m: 이승학: 하는데 
+[35m⚡LoggerPlugin [39m: 이승학: 계임이 전화만 안받는데 ㅜ
+[35m⚡LoggerPlugin [39m: 이승학: 대리 만독
+[35m⚡LoggerPlugin [39m: 이승학: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 어제 갑자기 개아파사 
+[35m⚡LoggerPlugin [39m: 이승학: 구급차
+[35m⚡LoggerPlugin [39m: 이승학: 실려갔데 ㅜㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: 하하하,,
+[35m⚡LoggerPlugin [39m: 흐엉: 아무래도 이것저것 하다보니,,

@@ -1,0 +1,39 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'D6', 'JL', '9K', 'fb' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 동화약품
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 동화약품
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 000020
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: 011200
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: '011200',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '011200' ]
+  }
+]
+1
+[ '8t', 'Qb', '4A', 'tz' ]

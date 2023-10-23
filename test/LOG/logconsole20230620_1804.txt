@@ -1,0 +1,2210 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 조영우: 호가만큼 못 받을거에요
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !!6월 28일 일본가는 항공권 검색해줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Tue, 20 Jun 2023 09:04:30 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '2392',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149971',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '11ms',
+    'x-request-id': 'c841c0e842362e32f53a1365f30d1d76',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7da2d82cfecea7d8-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 368
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":"6월 28일 일본가는 항공권 검색해줘"}],"functions":[{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 368,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 132,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 368\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 368,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7TRZkeTWaVEWY5wJNwPDowBg6MwV5',
+    object: 'chat.completion',
+    created: 1687251868,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 81, completion_tokens: 30, total_tokens: 111 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'websearch',
+    arguments: '{\n  "search_txt": "6월 28일 일본 항공권"\n}'
+  }
+}
+6월 28일 일본 항공권
+https://openapi.naver.com/v1/search/webkr.json?query=6%EC%9B%94%2028%EC%9D%BC%20%EC%9D%BC%EB%B3%B8%20%ED%95%AD%EA%B3%B5%EA%B6%8C
+Error chatgpt api: Error: Request failed with status code 400
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    '0': { role: 'function', name: 'websearch', content: undefined },
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 20
+    },
+    method: 'post',
+    data: '"gpt-3.5-turbo-0613"',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 20,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 182,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 20\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 2,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 400,
+      statusMessage: 'Bad Request',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 20,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 400,
+    statusText: 'Bad Request',
+    headers: {
+      date: 'Tue, 20 Jun 2023 09:04:30 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '443',
+      connection: 'close',
+      vary: 'Origin',
+      'x-request-id': '5f128b9bc68cd66e07ee2786de4b5858',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7da2d83f2e4fa7cb-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      '0': [Object],
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '"gpt-3.5-turbo-0613"',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 20,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 20\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world
+{
+	"lastBuildDate":"Tue, 20 Jun 2023 18:04:31 +0900",
+	"total":92289225,
+	"start":1,
+	"display":10,
+	"items":[
+		{
+			"title":"‘땡처리 <b>항공권<\/b>’으로 5월 황금연휴, 해외여행 가볼까? &lt; 이슈 &lt; 생활경제 &lt; 기사본문 - 이코노믹리뷰",
+			"link":"https:\/\/www.econovill.com\/news\/articleView.html?idxno=609232",
+			"description":"열면서 <b>일본<\/b>과 동남아뿐만 아니라 중국으로 떠나는 여행객들도 점차... 경우 <b>항공<\/b>사와 여행사가 저렴한 가격으로 <b>항공권<\/b>을 내놓은 것을... 베트남<b>항공<\/b> 다낭 왕복 직항 전세기(197석)를 이용해 4월<b>28일<\/b>, 단 1회... <b>6<\/b> 착륙..."
+		},
+		{
+			"title":"2023 오사카 <b>항공권<\/b> 왕복 특가 최저가 ₩155,414부터 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights-to\/osaa\/cheap-flights-to-osaka.html",
+			"description":"오사카행 <b>항공권<\/b>이 가장 저렴한 시기를 확인하세요 여행 일정이 자유로운 편이라면, 오사카행 <b>항공권<\/b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. <b>6월<\/b> 최저가 ₩163,990 7월 최저가..."
+		},
+		{
+			"title":"2023 <b>일본 항공권<\/b> 특가 왕복 최저가 ₩98,699부터 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights-to\/jp\/cheap-flights-to-japan.html",
+			"description":"ICN <b>항공권<\/b> 직항 ₩138,312 출발 나고야. 나고야 <b>6월<\/b> 21일 (수) 제주<b>항공<\/b>의 ICN - NGO <b>항공권<\/b> 직항 <b>6월<\/b> 29일... 스카이스캐너가 수백 개의 온라인 여행사와 주요 <b>항공<\/b>사에서 <b>일본 항공권<\/b>을 비교해 드립니다.... <b>일본 항공권<\/b>..."
+		},
+		{
+			"title":"<b>일본 항공권<\/b> | 실시간 최저가 <b>항공권<\/b> 예약 52,237원~ - 카약(KAYAK)",
+			"link":"https:\/\/www.kayak.co.kr\/%ED%95%AD%EA%B3%B5%EA%B6%8C\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0\/%EC%9D%BC%EB%B3%B8-JP0",
+			"description":"2 제주<b>항공<\/b> 7.7 <b>일본<\/b>행 저가 <b>항공권<\/b>을 예약하세요 최신 왕복 <b>항공권<\/b> 특가 상품 7\/12 수 직항... 검색 <b>6<\/b>\/<b>28<\/b> 수 직항 진에어 1시간 25분 ICN-FUK 61,156원 검색 <b>6<\/b>\/27 화 직항 제주<b>항공<\/b> 1시간 50분 ICN-KIX 61,156원 검색... <b>일본<\/b>행 <b>항공<\/b>편..."
+		},
+		{
+			"title":"Visit Japan Web | Digital Agency",
+			"link":"https:\/\/vjw-lp.digital.go.jp\/",
+			"description":"지금 바로 등록하기 대리 입력은 여기로 수속 안내 2023년 4월 <b>28일<\/b>... 외에 <b>일본<\/b>에 귀국하시는 분도 이용하실 수 있습니다. 스마트폰에서 사용 가능 https:\/\/www.vjw.digital.go.jp 등록에 필요한 것 <b>항공권<\/b> 여권... 이용순서..."
+		},
+		{
+			"title":"<b>일본<\/b>행 티켓 <b>6월<\/b>엔 반값…저비용 <b>항공<\/b>사 경쟁으로 가격 ↓ | 채널A 뉴스",
+			"link":"https:\/\/www.ichannela.com\/news\/main\/news_detailPage.do?publishId=000000348150",
+			"description":"이 때문에 <b>항공<\/b>사들이 앞다퉈 <b>일본<\/b>, 동남아 <b>항공<\/b>편수를 늘렸는데 <b>6월<\/b> 여행 수요가 상대적으로 줄면서 <b>항공권<\/b> 가격 하락으로 이어진 겁니다. [저비용<b>항공<\/b>사 관계자] &quot;2분기가 국제선이 비수기고, <b>6월<\/b>은 장마철도..."
+		},
+		{
+			"title":"아고다",
+			"link":"https:\/\/www.agoda.com\/ko-kr\/",
+			"description":"예약 무료 취소 가능 | 깨끗한 호텔, Agoda Homes 숙소 및 <b>항공<\/b>편 할인 특가 | 아고다 보장제 | 2천만 건 이상의 투숙객 이용 후기 | 안전 &amp; 안심"
+		},
+		{
+			"title":"제주땡처리<b>항공권<\/b> 추천 인기순위 2023 - 2023년 06월 16일 대한민국 페루",
+			"link":"https:\/\/gmautoworld.co.kr\/picks\/2110\/",
+			"description":"15% <b>28<\/b>,830원 9 [제주] [~22년 12월\/김포,부산,울산出] 에어부산 제주도... 새롭게 선보이는 ‘프리미엄 제주벌꿀’은 100… <b>일본<\/b> 10만원대... 제주<b>항공<\/b>편 괌 <b>항공권<\/b> 특가 판매 4박5일 일정으로 내년 2월<b>28일<\/b>까지... 2023년 <b>6월<\/b>..."
+		},
+		{
+			"title":"[단독] 대한<b>항공<\/b>, <b>6월<\/b> 1일부터 국제선 기내 와이파이 서비스 시작 - 소비자가 만드는 신문",
+			"link":"http:\/\/www.consumernews.co.kr\/news\/articleView.html?idxno=677998",
+			"description":"대한<b>항공<\/b>이 오는 <b>6월<\/b> 1일부터 국제선 기내 와이파이 서비스를 시행한다. 대한<b>항공<\/b>은 8일 공지사항을 통해 <b>6월<\/b> 1일부터 기내 와이파이 서비스를 시행한다고 밝혔다. 운영 노선은 국제선, 대상 <b>항공<\/b>기는 보잉 737-8..."
+		},
+		{
+			"title":"<b>일본항공<\/b>- <b>6월<\/b> 운휴 <b>항공권<\/b>",
+			"link":"https:\/\/www.naeiltour.co.kr\/help\/notice_view.asp?idx=1597",
+			"description":"<b>일본항공<\/b> <b>항공권<\/b>에 대해서는 아래의 내용을 확인하시어 처리하여... 2월 <b>28일<\/b>-20년 <b>6월<\/b> 30일까지 [ 참고 – <b>일본항공<\/b> 한일구간 운휴편 안내] ■ GMP-HND JL090\/JL093\/JL094\/JL095 (-5\/31 까지 운휴. 단, JL090은 <b>6<\/b>... <b>일본항공<\/b>- <b>6월<\/b>..."
+		}
+	]
+}
+[35m⚡LoggerPlugin [39m: 조영우: 일단 입지가 좀 그지같네
+[35m⚡LoggerPlugin [39m: 여환준: 1층 2층인데
+[35m⚡LoggerPlugin [39m: 조영우: 그래도 1군 신축이라 평타는 치겠다만
+[35m⚡LoggerPlugin [39m: 여환준: 뭐  1층 얼집 희망자한테 팔면 땡큐
+[35m⚡LoggerPlugin [39m: 김가비: 거래가가 13억 16억인디
+[35m⚡LoggerPlugin [39m: 김가비: 짱인디 ?
+[35m⚡LoggerPlugin [39m: 김가비: 신청날짜 언제야 ?
+[35m⚡LoggerPlugin [39m: 조영우: 역시 1층은 특수수요가 좀 있죠ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 애키우는집도 1층 선호함
+[35m⚡LoggerPlugin [39m: 김가비: 요즘에는
+[35m⚡LoggerPlugin [39m: 김가비: 1층
+[35m⚡LoggerPlugin [39m: 김가비: 테라스도 주더만
+[35m⚡LoggerPlugin [39m: 여환준: 26일
+[35m⚡LoggerPlugin [39m: 조영우: 1층이면 그래도 11-12억에는 거래 가능할것같은데
+[35m⚡LoggerPlugin [39m: 조영우: 오케잇 저도 갑니다
+[35m⚡LoggerPlugin [39m: 조영우: 캬 만약에라도 되면 팔수있을때까지 보유세 어지간히 깨지겠고만ㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 무순위는 전매기간 없지 않나요?
+[35m⚡LoggerPlugin [39m: 조영우: 전매는 없을것같은데
+[35m⚡LoggerPlugin [39m: 조영우: 바로 던지면 양도세 개쳐맞지않을까요??
+[35m⚡LoggerPlugin [39m: 조영우: 요새는 장특공 같은거 없나
+[35m⚡LoggerPlugin [39m: 조영우: 부동산 정책을 따라가질 못하겠어요;;
+[35m⚡LoggerPlugin [39m: 조영우: 너무 누더기같아서ㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 오늘 오피스텔 하나 임장 갑니다
+[35m⚡LoggerPlugin [39m: 김동환: 저도
+[35m⚡LoggerPlugin [39m: 김동환: 신청해보겠습니다
+[35m⚡LoggerPlugin [39m: 김동환: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 김동환: 세금은
+[35m⚡LoggerPlugin [39m: 김동환: 당첨되고나서 고민해도 되니까
+[35m⚡LoggerPlugin [39m: 김가비: 아 나 돈없는데
+[35m⚡LoggerPlugin [39m: 김가비: 5억만 빌려줘
+[35m⚡LoggerPlugin [39m: 조영우: 돈이 없으면
+[35m⚡LoggerPlugin [39m: 조영우: 전세 세입자 들여서 잔금 치뤄
+[35m⚡LoggerPlugin [39m: 여환준: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 정답이네
+[35m⚡LoggerPlugin [39m: 김가비: 아 왜 광교에있는 찌끄레기 집은 왜 받아가지고 
+[35m⚡LoggerPlugin [39m: 김가비: 아 이도저도 못하네 
+[35m⚡LoggerPlugin [39m: 여환준: 광교 무시해?
+[35m⚡LoggerPlugin [39m: 조영우: 광교 살기좋다는데
+[35m⚡LoggerPlugin [39m: 조영우: 왜 무시해
+[35m⚡LoggerPlugin [39m: 조영우: 확 그냥 호수공원에 빠트려버릴까보다
+[35m⚡LoggerPlugin [39m: 김가비: 그거 지금
+[35m⚡LoggerPlugin [39m: 김가비: 올라가지고 않는다고 
+[35m⚡LoggerPlugin [39m: 김가비: 공사 멈췄따고 ~~~~~~~~~~~~~~~~~~~
+[35m⚡LoggerPlugin [39m: 김가비: 애물딴지됨
+[35m⚡LoggerPlugin [39m: 김가비: 진짜 욕나온다
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조영우: 공사비 올라서 스탑시킨거 아니냐?
+[35m⚡LoggerPlugin [39m: 김가비: 어 맞어
+[35m⚡LoggerPlugin [39m: 김가비: 돈 더 받아야 겠다고 시공사에서 그랬나바
+[35m⚡LoggerPlugin [39m: 김가비: 그 사이에 
+[35m⚡LoggerPlugin [39m: 김가비: 시멘트값 14%가 올라버림
+[35m⚡LoggerPlugin [39m: 김가비: 지하 파다가
+[35m⚡LoggerPlugin [39m: 김가비: 올스톱됬다고 하더라 
+[35m⚡LoggerPlugin [39m: 여환준: 저런….
+[35m⚡LoggerPlugin [39m: 여환준: 뮦였네
+[35m⚡LoggerPlugin [39m: 조영우: 조졌군 진짜
+[35m⚡LoggerPlugin [39m: 조.련.사: @아딱  100찍었다 이제 시즌열리면 하면될듯 ㅋ
+[35m⚡LoggerPlugin [39m: 아딱: ??
+[35m⚡LoggerPlugin [39m: 아딱: 머가
+[35m⚡LoggerPlugin [39m: 방장봇: 지옥의 시간이다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./goodmorning
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 51671, size: 17742 },
+  room: '나는야퉁퉁이',
+  content: './goodmorning',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+[ 'yV', 'qF', 'MP', '3I' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'ox', 'MC', 'HM', '5I' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'jn', 'yD', 'Zb', 'uu' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ '3x', 'bU', 'Id', 'sU' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'nN', 'RR', 'bL', 'OU' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'wk', 'Ve', 'Ij', '1s' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'Ny', 'oh', '5h', 'R7' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'nA', 'Yq', '1w', 'tA' ]
+index
+코스피
+[ '코스피', '' ]
+[ 'gH', 'vq', 'aX', 'bI' ]
+index
+코스닥
+[ '코스닥', '' ]
+[ 'DH', 'Ok', 'Uu', 'd6' ]
+index
+[35m⚡LoggerPlugin [39m: 박재건: 흥아해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: '흥아해운',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '흥아해운' ]
+  }
+]
+[ '흥아해운' ]
+1
+[ 'Vx', '42', 'Av', 'Si' ]
+[35m⚡LoggerPlugin [39m: 박재건: 이열
+[35m⚡LoggerPlugin [39m: 박재건: KSS해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: 'KSS해운',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'KSS해운' ]
+  }
+]
+[ 'KSS해운' ]
+1
+[ 'yb', 'Ub', 'Od', 'HC' ]
+[35m⚡LoggerPlugin [39m: 김가비: 아
+[35m⚡LoggerPlugin [39m: 김가비: 매도할까
+[35m⚡LoggerPlugin [39m: 김가비: 지금 1600인데  
+[35m⚡LoggerPlugin [39m: 김가비: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 박재건: 매도해야지
+[35m⚡LoggerPlugin [39m: 김가비: 아 더올라갈것같은데
+[35m⚡LoggerPlugin [39m: 조영우: 나라면 걍 매도한다
+[35m⚡LoggerPlugin [39m: 조영우: 욕심을 버려
+[35m⚡LoggerPlugin [39m: 박재건: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 박재건: 매도가 더어려운법
+[35m⚡LoggerPlugin [39m: 조영우: 많이 먹었구만 그정도면;;
+[35m⚡LoggerPlugin [39m: 김가비: 매집봉이라서
+[35m⚡LoggerPlugin [39m: 박재건: 헛솔 ㄴㄴ
+[35m⚡LoggerPlugin [39m: 김가비: 저기에서 물량 나와주기만하며ㆍ
+[35m⚡LoggerPlugin [39m: 김가비: 오늘도 상인데
+[35m⚡LoggerPlugin [39m: 박재건: 너가그말하고
+[35m⚡LoggerPlugin [39m: 박재건: 말처럼
+[35m⚡LoggerPlugin [39m: 박재건: 되는꼴을
+[35m⚡LoggerPlugin [39m: 김가비: 아놬ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: 못봄
+[35m⚡LoggerPlugin [39m: 박재건: 걍팔고  술이나사
+[35m⚡LoggerPlugin [39m: 박재건: 그돈으로
+[35m⚡LoggerPlugin [39m: 여환준: 쥬리땜에 무거어서 못오르네
+[35m⚡LoggerPlugin [39m: 여환준: 언넝 던져
+[35m⚡LoggerPlugin [39m: 조영우: 삼겹살이라도 사라
+[35m⚡LoggerPlugin [39m: 여환준: 흥아 브아
+[35m⚡LoggerPlugin [39m: 박재건: 흥아해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: '흥아해운',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '흥아해운' ]
+  }
+]
+[ '흥아해운' ]
+1
+[ 'jn', 'V6', '4I', 'sZ' ]
+[35m⚡LoggerPlugin [39m: 박재건: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'di', '4c', 'B4', 'df' ]
+[35m⚡LoggerPlugin [39m: 조영우: stx중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: 'stx중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'STX중공업' ]
+  }
+]
+[ 'STX중공업' ]
+1
+[ 'FZ', 'vT', 'fl', 'si' ]
+[35m⚡LoggerPlugin [39m: 조영우: 이야 그래도 꼼지락거리면서 7천원까지 왔네ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 박재건: STX중공업그래도 7천원까지왔네
+[35m⚡LoggerPlugin [39m: 박재건: ㄷㄷ
+[35m⚡LoggerPlugin [39m: 김가비: ㅋㅋstx중곱업 7이야????
+[35m⚡LoggerPlugin [39m: 여환준: 상치겠다
+[35m⚡LoggerPlugin [39m: 김가비: 저것도 터져야되는데
+[35m⚡LoggerPlugin [39m: 조영우: 슬슬 익절 구간이구만
+[35m⚡LoggerPlugin [39m: 조영우: 이번엔 진짜 무조건 팔아야지
+[35m⚡LoggerPlugin [39m: 조영우: 으 지겨워
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '7/5화 반차쓰고 낮술',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'v2', 'Ek', 'fs', 'C9' ]
+[35m⚡LoggerPlugin [39m: 박재건: 좀가자
+[35m⚡LoggerPlugin [39m: 조.련.사: 흥아해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '흥아해운',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '흥아해운' ]
+  }
+]
+[ '흥아해운' ]
+1
+[ 'iD', 'Gy', '90', 'EN' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅈ같다
+[35m⚡LoggerPlugin [39m: 조.련.사: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Tn', 'H5', 'vU', 'm0' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 하아;
+[35m⚡LoggerPlugin [39m: 아딱: 이게먼데
+[35m⚡LoggerPlugin [39m: 아딱: 대답.
+[35m⚡LoggerPlugin [39m: 아딱: 대답.
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐긴
+[35m⚡LoggerPlugin [39m: 조.련.사: 어제 100찍었다고
+[35m⚡LoggerPlugin [39m: 조.련.사: 짜샤
+[35m⚡LoggerPlugin [39m: 아딱: 디아?
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇ
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 하코도아니고
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱 부고소식
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜안들리냐
+[35m⚡LoggerPlugin [39m: 아딱: 왜냐?
+[35m⚡LoggerPlugin [39m: 아딱: 안하니깐
+[35m⚡LoggerPlugin [39m: 조.련.사: 접었노
+[35m⚡LoggerPlugin [39m: 아딱: 45레벨에서 접음
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 계속죽더니
+[35m⚡LoggerPlugin [39m: 아딱: 맨날 졸고
+[35m⚡LoggerPlugin [39m: 조.련.사: 머리깨졌네
+[35m⚡LoggerPlugin [39m: 아딱: 사냥하다가 졸고
+[35m⚡LoggerPlugin [39m: 아딱: 재미존나없어서
+[35m⚡LoggerPlugin [39m: 아딱: 그냥 접음
+[35m⚡LoggerPlugin [39m: 조.련.사: 쯧쯧쯧
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 닥치로
+[35m⚡LoggerPlugin [39m: 조.련.사: 렙업이나 해대니까
+[35m⚡LoggerPlugin [39m: 조.련.사: 노잼이지
+[35m⚡LoggerPlugin [39m: 조.련.사: 하여튼 조센녀석들
+[35m⚡LoggerPlugin [39m: 조.련.사: 시즌열리면
+[35m⚡LoggerPlugin [39m: 조.련.사: 다시시작
+[35m⚡LoggerPlugin [39m: 조.련.사: on
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 대체왜
+[35m⚡LoggerPlugin [39m: 조.련.사: 흥아해운
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '흥아해운',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '흥아해운' ]
+  }
+]
+[ '흥아해운' ]
+1
+[ 'ju', 'QK', 'MM', 'Hv' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 죽은자의소생임?
+[35m⚡LoggerPlugin [39m: 아딱: 저번에 -30퍼 하한가
+[35m⚡LoggerPlugin [39m: 아딱: 쳐맞았자나
+[35m⚡LoggerPlugin [39m: 아딱: 요즘
+[35m⚡LoggerPlugin [39m: 아딱: 스파6함
+[35m⚡LoggerPlugin [39m: 아딱: 골드2임
+[35m⚡LoggerPlugin [39m: 아딱: 앙!!!
+[35m⚡LoggerPlugin [39m: 아딱: 기머렝~!~
+[35m⚡LoggerPlugin [39m: 조.련.사: 맞아 요즘
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파6나아ㅗㅆ더라
+[35m⚡LoggerPlugin [39m: 조.련.사: 그거암?
+[35m⚡LoggerPlugin [39m: 조.련.사: 정질 복귀함
+[35m⚡LoggerPlugin [39m: 아딱: 전나재밌음
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 정질님 셋업보면서
+[35m⚡LoggerPlugin [39m: 아딱: 류크함
+[35m⚡LoggerPlugin [39m: 조.련.사: 정질님?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 정질 욕하던
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딱어디갔노
+[35m⚡LoggerPlugin [39m: 아딱: 내가언제?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ?
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇa???
+[35m⚡LoggerPlugin [39m: 조.련.사: 정질이
+[35m⚡LoggerPlugin [39m: 조.련.사: 걔가
+[35m⚡LoggerPlugin [39m: 조.련.사: 여친 임신 낙태
+[35m⚡LoggerPlugin [39m: 조.련.사: 걔 아님?
+[35m⚡LoggerPlugin [39m: 아딱: 맞음
+[35m⚡LoggerPlugin [39m: 조.련.사: ㄷㄷ;
+[35m⚡LoggerPlugin [39m: 조.련.사: 어후ㅠ
+[35m⚡LoggerPlugin [39m: 조.련.사: 암튼
+[35m⚡LoggerPlugin [39m: 아딱: https://www.youtube.com/watch?v=7z65NDxLFBo
+[35m⚡LoggerPlugin [39m: 조.련.사: 나는 킹오파 철권
+[35m⚡LoggerPlugin [39m: 아딱: 이 유튜버가
+[35m⚡LoggerPlugin [39m: 아딱: 정질아이 
+[35m⚡LoggerPlugin [39m: 아딱: 임신한 여자분
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 출산함?
+[35m⚡LoggerPlugin [39m: 아딱: 낳고나서 둘이서 
+[35m⚡LoggerPlugin [39m: 조.련.사: 결국?
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 미혼모되었노
+[35m⚡LoggerPlugin [39m: 아딱: 정질이 잘생기긴했나바 
+[35m⚡LoggerPlugin [39m: 아딱: 애기 되게 귀여움
+[35m⚡LoggerPlugin [39m: 조.련.사: 알빠노
+[35m⚡LoggerPlugin [39m: 조.련.사: 내애기아님
+[35m⚡LoggerPlugin [39m: 아딱: 나중에
+[35m⚡LoggerPlugin [39m: 아딱: 애 다 크고나면
+[35m⚡LoggerPlugin [39m: 아딱: 숟가락얹으려고 할수도있지
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 어
+[35m⚡LoggerPlugin [39m: 조.련.사: 맞아
+[35m⚡LoggerPlugin [39m: 조.련.사: 출산했으면
+[35m⚡LoggerPlugin [39m: 조.련.사: 그 뭐냐
+[35m⚡LoggerPlugin [39m: 아딱: 그래도 자기애인데
+[35m⚡LoggerPlugin [39m: 조.련.사: 양육비 요청
+[35m⚡LoggerPlugin [39m: 조.련.사: 쌉가능아니냐?
+[35m⚡LoggerPlugin [39m: 조.련.사: 헬조센에서는
+[35m⚡LoggerPlugin [39m: 아딱: 한걸로암
+[35m⚡LoggerPlugin [39m: 조.련.사: 아
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 벌써 했꾼
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 
+[35m⚡LoggerPlugin [39m: 아딱: 양육비 벌어야댐
+[35m⚡LoggerPlugin [39m: 아딱: 정질
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 결혼은 안했지만
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 양육, 애기, 결혼 이런거
+[35m⚡LoggerPlugin [39m: 조.련.사: 양육비를 벌어야하는
+[35m⚡LoggerPlugin [39m: 아딱: 거의 금기어임
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 암묵적으로
+[35m⚡LoggerPlugin [39m: 조.련.사: 추천 스트리머에 정질 뜨길래
+[35m⚡LoggerPlugin [39m: 조.련.사: 저새끼 뭔가싶었다
+[35m⚡LoggerPlugin [39m: 조.련.사: 암튼
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파는
+[35m⚡LoggerPlugin [39m: 조.련.사: 콤보
+[35m⚡LoggerPlugin [39m: 아딱: 정질이 지금 스파6 대회
+[35m⚡LoggerPlugin [39m: 조.련.사: 개단순해서
+[35m⚡LoggerPlugin [39m: 아딱: 싹쓸이중임
+[35m⚡LoggerPlugin [39m: 조.련.사: 노잼임
+[35m⚡LoggerPlugin [39m: 조.련.사: 킹오파나 철권처럼
+[35m⚡LoggerPlugin [39m: 조.련.사: 딱
+[35m⚡LoggerPlugin [39m: 조.련.사: 맞으면
+[35m⚡LoggerPlugin [39m: 아딱: 7월8일날 EVO 챔피언십 스파6대회  
+[35m⚡LoggerPlugin [39m: 조.련.사: 콤보 우수수
+[35m⚡LoggerPlugin [39m: 아딱: 시드권놓고
+[35m⚡LoggerPlugin [39m: 조.련.사: 이게ㅁ재밋지
+[35m⚡LoggerPlugin [39m: 아딱: 국내 대회있음
+[35m⚡LoggerPlugin [39m: 아딱: 그거 재밌을듯
+[35m⚡LoggerPlugin [39m: 조.련.사: 춸
+[35m⚡LoggerPlugin [39m: 조.련.사: 철권유저들
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파
+[35m⚡LoggerPlugin [39m: 조.련.사: 많이갔떤데
+[35m⚡LoggerPlugin [39m: 조.련.사: 대회상금
+[35m⚡LoggerPlugin [39m: 아딱: 리삼도 하던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 26억이라며
+[35m⚡LoggerPlugin [39m: 조.련.사: 아빠킹도 스파함
+[35m⚡LoggerPlugin [39m: 아딱: 30억임
+[35m⚡LoggerPlugin [39m: 아딱: 대회풀이
+[35m⚡LoggerPlugin [39m: 아딱: 1억이 20억
+[35m⚡LoggerPlugin [39m: 조.련.사: 무릎도 하던거같던데
+[35m⚡LoggerPlugin [39m: 아딱: 웃긴게
+[35m⚡LoggerPlugin [39m: 아딱: 롤드컵도 1위상금이 20억이거든?
+[35m⚡LoggerPlugin [39m: 아딱: 근데그거는 스태프고 선수고 
+[35m⚡LoggerPlugin [39m: 아딱: n분이자나
+[35m⚡LoggerPlugin [39m: 아딱: 저거는 한명이 20억
+[35m⚡LoggerPlugin [39m: 아딱: 다갖는거임
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜케
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파에 몰렸냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 철권은
+[35m⚡LoggerPlugin [39m: 아딱: 캡콤이
+[35m⚡LoggerPlugin [39m: 아딱: 이갈았음
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜 그렇게 안하냐
+[35m⚡LoggerPlugin [39m: 조.련.사: 코나미
+[35m⚡LoggerPlugin [39m: 조.련.사: 씹련들
+[35m⚡LoggerPlugin [39m: 아딱: 스파 세계적인 대회로 만든다고
+[35m⚡LoggerPlugin [39m: 아딱: 캡콤컵 대회상금 30억선언한이후에
+[35m⚡LoggerPlugin [39m: 조.련.사: 킹오파는
+[35m⚡LoggerPlugin [39m: 조.련.사: 3D하면서
+[35m⚡LoggerPlugin [39m: 아딱: 철권 프로선수들 박탈감
+[35m⚡LoggerPlugin [39m: 조.련.사: 진짜 노근본되버림
+[35m⚡LoggerPlugin [39m: 아딱: 오지게늒ㅁ
+[35m⚡LoggerPlugin [39m: 조.련.사: 킹오파도
+[35m⚡LoggerPlugin [39m: 조.련.사: 세계대회해줘!
+[35m⚡LoggerPlugin [39m: 아딱: 철권 세계대회해봤자
+[35m⚡LoggerPlugin [39m: 조.련.사: 2D로 돌아와!
+[35m⚡LoggerPlugin [39m: 아딱: 상금 백만따리인데
+[35m⚡LoggerPlugin [39m: 아딱: 스파는 20억
+[35m⚡LoggerPlugin [39m: 아딱: 2위만해도 5억
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 집한채
+[35m⚡LoggerPlugin [39m: 아딱: 뚝딱
+[35m⚡LoggerPlugin [39m: 조.련.사: 우승하면
+[35m⚡LoggerPlugin [39m: 조.련.사: 집이 생기는 마법
+[35m⚡LoggerPlugin [39m: 조.련.사: 나도
+[35m⚡LoggerPlugin [39m: 조.련.사: 준비해볼까?
+[35m⚡LoggerPlugin [39m: 아딱: ㅈㄹ
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파
+[35m⚡LoggerPlugin [39m: 조.련.사: 쉬워보이던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 이지함
+[35m⚡LoggerPlugin [39m: 아딱: 스파 조작법에
+[35m⚡LoggerPlugin [39m: 아딱: 캐쥬얼모드, 모던모드
+[35m⚡LoggerPlugin [39m: 아딱: 2개가있거든
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐냐
+[35m⚡LoggerPlugin [39m: 아딱: 케쥬얼모드는 
+[35m⚡LoggerPlugin [39m: 아딱: 레버순서를
+789
+456
+123
+
+로 표현하면
+[35m⚡LoggerPlugin [39m: 아딱: 41236 + P 하면
+[35m⚡LoggerPlugin [39m: 아딱: 장풍나가자나
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 모든모드는
+[35m⚡LoggerPlugin [39m: 아딱: 6 P 
+[35m⚡LoggerPlugin [39m: 아딱: 하면 장풍나감
+[35m⚡LoggerPlugin [39m: 아딱: 모던모드
+[35m⚡LoggerPlugin [39m: 조.련.사: 쉽게 
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 조.련.사: 만든모드노
+[35m⚡LoggerPlugin [39m: 아딱: 대신에
+[35m⚡LoggerPlugin [39m: 아딱: 캐쥬얼모드보다 
+[35m⚡LoggerPlugin [39m: 아딱: 대미지 -20%
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐야
+[35m⚡LoggerPlugin [39m: 조.련.사: 그럼 누가해
+[35m⚡LoggerPlugin [39m: 아딱: 근데 이걸 단점으로 깔아도
+[35m⚡LoggerPlugin [39m: 아딱: 커맨드입력으로인한 
+[35m⚡LoggerPlugin [39m: 아딱: 실수
+[35m⚡LoggerPlugin [39m: 아딱: 이런거 다 배제할수있어서
+[35m⚡LoggerPlugin [39m: 아딱: 지금 스파판 유명 프로선수들
+[35m⚡LoggerPlugin [39m: 아딱: 다이고,
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 아딱: 이런선수들도
+[35m⚡LoggerPlugin [39m: 아딱: 모던연습중임
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파 콤보셋도
+[35m⚡LoggerPlugin [39m: 아딱: 칼대공 승룡이 가능함
+[35m⚡LoggerPlugin [39m: 조.련.사: 복잡하지않은데
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜 그럼?
+[35m⚡LoggerPlugin [39m: 아딱: 먼솔 스파가 제일 복잡함
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 철권보다
+[35m⚡LoggerPlugin [39m: 조.련.사: 내가 어?
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파5때
+[35m⚡LoggerPlugin [39m: 조.련.사: 률
+[35m⚡LoggerPlugin [39m: 아딱: 콤보넣으려면
+[35m⚡LoggerPlugin [39m: 조.련.사: 류로
+[35m⚡LoggerPlugin [39m: 아딱: 저스트 기술
+[35m⚡LoggerPlugin [39m: 아딱: 다써야되서
+[35m⚡LoggerPlugin [39m: 아딱: 전나어려운데
+[35m⚡LoggerPlugin [39m: 아딱: 먼소리야!!
+[35m⚡LoggerPlugin [39m: 조.련.사: 진따 단순 콤보로
+[35m⚡LoggerPlugin [39m: 조.련.사: 반피나가는거보고
+[35m⚡LoggerPlugin [39m: 아딱: 저스트타이밍
+[35m⚡LoggerPlugin [39m: 조.련.사: 날먹 쉽네 싶었늗네
+[35m⚡LoggerPlugin [39m: 아딱: 프로선수 콤보 똑같이 기술 연계해서 하려면
+[35m⚡LoggerPlugin [39m: 아딱: 안되는이유가
+[35m⚡LoggerPlugin [39m: 아딱: 같은기술이라도
+[35m⚡LoggerPlugin [39m: 아딱: 거의 2~3단계가있음
+[35m⚡LoggerPlugin [39m: 아딱: 타이밍따라
+[35m⚡LoggerPlugin [39m: 아딱: 홀드 시간이나
+[35m⚡LoggerPlugin [39m: 아딱: 그거 다 실전에서 박아야지 콤보이어져서
+[35m⚡LoggerPlugin [39m: 아딱: 전나어려움
+[35m⚡LoggerPlugin [39m: 조.련.사: 음?
+[35m⚡LoggerPlugin [39m: 아딱: 마치 브라이언퓨리
+[35m⚡LoggerPlugin [39m: 아딱: 도잿이랑
+[35m⚡LoggerPlugin [39m: 아딱: 똑같은거
+[35m⚡LoggerPlugin [39m: 조.련.사: 점프 강발
+[35m⚡LoggerPlugin [39m: 조.련.사: 강손
+[35m⚡LoggerPlugin [39m: 조.련.사: 스킬
+[35m⚡LoggerPlugin [39m: 조.련.사: 스킬
+[35m⚡LoggerPlugin [39m: 조.련.사: 이정도
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니냐?
+[35m⚡LoggerPlugin [39m: 아딱: 데미지쌘 콤보넣으려면은
+[35m⚡LoggerPlugin [39m: 아딱: 저스트타이밍
+[35m⚡LoggerPlugin [39m: 아딱: 기술써야한다구
+[35m⚡LoggerPlugin [39m: 아딱: 너가말하는건
+[35m⚡LoggerPlugin [39m: 아딱: 젇만한데미지
+[35m⚡LoggerPlugin [39m: 아딱: 그냥 국민콤보고
+[35m⚡LoggerPlugin [39m: 조.련.사: 아니 저거만해도
+[35m⚡LoggerPlugin [39m: 조.련.사: 반피나가던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 류는
+[35m⚡LoggerPlugin [39m: 조.련.사: 스6되면서
+[35m⚡LoggerPlugin [39m: 조.련.사: 바뀌었나보네
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇㅅㅇ
+[35m⚡LoggerPlugin [39m: 아딱: ㅇㅅㅇ!!!
+[35m⚡LoggerPlugin [39m: 아딱: 암튼그래서
+[35m⚡LoggerPlugin [39m: 황소원: 태광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '태광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '태광' ]
+  }
+]
+[ '태광' ]
+1
+[ 'Bd', 'kb', 'dv', 'VE' ]
+[35m⚡LoggerPlugin [39m: 아딱: 다이고같은 거물급 프로도
+[35m⚡LoggerPlugin [39m: 아딱: 모던연습많이함
+[35m⚡LoggerPlugin [39m: 황소원: 솔루엠
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '솔루엠',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '솔루엠' ]
+  }
+]
+[ '솔루엠' ]
+1
+[ 'cw', 'qs', 'kA', 'VU' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 다이고가
+[35m⚡LoggerPlugin [39m: 황소원: Gst
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: 'Gst',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'GST' ]
+  }
+]
+[ 'GST' ]
+1
+[ 'Ri', 'Sh', 'HM', 'jf' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 사람이름이었음?
+[35m⚡LoggerPlugin [39m: 아딱: 623 P => 승룡이자나
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 3P =>승룡
+[35m⚡LoggerPlugin [39m: 아딱: 이게말이안댐
+[35m⚡LoggerPlugin [39m: 조.련.사: ?
+[35m⚡LoggerPlugin [39m: 조.련.사: 왜
+[35m⚡LoggerPlugin [39m: 조.련.사: 말이안되노
+[35m⚡LoggerPlugin [39m: 조.련.사: -20% 딜
+[35m⚡LoggerPlugin [39m: 아딱: 반응속도차이가
+[35m⚡LoggerPlugin [39m: 아딱: 엄청나다구
+[35m⚡LoggerPlugin [39m: 아딱: 레버 돌려가면서 승룡해바
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 하긴
+[35m⚡LoggerPlugin [39m: 조.련.사: 점프뛰는거 보자마자
+[35m⚡LoggerPlugin [39m: 조.련.사: 3p는
+[35m⚡LoggerPlugin [39m: 조.련.사: 사기긴하겠네
+[35m⚡LoggerPlugin [39m: 아딱: 칼대공임
+[35m⚡LoggerPlugin [39m: 아딱: 커맨드를 입력해야하는 수고가
+[35m⚡LoggerPlugin [39m: 아딱: 아예 배제되는거라
+[35m⚡LoggerPlugin [39m: 아딱: -20퍼센트 데미지도
+[35m⚡LoggerPlugin [39m: 아딱: 메리트있는거임
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래서
+[35m⚡LoggerPlugin [39m: 조.련.사: 너도
+[35m⚡LoggerPlugin [39m: 아딱: 난케쥬얼임
+[35m⚡LoggerPlugin [39m: 조.련.사: 걔집애처럼 모던모드함?
+[35m⚡LoggerPlugin [39m: 조.련.사: 오
+[35m⚡LoggerPlugin [39m: 아딱: 나는 던파할떄도
+[35m⚡LoggerPlugin [39m: 아딱: 커맨드로스킬씀
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 인파가
+[35m⚡LoggerPlugin [39m: 조.련.사: 스킬이 많아서
+[35m⚡LoggerPlugin [39m: 조.련.사: ZXCVASDF
+[35m⚡LoggerPlugin [39m: 조.련.사: 로도 부족하긴했지
+[35m⚡LoggerPlugin [39m: 조.련.사: 426스페이스
+486스페이스
+86스페이스
+26스페이스
+28스페이스
+46스페이스
+[35m⚡LoggerPlugin [39m: 조.련.사: 68스페이스
+62스페이스
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 
+[35m⚡LoggerPlugin [39m: 아딱: 지금 모던 모드떄문에
+[35m⚡LoggerPlugin [39m: 아딱: 랭겜에 
+[35m⚡LoggerPlugin [39m: 아딱: 저티어애들은 다 모던쓰더라
+[35m⚡LoggerPlugin [39m: 아딱: 유입이많아서
+[35m⚡LoggerPlugin [39m: 조.련.사: 얼마니?
+[35m⚡LoggerPlugin [39m: 조.련.사: 스팀인가?
+[35m⚡LoggerPlugin [39m: 아딱: 거의 10에 8명이
+[35m⚡LoggerPlugin [39m: 아딱: 모던임
+[35m⚡LoggerPlugin [39m: 조.련.사: 오랜만에 조이스틱을 꺼내야하나
+[35m⚡LoggerPlugin [39m: 조.련.사: 철8은
+[35m⚡LoggerPlugin [39m: 조.련.사: 언제나오노
+[35m⚡LoggerPlugin [39m: 아딱: 멀티플랫폼이라
+[35m⚡LoggerPlugin [39m: 아딱: 크로스플랫폼 지원이라
+[35m⚡LoggerPlugin [39m: 아딱: PS5 , XBOX , PC
+[35m⚡LoggerPlugin [39m: 아딱: 다만남
+[35m⚡LoggerPlugin [39m: 조.련.사: 오
+[35m⚡LoggerPlugin [39m: 조.련.사: 근데
+[35m⚡LoggerPlugin [39m: 조.련.사: 스파가
+[35m⚡LoggerPlugin [39m: 아딱: 그리고 넷코드 백웨어 적용되어있어서
+[35m⚡LoggerPlugin [39m: 아딱: 미국 - 한국
+[35m⚡LoggerPlugin [39m: 조.련.사: 철권보다 진입장벽 낮아서
+[35m⚡LoggerPlugin [39m: 아딱: 이렇게만나도
+[35m⚡LoggerPlugin [39m: 아딱: 렉없다
+[35m⚡LoggerPlugin [39m: 조.련.사: 많이하긴할듯
+[35m⚡LoggerPlugin [39m: 아딱: 그러긴함 
+[35m⚡LoggerPlugin [39m: 아딱: 그래도 2D자나
+[35m⚡LoggerPlugin [39m: 아딱: X축 Y축
+[35m⚡LoggerPlugin [39m: 아딱: 생각할게 별로없어서
+[35m⚡LoggerPlugin [39m: 아딱: 점프만 노리면되가지구
+[35m⚡LoggerPlugin [39m: 조.련.사: 철권은 짤짤이로 이기긴 힘드니까
+[35m⚡LoggerPlugin [39m: 아딱: 암튼 어제 보니깐
+[35m⚡LoggerPlugin [39m: 아딱: 철권7은 트위치 전세계 시청자
+[35m⚡LoggerPlugin [39m: 아딱: 2000명인데
+[35m⚡LoggerPlugin [39m: 아딱: 스파6는 16만이더라
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 철8나오면!
+[35m⚡LoggerPlugin [39m: 조.련.사: 20만 도니다구!
+[35m⚡LoggerPlugin [39m: 조.련.사: 된다구!
+[35m⚡LoggerPlugin [39m: 아딱: 암튼 스파6는 
+[35m⚡LoggerPlugin [39m: 아딱: 흥행면에서도그렇고
+[35m⚡LoggerPlugin [39m: 아딱: 작품평에서도그렇고
+[35m⚡LoggerPlugin [39m: 아딱: 대흥행함
+[35m⚡LoggerPlugin [39m: 조.련.사: 아
+[35m⚡LoggerPlugin [39m: 조.련.사: 그거
+[35m⚡LoggerPlugin [39m: 조.련.사: 커스텀 모드
+[35m⚡LoggerPlugin [39m: 조.련.사: 있는거같던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 캐릭터
+[35m⚡LoggerPlugin [39m: 아딱: 모드가 3개가있음
+[35m⚡LoggerPlugin [39m: 조.련.사: 달심
+[35m⚡LoggerPlugin [39m: 조.련.사: 커스텀
+[35m⚡LoggerPlugin [39m: 조.련.사: 개웃기던데
+[35m⚡LoggerPlugin [39m: 조.련.사: 아이디 정지당한놈
+[35m⚡LoggerPlugin [39m: 조.련.사: 니거 킬러인지
+[35m⚡LoggerPlugin [39m: 아딱: 월드투어 (RPG) , 커스텀모드 , 배틀모드(스토리모드 or 랭크)
+[35m⚡LoggerPlugin [39m: 조.련.사: RPG는
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐냐
+[35m⚡LoggerPlugin [39m: 아딱: 너가 만든아바타로
+[35m⚡LoggerPlugin [39m: 아딱: 스토리진행하는
+[35m⚡LoggerPlugin [39m: 조.련.사: 오
+[35m⚡LoggerPlugin [39m: 아딱: 용과같이같은
+[35m⚡LoggerPlugin [39m: 조.련.사: 오!?
+[35m⚡LoggerPlugin [39m: 아딱: 싱글모드임
+[35m⚡LoggerPlugin [39m: 아딱: 오픈월드로
+[35m⚡LoggerPlugin [39m: 아딱: 돌아다니면서
+[35m⚡LoggerPlugin [39m: 조.련.사: 아
+[35m⚡LoggerPlugin [39m: 아딱: 레벨업하면은 스킬찍고
+[35m⚡LoggerPlugin [39m: 조.련.사: 예전
+[35m⚡LoggerPlugin [39m: 조.련.사: 철권이나
+[35m⚡LoggerPlugin [39m: 조.련.사: 그런데서했던
+[35m⚡LoggerPlugin [39m: 아딱: 스파캐릭터들이 도장같은걸
+[35m⚡LoggerPlugin [39m: 아딱: 운영하거든
+[35m⚡LoggerPlugin [39m: 조.련.사: 그런건가보네
+[35m⚡LoggerPlugin [39m: 아딱: 거기에
+[35m⚡LoggerPlugin [39m: 아딱: 제자로 삼아주세요! 하면
+[35m⚡LoggerPlugin [39m: 아딱: 그캐릭터 기술배울수있음
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 
+[35m⚡LoggerPlugin [39m: 아딱: 류크 + 달심 + 춘리
+[35m⚡LoggerPlugin [39m: 아딱: 기술 한번에
+[35m⚡LoggerPlugin [39m: 아딱: 다쓸수있음
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 조합하면
+[35m⚡LoggerPlugin [39m: 조.련.사: 그렇게 조합한거로 대전은안됨?
+[35m⚡LoggerPlugin [39m: 아딱: 그리고 웃긴게 신체사이즈나 팔길이나 다리길이 이런것도
+[35m⚡LoggerPlugin [39m: 아딱: 전투에영향ㄷ 들어가서
+[35m⚡LoggerPlugin [39m: 아딱: 유리해짐
+[35m⚡LoggerPlugin [39m: 아딱: 길면
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 뭐야
+[35m⚡LoggerPlugin [39m: 아딱: 그래서 기괴하게
+[35m⚡LoggerPlugin [39m: 조.련.사: 달심 신체에다가
+[35m⚡LoggerPlugin [39m: 아딱: 만듦
+[35m⚡LoggerPlugin [39m: 아딱: 키는 220cm에
+[35m⚡LoggerPlugin [39m: 아딱: 팔길이는
+[35m⚡LoggerPlugin [39m: 아딱: 무릎아래까지내려오고
+[35m⚡LoggerPlugin [39m: 아딱: 이런애도있음
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 긴팔원숭이노
+[35m⚡LoggerPlugin [39m: 아딱: 커스텀이
+[35m⚡LoggerPlugin [39m: 아딱: 자유도가미쳐서
+[35m⚡LoggerPlugin [39m: 아딱: 모든사이즈
+[35m⚡LoggerPlugin [39m: 아딱: 다 조절됨
+[35m⚡LoggerPlugin [39m: 아딱: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 아딱: 어우진짜
+[35m⚡LoggerPlugin [39m: 아딱: 역겨워
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 조.련.사: 기형아대전이노
+[35m⚡LoggerPlugin [39m: 아딱: 커스텀의 미래다
+[35m⚡LoggerPlugin [39m: 아딱: 스파6 시스템이
+[35m⚡LoggerPlugin [39m: 아딱: ㄹㅇ
+[35m⚡LoggerPlugin [39m: 아딱: 진짜 제약하나도없고
+[35m⚡LoggerPlugin [39m: 아딱: 극단적으로 조절됨
+[35m⚡LoggerPlugin [39m: 아딱: 모든캐릭터 다만들수있음
+[35m⚡LoggerPlugin [39m: 김가비: 반정리했다 
+[35m⚡LoggerPlugin [39m: 김가비: 캬 ~
+[35m⚡LoggerPlugin [39m: 조.련.사: 아딲련
+[35m⚡LoggerPlugin [39m: 조.련.사: 그래서 요즘
+[35m⚡LoggerPlugin [39m: 조.련.사: 디아 안하고
+[35m⚡LoggerPlugin [39m: 조.련.사: 접속안했었구만?
+[35m⚡LoggerPlugin [39m: 여환준: https://www.instagram.com/reel/CtjSIIwoc6G/?igshid=MzRlODBiNWFlZA==
+[35m⚡LoggerPlugin [39m: 아딱: 스파가 재밌어서
+[35m⚡LoggerPlugin [39m: 아딱: =ㅠ=
+[35m⚡LoggerPlugin [39m: 조영우: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황설희: 저 오늘도 점심시간에 나갓다 올게요..
+[35m⚡LoggerPlugin [39m: 황설희: 이모티콘을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 승환: ㅋㅋㅋ 오늘도 지은씨랑 데이투?
+[35m⚡LoggerPlugin [39m: 황설희: 플러스 약국 데이투 
+[35m⚡LoggerPlugin [39m: 케이미넴: 크.
+[35m⚡LoggerPlugin [39m: 케이미넴: 오늘 날씨 좋네
+[35m⚡LoggerPlugin [39m: 케이미넴: 비온대 
+[35m⚡LoggerPlugin [39m: 케이미넴: 다음주부턴 장마고 
+[35m⚡LoggerPlugin [39m: 9900KS: 어재부터 비왔는데 서울
+[35m⚡LoggerPlugin [39m: 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'dE', 'dx', 'II', 'QT' ]
+[35m⚡LoggerPlugin [39m: 이승학: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'VF', 'Wy', 'T0', '8j' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 8월 10일 일본으로 가는 항공권 검색해줘
+test
+{
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    date: 'Wed, 21 Jun 2023 02:36:50 GMT',
+    'content-type': 'application/json',
+    'transfer-encoding': 'chunked',
+    connection: 'close',
+    'access-control-allow-origin': '*',
+    'cache-control': 'no-cache, must-revalidate',
+    'openai-model': 'gpt-3.5-turbo-0613',
+    'openai-organization': 'user-kpdmgw4c2ibcbb7jdumbswmw',
+    'openai-processing-ms': '3832',
+    'openai-version': '2020-10-01',
+    'strict-transport-security': 'max-age=15724800; includeSubDomains',
+    'x-ratelimit-limit-requests': '60',
+    'x-ratelimit-limit-tokens': '150000',
+    'x-ratelimit-remaining-requests': '59',
+    'x-ratelimit-remaining-tokens': '149968',
+    'x-ratelimit-reset-requests': '1s',
+    'x-ratelimit-reset-tokens': '12ms',
+    'x-request-id': '45a62ce7a2328807ce1aca6dcdcebdd9',
+    'cf-cache-status': 'DYNAMIC',
+    server: 'cloudflare',
+    'cf-ray': '7da8dda69ca8a7c3-ICN',
+    'alt-svc': 'h3=":443"; ma=86400'
+  },
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 376
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo-0613","messages":[{"role":"user","content":" 8월 10일 일본으로 가는 항공권 검색해줘"}],"functions":[{"name":"websearch","description":"인터넷에 검색을 시도합니다.","parameters":{"type":"object","properties":{"search_txt":{"type":"string","description":"검색할 문장"}},"required":["search_txt"]}}],"function_call":"auto"}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 376,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 756419,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 376\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [TLSSocket],
+      _consuming: true,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 44,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 376,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  data: {
+    id: 'chatcmpl-7Ti07AfpPQLncti9Tz4h3iIfbUCoh',
+    object: 'chat.completion',
+    created: 1687315007,
+    model: 'gpt-3.5-turbo-0613',
+    choices: [ [Object] ],
+    usage: { prompt_tokens: 83, completion_tokens: 30, total_tokens: 113 }
+  }
+}
+test
+{
+  role: 'assistant',
+  content: null,
+  function_call: {
+    name: 'websearch',
+    arguments: '{\n  "search_txt": "8월 10일 일본 항공권"\n}'
+  }
+}
+8월 10일 일본 항공권
+https://openapi.naver.com/v1/search/webkr.json?query=8%EC%9B%94%2010%EC%9D%BC%20%EC%9D%BC%EB%B3%B8%20%ED%95%AD%EA%B3%B5%EA%B6%8C
+Error chatgpt api: Error: Request failed with status code 400
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    '0': { role: 'function', name: 'websearch', content: undefined },
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 20
+    },
+    method: 'post',
+    data: '"gpt-3.5-turbo-0613"',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 20,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 756486,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 20\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 2,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 400,
+      statusMessage: 'Bad Request',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 20,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 400,
+    statusText: 'Bad Request',
+    headers: {
+      date: 'Wed, 21 Jun 2023 02:36:51 GMT',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '443',
+      connection: 'close',
+      vary: 'Origin',
+      'x-request-id': '4a0327fcaeda56d9fbd7d93cbac64051',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7da8ddc1aed6c05d-ICN',
+      'alt-svc': 'h3=":443"; ma=86400'
+    },
+    config: {
+      '0': [Object],
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '"gpt-3.5-turbo-0613"',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 20,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 20\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+hello world
+{
+	"lastBuildDate":"Wed, 21 Jun 2023 11:36:51 +0900",
+	"total":85106700,
+	"start":1,
+	"display":10,
+	"items":[
+		{
+			"title":"“<b>일본<\/b>여행 더 가겠네”…돌연 급락한 <b>항공권<\/b>, 왕복에 단돈 <b>10<\/b>만원 - 매일경제",
+			"link":"https:\/\/www.mk.co.kr\/news\/society\/10736729",
+			"description":"<b>일본<\/b> 오사카 성 전경 [사진출처 = <b>일본<\/b>관광청] <b>일본<\/b>을 포함해 동남아... ‘0원 <b>항공권<\/b>’에 이어 <b>10<\/b>만원 땡처리 <b>항공권<\/b>까지 등장하면서 코로나 사태 이전 LCC(저비용 <b>항공<\/b>사)들의 출혈경쟁이 재발되는 게 아니냐는... <b>10<\/b>..."
+		},
+		{
+			"title":"2023 <b>일본 항공권<\/b> 특가 왕복 최저가 ₩103,549부터 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights-to\/jp\/cheap-flights-to-japan.html",
+			"description":"오사카 12월 20일 (수) Peach의 ICN - KIX <b>항공권<\/b> 직항 1월 <b>10일<\/b> (수) Peach의... 최저가 ₩103,549 <b>8월<\/b> 최저가 ₩114,311 9월 최저가 ₩106,702 <b>10<\/b>월 최저가 ₩118,389 11월 최저가 ₩231,173 더 많은 달 보기 <b>일본<\/b> 직항편 취항 <b>항공<\/b>... <b>일본<\/b>..."
+		},
+		{
+			"title":"<b>일본 항공권<\/b> | 실시간 최저가 <b>항공권<\/b> 예약 52,237원~ - 카약(KAYAK)",
+			"link":"https:\/\/www.kayak.co.kr\/%ED%95%AD%EA%B3%B5%EA%B6%8C\/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-KR0\/%EC%9D%BC%EB%B3%B8-JP0",
+			"description":"7 아시아나<b>항공<\/b> <b>8<\/b>.2 제주<b>항공<\/b> 7.7 <b>일본<\/b>행 저가 <b>항공권<\/b>을 예약하세요 최신 왕복 <b>항공권<\/b> 특가 상품 7\/12 수 직항 제주<b>항공<\/b> 1시간 25분 ICN-FUK 7\/19 수 직항 제주<b>항공<\/b> 1시간 35분 FUK-ICN 110,845원 검색 7\/12 수 직항... <b>일본<\/b>행 <b>항공<\/b>편..."
+		},
+		{
+			"title":"이스타<b>항공<\/b>, 6~<b>8월<\/b> <b>일본항공권<\/b> 특가 이벤트 27일부터 진행 &lt; 산업 &lt; 기사본문 - 뉴스웍스",
+			"link":"http:\/\/www.newsworks.co.kr\/news\/articleView.html?idxno=362591",
+			"description":"<b>항공<\/b>여행 수요가 많은 여름 휴가기간 출발 <b>항공권<\/b>을 대상으로 이스타<b>항공<\/b>이 27일 오전 <b>10<\/b>시부터 다음 달 5일까지 열흘간 ‘살맛나는 가격, 살맛나는 <b>일본<\/b>여행!’ 특가 이벤트를 진행한다.탑승기간 다음 달 1일부터 <b>8월<\/b> 31일까지의 인천-도쿄·오사카·후쿠오카·가고시마·미야자키·이바라키·오키나와·삿포로와 부산-오사카·삿포로, 청주-오..."
+		},
+		{
+			"title":"2023 도쿄 <b>항공권<\/b> 왕복 특가 최저가 ₩56,819부터 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights-to\/tyoa\/cheap-flights-to-tokyo.html",
+			"description":"도쿄행 <b>항공권<\/b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩265,658 7월 최저가 ₩56,819 <b>8월<\/b> 최저가 ₩234,899 9월 최저가 ₩213,595 <b>10<\/b>월 최저가 ₩232,675 11월 최저가 ₩231,472..."
+		},
+		{
+			"title":"2023 오사카 <b>항공권<\/b> 왕복 특가 최저가 ₩156,073부터 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights-to\/osaa\/cheap-flights-to-osaka.html",
+			"description":"오사카행 <b>항공권<\/b>이 가장 저렴한 달은 물론, 저렴한 날짜까지 확인해보세요. 6월 최저가 ₩164,397 7월 최저가 ₩166,205 <b>8월<\/b> 최저가 ₩191,093 9월 최저가 ₩176,981 <b>10<\/b>월 최저가 ₩209,494 11월 최저가 ₩160..."
+		},
+		{
+			"title":"<b>8월<\/b> <b>일본<\/b> 자유여행 가능할까...한·일, 관광 재개 준비 분주 [이영희의 나우 인 재팬] | 중앙일보",
+			"link":"https:\/\/www.joongang.co.kr\/article\/25076919",
+			"description":"오는 <b>10일<\/b>부터 시작되는 관광 재개를 맞아 새 메뉴 개발 등 외국인... <b>일본<\/b> 전체 관광객 중 한국인의 비중은 <b>10<\/b>% 정도로 중국인(30%)에 비해 적지만, 저가<b>항공<\/b>사(LCC) 등을 이용한 지방 관광은 한국인의 비중이... 1 \/ <b>10<\/b>..."
+		},
+		{
+			"title":"<b>항공권<\/b> 특가 및 땡처리 <b>항공권<\/b> 검색 | 스카이스캐너",
+			"link":"https:\/\/www.skyscanner.co.kr\/flights",
+			"description":"후쿠오카 <b>8월<\/b> 31일 (목) 제주<b>항공<\/b>의 PUS - FUK <b>항공권<\/b> 직항 9월 5일 (화) 제주<b>항공<\/b>의 FUK - PUS <b>항공권<\/b> 직항 ₩98... 칭다오 7월 6일 (목) Shandong Airlines의 ICN - TAO <b>항공권<\/b> 직항 7월 <b>10일<\/b> (월) Shandong Airlines의 TAO - ICN <b>항공권<\/b> 직항... 한"
+		},
+		{
+			"title":"[<b>일본<\/b> 유심] 택배수령 \/ 3-<b>10일<\/b> 매일 1\/2GB 데이터 무제한 :: 나다운 진짜 여행",
+			"link":"https:\/\/www.myrealtrip.com\/offers\/60649",
+			"description":"미만으로 남은 경우에는 본 상품이 아닌 eSIM 혹은 공항수령 유심 상품을 구매하시기를 추천해드려요. ⭐4일 무제한 \/ 5일 무제한 상품은 <b>일본<\/b>시간 AM 01:00 이후에 유심을 삽입해야 정상적으로 이용이 가능합니다."
+		},
+		{
+			"title":"롯데관광개발 X 대한<b>항공<\/b>, 이집트 특별 전세기로 간다.. 2023년 1월부터 총 5회 <b>10일<\/b> 일정 &lt; 여행 &lt; 여행·레저 ....",
+			"link":"http:\/\/www.discoverynews.kr\/news\/articleView.html?idxno=878903",
+			"description":"대한<b>항공<\/b>을 이용해 인천공항에서 카이로공항으로 <b>10일<\/b> 일정으로 출발한다. 이집트 전세기 패키지는... 오는 <b>10<\/b>월 14일까지 예약 후 2일 이내 예약금 입금 고객 대상으로 1인 40만원 할인 혜택 및 제주 드림타워..."
+		}
+	]
+}

@@ -1,0 +1,264 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 적러
+[35m⚡LoggerPlugin [39m: 박재건: 걍흠
+[35m⚡LoggerPlugin [39m: 이승학: 어디서
+[35m⚡LoggerPlugin [39m: 이승학: 봤는데
+[35m⚡LoggerPlugin [39m: 박재건: ..
+[35m⚡LoggerPlugin [39m: 이승학: 여긴가
+[35m⚡LoggerPlugin [39m: 이승학: 그렇구만,,
+[35m⚡LoggerPlugin [39m: 이승학: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 황은지: 미쳤냨ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 황은지: 빵터짐ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: 하ㅓ
+[35m⚡LoggerPlugin [39m: 이주헌: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '※ HMM (구.현대상선) 강성주주방 ※',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 이주헌: 막판에 오질나게 터네
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+1
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 64521, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+코스닥
+[ '코스닥', '' ]
+코스피
+[ '코스피', '' ]
+코스닥
+[ '코스닥', '' ]
+코스피
+[ '코스피', '' ]
+코스닥
+[ '코스닥', '' ]
+코스피
+[ '코스피', '' ]
+코스닥
+[ '코스닥', '' ]
+코스피
+[ '코스피', '' ]
+코스닥
+[ '코스닥', '' ]
+[35m⚡LoggerPlugin [39m: 여환준: 내일 18층 보겠네요
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: 동시호가 16만주 
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+[35m⚡LoggerPlugin [39m: 𝚂 𝚝 𝚎 𝚟 𝚒 𝚎: ㅎㄷㄷ
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+error: Error: connect ETIMEDOUT 222.103.172.236:3000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16) {
+  errno: -4039,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '222.103.172.236',
+  port: 3000
+}
+index
+[35m⚡LoggerPlugin [39m: 황소원: 성우하이텍
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '성우하이텍',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '성우하이텍' ]
+  }
+]
+[ '성우하이텍' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 황소원: 태광
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '나얌봇',
+      content: '태광',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '태광' ]
+  }
+]
+[ '태광' ]
+1
+error:123 Error: ETIMEDOUT
+    at Timeout.<anonymous> (C:\remote-kakao\node_modules\request\request.js:848:19)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  code: 'ETIMEDOUT',
+  connect: true
+}
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 궁금하군요
+[35m⚡LoggerPlugin [39m: 문정은: 사실 관계가
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 박재건: ㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 가상서버 맛탱이가서
+[35m⚡LoggerPlugin [39m: 케이미넴: 서버 다내려감
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 케이미넴: 싼마이 서버라 진짜 노답이네

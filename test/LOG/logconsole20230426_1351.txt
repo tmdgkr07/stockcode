@@ -1,0 +1,525 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+test123
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: 헐 왜 안되나 했더니,,
+[ '헐', '왜', '안되나', '했더니,,' ]
+[35m⚡LoggerPlugin [39m: 이승학: 개꿀이엇는데 ㅜㅜ
+[ '개꿀이엇는데', 'ㅜㅜ' ]
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㄴㄴㄴ
+[ 'ㅋㅋㅋㅋㅋㅋㄴㄴㄴ' ]
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋ
+[ 'ㅋㅋㅋㅋㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: hmj: 지도말고 그냥 오전날씨 오후날씨
+[ '지도말고', '그냥', '오전날씨', '오후날씨' ]
+[35m⚡LoggerPlugin [39m: hmj: 브리핑점
+[ '브리핑점' ]
+[35m⚡LoggerPlugin [39m: hmj: 강수량까지
+[ '강수량까지' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그니까,,,
+[ '그니까,,,' ]
+[35m⚡LoggerPlugin [39m: 이승학: 애둘아 보통 날씨 검색할때
+[ '애둘아', '보통', '날씨', '검색할때' ]
+[35m⚡LoggerPlugin [39m: 이승학: 어떻게 검색하니?
+[ '어떻게', '검색하니?' ]
+[35m⚡LoggerPlugin [39m: 이승학: 서울 날씨? 
+[ '서울', '날씨?', '' ]
+[35m⚡LoggerPlugin [39m: hmj: 난
+[ '난' ]
+[35m⚡LoggerPlugin [39m: hmj: 용산날씨
+[ '용산날씨' ]
+[35m⚡LoggerPlugin [39m: hmj: 과천날씨
+[ '과천날씨' ]
+[35m⚡LoggerPlugin [39m: hmj: 근데그냥 폰 바탕화면에
+[ '근데그냥', '폰', '바탕화면에' ]
+[35m⚡LoggerPlugin [39m: hmj: 위젯으로 떠있긴함
+[ '위젯으로', '떠있긴함' ]
+[35m⚡LoggerPlugin [39m: 이승학: 맞아 그래서 안만들엇는데
+[ '맞아', '그래서', '안만들엇는데' ]
+[35m⚡LoggerPlugin [39m: 이승학: 공공데이터가
+[ '공공데이터가' ]
+[35m⚡LoggerPlugin [39m: 이승학: 좀...
+[ '좀...' ]
+[35m⚡LoggerPlugin [39m: 이승학: 병신이되었어
+[ '병신이되었어' ]
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이런식으로 행정구역코드 불러오는걸로 바뀌었는데 행정구역이름이 구도아니고
+[ '이런식으로', '행정구역코드', '불러오는걸로', '바뀌었는데', '행정구역이름이', '구도아니고' ]
+[35m⚡LoggerPlugin [39m: 이승학: 시도아니고
+[ '시도아니고' ]
+[35m⚡LoggerPlugin [39m: 이승학: 걍 지맘대로 해놓음
+[ '걍', '지맘대로', '해놓음' ]
+[35m⚡LoggerPlugin [39m: hmj: 오..
+[ '오..' ]
+[35m⚡LoggerPlugin [39m: 이승학: 지영이가 만들어달라고 하면 만들고
+[ '지영이가', '만들어달라고', '하면', '만들고' ]
+[35m⚡LoggerPlugin [39m: 이승학: 아니면 안할래 데이터 처리하기 개귀찮아보여
+[ '아니면', '안할래', '데이터', '처리하기', '개귀찮아보여' ]
+[35m⚡LoggerPlugin [39m: hmj: ㅇㅋ
+[ 'ㅇㅋ' ]
+[35m⚡LoggerPlugin [39m: 이승학: https://weather.naver.com/map/api/getBoundsWeatherSummary?bounds=121.5219165%2331.6876439%23133.7167407%2340.5944705&level=6
+[
+  'HTTPS://WEATHER.NAVER.COM/MAP/API/GETBOUNDSWEATHERSUMMARY?BOUNDS=121.5219165%2331.6876439%23133.7167407%2340.5944705&LEVEL=6'
+]
+[35m⚡LoggerPlugin [39m: 정주환: 혹시 이거는 어디 데이터에요?
+[ '혹시', '이거는', '어디', '데이터에요?' ]
+[35m⚡LoggerPlugin [39m: 이승학: https://weather.naver.com/map/api/
+[ 'HTTPS://WEATHER.NAVER.COM/MAP/API/' ]
+[35m⚡LoggerPlugin [39m: 이승학: 기상청입니다
+[ '기상청입니다' ]
+[35m⚡LoggerPlugin [39m: 정주환: 아하 감사합니다
+[ '아하', '감사합니다' ]
+[35m⚡LoggerPlugin [39m: 정주환: 공공데이터 어쩌고 말만하고
+[ '공공데이터', '어쩌고', '말만하고' ]
+[35m⚡LoggerPlugin [39m: 이승학: 전국8도만 
+[ '전국8도만', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 쓴다고하면
+[ '쓴다고하면' ]
+[35m⚡LoggerPlugin [39m: 이승학: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 정주환: 정작 데이터는 여기저기 떨어져 있는...
+[ '정작', '데이터는', '여기저기', '떨어져', '있는...' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이렇게 간단하게 불러올수있긴해여
+[ '이렇게', '간단하게', '불러올수있긴해여' ]
+[35m⚡LoggerPlugin [39m: 정주환: 오
+[ '오' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이건
+[ '이건' ]
+[35m⚡LoggerPlugin [39m: 이승학: 네이버 날씨 
+[ '네이버', '날씨', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 크롤링
+[ '크롤링' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/215/0001097860?sid=101
+[ 'HTTPS://N.NEWS.NAVER.COM/MNEWS/ARTICLE/215/0001097860?SID=101' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 와
+[ '와' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 돈많은애들은 남한테 그냥 돈 맡겨버리네
+[ '돈많은애들은', '남한테', '그냥', '돈', '맡겨버리네' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 30억투자해서 남은돈 1.8억 ㅋ
+[ '30억투자해서', '남은돈', '1.8억', 'ㅋ' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: hmm
+[ 'HMM' ]
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '6i', 'qx', 'F8', 'zr' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 음 좀 좆같네
+[ '음', '좀', '좆같네' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: ㅠ
+[ 'ㅠ' ]
+[35m⚡LoggerPlugin [39m: 이승학: 서버터진줄 ㅎ
+[ '서버터진줄', 'ㅎ' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 저녁메뉴추천해줘 지랄하지말고 추천해줘 그냥 추천해줘
+[ '!!', '저녁메뉴추천해줘', '지랄하지말고', '추천해줘', '그냥', '추천해줘' ]
+먹고 싶은 음식 종류나 선호하는 재료, 예산 등에 대한 정보가 없어서 정확한 추천이 어렵습니다.
+
+그래도 일반적으로 인기있는 저녁 메뉴 중 몇 가지를 추천해드릴게요.
+
+1. 파스타 - 각종 소스와 재료를 활용한 파스타는 언제나 좋은 선택입니다. 예를 들어, 크림 파스타나 토마토 소스 파스타, 해산물 파스타 등 다양한 맛을 즐길 수 있죠.
+
+2. 스테이크 - 고기를 좋아하시면 스테이크가 있으면 좋겠죠? 레어, 미디움, 웰던 등 원하는 익음도에 따라 선택할 수 있어요.
+
+3. 돈까스 - 일본식 돈까스나 한식돈까스, 그리고 오븐돈까스 등 다양한 종류가 있습니다. 바삭하게 구워져 있는 돈까스는 언제나 인기가 좋아요.
+
+4. 불고기 - 한국음식으로 대표적인 불고기는 소고기 불고기, 돼지고기 불고기, 닭고기 불고기 등 다양한 종류로 즐길 수 있습니다.
+
+5. 샐러드 - 건강한 식사를 원하신다면 샐러드도 좋은 선택입니다. 시원하게 서빙되는 샐러드는 더욱 맛이 좋아요.
+
+이 외에도 매운탕, 라면, 햄버거 등 많은 종류의 음식이 있으니, 마음에 드는 것을 선택하시면 좋을 것 같습니다.
+[35m⚡LoggerPlugin [39m: 용성: !! 통풍 발작 완화하는 법 알려줘
+[ '!!', '통풍', '발작', '완화하는', '법', '알려줘' ]
+[35m⚡LoggerPlugin [39m: 용성: !! 순천 여행코스 짜줘
+[ '!!', '순천', '여행코스', '짜줘' ]
+[35m⚡LoggerPlugin [39m: 용성: !! 여수 여행코스 짜줘
+[ '!!', '여수', '여행코스', '짜줘' ]
+[35m⚡LoggerPlugin [39m: 이승학: 계임아 이방 한정 환자로 지정해놓을까?
+[ '계임아', '이방', '한정', '환자로', '지정해놓을까?' ]
+1. 건강한 식습관 유지하기: 적절한 양의 과일, 채소, 고기, 생선, 견과류 등을 섭취하고, 즉석 음식, 단 음료, 알코올, 고지방 식품을 피하십시오.
+
+2. 충분한 수분 섭취: 하루에 8-10잔의 물을 마시고, 특히 더운 날씨와 운동 후에는 더 많은 물을 마시는 것이 좋습니다.
+
+3. 운동: 규칙적인 운동을 통해 체중 감량을 유도합니다. 그러나 통풍 발작 때는 운동을 하지 않는 것이 좋습니다.
+
+4. 스트레스 관리: 통풍 발작은 스트레스에 반응하여 발생할 수 있습니다. 적극적으로 스트레스를 관리하려면, 예를들어 마약따위를 복용하지 않고, 충분한 휴식과 잠, 심호흡 등을 활용해야 합니다.
+
+5. 약물 관리:무분별한 약물 복용은 통풍 발작을 악화시킬 수 있습니다. 약사나 의사의 조언에 따라 안전하게 약물을 복용하십시오.
+
+6. 변비를 예방하십시오: 변비를 예방하려면 충분한 수분을 섭취하고, 과일, 채소, 고기, 생선, 견과류 등의 건강한 식품을 섭취하고, 특히 운동 후 활동을 통해 장건강을 유지하십시오.
+1. 여울애월해수욕장 - 청정해변과 물놀이
+2. 유달산국립공원 - 산책과 산악 등반 즐기기
+3. 광주비엔날레 - 광주시민철학관, 광주시립미술관, 아시아문화전당 등 다양한 문화예술관람
+4. 대지도해상공원 - 순천만 생태체험과 해상레저스포츠
+5. 조선시대 인조이후 이색 건축하우스 맛집 투어
+6. 복두산 자연휴양림 - 자연산림욕과 피크닉 즐길 수 있는 자연공원
+7. 갯벌체험 - 세계적인 습지생태지대 중 하나인 순천만에서 갯벌체험 가능
+8. 순천향교 - 조선시대 순천의 교육진흥과 선교 역사를 살펴볼 수 있는 교육성지
+9. 향토음식 투어 - 순천의 대표적인 음식들을 맛볼 수 있는 맛집 탐방
+10. 신안산림욕장 - 숲속에서 레져와 힐링을 함께 경험할 수 있는 산림욕장.
+[35m⚡LoggerPlugin [39m: 4070 FE: 4070후기
+[ '4070후기' ]
+[35m⚡LoggerPlugin [39m: 4070 FE: 열없어서좋다
+[ '열없어서좋다' ]
+1. 여수순환버스 타기: 여수의 유명 관광지를 타고 다닐 수 있는 여수순환버스를 타면 바다와 산, 섬 등의 아름다운 경치를 볼 수 있습니다.
+
+2. 충장사: 중요한 사찰 중 하나인 충장사는 차로 20분 정도 걸릴 정도로 근처에 위치해 있습니다. 이곳에서는 조선시대 문화재인 낙조청룡성을 비롯해 자연 경치와 함께 아름다운 금색 부처상을 볼 수 있습니다.
+
+3. 오동도: 영화 '구미호: 여우불'에서 등장한 곳으로 유명합니다. 오동도에서는 해상 케이블카를 타고 바다를 바라보며 여수 랜드 대형 어린이 놀이터를 즐길 수 있습니다.
+
+4. 여수밤바다: 여수의 밤바다는 정말 아름답습니다. 재래시장에서 신선한 해산물을 먹으면서 산책을 즐길 수 있는 것도 매력적입니다.
+
+5. 갯배 타기: 여수 갯배는 여수만의 대표적인 어트랙션입니다. 바다를 느끼면서 갯배의 힘으로 흔들리며 오가는 경험은 잊지 못할 것입니다.
+
+6. 향일암: 한국에서 가장 아름다운 일출의 경관 중 하나를 보여주는 향일암으로 차로 약 30분 거리에 위치해 있습니다. 특히 봄과 가을에는 벚꽃과 단풍이 매우 아름답습니다.
+
+7. 여수 해상케이블카: 여수한려수도 대교와 오동도를 잇는 케이블카는 정말 특별한 경험이 될 것입니다. 바다 위를 나는 듯한 느낌을 느끼며 여수의 경치를 즐길 수 있습니다.
+
+8. 순천만습지 생태학교: 차로 약 40분 거리에 위치한 순천만습지는 한국에서 가장 큰 갯벌 생태계를 보유한 곳입니다. 생태탐방, 해맞이 산책 등 다양한 프로그램을 제공합니다.
+
+9. 구례삼봉: 차로 약 1시간 30분 거리에 위치한 구례삼봉에서는 가을 단풍 구경과 함께 산책을 즐길 수 있습니다. 특히 새벽에는 아름다운 일출을 볼 수 있는 곳입니다.
+
+10. 동천과섬: 페리를 이용해 10여분 정도 걸리는 동천과섬은 한국의 작은 버전의 센트럴파크 같은 곳입니다. 보트나 카누, 승마 체험 등 다양한 액티비티를 즐길 수 있습니다.
+[35m⚡LoggerPlugin [39m: 4070 FE: 5700X랑 궁합좋은듯
+[ '5700X랑', '궁합좋은듯' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://n.news.naver.com/mnews/article/079/0003763363?sid=102
+[ 'HTTPS://N.NEWS.NAVER.COM/MNEWS/ARTICLE/079/0003763363?SID=102' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: @위컴알  
+[ '@위컴알', '', '' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 대전에 더생긴답니다
+[ '대전에', '더생긴답니다' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 2박3일 제주도 여행 시간별로 코스 짜줘
+[
+  '!!',       '2박3일',
+  '제주도',   '여행',
+  '시간별로', '코스',
+  '짜줘'
+]
+[35m⚡LoggerPlugin [39m: 제원: 싫어
+[ '싫어' ]
+[35m⚡LoggerPlugin [39m: 이승학: 시발롬,,
+[ '시발롬,,' ]
+1일차
+- 오전 9시: 제주국제공항 도착 후 대여한 렌트카로 이동
+- 오전 10시: 테디베어 박물관에서 귀여운 곰 인형들 구경하기
+- 오전 11시: 한라산 케이블카를 이용해서 정상까지 올라가서 전망 좋은 뷰 감상
+- 오후 1시: 제주시내 노형동에 위치한 복지관에서 화산석 친구 만들기 체험하기
+- 오후 3시: 제주 동문시장에서 제주풍물제품이나 제주 식재료 구경하기
+- 오후 6시: 제주시내 호텔 체크인 후 저녁식사
+
+2일차
+- 오전 9시: 섭지코지 해변에서 아침해수욕하기
+- 오전 11시: 우도 해상케이블카 이용하여 우도섬으로 이동
+- 오후 1시: 해녀박물관에서 제주해녀문화체험하기
+- 오후 3시: 카약으로 조랑말, 자연경관 감상하기
+- 오후 6시: 우도에서 저녁식사 후 돌바위해안 산책하기
+
+3일차
+- 오전 9시: 천지연 폭포에서 산책하기
+- 오전 11시: 숲속의 집에서 자연산 친환경 채소와 산림체험하기
+- 오후 1시: 협재해수욕장에서 수영하기
+- 오후 3시: 신비의도로 산책로로 이동하여 자연 경관 감상하기
+- 오후 5시: 중문거리에서 쇼핑하기
+- 오후 7시: 제주국제공항으로 이동하여 리턴플라이트 탑승하기
+[35m⚡LoggerPlugin [39m: 이승학: 와 시발 ㅋㅋㅋ
+[ '와', '시발', 'ㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이게 되네
+[ '이게', '되네' ]
+[35m⚡LoggerPlugin [39m: 제원: 오후 6시 이후에는
+[ '오후', '6시', '이후에는' ]
+[35m⚡LoggerPlugin [39m: 제원: 나오지 말래
+[ '나오지', '말래' ]
+[35m⚡LoggerPlugin [39m: 이승학: 호텔
+[ '호텔' ]
+[35m⚡LoggerPlugin [39m: 이승학: 체크인이니까
+[ '체크인이니까' ]
+[35m⚡LoggerPlugin [39m: 이승학: 호텔에서 슈웃
+[ '호텔에서', '슈웃' ]
+[35m⚡LoggerPlugin [39m: 제원: 2일에 차에도
+[ '2일에', '차에도' ]
+[35m⚡LoggerPlugin [39m: 제원: 6시 이후에는
+[ '6시', '이후에는' ]
+[35m⚡LoggerPlugin [39m: 제원: 못 나오게 함
+[ '못', '나오게', '함' ]
+[35m⚡LoggerPlugin [39m: 제원: 각박하네
+[ '각박하네' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그니까
+[ '그니까' ]
+[35m⚡LoggerPlugin [39m: 이승학: 6시이후에
+[ '6시이후에' ]
+[35m⚡LoggerPlugin [39m: 이승학: 우도에서 산책하다가
+[ '우도에서', '산책하다가' ]
+[35m⚡LoggerPlugin [39m: 이승학: 막차 놓쳐서
+[ '막차', '놓쳐서' ]
+[35m⚡LoggerPlugin [39m: 이승학: 거기서 자게할 생각이네
+[ '거기서', '자게할', '생각이네' ]
+[35m⚡LoggerPlugin [39m: 제원: 까라면 까 근데
+[ '까라면', '까', '근데' ]
+[35m⚡LoggerPlugin [39m: 제원: 반항하지말고
+[ '반항하지말고' ]
+[35m⚡LoggerPlugin [39m: 제원: 근데 학생이가 누구임
+[ '근데', '학생이가', '누구임' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그
+[ '그' ]
+[35m⚡LoggerPlugin [39m: 이승학: 귀여운친구있어
+[ '귀여운친구있어' ]
+[35m⚡LoggerPlugin [39m: 용성: !! 여수맛집 
+[ '!!', '여수맛집', '' ]
+[35m⚡LoggerPlugin [39m: 용성: !! 순천맛집
+[ '!!', '순천맛집' ]
+[35m⚡LoggerPlugin [39m: 제원: 그렇군
+[ '그렇군' ]
+[35m⚡LoggerPlugin [39m: 제원: 귀여운 친구는
+[ '귀여운', '친구는' ]
+[35m⚡LoggerPlugin [39m: 제원: 나밖에 없는데
+[ '나밖에', '없는데' ]
+[35m⚡LoggerPlugin [39m: 제원: 죽여야겠다
+[ '죽여야겠다' ]
+[35m⚡LoggerPlugin [39m: 용성: 자살하노,,
+[ '자살하노,,' ]
+여수에는 맛있는 음식점들이 많이 있습니다. 아래는 그 중 몇 곳을 추천해드립니다.
+
+1. 열두돈까스: 대한민국 돈까스 역사를 만든 곳으로 유명합니다. 돈까스는 물론이고, 우동, 떡볶이, 컵밥 등도 인기가 많습니다.
+
+2. 어흥식당: 여수에서 유명한 향토음식인 '어흥찜갈비'를 맛볼 수 있습니다. 강한 소금맛과 불향이 독특하며, 고기가 무척 부드러워 입맛도 극대화됩니다.
+
+3. 승리식당: 깊은 맛과 진한 풍미, 그리고 부드러운 살코기로 유명한 갈치조림이 인기입니다. 육수가 깊어 갈치의 맛을 더해줍니다.
+
+4. 함흥냉면: 여름철을 대표하는 여수의 대표 음식인 함흥냉면은 시원하고 상큼한 맛이 인기입니다. 짭조름한 고기살과 함께 먹으면 더 맛있습니다.
+
+5. 바람의언덕: 일본식 참치초밥과 담백한 일식 요리가 인기있는 곳입니다. 테이블에는 바람이 부는 모습을 상징하는 소형 바람추가 있어 더욱 분위기좋게 식사할 수 있습니다.
+[35m⚡LoggerPlugin [39m: 이승학: ㅋㅋㅋㅋㅋ
+[ 'ㅋㅋㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 제원: 나 외에는 허락할수 없다..
+[ '나', '외에는', '허락할수', '없다..' ]
+제게 맛집을 추천해 주시는 것은 가능하지만, 저는 인공지능 언어모델로써 맛집에 대한 선호를 가지지 않습니다. 따라서, 순천 지역에서 유명한 맛집을 찾아보시는 것을 추천드립니다. 순천의 대표적인 음식으로는 "생선구이"나 "조갯살구이" 등이 있습니다. 또한 "순천만두"도 유명한 음식 중 하나입니다. 맛있는 식당을 찾기 위해 검색 엔진이나 지역 관광 안내소를 이용하시면 더욱 정확한 정보를 얻을 수 있을 것입니다.
+[35m⚡LoggerPlugin [39m: 제원: 이번에 찍은 인생네컷 너무 잘나와서
+[ '이번에', '찍은', '인생네컷', '너무', '잘나와서' ]
+[35m⚡LoggerPlugin [39m: 아딱: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[ 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 아딱: 광주진짜
+[ '광주진짜' ]
+[35m⚡LoggerPlugin [39m: 아딱: 병신이다
+[ '병신이다' ]
+[35m⚡LoggerPlugin [39m: 제원: 올리고 싶은데 같이 찍은 사람이
+[ '올리고', '싶은데', '같이', '찍은', '사람이' ]
+[35m⚡LoggerPlugin [39m: 제원: 트위터 하는거 몰라
+[ '트위터', '하는거', '몰라' ]
+[35m⚡LoggerPlugin [39m: 아딱: 백화점 들어오게해줁다고해도
+[ '백화점', '들어오게해줁다고해도' ]
+[35m⚡LoggerPlugin [39m: 아딱: 반대
+[ '반대' ]
+[35m⚡LoggerPlugin [39m: 제원: 그래서 너무 슬퍼
+[ '그래서', '너무', '슬퍼' ]
+[35m⚡LoggerPlugin [39m: 아딱: 그럼또 
+[ '그럼또', '' ]
+[35m⚡LoggerPlugin [39m: 아딱: 우리는왜 안해주냐
+[ '우리는왜', '안해주냐' ]
+[35m⚡LoggerPlugin [39m: 제원: 요즘 하루하루 눈물 흘리면서 잠들어
+[ '요즘', '하루하루', '눈물', '흘리면서', '잠들어' ]
+[35m⚡LoggerPlugin [39m: 아딱: 또 이러고
+[ '또', '이러고' ]
+[35m⚡LoggerPlugin [39m: 아딱: 진짜 그냥 병신인가?
+[ '진짜', '그냥', '병신인가?' ]
+[35m⚡LoggerPlugin [39m: 한승연: 같이 찍은 사람을 죽이면 되잖아
+[ '같이', '찍은', '사람을', '죽이면', '되잖아' ]
+[35m⚡LoggerPlugin [39m: 제원: !! 빅뱅 하루하루 알아 ?
+[ '!!', '빅뱅', '하루하루', '알아', '?' ]
+네, 빅뱅의 대표적인 노래 중 하나인 '하루하루'를 알고 있습니다.
+[35m⚡LoggerPlugin [39m: 아딱: 왜저럼
+[ '왜저럼' ]
+[35m⚡LoggerPlugin [39m: 제원: !! ㅋㅋ ㄱㅅ
+[ '!!', 'ㅋㅋ', 'ㄱㅅ' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 빅뱅 하루하루 불러줘
+[ '!!', '빅뱅', '하루하루', '불러줘' ]
+제가 이해하기로는 "ㅋㅋ"는 웃음 표현이고 "ㄱㅅ"는 "감사합니다"의 줄임말로 보입니다. 그래서 "ㅋㅋ ㄱㅅ"은 "웃으면서 감사합니다"라는 뜻으로 사용될 수 있을 것 같습니다.
+[35m⚡LoggerPlugin [39m: 제원: 솔루션 좆되네
+[ '솔루션', '좆되네' ]
+[35m⚡LoggerPlugin [39m: 제원: 역시 공무원 여편내는
+[ '역시', '공무원', '여편내는' ]
+[35m⚡LoggerPlugin [39m: 제원: 다르군
+[ '다르군' ]
+I'm sorry, as an AI language model, I don't have the ability to sing or play music. But I can provide you with the lyrics of Big Bang's Haru Haru:
+
+[Intro]
+Oh yeah yeah
+Oh yeah yeah yeah
+
+[Verse 1]
+My heart is going through
+Something I can't say
+Without even knowing
+My feet stop at your shadow
+The longing that grows bigger than the morning
+A singing voice that embraces me
+I raise my head, the white light 
+That's dazzling like fate
+
+[Chorus]
+Can't we turn back time?
+Because of you, can't we turn it all back then?
+I believed that if I kept holding your hand,
+We could go back to then
+
+[Verse 2]
+Even if I try to avoid it
+It continues to grab me
+And won't let go 
+I'm standing at the tip of my tears
+A soundless crescendo of emotions
+I'm calling out to you again with foolish words
+I raise my head, the white light 
+That's dazzling like fate
+
+[Chorus]
+Can't we turn back time?
+Because of you, can't we turn it all back then?
+I believed that if I kept holding your hand,
+We could go back to then
+
+[Bridge]
+I don't want to cry anymore
+Now don't say anything
+Just hold me,
+Don't ask me anything
+
+[Chorus]
+Can't we turn back time?
+Because of you, can't we turn it all back then?
+I believed that if I kept holding your hand,
+We could go back to then
+
+[Outro]
+Oh yeah yeah
+Oh yeah yeah yeah
+[35m⚡LoggerPlugin [39m: 제원: !! 시끄러 좀
+[ '!!', '시끄러', '좀' ]
+Sorry, as an AI language model, I don't make noise. Can I help you with anything else?
+[35m⚡LoggerPlugin [39m: 이승학: 씨발련이
+[ '씨발련이' ]
+[35m⚡LoggerPlugin [39m: 이승학: 영어로 부르네
+[ '영어로', '부르네' ]
+[35m⚡LoggerPlugin [39m: 제원: 그니까
+[ '그니까' ]
+[35m⚡LoggerPlugin [39m: 제원: 원래 콩글리시로
+[ '원래', '콩글리시로' ]
+[35m⚡LoggerPlugin [39m: 제원: 불러야 맛인데
+[ '불러야', '맛인데' ]
+[35m⚡LoggerPlugin [39m: 제원: ㅂㅅ인가
+[ 'ㅂㅅ인가' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! don't speak english 
+[ '!!', "DON'T", 'SPEAK', 'ENGLISH', '' ]
+As an AI language model, I can understand and respond in multiple languages. If you prefer, what language do you want me to use for our communication?
+[35m⚡LoggerPlugin [39m: 이승학: !! 이제부터 한국어만 써라 
+[ '!!', '이제부터', '한국어만', '써라', '' ]
+네, 앞으로는 한국어만 사용하겠습니다.
+[35m⚡LoggerPlugin [39m: 이승학: 귀여운짜식
+[ '귀여운짜식' ]
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[ '오늘은', '여기까지다', '그지', '깽깽이들아' ]
+[35m⚡LoggerPlugin [39m: 이승학: 아근데 먼제계 ㅈㄴ 웃기네 이방만오면 웃음이 끊이지가 않아
+[ '아근데', '먼제계', 'ㅈㄴ', '웃기네', '이방만오면', '웃음이', '끊이지가', '않아' ]
+[35m⚡LoggerPlugin [39m: 한승연: 웃음이 헤프네
+[ '웃음이', '헤프네' ]
+[35m⚡LoggerPlugin [39m: 이승학: 웃음걸레긴해
+[ '웃음걸레긴해' ]
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 59850, size: 9478 },
+  room: '금',
+  content: '사진을 보냈습니다.',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'cl', 'Fj', 'fr', 'UR' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'bG', 'FJ', 'iD', 'EI' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Vb', 'LK', '5a', 'k8' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'MG', 'cj', 'qn', '5S' ]
+코스피
+[ '코스피', '' ]
+index
+[ '0B', '6e', 'By', 'q3' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Uh', 'oS', 'mI', 'QN' ]
+[35m⚡LoggerPlugin [39m: 이승학: 근데 요즘 웃을일이 없다는게 너무 슬퍼
+[ '근데', '요즘', '웃을일이', '없다는게', '너무', '슬퍼' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 웃겨줘
+[ '!!', '웃겨줘' ]
+히히히히히히 키키키키키키 안녕하세요, 저도 함께 웃어봅시다! 😄😄😄
+[35m⚡LoggerPlugin [39m: 용성: !! 순천 유명한 맛집 10개만 골라줘
+[ '!!', '순천', '유명한', '맛집', '10개만', '골라줘' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 우리가
+[ '우리가' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 병신이아니랄
+[ '병신이아니랄' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 그 애미뒤진
+[ '그', '애미뒤진' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 할매할배
+[ '할매할배' ]
+[35m⚡LoggerPlugin [39m: 용성: !! 여수 밤바다 야경 명소 알려줘
+[ '!!', '여수', '밤바다', '야경', '명소', '알려줘' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 시민단체가
+[ '시민단체가' ]
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 문제인거야
+[ '문제인거야' ]
+1. 복담골 한우집 - 한우구이
+2. 모닝 참숯구이 - 명태구이
+3. 대방어물회 - 대방어물회
+4. 민돈홍삼숯불갈비 - 코스요리
+5. 미스터돈까스 - 돈까스
+6. 국수박리다 - 국수
+7. 홍대조박집 - 파전, 김치전
+8. 국수소나기 - 국수
+9. 보신각식당 - 전복죽
+10. 에듀니움 아이와 함께하는 요리교실 - 체험요리교실
+[35m⚡LoggerPlugin [39m: 돼지주먹감자: 시민단체 없애자고하는데도
+[ '시민단체', '없애자고하는데도' ]

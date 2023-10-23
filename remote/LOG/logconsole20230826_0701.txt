@@ -1,0 +1,13 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980732남
+1998
+07
+32
+false
+false
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980730남
+1998
+07
+30
+false
+false

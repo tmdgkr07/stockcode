@@ -1,0 +1,9 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 8월 10일 일본으로 가는 항공권 검색해줘
+[35m⚡LoggerPlugin [39m: 김가비: 그랬더니 그럼 술안먹고 온전히 너만 기다리는 남자만나야되는거 아니야?????
+[35m⚡LoggerPlugin [39m: 김가비: 라는말 시전하셔서
+[35m⚡LoggerPlugin [39m: 김가비: 응 이라고 대답함
+[35m⚡LoggerPlugin [39m: 김가비: 그이후 냉냉하네
+[35m⚡LoggerPlugin [39m: 여환준: 해외여행 가기로한건?
+[35m⚡LoggerPlugin [39m: 김가비: 어제 만나서 얘기했는데
+[35m⚡LoggerPlugin [39m: 김가비: 가고싶은곳이 없고

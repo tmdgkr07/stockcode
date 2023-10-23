@@ -1,0 +1,15 @@
+2023-10-22 22:44:54.115 [info] Extension host with pid 590 started
+2023-10-22 22:44:54.158 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/130283a93585d7afeb6bac7099024a62/vscode.lock': Lock acquired.
+2023-10-22 22:44:54.186 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-10-22 22:44:54.231 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-10-22 22:44:54.361 [info] Eager extensions activated
+2023-10-22 22:44:54.362 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-10-22 22:44:54.362 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-10-22 22:44:56.674 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-10-22 22:44:56.762 [info] ExtensionService#_doActivateExtension albert.TabOut, startup: false, activationEvent: '*'
+2023-10-22 22:49:01.920 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-10-22 22:49:01.922 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-10-22 22:49:08.892 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-10-23 00:22:07.923 [info] Extension host terminating: renderer disconnected for too long (2)
+2023-10-23 00:22:07.924 [info] Lock '/home/ubuntu/.vscode-server/data/User/workspaceStorage/130283a93585d7afeb6bac7099024a62/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-10-23 00:22:07.968 [info] Extension host with pid 590 exiting with code 0

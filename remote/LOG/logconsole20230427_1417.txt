@@ -1,0 +1,242 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: 근데 지영이는 바쁜가보다 ..
+[35m⚡LoggerPlugin [39m: 이지영: ?
+[35m⚡LoggerPlugin [39m: 이승학: 지영아
+[35m⚡LoggerPlugin [39m: 이승학: 날씨 만들어놔,,,?
+[35m⚡LoggerPlugin [39m: 이승학: 아니면 필요없어,,,?
+[35m⚡LoggerPlugin [39m: 이지영: 더 똑똑란 시리한테 물어볼께요
+[35m⚡LoggerPlugin [39m: 이승학: 응,,,
+[35m⚡LoggerPlugin [39m: 흰티마: 작년 8월~10월에
+[35m⚡LoggerPlugin [39m: 흰티마: 내가 한창 진행상황 떠들었을텐데
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 너희들 반떼 한테 관심없어?
+[35m⚡LoggerPlugin [39m: 흰티마: 알빠노
+[35m⚡LoggerPlugin [39m: 흰티마: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 이지영: 일 하기 싫당
+[35m⚡LoggerPlugin [39m: 아딱: 그래도
+[35m⚡LoggerPlugin [39m: 아딱: 보상받았다니깐
+[35m⚡LoggerPlugin [39m: 아딱: 진짜 다행이다
+[35m⚡LoggerPlugin [39m: hmj: 그래서안해~
+[35m⚡LoggerPlugin [39m: 이지영: ㅋㅎㅋㅎㅋㅎㅋㅎㅎㅋㅋㅎㅎㅋ 내일 출장이니까 오늘 해야해요 ㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 너는 왜 나한테 보상 안해줘?
+[35m⚡LoggerPlugin [39m: 이승학: '밥만 잘 먹더라-Homme (창민, 이현)' 음악을 공유했습니다.
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이승학: cdnimg.melon.co.kr
+[35m⚡LoggerPlugin [39m: 이지영: 아니 회사들어온지 4개월밖에 안되었는데 성과 적으라고 하는게,,,
+[35m⚡LoggerPlugin [39m: hmj: 그래도
+[35m⚡LoggerPlugin [39m: hmj: 양반인데
+[35m⚡LoggerPlugin [39m: hmj: 난 2개월만에 적으라고했어 성과금받기위해
+[35m⚡LoggerPlugin [39m: 이지영: 미친ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 이지영: 에바인데야
+[35m⚡LoggerPlugin [39m: hmj: 어차피 대충적어도
+[35m⚡LoggerPlugin [39m: hmj: 괜찮ㅏ
+[35m⚡LoggerPlugin [39m: 이지영: 점수는 정해져있다도
+[35m⚡LoggerPlugin [39m: 이지영: 하긴하시던데
+[35m⚡LoggerPlugin [39m: hmj: 엉
+[35m⚡LoggerPlugin [39m: hmj: ㅋㅋㅋㅋㅋㅋㅋㅋㅌ점수정해져잇든 말든
+[35m⚡LoggerPlugin [39m: hmj: 성과 몇자 더적는다고
+[35m⚡LoggerPlugin [39m: hmj: 드라마틱하게 변하진않으니
+[35m⚡LoggerPlugin [39m: hmj: 대충써~
+[35m⚡LoggerPlugin [39m: 이승학: https://cdnimg.melon.co.kr/cm/album/images/021/49/209/2149209_500.jpg/melon/optimize/90
+[35m⚡LoggerPlugin [39m: 이승학: kakao5c2982b2ec377339ee67d3686f4813ac://kakaolink
+[35m⚡LoggerPlugin [39m: 이승학: http://m.melon.com/kakaoGatePage.htm?&ref=W20300&cType1=content&cType2=song&cId=3897927
+[35m⚡LoggerPlugin [39m: 이승학: https://kkosvc.melon.com/mwk/song/lyric.htm?songId=3897927&ref=W20300
+[35m⚡LoggerPlugin [39m: 이승학: https://m2.melon.com/pda/msvc/snsGatePage.jsp?type=son&sId=3897927&ref=copyurl&ajax_ts=655
+[35m⚡LoggerPlugin [39m: 이승학: kakaotalk://melon?action=playmusic&type=song&mediaid=3897927&menuid=1000000932
+[35m⚡LoggerPlugin [39m: 4070 FE: https://youtu.be/87bL-6nFeJ4
+[35m⚡LoggerPlugin [39m: 4070 FE: 5700X로간게
+[35m⚡LoggerPlugin [39m: 4070 FE: 신의한수였노
+[35m⚡LoggerPlugin [39m: 엄텔: 몸살
+[35m⚡LoggerPlugin [39m: 엄텔: on
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 63871, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'o1', 'rk', 'U6', 'XT' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '9Y', 'AT', 'oK', 'tl' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Ex', 'au', '16', '0N' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'tO', 'mm', 'ho', 'Za' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'g5', 'fg', 'vy', 'WY' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'VB', 'mb', 'vN', 'Kz' ]
+코스피
+[ '코스피', '' ]
+index
+[ '5e', 'al', '4S', 'Kx' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'AE', '6Z', 'sH', 'cE' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'kw', 'a3', 'u7', '6P' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'sf', 'V6', 'Lh', 'Ix' ]
+[35m⚡LoggerPlugin [39m: 이승학: 미안해 예외설정을 깜빢햇어 
+[35m⚡LoggerPlugin [39m: 이승학: 화내지마
+[35m⚡LoggerPlugin [39m: 김민성: @기석주 
+[35m⚡LoggerPlugin [39m: 이승학: 미안해 뻈어 화내지마
+[35m⚡LoggerPlugin [39m: 문정은: 호엥
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '반토막 까지 1주일 내가 팔면 오르는 이유 분석 연구소',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'FX', 'tZ', 'QZ', 'ur' ]
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 하 다오르는데
+[35m⚡LoggerPlugin [39m: 이승학: 조만간 노래 이름적으면 멜론 미니플레이어로 재생되는거 만들어볼게 
+[35m⚡LoggerPlugin [39m: 이승학: ㄹㅇ 도움된다 ㅇㅈ?
+[35m⚡LoggerPlugin [39m: 김민성: @기석주  이건 진짜 히튼데?
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: https://m.dcinside.com/board/dcbest/133397
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 이거
+[35m⚡LoggerPlugin [39m: 조.련 전문 조.련.사: 재밋어지겠는걸?
+[35m⚡LoggerPlugin [39m: 이승학: 오 오늘뭐야
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 1070은 출시 당시 가격이 50 안팎이었나?
+[35m⚡LoggerPlugin [39m: 이승학: 코스닥 쥰나올랐네
+코스닥
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 63281, size: 9480 },
+  room: '나얌',
+  content: '코스닥 쥰나올랐네',
+  sender: { name: '이승학', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스닥
+[ '코스닥', '쥰나올랐네' ]
+index
+[ 'DW', 'LA', '4r', '4P' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그럼뭐해 내주식은 안오르는데 ㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: ㅇㅇ
+[35m⚡LoggerPlugin [39m: 흐엉: 40얼마
+[35m⚡LoggerPlugin [39m: 흐엉: 1060이 20얼마
+[35m⚡LoggerPlugin [39m: 흐엉: 1060 6기가가 30얼마
+[35m⚡LoggerPlugin [39m: 흐엉: 1080이 60얼마
+[35m⚡LoggerPlugin [39m: 흐엉: 1080이 80얼마
+[35m⚡LoggerPlugin [39m: 4070 FE: 내꺼
+[35m⚡LoggerPlugin [39m: 4070 FE: ITX인데도
+[35m⚡LoggerPlugin [39m: 4070 FE: 무게는 7키로넘드라
+[35m⚡LoggerPlugin [39m: 4070 FE: 의문...
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 1080ti는 120 이상이었지?
+[35m⚡LoggerPlugin [39m: 흐엉: ㄴㄴ
+[35m⚡LoggerPlugin [39m: 흐엉: 1080ti 가 80djfak
+[35m⚡LoggerPlugin [39m: 흐엉: 얼마
+[35m⚡LoggerPlugin [39m: 흐엉: 였음
+[35m⚡LoggerPlugin [39m: 흐엉: 타이탄이 120정도
+[35m⚡LoggerPlugin [39m: 4070 FE: 가격올려친게
+[35m⚡LoggerPlugin [39m: 4070 FE: 20번대부터
+[35m⚡LoggerPlugin [39m: 4070 FE: 그랬음
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 근데, ITX가 머가 좋음? ㅋ
+[35m⚡LoggerPlugin [39m: 흐엉: 걍 변태임
+[35m⚡LoggerPlugin [39m: 4070 FE: 작아서 좋음
+[35m⚡LoggerPlugin [39m: 흐엉: 좋은점 1 도없음
+[35m⚡LoggerPlugin [39m: 4070 FE: 이사갈때
+[35m⚡LoggerPlugin [39m: 흐엉: 님 고추 작아서 좋은점있음?
+[35m⚡LoggerPlugin [39m: 흐엉: 없음
+[35m⚡LoggerPlugin [39m: 4070 FE: 이게컴터에요?
+[35m⚡LoggerPlugin [39m: 4070 FE: 반응가능
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 그냥 무난하게 ATX나 M-ATX 쓰면 될것을.
+[35m⚡LoggerPlugin [39m: 익익: 게이들아...
+[35m⚡LoggerPlugin [39m: 익익: 칼조심해라
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 그건 ㅇㅈ
+[35m⚡LoggerPlugin [39m: 익익: 요리하다 9년만에 손베였네 이씹...
+[35m⚡LoggerPlugin [39m: 4070 FE: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 4070 FE: 근데
+[35m⚡LoggerPlugin [39m: 4070 FE: 암만봐도
+[35m⚡LoggerPlugin [39m: 4070 FE: ㄹㅇ 변태같이
+[35m⚡LoggerPlugin [39m: 4070 FE: 처꾸겨넣긴했딘
+[35m⚡LoggerPlugin [39m: 익익: 진짜 토나온다
+[35m⚡LoggerPlugin [39m: 4070 FE: 다
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 슾의 거의 유일한 장점은, 이사할때
+[35m⚡LoggerPlugin [39m: 익익: RGBT에 페도까지있네
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 통풍이나 제대로 되려나 의문. ㅋ
+[35m⚡LoggerPlugin [39m: 4070 FE: RGB  시러함
+[35m⚡LoggerPlugin [39m: 므시트프 (5600X, 1070): 왜 시러?
+[35m⚡LoggerPlugin [39m: 익익: 저거 관광버스 아저씨가
+[35m⚡LoggerPlugin [39m: 익익: RGBT옹호자고
+[35m⚡LoggerPlugin [39m: 익익: 넌 페도라고
+[35m⚡LoggerPlugin [39m: 4070 FE: 난사실
+[35m⚡LoggerPlugin [39m: 4070 FE: LGBT임

@@ -1,0 +1,96 @@
+2023-10-22 22:44:32.092 [info] 
+
+
+
+
+2023-10-22 22:44:32.127 [info] Extension host agent started.
+2023-10-22 22:44:32.223 [info] [127.0.0.1][2ca45d69][ManagementConnection] New connection established.
+2023-10-22 22:44:32.230 [info] [127.0.0.1][4c07edf0][ExtensionHostConnection] New connection established.
+2023-10-22 22:44:32.383 [info] [127.0.0.1][4c07edf0][ExtensionHostConnection] <408> Launched Extension Host Process.
+2023-10-22 22:44:47.245 [info] [127.0.0.1][2ca45d69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-22 22:44:47.249 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-22 22:44:47.288 [info] [127.0.0.1][4c07edf0][ExtensionHostConnection] <408> Extension Host Process exited with code: 0, signal: null.
+2023-10-22 22:44:47.288 [info] Cancelling previous shutdown timeout
+2023-10-22 22:44:47.289 [info] Last EH closed, waiting before shutting down
+2023-10-22 22:44:53.196 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-10-22 22:44:53.196 [info] Cancelling previous shutdown timeout
+2023-10-22 22:44:53.283 [info] [127.0.0.1][19448f5f][ManagementConnection] New connection established.
+2023-10-22 22:44:53.336 [info] [127.0.0.1][dd608dd5][ExtensionHostConnection] New connection established.
+2023-10-22 22:44:53.365 [info] [127.0.0.1][dd608dd5][ExtensionHostConnection] <590> Launched Extension Host Process.
+2023-10-22 22:44:55.599 [error] CodeExpectedError: Could not find pty on pty host
+    at g.P (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:7542)
+    at g.updateTitle (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:28:2693)
+    at g.B.<computed> (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:27:22689)
+    at Object.call (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:17:4867)
+    at l.s (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:5150)
+    at l.q (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4661)
+    at i.value (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:15:4066)
+    at k.w (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:1902)
+    at k.fire (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:10:2119)
+    at process.X (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/platform/terminal/node/ptyHostMain.js:8:27134)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-10-22 22:49:53.198 [info] New EH opened, aborting shutdown
+2023-10-23 00:17:07.783 [info] [127.0.0.1][b76aa2b5][ManagementConnection] New connection established.
+2023-10-23 00:17:07.804 [info] [127.0.0.1][39c8d740][ExtensionHostConnection] New connection established.
+2023-10-23 00:17:07.821 [info] [127.0.0.1][39c8d740][ExtensionHostConnection] <1771> Launched Extension Host Process.
+2023-10-23 00:22:07.983 [info] [127.0.0.1][dd608dd5][ExtensionHostConnection] <590> Extension Host Process exited with code: 0, signal: null.
+2023-10-23 01:31:11.833 [info] [127.0.0.1][b76aa2b5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-10-23 01:31:11.859 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.871 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.871 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.871 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.872 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.872 [error] Error: Throttler is disposed
+    at r.queue (/home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:13612)
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:15183
+    at /home/ubuntu/.vscode-server/bin/6c3e3dba23e8fadc360aed75ce363ba185c49794/out/vs/server/node/server.main.js:70:14822
+    at runMicrotasks (<anonymous>)
+    at runNextTicks (node:internal/process/task_queues:61:5)
+    at listOnTimeout (node:internal/timers:528:9)
+    at processTimers (node:internal/timers:502:7)
+2023-10-23 01:31:11.984 [info] [127.0.0.1][39c8d740][ExtensionHostConnection] <1771> Extension Host Process exited with code: 0, signal: null.
+2023-10-23 01:31:11.985 [info] Last EH closed, waiting before shutting down
+2023-10-23 01:36:11.992 [info] Last EH closed, shutting down

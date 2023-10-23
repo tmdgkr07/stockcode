@@ -1,0 +1,130 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 아딱만 연봉은?
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 아딱만 학벌은?
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 하아
+[35m⚡LoggerPlugin [39m: 아딱: ㅠ
+[35m⚡LoggerPlugin [39m: 흐엉: 하..
+[35m⚡LoggerPlugin [39m: 흐엉: 나는
+[35m⚡LoggerPlugin [39m: 흐엉: 천재다..
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 여친은?
+[35m⚡LoggerPlugin [39m: 아딱: ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ
+[35m⚡LoggerPlugin [39m: 흐엉: 고쳤다..
+[35m⚡LoggerPlugin [39m: 흐엉: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'Jc', 'wI', 'kw', 'Fw' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 하아아아아ㅏ
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: Hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '🅱🅴🅱🅴🅱🅴',
+      content: 'Hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'eh', 'M2', 'i9', 'MJ' ]
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 오
+[35m⚡LoggerPlugin [39m: 아딱: 그래도나는
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 되네
+[35m⚡LoggerPlugin [39m: 흐엉: 삼성전자
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '삼성전자',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '삼성전자' ]
+  }
+]
+[ '삼성전자' ]
+1
+[ 'a3', 'X4', '8x', '1X' ]
+[35m⚡LoggerPlugin [39m: 흐엉: q aapl
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: [ 'Q', 'AAPL' ]
+  }
+]
+AAPL
+[ 'ix', 'sB', 'Lc', 'qi' ]
+nasdaq
+[35m⚡LoggerPlugin [39m: 아딱: ^오^
+[35m⚡LoggerPlugin [39m: 흐엉: 속돋
+[35m⚡LoggerPlugin [39m: 흐엉: 춘천으로
+[35m⚡LoggerPlugin [39m: 아딱: 베베진짜
+[35m⚡LoggerPlugin [39m: 아딱: 못되쳐먹었네
+[35m⚡LoggerPlugin [39m: 흐엉: 서버 바꿧더니
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 아직동정인사람이있음?
+[35m⚡LoggerPlugin [39m: 흐엉: 더 빨라졋다
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: ??
+[35m⚡LoggerPlugin [39m: 흐엉: 나,,,
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 진심?
+[35m⚡LoggerPlugin [39m: 흐엉: 랑,,, 조전조,,
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 진짜?!
+[35m⚡LoggerPlugin [39m: 아딱: 5명 사겼었지 나는
+[35m⚡LoggerPlugin [39m: 흐엉: 응,,,
+[35m⚡LoggerPlugin [39m: 아딱: ^오^
+[35m⚡LoggerPlugin [39m: 흐엉: 나는 0명,,
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 나는 그거보다많이
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 음
+[35m⚡LoggerPlugin [39m: 흐엉: ㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜㅜ
+[35m⚡LoggerPlugin [39m: 흐엉: 너희들
+[35m⚡LoggerPlugin [39m: 아딱: 조 용 히 해
+[35m⚡LoggerPlugin [39m: 흐엉: 고소하러갸
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 아니다
+[35m⚡LoggerPlugin [39m: 흐엉: 객
+[35m⚡LoggerPlugin [39m: 흐엉: 씨발름들
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 조만간 너히
+[35m⚡LoggerPlugin [39m: 흐엉: 찾아갈거야
+[35m⚡LoggerPlugin [39m: 아딱: 알파메일베베
+[35m⚡LoggerPlugin [39m: 아딱: 두 고 보 자 
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: Emoticon
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 곧 이재명엔딩당하겠노 ㄷㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: 최훈정/청남의료재단: 하팍은 지분은 필요가 없습니다. 최대주주로 흠이 경영권을 목표로 합니다.
+[35m⚡LoggerPlugin [39m: LSH: 저 44877 포트는 랜덤이야
+[35m⚡LoggerPlugin [39m: 🅱🅴🅱🅴🅱🅴: 아딱만이 공구리치겠다 선언 ㄷㄷㄷ
+[35m⚡LoggerPlugin [39m: LSH: 계속 바뀌던데,,, 
+[35m⚡LoggerPlugin [39m: LSH: 안스는포트 그냥 아무거나 쓰는듯,,
+[35m⚡LoggerPlugin [39m: LSH: 뭐지 오라클클라우드인스턴스
+[35m⚡LoggerPlugin [39m: 아딱: 우크라이나 여자친구 소개시켜주면은
+[35m⚡LoggerPlugin [39m: LSH: 통신 방식이 그런건ㄴ가 ㅜ
+[35m⚡LoggerPlugin [39m: 아딱: 내가 용서하도록하지
+[35m⚡LoggerPlugin [39m: LSH: Photo
+[35m⚡LoggerPlugin [39m: LSH: 안만나기 잘햇다

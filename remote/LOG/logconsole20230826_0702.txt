@@ -1,0 +1,17 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 운세 19980732남
+1998
+07
+32
+2023-08-25T22:03:02.699Z
+Invalid Date
+false
+false
+[35m⚡LoggerPlugin [39m: LSH: 운세 20220202남
+2022
+02
+02
+2023-08-25T22:03:19.423Z
+2022-02-01T15:00:00.000Z
+false
+false

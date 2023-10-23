@@ -1,0 +1,69 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 흐엉: 두산퓨얼셀 ㅇㅂ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '흐엉',
+      content: '두산퓨얼셀 ㅇㅂ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ '두산퓨얼셀', 'ㅇㅂ' ]
+  }
+]
+[ '두산퓨얼셀', 'ㅇㅂ' ]
+1
+[ 'EY', 'sq', 'fl', 'bn' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 아하!
+[35m⚡LoggerPlugin [39m: 흐엉: 내가 세션을 닫아놨네
+[35m⚡LoggerPlugin [39m: 흐엉: 베베야 
+[35m⚡LoggerPlugin [39m: 흐엉: 그 리눅스
+[35m⚡LoggerPlugin [39m: 아딱: HMM
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: 'HMM',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '3X', '7q', 'A7', 'CQ' ]
+[35m⚡LoggerPlugin [39m: 기석주: 샵검색: #오늘의 포춘쿠키
+[35m⚡LoggerPlugin [39m: 흐엉: 스크린 옆으로
+[35m⚡LoggerPlugin [39m: 아딱: HMM ㅅㅇ
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '아딱',
+      content: 'HMM ㅅㅇ',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM', 'ㅅㅇ' ]
+  }
+]
+[ 'HMM', 'ㅅㅇ' ]
+krx
+[35m⚡LoggerPlugin [39m: 기석주: 시발
+[35m⚡LoggerPlugin [39m: 흐엉: 스크린 옆으로
+[35m⚡LoggerPlugin [39m: 흐엉: 치워놓는
+[35m⚡LoggerPlugin [39m: 흐엉: 명령억 뭐엿지?
+[35m⚡LoggerPlugin [39m: 흐엉: 백그라운드로 실행하고
+[35m⚡LoggerPlugin [39m: 흐엉: 추후에 스크린으로 ㅇ는거
+[35m⚡LoggerPlugin [39m: 흐엉: 아 
+[35m⚡LoggerPlugin [39m: 흐엉: screen
+[35m⚡LoggerPlugin [39m: 흐엉: 이구나

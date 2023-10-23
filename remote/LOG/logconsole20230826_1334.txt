@@ -1,0 +1,9 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: LSH: 운세 19390101남
+true
+false
+[35m⚡LoggerPlugin [39m: 케이미넴: ?
+[35m⚡LoggerPlugin [39m: LSH: 그런건좀 
+[35m⚡LoggerPlugin [39m: LSH: 어? 너가해라
+[35m⚡LoggerPlugin [39m: LSH: 좀만 더잘게 십랄 배수고ㅓㄴ터져서 
+[35m⚡LoggerPlugin [39m: LSH: 공사하는데 좆나시끄럽네

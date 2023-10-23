@@ -1,0 +1,23 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 흐엉: 유에스티
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '유에스티',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '유에스티' ]
+  }
+]
+[ '유에스티' ]
+1
+[ 'f6', 'Qq', 'du', 'PH' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 16자리가넘어서
+[35m⚡LoggerPlugin [39m: 흐엉: mod 계산 오류나는데 흠
+[35m⚡LoggerPlugin [39m: 흐엉: 이럴떈그냥 slice로 뒷자리 5개 날려버리는게 맞나?
+[35m⚡LoggerPlugin [39m: 흐엉: @아딱  

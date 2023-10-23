@@ -1,0 +1,182 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 황소원: 또뭔헛짓거리했어
+[35m⚡LoggerPlugin [39m: 황소원: 너
+[35m⚡LoggerPlugin [39m: 황소원: 뭐하는자식이야
+[35m⚡LoggerPlugin [39m: 황소원: 욕설할일이 머있냐
+[35m⚡LoggerPlugin [39m: 유민: 웅 고마어 함 찾아봐야겠어
+[35m⚡LoggerPlugin [39m: 여환준: 그거 진짜 좋아하는데
+[35m⚡LoggerPlugin [39m: 여환준: 목이버섯 발암뮬질….
+[35m⚡LoggerPlugin [39m: 조.련.사: https://m.dcinside.com/board/dcbest/139851
+[35m⚡LoggerPlugin [39m: 조.련.사: 간첩들에게 암살당할예정
+[35m⚡LoggerPlugin [39m: 여환준: 흠땜에 암걸릴거같은데
+[35m⚡LoggerPlugin [39m: 여환준: 목이버섯이 촉매제
+[35m⚡LoggerPlugin [39m: 박재건: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ '7v', 'nz', 'D2', 'DT' ]
+[35m⚡LoggerPlugin [39m: 박재건: 올 
+[35m⚡LoggerPlugin [39m: 박재건: 결국 
+[35m⚡LoggerPlugin [39m: 박재건: 꼴아박으면서 끝내기 
+[35m⚡LoggerPlugin [39m: ㅎㅎ: ㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 후…
+[35m⚡LoggerPlugin [39m: 여환준: 숭어님 서개팅 언제라구요,
+[35m⚡LoggerPlugin [39m: 여환준: ?
+[35m⚡LoggerPlugin [39m: 최송아: 다녀왔어요 서개튕
+[35m⚡LoggerPlugin [39m: 여환준: 에프터는요?
+[35m⚡LoggerPlugin [39m: 최송아: 왓지용
+[35m⚡LoggerPlugin [39m: 여환준: 언젠데요
+[35m⚡LoggerPlugin [39m: 여환준: @황은지 이번주 금요일에 머해요?
+[35m⚡LoggerPlugin [39m: 최송아: 이번주는 제가 안되서 다음주중에 날잡자더라구요 ㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: 여환준: 아
+[35m⚡LoggerPlugin [39m: 여환준: 그럼 패스
+[35m⚡LoggerPlugin [39m: 최송아: 왓?
+[35m⚡LoggerPlugin [39m: 여환준: 와이프  금요일에 보라보라 가는데
+[35m⚡LoggerPlugin [39m: 여환준: 까비
+[35m⚡LoggerPlugin [39m: Joonsoo: 에프터 다음 이브닝이라네요…
+[35m⚡LoggerPlugin [39m: 최송아: 이모티콘
+[35m⚡LoggerPlugin [39m: 최송아: 아 부산오세요?
+[35m⚡LoggerPlugin [39m: 여환준: 시간좀  맞춰볼까 했습니다
+[35m⚡LoggerPlugin [39m: 여환준: 현우랑
+[35m⚡LoggerPlugin [39m: 최송아: 이번주 일본으로 떠나는데
+[35m⚡LoggerPlugin [39m: 최송아: 일본에서 모이시죠
+[35m⚡LoggerPlugin [39m: 승환: 하...................갑자기 이제와서 과제 신청단계에서 고민해야할 걸 고민하자라고 하시니 퍽 곤란하네요........
+[35m⚡LoggerPlugin [39m: 여환준: ㅋㅋㅋㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 여환준: 결혼식만 없었어도..
+[35m⚡LoggerPlugin [39m: 여환준: 일본 어디로가는데요
+[35m⚡LoggerPlugin [39m: 최송아: 후쿠오카 갑니당ㅎㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: 최송아: 흠배당금으로 요기에 투자했서요
+[35m⚡LoggerPlugin [39m: 최송아: ㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 황소원: 주식 종목추천좀요
+[35m⚡LoggerPlugin [39m: 여환준: 잘하셨네 물탔으면 또 손실날뻔
+[35m⚡LoggerPlugin [39m: 최송아: 그쵸 ㅎㅎㅎㅎ
+[35m⚡LoggerPlugin [39m: 아딱: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'bx', 'Xg', '4f', '1Z' ]
+[35m⚡LoggerPlugin [39m: 승환: 아ㅠㅠ
+[35m⚡LoggerPlugin [39m: 조.련.사: 상성중공업
+[35m⚡LoggerPlugin [39m: 조.련.사: 삼성중공업
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '주식 분석할수록 반토막',
+      content: '삼성중공업',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성중공업' ]
+  }
+]
+[ '삼성중공업' ]
+1
+[ 'Gf', 'fx', 'wx', 'N5' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 예아 예아
+[35m⚡LoggerPlugin [39m: 조.련.사: 화이야 화이야
+[35m⚡LoggerPlugin [39m: 조.련.사: 7000 가자
+[35m⚡LoggerPlugin [39m: 조.련.사: 팔까? 기다려? 팔까? 기다려?
+[35m⚡LoggerPlugin [39m: 조.련.사: @돼지주먹감자  
+[35m⚡LoggerPlugin [39m: 조.련.사: 들고있냐?
+[35m⚡LoggerPlugin [39m: 조.련.사: 아 정지노
+[35m⚡LoggerPlugin [39m: 조.련.사: [나를 멘션] @나얌  들고있냐?
+[35m⚡LoggerPlugin [39m: Kong: 팬오션
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '강성주주방',
+      content: '팬오션',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '팬오션' ]
+  }
+]
+[ '팬오션' ]
+1
+[ 'z4', 'l3', 'RA', 'JR' ]
+[35m⚡LoggerPlugin [39m: 조.련.사: 사이클
+[35m⚡LoggerPlugin [39m: 조.련.사: 고점
+[35m⚡LoggerPlugin [39m: 조.련.사: 또 온건지
+[35m⚡LoggerPlugin [39m: 조.련.사: 팔았는데
+[35m⚡LoggerPlugin [39m: 조.련.사: 7000가면
+[35m⚡LoggerPlugin [39m: 조.련.사: 배 개아플듯
+[35m⚡LoggerPlugin [39m: 승환: ㅠㅠ
+[35m⚡LoggerPlugin [39m: 승환: 그게 캐드 파일이 아니라 그냥 그림파일이라
+[35m⚡LoggerPlugin [39m: 승환: 평면도만 보고 작업은 못할거에요..
+[35m⚡LoggerPlugin [39m: 승환: 그냥 대표님 시킨대루 보고서만 약식으로 만들어서 하지...너무 고생길을 개척하고 있는거같은딩..
+[35m⚡LoggerPlugin [39m: 황설희: 어우 ,, 
+[35m⚡LoggerPlugin [39m: 용학: 근데
+[35m⚡LoggerPlugin [39m: 용학: 실측값이 있어야
+[35m⚡LoggerPlugin [39m: 승환: ㅜㅜ
+[35m⚡LoggerPlugin [39m: 용학: 만들지
+[35m⚡LoggerPlugin [39m: 용학: 이거랑
+[35m⚡LoggerPlugin [39m: 용학: 이거
+[35m⚡LoggerPlugin [39m: 용학: 쫌 더 자세한 사진
+[35m⚡LoggerPlugin [39m: 용학: Nx크랙있는데
+[35m⚡LoggerPlugin [39m: 용학: 이거 깔 수 있겠어??
+[35m⚡LoggerPlugin [39m: 용학: Ug nx12
+[35m⚡LoggerPlugin [39m: 용학: 아니면
+[35m⚡LoggerPlugin [39m: 용학: 나 오토데스크 학생인증 돼있으니까
+[35m⚡LoggerPlugin [39m: 용학: 그냥 퓨전 360깔아
+[35m⚡LoggerPlugin [39m: 용학: dydgkr03@naver.com
+[35m⚡LoggerPlugin [39m: 용학: lyh9387*
+[35m⚡LoggerPlugin [39m: 용학: 둘다 안쓴지 오래되서
+[35m⚡LoggerPlugin [39m: 용학: 비슷하긴해
+[35m⚡LoggerPlugin [39m: 용학: https://blog.naver.com/kmsoft/221130154742
+[35m⚡LoggerPlugin [39m: 용학: 예전네 이거보고깔았었는데
+[35m⚡LoggerPlugin [39m: 용학: 아니면
+[35m⚡LoggerPlugin [39m: 용학: nx최근에 나온거깔아두돼
+[35m⚡LoggerPlugin [39m: 용학: 어차피 비슷해
+[35m⚡LoggerPlugin [39m: 용학: 나 집에있는 노트북에는 nx1984인가? 깔려있을거야
+[35m⚡LoggerPlugin [39m: 용학: 이름만 바뀌고
+[35m⚡LoggerPlugin [39m: 용학: 뭐 기능이랑 인터페이스 다 똑같았던거 같은데
+[35m⚡LoggerPlugin [39m: 조.련.사: 대통령 “엄정한 법 집행” 외친 날, 전세사기 피해자 끌어낸 경찰·국회 방호처
+경향신문
+https://n.news.naver.com/article/032/0003225322?sid=102
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅂㅅ들 이래놓고 자기들은 잘했다 하는중
+[35m⚡LoggerPlugin [39m: 조.련.사: 5명이 들어가라는데 20명이 왜들어가련느데 ㅋㅋ
+[35m⚡LoggerPlugin [39m: 용학: 사이즈 까지 똑같아야되는거 아니면
+[35m⚡LoggerPlugin [39m: 용학: 상관없어
+[35m⚡LoggerPlugin [39m: 용학: 그럼
+[35m⚡LoggerPlugin [39m: 용학: 원통 내경 외경정도?
+[35m⚡LoggerPlugin [39m: 용학: 저거 dwg파일 열어서 보면 크기 다 나와있지 않을까??
+[35m⚡LoggerPlugin [39m: 흰티마: 걍 상황 만든거임
+[35m⚡LoggerPlugin [39m: 조.련.사: ㅋ 영상은 못봤는데 분위기 안좋고 20명 투입시 지랄하면 제압하기 힘들거 같아ㅜ그런거 아니노 ㅋㅋ
+저 정황만 보면 경찰도 문제가 있네
+[35m⚡LoggerPlugin [39m: 흰티마: 경찰한테 문제가 왜 있노
+[35m⚡LoggerPlugin [39m: 흰티마: 5명만 들어오라할 때 5명 들어가면 되지
+[35m⚡LoggerPlugin [39m: 흰티마: 지들이 뭔데 수용을 못함
+[35m⚡LoggerPlugin [39m: 흰티마: 동영상을 보냈습니다.

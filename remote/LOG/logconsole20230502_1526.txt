@@ -1,0 +1,116 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: ㅎㅇ
+[35m⚡LoggerPlugin [39m: 이승학: 삼성sdi
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: '삼성sdi',
+      sender: [Object],
+      isGroupChat: true
+    },
+    stock_chat: [ '삼성SDI' ]
+  }
+]
+[ '삼성SDI' ]
+1
+[ 'vK', 'd6', 'zj', 'Nv' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이번주
+[35m⚡LoggerPlugin [39m: 이승학: 휴가이신분~
+[35m⚡LoggerPlugin [39m: hmj: 난데
+[35m⚡LoggerPlugin [39m: 이승학: ,,,,
+[35m⚡LoggerPlugin [39m: 이승학: 언제,,
+[35m⚡LoggerPlugin [39m: hmj: 난오늘부터
+[35m⚡LoggerPlugin [39m: hmj: 휴가임
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[35m⚡LoggerPlugin [39m: hmj: 일본이거든
+[35m⚡LoggerPlugin [39m: 이승학: 일본임..?
+[35m⚡LoggerPlugin [39m: 이승학: ㅓㄹ,,,
+[35m⚡LoggerPlugin [39m: 이승학: ㅎ,,,,,,,,,,,,,,,ㅓ,,,,,,,,,ㄹ
+[35m⚡LoggerPlugin [39m: 이승학: 아 맞다 나도 일본갈가 했 구나
+[35m⚡LoggerPlugin [39m: hmj: 니혼 토차쿠
+[35m⚡LoggerPlugin [39m: 이승학: 니혼진 데스? 
+[35m⚡LoggerPlugin [39m: 이승학: 민진상 
+[35m⚡LoggerPlugin [39m: 이승학: 요로시쿠 오네가이시마스
+[35m⚡LoggerPlugin [39m: 방장봇: 오늘은 여기까지다 그지 깽깽이들아
+[35m⚡LoggerPlugin [39m: 오픈채팅봇: ./finish
+2
+node-cron test2
+Message {
+  socket: Socket {
+    _events: [Object: null prototype] { message: [Function (anonymous)] },
+    _eventsCount: 1,
+    _maxListeners: undefined,
+    type: 'udp4',
+    [Symbol(kCapture)]: false,
+    [Symbol(async_id_symbol)]: 7,
+    [Symbol(state symbol)]: {
+      handle: [UDP],
+      receiving: true,
+      bindState: 2,
+      connectState: 0,
+      queue: undefined,
+      reuseAddr: undefined,
+      ipv6Only: undefined,
+      recvBufferSize: undefined,
+      sendBufferSize: undefined
+    }
+  },
+  sessionEmitter: EventEmitter {
+    _events: Events <[Object: null prototype] {}> {},
+    _eventsCount: 0
+  },
+  remoteInfo: { address: '192.168.22.6', family: 'IPv4', port: 53750, size: 17737 },
+  room: '나는야퉁퉁이',
+  content: './finish',
+  sender: { name: '오픈채팅봇', getProfileImage: [Function: getProfileImage] },
+  isGroupChat: true
+}
+코스피
+[ '코스피', '' ]
+index
+[ 'RL', 'tN', 'uL', 'fK' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Te', 'Dl', 'a6', 'k2' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'T1', 'DI', 'WY', 'Qm' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ '8f', 'Fn', 'B0', 'Gh' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'ZR', 'xj', 'ag', 'Jt' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'TI', '6K', 'Va', 'rE' ]
+코스피
+[ '코스피', '' ]
+index
+[ 'Cb', 'aB', '1L', 'vO' ]
+코스닥
+[ '코스닥', '' ]
+index
+[ 'Kr', 'lv', 'uO', 'DD' ]
+[35m⚡LoggerPlugin [39m: 유민: 뭐가 끝낚대 
+[35m⚡LoggerPlugin [39m: 흐엉: 이겍
+[35m⚡LoggerPlugin [39m: 흐엉: 사실
+[35m⚡LoggerPlugin [39m: 흐엉: 알림같은거야
+[35m⚡LoggerPlugin [39m: 흐엉: 사진을 보냈습니다.
+[35m⚡LoggerPlugin [39m: 흐엉: 3시30에 알림 명령어를 주면
+[35m⚡LoggerPlugin [39m: 흐엉: 이렇게 각방에 
+[35m⚡LoggerPlugin [39m: 유민: ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ케
+[35m⚡LoggerPlugin [39m: 흐엉: 마감 주가를 뿌려줘
+[35m⚡LoggerPlugin [39m: 유민: 계임짱 외 6먕에는 
+[35m⚡LoggerPlugin [39m: 유민: 누가있어
+[35m⚡LoggerPlugin [39m: 문정은: ㅋㅋㅋㅋㅋ
+[35m⚡LoggerPlugin [39m: 문정은: 무슨일이에여

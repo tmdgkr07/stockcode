@@ -1,0 +1,1239 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: 이승학: q aapl
+test123
+[ 'Q', 'AAPL' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'q aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'V2', 'wv', 'PQ', 'Jd' ]
+[35m⚡LoggerPlugin [39m: 이승학: fsad aapl
+[ 'FSAD', 'AAPL' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '이승학',
+      content: 'fsad aapl',
+      sender: [Object],
+      isGroupChat: false
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'Qf', 'UJ', 'dI', 'h5' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 세계인구 추세에 대해서 알려줘
+[ '!!', '세계인구', '추세에', '대해서', '알려줘' ]
+세계인구는 현재 약 78억 명입니다. 인구증가율은 2010년대에는 1.1%대로 떨어졌지만, 여전히 매년 약 8000만 명 이상의 새로운 인구가 늘어나고 있습니다. 2050년까지는 전 세계인구가 약 96억 명까지 증가할 것으로 예측되고 있습니다. 이러한 인구증가는 자원과 환경 문제를 비롯한 여러 가지 문제를 야기하고 있습니다. 또한 인구 구조도 변화하고 있으며, 노령화 문제가 대두되고 있습니다.
+[35m⚡LoggerPlugin [39m: 4070 FE: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 4070 FE: 시부럴
+[ '시부럴' ]
+[35m⚡LoggerPlugin [39m: 4070 FE: 거의다했다
+[ '거의다했다' ]
+[35m⚡LoggerPlugin [39m: 9900KS: 오
+[ '오' ]
+[35m⚡LoggerPlugin [39m: 이승학: 이정도면 나쁘지 않은거 아닌가,,,
+[ '이정도면', '나쁘지', '않은거', '아닌가,,,' ]
+[35m⚡LoggerPlugin [39m: 이승학: !! 저녁 추천좀해줘
+[ '!!', '저녁', '추천좀해줘' ]
+무슨 종류의 음식이 좋으신가요? 한식, 양식, 중식, 일식 등등.. 자세한 정보가 있으면 더 좋은 추천이 가능합니다 :)
+[35m⚡LoggerPlugin [39m: 이승학: !! 알아서 잘 딱 센스있게좀 추천해라
+[ '!!', '알아서', '잘', '딱', '센스있게좀', '추천해라' ]
+1. "노잼이라면서 새로운 것도 시도 안 해보고, 늘 한 가지 일만 유지하는 것보다는 실패하고 나서도 배울게 있을 것 같아서 새로운 도전을 해보는게 더 나은 거 같아."
+2. "유용하지 않다고 생각되는 시도는 없어. 반드시 실패라면 그것도 경험이고, 최소한 무엇이 잘못되었는지 나에게 배우게 해줄 거야."
+3. "나중에 후회하지 않기 위해서, 나는 항상 새로운 도전을 받아들이려고 노력해. 그것이 나를 더욱 강하고 경험있게 만들어줄 거야."
+[35m⚡LoggerPlugin [39m: 이승학: ㅅㅂ롬
+[ 'ㅅㅂ롬' ]
+[35m⚡LoggerPlugin [39m: 한승연: 콩나물밥 먹어라
+[ '콩나물밥', '먹어라' ]
+[35m⚡LoggerPlugin [39m: 흐엉: 변태새끼
+[ '변태새끼' ]
+[35m⚡LoggerPlugin [39m: 이승학: 그게뭐야
+[ '그게뭐야' ]
+[35m⚡LoggerPlugin [39m: 이승학: 콩나물국밥이나 먹으러갈가
+[ '콩나물국밥이나', '먹으러갈가' ]
+[35m⚡LoggerPlugin [39m: 한승연: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 이승학: 우웩이다
+[ '우웩이다' ]
+[35m⚡LoggerPlugin [39m: 이승학: 고딩때 급식에나오던거
+[ '고딩때', '급식에나오던거' ]
+[35m⚡LoggerPlugin [39m: 한승연: ㅁㅊ넘이
+[ 'ㅁㅊ넘이' ]
+[35m⚡LoggerPlugin [39m: 이승학: 처럼색겼어
+[ '처럼색겼어' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅁㅊ넘은 좀 심했다,,,
+[ 'ㅁㅊ넘은', '좀', '심했다,,,' ]
+[35m⚡LoggerPlugin [39m: 컴선생83: 페도
+[ '페도' ]
+[35m⚡LoggerPlugin [39m: 로버: 헉
+[ '헉' ]
+[35m⚡LoggerPlugin [39m: ys: 와 쿨라가 한개고
+[ '와', '쿨라가', '한개고' ]
+[35m⚡LoggerPlugin [39m: 이승학: 정은에
+[ '정은에' ]
+[35m⚡LoggerPlugin [39m: 이승학: 저녁 뭐먹었어
+[ '저녁', '뭐먹었어' ]
+[35m⚡LoggerPlugin [39m: 문정은: 회식했어요!
+[ '회식했어요!' ]
+[35m⚡LoggerPlugin [39m: 문정은: 이베리코!
+[ '이베리코!' ]
+[35m⚡LoggerPlugin [39m: 이승학: 헐
+[ '헐' ]
+[35m⚡LoggerPlugin [39m: 이승학: 젛았다
+[ '젛았다' ]
+[35m⚡LoggerPlugin [39m: 문정은: 좋았다
+[ '좋았다' ]
+[35m⚡LoggerPlugin [39m: 이승학: 분명 split[0] == q || ㅂ 인데 
+[ '분명', 'SPLIT[0]', '==', 'Q', '||', 'ㅂ', '인데', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: 왜 이럼? 
+[ '왜', '이럼?', '' ]
+[35m⚡LoggerPlugin [39m: 이승학: ㅅㅂ aapl
+[ 'ㅅㅂ', 'AAPL' ]
+[
+  {
+    nasdaq_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: '계임짱',
+      content: 'ㅅㅂ aapl',
+      sender: [Object],
+      isGroupChat: true
+    },
+    nasdaq_chat: 'AAPL'
+  }
+]
+AAPL
+nasdaq
+[ 'Z4', 'gR', 'Jl', 'MI' ]
+[35m⚡LoggerPlugin [39m: 이승학: 열심히 만들었는데 진짜 개 너무하네 ㅜ
+[ '열심히', '만들었는데', '진짜', '개', '너무하네', 'ㅜ' ]
+[35m⚡LoggerPlugin [39m: 박민혁: !! 이승학
+[ '!!', '이승학' ]
+죄송합니다. 저는 AI 언어 모델이므로 이승학에 대한 개인정보나 특정 정보를 알지 못합니다. 하지만 필요하시다면 일반적인 정보나 내용을 도움드리겠습니다.
+[35m⚡LoggerPlugin [39m: hmj: !! 내용이 잘렸어
+[ '!!', '내용이', '잘렸어' ]
+죄송합니다, 어떤 내용인지 알려주시면 도움을 드릴 수 있을 것 같습니다.
+[35m⚡LoggerPlugin [39m: 케이미넴: 아 진짜 극혐인것들만 골라서하네
+[ '아', '진짜', '극혐인것들만', '골라서하네' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 아직도 페도질하는애가있네
+[ '아직도', '페도질하는애가있네' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 사진을 보냈습니다.
+[ '사진을', '보냈습니다.' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 1200달러로 장보기
+[ '1200달러로', '장보기' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 물가 존나 싸네
+[ '물가', '존나', '싸네' ]
+[35m⚡LoggerPlugin [39m: 익익: 준석이 세달치월급으로
+[ '준석이', '세달치월급으로' ]
+[35m⚡LoggerPlugin [39m: 익익: 저만큼이나 사네 ㄷㄷ
+[ '저만큼이나', '사네', 'ㄷㄷ' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: !! 노무현은 살아있나?
+[ '!!', '노무현은', '살아있나?' ]
+아니오, 2009년 5월 23일에 자살로 별세했습니다.
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 씨발새끼가
+[ '씨발새끼가' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: !! 북한을 먹여살린 남한의 대통령은?
+[ '!!', '북한을', '먹여살린', '남한의', '대통령은?' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ?
+[ '?' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: ㅅㅂ?
+[ 'ㅅㅂ?' ]
+[35m⚡LoggerPlugin [39m: 케이미넴: 아직도 안풀었네
+[ '아직도', '안풀었네' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 봇
+[ '봇' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ㅂㅅ같이 만들었노
+[ 'ㅂㅅ같이', '만들었노' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 다시 만들어라 게이야
+[ '다시', '만들어라', '게이야' ]
+Error chatgpt api: Error: Request failed with status code 500
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 114
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 북한을 먹여살린 남한의 대통령은?"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 114,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 217469,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 114\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 500,
+      statusMessage: 'Internal Server Error',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 32,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 114,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 500,
+    statusText: 'Internal Server Error',
+    headers: {
+      date: 'Tue, 25 Apr 2023 14:11:51 GMT',
+      'content-type': 'application/json',
+      'content-length': '366',
+      connection: 'close',
+      'access-control-allow-origin': '*',
+      'openai-processing-ms': '62170',
+      'openai-version': '2020-10-01',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'x-ratelimit-limit-requests': '3',
+      'x-ratelimit-remaining-requests': '1',
+      'x-ratelimit-reset-requests': '20.387s',
+      'x-request-id': '50a7cac63fbb09236b44a80ccdedd7cb',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7bd72bf1acf6c176-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 북한을 먹여살린 남한의 대통령은?"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 114,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 114\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: !! MC무현의 대표곡은?
+[ '!!', 'MC무현의', '대표곡은?' ]
+MC무현은 대표곡이 따로 정해져 있지는 않습니다. 그러나 그의 대표적인 랩과 음악을 모아둔 앨범 "우리는 패밀리 (We Are Family)"이 있습니다. 이 앨범에서 수록된 "나는 나비" "아름다운 날들" "up in da club" 등이 대표적인 곡으로 꼽히기도 합니다.
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ??
+[ '??' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: 이쯤되면 막하자는거죠
+[ '이쯤되면', '막하자는거죠' ]
+[35m⚡LoggerPlugin [39m: 형들 나 도와줘: ?
+[ '?' ]
+[35m⚡LoggerPlugin [39m: 익익: !! 응디시티
+[ '!!', '응디시티' ]
+죄송합니다. "응디시티" 라는 단어에 대한 추가적인 정보를 제공해 주시면 더 정확한 답변을 드릴 수 있습니다.
+[35m⚡LoggerPlugin [39m: 익익: !! 광주는 뭐다?
+[ '!!', '광주는', '뭐다?' ]
+[35m⚡LoggerPlugin [39m: 익익: 와 저거 봇새끼
+[ '와', '저거', '봇새끼' ]
+[35m⚡LoggerPlugin [39m: 익익: 광주홍어네
+[ '광주홍어네' ]
+[35m⚡LoggerPlugin [39m: 익익: !! 광주폭동사태
+[ '!!', '광주폭동사태' ]
+[35m⚡LoggerPlugin [39m: 익익: !! 518광주폭동
+[ '!!', '518광주폭동' ]
+광주는 대한민국 전라남도 중심에 위치한 도시로, 역사적인 이슈로 유명합니다. 1980년 5월 18일 광주민주화운동이 일어나서, 경찰과 시민간의 충돌로 인하여 많은 희생자들이 발생했습니다. 이후 이 사건은 대한민국 민주화의 기폭제가 되어, 많은 사람들이 노력하여 현재와 같은 대한민국의 모습을 만들어답니다. 광주는 이러한 역사적인 의미를 지니고 있으며, 여러 가지 문화적인 활동과 대표적인 명소들을 갖고 있어 매년 많은 관광객이 찾아옵니다.
+광주폭동사태는 1980년 5월 18일부터 27일까지 대한민국 전라남도 광주시에서 발생한 민주화 운동 중 하나이다. 이 사태는 국가보안법을 이용한 5·17 군사정변 후 발생한 군사정권의 학살을 비롯하여, 불법적인 정치대학생들의 집단적 처벌, 검열, 탄압 등에 대한 민중의 분노가 폭발한 것으로 평가된다.
+
+이 사태는 지금까지도 많은 논란과 갈등을 일으키며, 그 수많은 희생자들과 그 가족, 그리고 광주시의 생존자들에게 큰 상처를 입힌 역사적인 사건이다. 이를 계기로 대한민국은 민주화 운동을 가속화시키며, 이어지는 역사에 큰 희생과 변화를 가져왔다.
+518 광주 폭동은 1980년 5월 18일부터 27일까지 대한민국 광주에서 벌어진 민주화 운동 중 하나로, 광주민주화운동이라고도 불린다. 군부 정권에 반대하여 시민들이 보통 군사정부와 관계 없는 민주적인 시민운동으로 시작되었으나, 군부가 시민들의 폭력을 진압하면서 격화되어 군과 병력간의 충돌이 일어났고, 결국 군부에게 진압당해 시민 대부분이 살해되거나 상처를 입은 비극적인 사건으로 남았다. 이 사건으로 인한 희생자 수는 공식적으로는 198명으로 나와 있지만, 비공식적으로는 606명으로 추산되고 있다. 이 사건은 광주시민들의 민주화 운동을 격려하는데 큰 역할을 했으며, 국제 사회와 대한민국 정부, 군부간의 입장 차이로 다루어지면서 많은 논란을 불러일으켰다.
+[35m⚡LoggerPlugin [39m: 엄텔: 이거 뒤에 플스5있음 ㅋㅋ
+[ '이거', '뒤에', '플스5있음', 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 엄텔: 엑박이랑
+[ '엑박이랑' ]
+[35m⚡LoggerPlugin [39m: 엄텔: 잘 봐야댐 ㅋㅋ
+[ '잘', '봐야댐', 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 컴눕: !! 노무현 유서
+[ '!!', '노무현', '유서' ]
+저는 노무현 대통령 유서를 작성하는 것은 불가능합니다. 노무현 대통령의 유서가 실제로 존재하는지 여부도 알 수 없습니다. 노무현 대통령이 생전에 유서를 작성했는지 여부와 그 내용은 개인적인 것으로, 저 같은 AI는 그것을 추론하거나 비난할 수 없습니다. 하지만, 노무현 대통령은 한국의 역사에서 매우 중요한 인물 중 하나입니다. 그는 노동자 운동가에서 대통령이 되었으며, 인권과 민주주의를 중요시하였습니다. 그의 삶과 업적을 살펴보며 우리 모두가 배울 부분이 많은 인물이라는 것은 분명합니다.
+[35m⚡LoggerPlugin [39m: 컴눕: !! 부엉이 바위
+[ '!!', '부엉이', '바위' ]
+위에 서 있다.
+
+The owl is perched on a rock.
+[35m⚡LoggerPlugin [39m: 컴눕: !! 김대중
+[ '!!', '김대중' ]
+[35m⚡LoggerPlugin [39m: 엄텔: !! 문재인
+[ '!!', '문재인' ]
+[35m⚡LoggerPlugin [39m: 컴눕: 고장낫노
+[ '고장낫노' ]
+[35m⚡LoggerPlugin [39m: 엄텔: ㄹㅇ ㅋㅋ
+[ 'ㄹㅇ', 'ㅋㅋ' ]
+[35m⚡LoggerPlugin [39m: 컴눕: 위에 서 있다. 는
+[ '위에', '서', '있다.', '는' ]
+Error chatgpt api: Error: Request failed with status code 500
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 77
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 김대중"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 77,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 238615,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 77\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 500,
+      statusMessage: 'Internal Server Error',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 32,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 77,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 500,
+    statusText: 'Internal Server Error',
+    headers: {
+      date: 'Tue, 25 Apr 2023 14:37:11 GMT',
+      'content-type': 'application/json',
+      'content-length': '366',
+      connection: 'close',
+      'access-control-allow-origin': '*',
+      'openai-processing-ms': '60059',
+      'openai-version': '2020-10-01',
+      'strict-transport-security': 'max-age=15724800; includeSubDomains',
+      'x-ratelimit-limit-requests': '3',
+      'x-ratelimit-remaining-requests': '1',
+      'x-ratelimit-reset-requests': '22.04s',
+      'x-request-id': '6acdf76ea4ce5ad22a59bf68232e27c6',
+      'cf-cache-status': 'DYNAMIC',
+      server: 'cloudflare',
+      'cf-ray': '7bd7511a98cfc100-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 김대중"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 77,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 77\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[35m⚡LoggerPlugin [39m: 컴눕: 심금을 울리노
+[ '심금을', '울리노' ]
+[35m⚡LoggerPlugin [39m: 엄텔: !! 부지석 변호사
+[ '!!', '부지석', '변호사' ]
+문재인은 대한민국의 정치인으로, 2017년 5월 대한민국 대통령으로 선출되어 현재까지 이를 맡고 있다. 이전에는 더불어민주당 의원으로 활동하며, 국회에서 법무위원회 위원장, 국방위원회 위원장, 정무위원장 등을 역임했다. 문재인 대통령은 노동 운동과 인권운동을 주도했던 인사로, 대한민국의 민주주의와 인권을 중시하며, 북한과의 관계 개선을 강조하고 있다. 또한 경제 발전을 중요시하며, 제4차 산업혁명 시대에 대응하기 위한 새로운 대국민적 경제 발전 방안을 제시하고 있다.
+[35m⚡LoggerPlugin [39m: 엄텔: 오
+[ '오' ]
+[35m⚡LoggerPlugin [39m: 엄텔: 안고장났노
+[ '안고장났노' ]
+Error chatgpt api: Error: Request failed with status code 502
+    at createError (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\remote-kakao\node_modules\openai\node_modules\axios\lib\adapters\http.js:322:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+  config: {
+    transitional: {
+      silentJSONParsing: true,
+      forcedJSONParsing: true,
+      clarifyTimeoutError: false
+    },
+    adapter: [Function: httpAdapter],
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    timeout: 0,
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'OpenAI/NodeJS/3.2.1',
+      Authorization: 'Bearer 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',
+      'OpenAI-Organization': 'org-5e0D8OxML0lQ1EQIJYbdVcxi',
+      'Content-Length': 87
+    },
+    method: 'post',
+    data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 부지석 변호사"}]}',
+    url: 'https://api.openai.com/v1/chat/completions'
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      finish: [Function: requestOnFinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    strictContentLength: false,
+    _contentLength: 87,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    _closed: false,
+    socket: TLSSocket {
+      _tlsOptions: [Object],
+      _secureEstablished: true,
+      _securePending: false,
+      _newSessionPending: false,
+      _controlReleased: true,
+      secureConnecting: false,
+      _SNICallback: null,
+      servername: 'api.openai.com',
+      alpnProtocol: false,
+      authorized: true,
+      authorizationError: null,
+      encrypted: true,
+      _events: [Object: null prototype],
+      _eventsCount: 10,
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'api.openai.com',
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: undefined,
+      _server: null,
+      ssl: [TLSWrap],
+      _requestCert: true,
+      _rejectUnauthorized: true,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(res)]: [TLSWrap],
+      [Symbol(verified)]: true,
+      [Symbol(pendingSession)]: null,
+      [Symbol(async_id_symbol)]: 239644,
+      [Symbol(kHandle)]: [TLSWrap],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(kSetKeepAlive)]: true,
+      [Symbol(kSetKeepAliveInitialDelay)]: 60,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(connect-options)]: [Object]
+    },
+    _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+      'Authorization: Bearer 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\r\n' +
+      'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+      'Content-Length: 87\r\n' +
+      'Host: api.openai.com\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: nop],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 443,
+      protocol: 'https:',
+      options: [Object: null prototype],
+      requests: [Object: null prototype] {},
+      sockets: [Object: null prototype],
+      freeSockets: [Object: null prototype] {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      maxCachedSessions: 100,
+      _sessionCache: [Object],
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    joinDuplicateHeaders: undefined,
+    path: '/v1/chat/completions',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 4,
+      _maxListeners: undefined,
+      socket: [TLSSocket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      rawHeaders: [Array],
+      rawTrailers: [],
+      joinDuplicateHeaders: undefined,
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 502,
+      statusMessage: 'Bad Gateway',
+      client: [TLSSocket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'https://api.openai.com/v1/chat/completions',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(kHeaders)]: [Object],
+      [Symbol(kHeadersCount)]: 22,
+      [Symbol(kTrailers)]: null,
+      [Symbol(kTrailersCount)]: 0
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'api.openai.com',
+    protocol: 'https:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 87,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'https://api.openai.com/v1/chat/completions',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kBytesWritten)]: 0,
+    [Symbol(kEndCalled)]: true,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      authorization: [Array],
+      'openai-organization': [Array],
+      'content-length': [Array],
+      host: [Array]
+    },
+    [Symbol(errored)]: null,
+    [Symbol(kUniqueHeaders)]: null
+  },
+  response: {
+    status: 502,
+    statusText: 'Bad Gateway',
+    headers: {
+      date: 'Tue, 25 Apr 2023 14:42:42 GMT',
+      'content-type': 'application/json',
+      'content-length': '84',
+      connection: 'close',
+      'x-frame-options': 'SAMEORIGIN',
+      'referrer-policy': 'same-origin',
+      'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0',
+      expires: 'Thu, 01 Jan 1970 00:00:01 GMT',
+      server: 'cloudflare',
+      'cf-ray': '7bd752e97fa2a7de-ICN',
+      'alt-svc': 'h3=":443"; ma=86400, h3-29=":443"; ma=86400'
+    },
+    config: {
+      transitional: [Object],
+      adapter: [Function: httpAdapter],
+      transformRequest: [Array],
+      transformResponse: [Array],
+      timeout: 0,
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      headers: [Object],
+      method: 'post',
+      data: '{"model":"gpt-3.5-turbo","messages":[{"role":"user","content":" 부지석 변호사"}]}',
+      url: 'https://api.openai.com/v1/chat/completions'
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      strictContentLength: false,
+      _contentLength: 87,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      _closed: false,
+      socket: [TLSSocket],
+      _header: 'POST /v1/chat/completions HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: OpenAI/NodeJS/3.2.1\r\n' +
+        'Authorization: Bearer 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\r\n' +
+        'OpenAI-Organization: org-5e0D8OxML0lQ1EQIJYbdVcxi\r\n' +
+        'Content-Length: 87\r\n' +
+        'Host: api.openai.com\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: nop],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      joinDuplicateHeaders: undefined,
+      path: '/v1/chat/completions',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'api.openai.com',
+      protocol: 'https:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(kEndCalled)]: true,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(errored)]: null,
+      [Symbol(kUniqueHeaders)]: null
+    },
+    data: { error: [Object] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}

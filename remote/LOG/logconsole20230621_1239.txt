@@ -1,0 +1,21 @@
+[35m⚡[39m: Plugin [35mLoggerPlugin[39m enabled!
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 8월 10일 일본으로 가는 항공권 검색해줘
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: hmm
+[
+  {
+    stock_channel: Message {
+      socket: [Socket],
+      sessionEmitter: [EventEmitter],
+      remoteInfo: [Object],
+      room: 'DEBUG ROOM',
+      content: 'hmm',
+      sender: [Object],
+      isGroupChat: false
+    },
+    stock_chat: [ 'HMM' ]
+  }
+]
+[ 'HMM' ]
+1
+[ 'KB', 'RZ', 'Zw', 'I7' ]
+[35m⚡LoggerPlugin [39m: DEBUG SENDER: !! 방가루~
