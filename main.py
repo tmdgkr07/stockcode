@@ -2,7 +2,7 @@
 import kospi
 import kosdaq
 import oversea
-import test
+import overseaconvert
 import koreaconvert
 
 kospi.download_kospi()

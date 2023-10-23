@@ -32,12 +32,13 @@ def makejsonfile():
     with open("./kospi.json") as kospi_json:
         data1 = json.load(kospi_json)
     with open("./kosdaq.json") as kosdaq_json:
-        data2 = json.load(kosdaq_json)      
-    with open("./stock.json", "w") as new:
-        json.dump(data1+data2, new)
+        data2 = json.load(kosdaq_json)
+    data3 = data1|data2
+    with open("./remote/INFO/stock.json", "w") as new:
+        json.dump(data3, new, ensure_ascii=False, indent=4)
     kospi_json.close()
     kosdaq_json.close()
-    os.remove(kospi_json)
-    os.remove(kosdaq_json)
-    return 0
- # makejsonfile()
+    os.remove("./kospi.json")
+    os.remove("./kosdaq.json")
+
+# makejsonfile()
