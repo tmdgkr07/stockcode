@@ -35,10 +35,7 @@ def get_overseas_master_dataframe(base_dir, val):
     return df
 
 
-cmd = input("1:전부 다운로드, 2:1개의 시장을 다운로드 \n")
-
-if cmd == '1':  # 1. 해외종목코드전체 코드를 다운로드
-
+def download_oversea():
     # 순서대로 나스닥, 뉴욕, 아멕스, 상해, 상해지수, 심천, 심천지수, 도쿄, 홍콩, 하노이, 호치민
     lst = ['nas', 'nys', 'ams']
 
@@ -49,16 +46,3 @@ if cmd == '1':  # 1. 해외종목코드전체 코드를 다운로드
     print(f"Downloading...overseas_stock_code(all).xlsx")
     #DF.to_excel('overseas_stock_code(all).xlsx', index=False)  # 전체 통합파일
     print("Done")
-
-elif cmd == '2':  # 2. 해외종목코드 전체 코드를 다운로드
-
-    while True:
-        cmd2 = input(
-            "다운로드하시고자 하는 시장의 코드를 입력하여 주세요. \nnas:나스닥, nys:뉴욕, ams:아멕스, shs:상해, shi:상해지수, szs:심천, szi:심천지수, tse:도쿄, hks:홍콩, hnx:하노이, hsx:호치민\n")
-
-        try:
-            df = get_overseas_master_dataframe(base_dir, cmd2)
-            print("Done")
-            break;
-        except:
-            pass

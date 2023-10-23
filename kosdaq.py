@@ -99,7 +99,9 @@ def get_kosdaq_master_dataframe(base_dir):
 
     return df
 
+def download_kosdaq():
+    kosdaq_master_download(base_dir)
+    df = get_kosdaq_master_dataframe(base_dir)
+    df
 
-kosdaq_master_download(base_dir)
-df = get_kosdaq_master_dataframe(base_dir)
-df
+# download_kosdaq()
